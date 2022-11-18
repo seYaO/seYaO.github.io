@@ -1,0 +1,5 @@
+import{_ as n,o as s,c as a,e}from"./app.3b2d76f3.js";const t={},c=e(`<h1 id="lpq" tabindex="-1"><a class="header-anchor" href="#lpq" aria-hidden="true">#</a> lpq</h1><p><code>lpq</code>\u547D\u4EE4\u663E\u793A\u6253\u5370\u673A\u961F\u5217\u3002</p><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code>$ lpq
+Rank    Owner   Job     File<span class="token punctuation">(</span>s<span class="token punctuation">)</span>                         Total Size
+active  adnanad <span class="token number">59</span>      demo                            <span class="token number">399360</span> bytes
+1st     adnanad <span class="token number">60</span>      <span class="token punctuation">(</span>stdin<span class="token punctuation">)</span>                         <span class="token number">0</span> bytes
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>`,3),l=[c];function i(d,o){return s(),a("div",null,l)}const r=n(t,[["render",i],["__file","lpq.html.vue"]]);export{r as default};

@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,a as c}from"./app.3b2d76f3.js";const o={},s=c("p",null,"\u672C\u6559\u7A0B\u4ECB\u7ECD Linux \u547D\u4EE4\u884C Bash \u7684\u57FA\u672C\u7528\u6CD5\u548C\u811A\u672C\u7F16\u7A0B\u3002",-1),_=[s];function a(r,l){return t(),n("div",null,_)}const d=e(o,[["render",a],["__file","index.html.vue"]]);export{d as default};
