@@ -1,0 +1,968 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>要求个人在进行自我评估时，对自己的专业特长、个性、优缺点等要实事求是的评价。同时，也要客观地评估所处的职业环境，使评价结果建立在事实的基础上。这一原则是职业生涯规划中的（）</p>",
+        "questionId": 1561257,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>阶段性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动态性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“实事求是”、“客观”，且需要对这几个原则进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/0df17b29444916db194087d69915a27c/1.png\" alt=\"\" width=\"757\" height=\"93\"><br></p><p>故本题的正确答案为D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "三、制订职业生涯规划的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>现代职业具有自身的特性，即区域性、行业性和（ ）</p>",
+        "questionId": 2010690,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>效益性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>岗位性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​<span style=\"font-size: 14px;\">探索性</span><br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“现代职业”。现代职业具有自身的区域性、行业性、岗位性等特性。<span style=\"font-size: 14px;\">在设计职业生涯规划时，要正确地进行职业分析。故本题的正确答案为C。</span></p>",
+        "avgAnswerTime": 21,
+        "avgCorrectRate": "50.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "五、设计职业生涯规划的步骤",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>培训是对成人的（ ）</p>",
+        "questionId": 2010665,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会化</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>再社会化</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>再灌输</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>再教育</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于理解培训的含义。<span style=\"font-size: 14px;\">员工培训与正规教育不同，它是一种终身的、回归的继续教育，是属于“第二次教育过程”的<b>再教育</b>。故本题的正确答案为D。</span></p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "一、员工培训的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对于不同等级水平的企业人员，由于他们承担的工作任务不同，知识和技术需要各异，因而培训的内容应当有所不同。员工培训的这一特点是（ ）</p>",
+        "questionId": 2005398,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>针对性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>广泛性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>层次性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>灵活性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：不同等级水平、培训内容不同</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d14db283fc0f8d11b4be5261a9639bdf/image.png\" alt=\"\" width=\"642\" height=\"136\"><br></p><p>故本题的<b>正确答案为C项</b>。</p>",
+        "avgAnswerTime": 59,
+        "avgCorrectRate": "51.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "二、员工培训的特点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>知识培训的主要任务就是对培训对象所拥有的知识进行更新、其所要解决的问题是（）</p>",
+        "questionId": 1561611,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>“会”</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“知”</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>“悟”</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“适”</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“知识培训”，要对各个培训及其培训目标进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/575652d3c82dba131886810bc53bf811/1.png\" alt=\"\" width=\"338\" height=\"114\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "三、员工培训的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将培训经验经过理论提高而制订的对于培训的基本要求称为（）</p>",
+        "questionId": 2404461,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>培训计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>培训设计</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>培训原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>培训大纲</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核员工培训的原则。培训原则是将培训经验经过理论提高而制订的对于培训的基本要求。故本题选C</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "68.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "五、员工培训的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源管理的最终目的都是为了实现企业的整体战略目标，而这一目的达成的最基本的前提则是（ ）</p>",
+        "questionId": 2003232,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>企业人际关系的和谐</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>每个员工个人目标的实现</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>每个员工个人绩效的实现</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>有利的外部环境</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>人力资源管理的最终目的都是为了实现企业的整体战略目标，而这一目的达成的最基本的前提则是<b>每个员工个人绩效的实现。</b></p><p>ABD项未提及，为干扰项，排除；故<b>本题的正确答案为C项</b>。</p><p>相关拓展：在一定的外部环境条件下，员工的个人绩效主要由工作能力和工作态度这两个因素决定。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "一、激励的原理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在SWOT分析法中，S代表（）</p>",
+        "questionId": 230234,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>优势</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>劣势</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>机会</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>威胁</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核SWOT决策分析法。在SWOT分析法中，S代表优势，W代表劣势，O代表计划，T代表威胁。故本题选A。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "SWOT决策分析法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在培训评价的四个层次中，第一个层次是（ ）</p>",
+        "questionId": 2001894,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "学习层",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>行为层</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>反应层</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​<span style=\"font-size: 14px;\">学习层</span><br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果层</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：第一个层次</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/de4b9e72f7250a02fd0d90374848f1ca/image.png\" alt=\"\" width=\"355\" height=\"122\"><br></p><p>故本题的<b>正确答案为B项</b>。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1704真题-第1题",
+        "viceNodeName2": "行为层",
+        "mainNodeName": "反应层",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>认为人性是恶的，因而必须采取全过程的控制方法的理论是（）</p>",
+        "questionId": 1564904,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>X理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>Y理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>X-Y理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>超Y理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“恶”，关键在于区分这几个理论，如下表所示，C为干扰项。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/313e8f0d280d09d6c5e2307afdfdc3c5/a.png\" alt=\"\" width=\"671\" height=\"72\"><br></p><p>故本题的正确答案为A。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "X——Y理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>提出了著名的“X-Y理论”的行为科学家是（ ）</p>",
+        "questionId": 2003125,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>马斯洛</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>沙因</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>奥尔德弗</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>麦格雷戈</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：<span style=\"font-size: 14px;\">X-Y理论</span></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cf669f1af3974569d7942316bf4d1957/image.png\" alt=\"\" width=\"361\" height=\"120\"><span style=\"font-size: 14px;\"><br></span></p><p>故<b>本题的正确答案为D项</b>。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "X——Y理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人类工作的主要动机是社会需要，不是经济需要。人们要求有一个良好的工作气氛，要求与同事之间建立良好的人际关系。这属于（）</p>",
+        "questionId": 1565082,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济人假设</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会人假设</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自我实现人假设</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>复杂人假设</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“社会需要”，且需要对这几种假设进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/48b2537957d22ebb7000e2fb9242e118/a.png\" alt=\"\" width=\"645\" height=\"96\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1204真题-第1题",
+        "mainNodeName": "四种人性假设理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国心理学家赫兹伯格首次在1959年提出的理论是（）</p>",
+        "questionId": 1565145,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>需求层次理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>期望理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>双因素理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>ERG理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“赫兹伯格”，需要对各个理论及其提出学者进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9e45f0132a230626baab6d9132918b90/a.png\" alt=\"\" width=\"295\" height=\"115\"><br></p><p>故本题的正确答案为C。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "39.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1804真题-第30题",
+        "mainNodeName": "赫茨伯格双因素理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国心理学家及行为学家麦克利兰的需要理论的核心是（）</p>",
+        "questionId": 1565850,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>权力需要</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>归属需要</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>成就需要</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自主需要</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点“需要理论的核心”，且要对这几种需要进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/57996b12329ed37ea4de9bc0c977197d/a.png\" alt=\"\" width=\"597\" height=\"96\"><br></p><p>故本题的正确答案为C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "麦克利兰的成就需要理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>目标设置理论的提出者是（）</p>",
+        "questionId": 1566241,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>维克多•弗鲁姆</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>麦克利兰</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>爱德华•洛克</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>奥尔德弗</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“目标设置理论”，需要对这几个学者及其相关理论进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/84902793a6aed1a9032e030911a44d64/a.png\" alt=\"\" width=\"298\" height=\"115\"><br></p><p>故本题的正确答案为C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "目标设置理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>强化理论的提出者是（）</p>",
+        "questionId": 1566259,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>亚当斯</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>斯金纳</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>爱德华•洛克</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>巴甫洛夫</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“强化理论”，需要对这几个学者及其相关理论进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/165ad7b8135f65f36c677fa5f13f491c/a.png\" alt=\"\" width=\"298\" height=\"121\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "强化理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>强调人的行为与营销行为的环境刺激之间的关系，认为管理者可以通过不断改变环境的刺激来控制人的行为的激励理论是（ ）</p>",
+        "questionId": 2000296,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "期望理论",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>期望理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>目标设置理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>强化理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>挫折理论<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：环境刺激</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d8154a057eb185ac370a578755ee5f42/image.png\" alt=\"\" width=\"654\" height=\"190\"><br></p><p>故本题的<b>正确答案为C</b>。</p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1704真题-第1题",
+        "viceNodeName2": "目标设置理论",
+        "mainNodeName": "强化理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>公平理论的提出者是（ ）</p>",
+        "questionId": 2127779,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>斯金纳</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>勒温</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>弗鲁姆</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>亚当斯</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：“公平理论”</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/be135432ba9923c929f91a51809fa12d/a.png\" alt=\"\" width=\"297\" height=\"116\"><br></p><p>根据上图可知，本题的<b>正确答案为D项</b>。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "公平理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>个体从事有目的的活动，由于受到干扰或障碍而使其需要和动机得不到满足时的情绪状态被称为（）</p>",
+        "questionId": 782617,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>心理障碍</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>挫折</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>需求</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>惩罚</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核挫折理论。挫折是指个体从事有目的的活动，由于受到干扰或障碍而使其需要和动机得不到满足时的情绪状态。故本题选B。<br></p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "挫折理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>早期对激励理论的研究主要集中在激励行为这一内容上，即关注（ ）</p>",
+        "questionId": 2010398,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人的理想&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人的想法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人的需要</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人的愿景</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“早期对激励理论的研究”。<span style=\"font-size: 14px;\"><b>早期对激励理论的研究</b>主要集中在<b>激励行为</b>这一内容上，即从<b>人的需要</b>角度出发，试图说明激发人们工作动机的因素。故本题的正确答案为C。</span></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "内容型激励理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,963 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>作为企业的战略性决策，并且是企业制订各种具体人事决策基础的是（）</p>",
+        "questionId": 208701,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人力资源规划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源培训</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源测评</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源决策</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资源规划的含义。人力资源规划有利于协调组织的人力资源管理。人力资源规划作为企业的战略性决策，是企业制订各种具体人事决策的基础。人力资源规划的合理与否，直接关系到组织人力资源管理水平的高低。因此本题选择A。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "一、人力资源规划的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源成本中一项最大的支出是（ ）</p>",
+        "questionId": 2404440,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>原材料成本</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工资支出</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>货币成本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>福利支出<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题需要理解人力资源成本。<span style=\"font-size: 14px;\">工资支出是</span><span style=\"font-size: 14px;\">人力资源成本中一项最大的支出，而工资总额在很大程度上又取决于组织内部人力资源的分布状况。故本题的正确答案为B。</span></p>",
+        "avgAnswerTime": 33,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "二、人力资源规划的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在人力资源规划的内容中，企业根据组织运行的实际情况和人力资源供给与需求状况对企业中长期内可能产生空缺职位加以弥补的动态规划过程为（）</p>",
+        "questionId": 1551531,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人员补充计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>培训开发规划</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员配备规划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员晋升规划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于区分人力资源业务计划的内容，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5ef20ba2d2f02e55668fef557116fcc2/1.png\" alt=\"\" width=\"730\" height=\"170\"><br></p><p>可根据表中加粗关键字对各个计划进行区分，故本题的正确答案为A。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1804真题-第15题",
+        "mainNodeName": "二、人力资源规划的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>作为人力资源管理活动最基本的职能，在整个人力资源管理活动中起着举足轻重的作用的是（）</p>",
+        "questionId": 211266,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作预测</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作部署</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作总结</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核工作分析的意义和作用。工作分析对于人力资源管理的理论研究和实际操作都具有越来越重要的作用，它是现代人力资源管理所有职能的前提和基础。因此本题选择C。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "三、工作分析的意义和作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将工作分析的方法划分为结构分析法和非结构分析法的依据是（）</p>",
+        "questionId": 1552153,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>功能</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>分析内容</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>分析对象</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>基本方式</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“结构和非结构”，需要理解区分工作分析是如何划分的，具体内容如下表：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4be0dc983eb522b24b5f548ad27bd82f/1.png\" alt=\"\" width=\"405\" height=\"145\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 240,
+        "avgCorrectRate": "66.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "二、工作分析的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作描述的内容中，一组在重要职责上相同的职位总称被称为（）</p>",
+        "questionId": 1552708,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作代码</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作名称</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“职责相同的职位总称”，关键在于区分工作描述的内容：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c1e3d42b063a9684f955889dfe50c3c3/1.png\" alt=\"\" width=\"611\" height=\"94\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "62.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "一、工作描述",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>“隐形”任职资格主要涉及的是（）</p>",
+        "questionId": 212335,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>对工作能力的要求</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>对工作经验的要求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>对工作技能的要求</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>对教育和相关培训的要求</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核工作说明书的编写。工作规范也称任职资格，就是反映从事某项工作的人必须具备的最基本的资格条件，即一个职位对承担这些工作活动的人的要求，包括相关的知识、技能、能力和其他的特征，它回答的是“要做好这项工作，任职者必须具备什么样的特点和经验。可分为“显性”任职资格，如工作经验、工作技能、教育和相关的培训等要求；“隐性”任职资格，主要涉及的是对工作能力的要求等。因此本题选择A。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "三、工作说明书的编写",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>有效的选拔工作，可以避免日后的（ ）</p>",
+        "questionId": 2012237,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>调职或流转</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>调换或解聘</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>调职或解聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>流转或解聘</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于理解人员选拔的重要性。企业招聘的目的是要获得合格的员工，而是否能获得合格的员工则是由选拔过程确定的。有效的选拔工作，可以避免日后的调职或解聘。故本题的正确答案为C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "二、人员选拔的重要性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过情景模拟的方法来对应聘者作出评价的测试类型是（）</p>",
+        "questionId": 225691,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>能力测试</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>体能测试</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作样本测试</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>评价中心测试</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核选拔的程序。评价中心测试就是通过情景模拟的方法来对应聘者作出评价的测试类型。因此本题选择D。<br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业对人力资源的需求是一种（ ）</p>",
+        "questionId": 2002777,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直接需求</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>刚性需求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>弹性需求</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>派生需求</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业对人力资源的需求是一种<b>派生需求（D项正确）</b>，当消费者的收入水平提高时，对商品的需求会增加，企业的销售量就增加，从而增加生产，扩大对人力资源的需求。ABC项未提及，为干扰项，排除；故<b>本题的正确答案为D项</b>。<br></p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "影响人力资源规划的外部环境",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在人力资源需求预测各种方法中，最为复杂也是相对比较准确的一种方法是（ ）</p>",
+        "questionId": 2404455,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>计算机模拟法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>转换比率分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产函数预测法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>趋势外推法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：最复杂、较准确</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d715f291e31da5803ee245a22432fc7e/image.png\" alt=\"\" width=\"590\" height=\"202\"><br></p><p>故本题的<b>正确答案为A项</b>。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "人力资源需求预测的定量技术",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马尔科夫模型方法实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是（）</p>",
+        "questionId": 209800,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>物理技术</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>化学技术</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工业技术</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>统计技术</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核企业内部人力资源供给预测。马尔科夫模型是一种内部人力资源供给的统计预测技术方法。实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是统计技术。因此本题选择D。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "企业内部人力资源供给预测",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源规划的基础是（）</p>",
+        "questionId": 209276,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>收集分析有关信息资料</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>预测人力资源需求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测人力资源供给</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定人力资源规划的目标</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资源规划的制订。收集分析有关信息资料是人力资源规划的基础，对人力资源规划工作影响很大。因此本题选择A。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "53.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "人力资源规划的制订",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源管理中最基础的工作，同时也是出现得最早的工作是（）</p>",
+        "questionId": 212417,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>招聘与录用</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源规划</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业生涯规划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工培训</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核招聘的含义。员工的招聘与录用工作是人力资源管理中最基础的工作，同时也是出现得最早的工作。因此本题选择A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "招聘的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>影响企业招聘工作的外部因素有很多，概括起来可以分为两类：一类为经济因素；一类为（）</p>",
+        "questionId": 212820,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会因素</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>文化因素</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>法律和政策因素</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>心理因素</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核企业外部影响因素。影响企业招聘工作的外部因素分为两类，一类是经济因素，另一类是法律和政策因素。因此本题选择C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "企业外部影响因素",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从内部提拔一些合适人员来填补职位空缺的方法称为（）</p>",
+        "questionId": 1553852,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>提升</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作调换</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作轮换</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>临时聘用</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破提点：“内部提拔”，需要对这几个内部招聘的方法进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a9c815f89e8e09c6db1552c71a47a3ec/1.png\" alt=\"\" width=\"520\" height=\"72\"><br></p><p>D选项属于干扰项，本题的正确答案为A。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "内部招聘",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在招聘效度的分类中，测试是否代表了工作绩效的某些重要因素属于（ ）</p>",
+        "questionId": 2005517,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>预测效度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内容效度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>同测效度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关联效度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>招聘的效度可分为三种，即预测效度、同测效度和内容效度。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2cda8a668b003871bb7532cf1a57ae4f/image.png\" alt=\"\" width=\"565\" height=\"109\"><br></p><p>D项未提及，为干扰项，排除；故本题的<b>正确答案为B项</b>。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "70.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "招聘的效度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>第一个对薪酬进行分析的西方学者是（）</p>",
+        "questionId": 2404441,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>威廉•配第</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>穆勒</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>亚当•斯密</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>李嘉图</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核早期的薪酬理论。亚当•斯密是第一个对薪酬进行分析的学者，他认为薪酬是在财产所有者与劳动相分离的情况下，作为非财产所有者的劳动者的报酬。故本题选C。<br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "早期的薪酬理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业内部各职位之间薪酬的相互关系称为（）</p>",
+        "questionId": 1557278,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薪酬水平</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬结构</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>薪酬形式</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬定位</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“相互关系”，另外需要对这几个概念进行区分：<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7f5849eb8b1ab0725c2cd251dc903fa9/1.png\" alt=\"\" width=\"661\" height=\"70\"><br></p><p>D选项为干扰项，本题的正确答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "薪酬管理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>按员工生产合格产品的数量以及事先规定的计件单价和支付薪酬的一种形式是（）</p>",
+        "questionId": 1557632,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>岗位薪酬</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效薪酬</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计时薪酬</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计件薪酬</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“计件”，AB选项为明显干扰项，本题的关键在于区分CD选项，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/39d25da68fe160126118dc4af2b8ff53/1.png\" alt=\"\" width=\"608\" height=\"49\"><br></p><p>故本题的正确答案为D。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "计时薪酬和计件薪酬",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

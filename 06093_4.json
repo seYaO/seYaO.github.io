@@ -1,0 +1,725 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>具有不同能力的人，应摆在组织内部不同的职位上，给予不同的权力和责任，实行能力与职位的对应与适合。这属于人力资源规划原则中的（）</p>",
+        "questionId": 1549971,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>与内外环境相适应原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>能级层序原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>与企业战略目标相适应原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>适度流动原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于区分人力资源规划的这几个原则，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dddd68dc4e27dd049b379b0ecb7222e3/1.png\" alt=\"\" width=\"791\" height=\"170\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 50,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "一、人力资源规划的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在人力资源规划的内容中，企业根据组织运行的实际情况和人力资源供给与需求状况对企业中长期内可能产生空缺职位加以弥补的动态规划过程为（）</p>",
+        "questionId": 1551531,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人员补充计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>培训开发规划</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员配备规划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员晋升规划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于区分人力资源业务计划的内容，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5ef20ba2d2f02e55668fef557116fcc2/1.png\" alt=\"\" width=\"730\" height=\"170\"><br></p><p>可根据表中加粗关键字对各个计划进行区分，故本题的正确答案为A。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1804真题-第15题",
+        "mainNodeName": "二、人力资源规划的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于（）</p>",
+        "questionId": 210600,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>施恩的职业锚理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>泰罗的科学管理理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>梅奥的人际关系理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>萨柏的职业发展阶段理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核工作分析的发展历程。工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于泰罗的科学管理理论。因此本题选择B。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、工作分析的发展历程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>经过几十年的工作分析和设计研究，总结归纳出了工作分析的工效学调查法，被管理学界认为是工作分析创始人的是（）</p>",
+        "questionId": 210604,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>罗莫特</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>泰罗</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>吉尔布雷斯夫妇</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>明斯特伯格</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核工作分析的发展历程。随着工作分析方法和理论的日趋成熟，使得它在20世纪70年代已被西方发达国家作为人力资源管理现代化的标志之一，并被人力资源管理专家视为人力资源管理最基本的职能。罗莫特被管理学界公认为是工作分析的创始人。因此本题选择A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "一、工作分析的发展历程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>公平管理包括公平分配和（ ）</p>",
+        "questionId": 2012241,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>结果公平</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>程序公平&nbsp;</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>形式公平</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实质公平</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“公平管理”。公平管理<span style=\"font-size: 14px;\">主要包括公平分配和程序公平</span><span style=\"font-size: 14px;\">。故本题的正确答案为B。</span></p><p>知识拓展：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1daa95c9aa322ecbb6492d168d3f0b6e/a.png\" alt=\"\" width=\"566\" height=\"89\"><br></p><p><br></p><p><br></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "一、工作分析的发展历程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业经常用来预测本组织在将来某段时间内对人力资源需求的定性预测技术是（）</p>",
+        "questionId": 1550783,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>现状规划法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经验预测法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>分合性预测法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德尔菲法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“本组织、将来某段时间”，关键在于区分这几个人力资源需求预测的定性技术，具体内容如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2678e10a865f89eaaf1d5f9291816a47/1.png\" alt=\"\" width=\"791\" height=\"142\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 33,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "人力资源需求预测的定性技术",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在人力资源需求预测中，通过综合专家们的权威判断，对未来不确定情况做出尽可能合理的预测方法是（）</p>",
+        "questionId": 1550790,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>现状预测法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经验预测法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德尔菲法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>分合性预测法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“专家判断”，关键在于区分这几个人力资源需求预测的定性技术，具体内容如下表所示：<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dae8faace5926e6c24eb5e4460169adc/1.png\" alt=\"\" width=\"790\" height=\"142\"><br></p><p>故本题的正确答案为C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "人力资源需求预测的定性技术",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源需求的定性预测技术中一种最简单的预测方法是（ ）</p>",
+        "questionId": 2124822,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>现状规划法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>经验预测法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>分合性预测法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德尔菲法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“最简单”。需要对人力资源需求的预测技术进行区分，如下表：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d41d8cd98f00b204e9800998ecf8427e/1111.JPG\" alt=\"\" width=\"787\" height=\"254\"><br></p><p>故本题的正确答案为A。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "人力资源需求预测的定性技术",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在人力资源需求预测各种方法中，最为复杂也是相对比较准确的一种方法是（ ）</p>",
+        "questionId": 2404455,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>计算机模拟法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>转换比率分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产函数预测法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>趋势外推法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：最复杂、较准确</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d715f291e31da5803ee245a22432fc7e/image.png\" alt=\"\" width=\"590\" height=\"202\"><br></p><p>故本题的<b>正确答案为A项</b>。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "人力资源需求预测的定量技术",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马尔科夫模型方法实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是（）</p>",
+        "questionId": 209800,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>物理技术</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>化学技术</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工业技术</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>统计技术</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核企业内部人力资源供给预测。马尔科夫模型是一种内部人力资源供给的统计预测技术方法。实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是统计技术。因此本题选择D。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "企业内部人力资源供给预测",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>管理人员接替模型也称为（ ）</p>",
+        "questionId": 2010701,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位轮换卡</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位流转卡</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职务置换卡</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位置换卡</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于理解管理人员接替模型的含义。管理人员接替模型也称<b>职位置换卡</b>，主要针对企业管理人员供给预测的简单有效的一种方法，最终目的是确保组织在未来能够有足够的合理的管理人员的供给。故本题的正确答案为D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "企业内部人力资源供给预测",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源供过于求最常用的调整方式是（ ）</p>",
+        "questionId": 2404459,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>增加无薪假期</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>提前退休</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>减少人员补充</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>裁员</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：最常用</p><p>当人力资源供过于求时，可以采用的调整方法有：</p><p>（1）提前退休；</p><p>（2）<b>减少人员补充</b>（<b>最常用的方式</b>）；</p><p>（3）增加无薪假期；</p><p>（4）裁员（一种没有办法的办法，且相当有效）；</p><p>（5）暂时或永久性地关闭一些不盈利的分厂或车间，精简职能部门。</p><p>综上，本题的<b>正确答案为C项</b>。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "供过于求的调整",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源规划的基础是（）</p>",
+        "questionId": 209276,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>收集分析有关信息资料</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>预测人力资源需求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测人力资源供给</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定人力资源规划的目标</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资源规划的制订。收集分析有关信息资料是人力资源规划的基础，对人力资源规划工作影响很大。因此本题选择A。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "53.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "人力资源规划的制订",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在企业人力资源的四个层次上，既是人力资源政策的体验者，也是人力资源规划的对象的是（）</p>",
+        "questionId": 2404445,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>决策层</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源职能层</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>直线部门职能层</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>员工是人力资源政策的体验者、人力资源规划的对象。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1804真题-第1题",
+        "mainNodeName": "人力资源规划的执行",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源需求的预测又分为定性技术和（ ）</p>",
+        "questionId": 2010708,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>质性研究</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定量技术</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>数字技术</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>田野技术</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“<span style=\"font-size: 14px;\">人力资源需求的预测</span><span style=\"font-size: 14px;\">”，它是指企业为实现既定目标而对未来所需员工数量和种类的估量和计算。通常，人力资源的需求预测又分为定性技术和定量技术。故本题的正确答案为B。</span></p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "人力资源需求预测技术",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

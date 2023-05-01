@@ -1,0 +1,1206 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 25,
+    "totalSubQuestionNum": 25,
+    "questionList": [
+      {
+        "questionContent": "<p>按照经济学的观点，薪酬就是劳动力的价格，取决于劳动力的（ ）</p>",
+        "questionId": 2404454,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>供应总量</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>供求状况</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>需求总量</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>质量状况</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：经济学、薪酬</p><p>按照<b>经济学</b>的观点，薪酬就是劳动力的价格，取决于劳动力的<b>供求状况。B项正确</b></p><p>ACD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "企业外部因素",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>第一个对薪酬进行分析的西方学者是（）</p>",
+        "questionId": 2404441,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>威廉•配第</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>穆勒</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>亚当•斯密</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>李嘉图</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核早期的薪酬理论。亚当•斯密是第一个对薪酬进行分析的学者，他认为薪酬是在财产所有者与劳动相分离的情况下，作为非财产所有者的劳动者的报酬。故本题选C。<br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "早期的薪酬理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>由古典经济学的创始人威廉•配第提出的薪酬理论是（）</p>",
+        "questionId": 227042,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>维持生存薪酬理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>边际生产率薪酬理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资本理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集体谈判薪酬理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核维持生存薪酬理论。由古典经济学的创始人威廉•配第提出的薪酬理论是维持生存薪酬理论。因此本题选择A。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "维持生存薪酬理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>真正提出人力资本理论的经济学家是（ ）</p>",
+        "questionId": 2001988,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "边际生产率薪酬理论",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>马歇尔</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>加里·贝克尔</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>西奥多·舒尔茨</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>克拉克</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：真正提出，人力资本理论</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a00bbe425a3fdcdaa2b141d22cbf06f2/image.png\" alt=\"\" width=\"392\" height=\"150\"><br></p><p>故本题的<b>正确答案为C项</b>。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "71.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1704真题-第1题",
+        "viceNodeName2": "供求均衡薪酬论",
+        "mainNodeName": "人力资本理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>劳动的边际生产率这一概念的提出者是（ ）</p>",
+        "questionId": 2404443,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>克拉克</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>马歇尔</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>马克思</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>加里·贝克尔</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：边际生产率</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5d2756530027eb4f8fca735728c67b50/image.png\" alt=\"\" width=\"518\" height=\"115\"><br></p><p>故<b>本题的正确答案为A项</b>。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "边际生产率薪酬理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马歇尔在其名著《经济学原理》中，以均衡价格理论为基础，从生产要素的需求和供给两方面来说明薪酬水平的决定。这一薪酬理论称为（）</p>",
+        "questionId": 2090187,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>维持生存薪酬理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>边际生产率薪酬理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集体谈判薪酬理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>供求均衡薪酬理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“需求和供给”，这就是指的“供求”，可初步判断为答案D。同时还需要对学者及其相关理论进行匹配，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/929acea8817296bdb53dbfc9865eb6f2/1.png\" alt=\"\" width=\"519\" height=\"112\"><br></p><p>故本题的正确答案为D。</p><p><br></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1804真题-第6题",
+        "mainNodeName": "供求均衡薪酬论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>效率薪酬理论的基本观点是工人的生产率取决于（ ）</p>",
+        "questionId": 2010679,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>​<span style=\"font-size: 14px;\">薪酬额</span><br></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​<span style=\"font-size: 14px;\">薪酬率</span><br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>薪酬等级</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬层次</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“<span style=\"font-size: 14px;\">效率薪酬理论</span><span style=\"font-size: 14px;\">”，其基本观点是工人的生产率取决于薪酬率。薪酬率的提高将导致工人生产率的提高，有效劳动的单位成本反而可能下降。故本题的正确答案为B。</span></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "效率薪酬理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业内部各职位之间薪酬的相互关系称为（）</p>",
+        "questionId": 1557278,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薪酬水平</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬结构</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>薪酬形式</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬定位</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“相互关系”，另外需要对这几个概念进行区分：<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7f5849eb8b1ab0725c2cd251dc903fa9/1.png\" alt=\"\" width=\"661\" height=\"70\"><br></p><p>D选项为干扰项，本题的正确答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "薪酬管理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业根据内外部各种因素的变化，对薪酬水平、薪酬结构和薪酬形式进行相应的变动称为（ ）</p>",
+        "questionId": 2001888,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薪酬预算</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬控制</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬沟通</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬调整</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：进行相应变动</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/46c3e89a493f565fc4d004ae99faf5cd/a.png\" alt=\"\" width=\"717\" height=\"97\"><br></p><p>AC项未提及，为干扰项，排除。</p><p>综上，本题的<b>正确答案为D项</b>。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "薪酬管理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>按员工生产合格产品的数量以及事先规定的计件单价和支付薪酬的一种形式是（）</p>",
+        "questionId": 1557632,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>岗位薪酬</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效薪酬</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计时薪酬</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计件薪酬</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“计件”，AB选项为明显干扰项，本题的关键在于区分CD选项，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/39d25da68fe160126118dc4af2b8ff53/1.png\" alt=\"\" width=\"608\" height=\"49\"><br></p><p>故本题的正确答案为D。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "计时薪酬和计件薪酬",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>薪酬调查关注的是企业的（ ）</p>",
+        "questionId": 2012243,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>外部文化环境</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内部竞争环境</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>外部竞争环境</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>内部文化环境</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“薪酬调查”。薪酬调查分析的目的是要了解本行业所在地区尤其是主要竞争对手的薪酬状况。薪酬调查关注的是企业的外部竞争环境。故本题的正确答案为C。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "薪酬制度的设计",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在世界范围内，产生最早，实施国家最多、制度设计最严密的社会保障制度是（）</p>",
+        "questionId": 1558110,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>养老保险</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>医疗保险</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>失业保险</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工伤保险</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><span style=\"font-size: 14px;\">本题破题点：“产生最早、实施最多、设计最严密”。ABCD都属于社会保险，而在世界范围内，工伤保险是产生最早，实施国家最多、制度设计最严密的社会保障制度，因为工伤保险关系到职工的生命安全和家庭的生活幸福。故本题的正确答案为D。</span></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1804真题-第1题",
+        "mainNodeName": "社会保险",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在弹性福利计划的类型中，目前使用最为普遍的是（）</p>",
+        "questionId": 1558558,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>选择型弹性福利</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>福利“套餐”</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>弹性支用账户</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>附加型弹性福利</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><span style=\"font-size: 14px;\">本题破题点：“最普遍”，且需要对这几种弹性福利进行区分：</span></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b6a1a508e51d36defd3e77c0305d2d0b/1.png\" alt=\"\" width=\"780\" height=\"97\"><span style=\"font-size: 14px;\"><br></span></p><p>故本题的正确答案为D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "员工福利的弹性化",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从发达国家的实践来看，福利管理还出现了两种趋势：社会化和（ ）</p>",
+        "questionId": 2012272,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>数字化</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>货币化</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>网络化</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社区化</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“福利管理”。<span style=\"font-size: 14px;\">从发达国家的实践来看，福利管理还出现了社会化和货币化的趋势。故本题的正确答案为B。</span></p><p>知识拓展：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ab4468913e5d49f0b830b5fdec19c4c7/人力质检3.png\" alt=\"\" width=\"582\" height=\"107\"><br></p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "员工福利管理的社会化和货币化",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>职业生涯规划学说产生于20世纪60年代的美国，从欧美国家传入中国的时间为（）</p>",
+        "questionId": 228714,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>20世纪60年代中期</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>20世纪70年代中期</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>20世纪80年代中期</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>20世纪90年代中期</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核职业的产生与发展。职业生涯规划学说产生于20世纪60年代的美国，20世纪90年代中期从欧美国家传入中国。故本题选D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "职业的产生与发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>我国职业分类体系中的最基本的类别是（ ）</p>",
+        "questionId": 2001848,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>大类</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>中类&nbsp;</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>小类</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>细类</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：职业分类体系、最基本</p><p>《中华人民共和国职业分类大典》中，将职业分为8个大类，66个中类，413个小类和1838个细类。</p><p><b>“细类”</b>是我国分类体系中的<b>最基本</b>类别，即通常所谓的“职业”。故本题的<b>正确答案为D</b>。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "职业的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>2000年颁布的《中国人民共和国职业分类大典》把职业分为四个层次，其中职业大类的个数是（）</p>",
+        "questionId": 2128456,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>5</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>7</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>8</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>9</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核职业的分类。2000年职业分类大典把职业分为四个层次，包括：大类（8个）、中类（66个）、小类（413个）、细类（1838个）。故本题选C。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "职业的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>职业选择是个人能力意向与（ ）</p>",
+        "questionId": 2010985,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会岗位的统一</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>社会需求的统一</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业意向的统一</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>就业需求的统一</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“职业选择”。职业选择是个人对于自己就业方向和工作岗位类别的比较、挑选和确定，是<b>个人能力意向与社会岗位的统一</b>。故本题的正确答案为A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "63.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "职业选择的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在人的职业生涯历程中顺利完成职业准备、职业选择、职业适应期，比较成功地进入职业稳定期的职业选择类型是（）</p>",
+        "questionId": 2404456,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>标准型选择</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>先期确定型选择</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>反复型选择</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观型选择</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“成功进入职业稳定期”，且需要对这几种职业选择的类型进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e364d961706711da4b2461eab1820767/1.png\" alt=\"\" width=\"767\" height=\"73\"><br></p><p>D选项属于干扰项，本题的正确答案为A。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1804真题-第1题",
+        "mainNodeName": "职业选择的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>职业选择的首要原则是（）</p>",
+        "questionId": 274527,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>主动原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>主次原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>比较原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核职业选择决策的原则。客观原则,从客观实际出发，是职业选择的首要原则。故本题选B。<br></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "职业选择决策的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>最早出现的职业选择理论是（）</p>",
+        "questionId": 228986,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>特性与因素理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职业性向理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业锚理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会学系理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核特性与因素理论。特性与因素理论是最早出现的职业选择理论。特性与因素是由帕森斯创立，威廉森发展和成型的。故本题选A。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "66.0%",
+        "score": 1.0,
+        "sequence": 21,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "特性与因素理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>职业性向理论的创立者是（ ）</p>",
+        "questionId": 2001879,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>萨珀</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>金兹伯格</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​<span style=\"font-size: 14px;\">帕森斯</span><br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>霍兰德</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：职业性向理论</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/57faf90ae19fc8dde43478b0e16a16c4/image.png\" alt=\"\" width=\"445\" height=\"123\"><br></p><p>故本题的正确答案为<b>D项</b>。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "73.0%",
+        "score": 1.0,
+        "sequence": 22,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "职业性向理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>职业发展理论的先驱是（）</p>",
+        "questionId": 229086,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>萨帕</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>金斯伯格</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>霍兰德</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>帕森斯</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核金斯伯格的问题职业发展理论。美国著名职业学家金斯伯格是职业发展理论的先驱。故本题选B。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "48.0%",
+        "score": 1.0,
+        "sequence": 23,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "金斯伯格的职业发展理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人们从对职业的评价、意向、态度出发，依照自己的职业愿景和兴趣，凭借自身能力挑选职业，使自身能力素质与职业需求特征相符合的过程被称为（）</p>",
+        "questionId": 782465,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职业选择</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职业决策</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业定位</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业匹配</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核职业选择的概念。职业选择是指人们从对职业的评价、意向、态度出发，依照自己的职业愿望和兴趣，凭借自身能力挑选职业，使自身能力素质与职业需求特征相符合的过程。故本题选A。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 24,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "职业选择的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>旨在提高职工的现期收入或未来收入水平的福利计划称为（）</p>",
+        "questionId": 1558286,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>收益倍增计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>收入保障计划</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>员工服务计划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>家庭平衡计划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“收入”，AD选项为干扰项，因此本题主要是对BC选项进行区分，如下表所示：<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e0e81df9eccde02af1b4d09ec8929cff/1.png\" alt=\"\" width=\"643\" height=\"52\"><br></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 25,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "企业福利",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

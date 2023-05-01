@@ -1,0 +1,1202 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 25,
+    "totalSubQuestionNum": 25,
+    "questionList": [
+      {
+        "questionContent": "<p>在制定招聘计划时，应根据人才分布规律、求职者活动范围、人力资源供求状况以及招聘成本大小来确定（）</p>",
+        "questionId": 2298987,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>招聘的渠道</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>招聘的规模</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>招聘的区域</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>招聘的时机</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>招聘的区域</b>是由人才分布规律、求职者活动范围、 人力资源供求状况以及招聘成本大小确定的。<b>故本题选C</b></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "四、招聘的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>有效的选拔工作，可以避免日后的（ ）</p>",
+        "questionId": 2012237,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>调职或流转</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>调换或解聘</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>调职或解聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>流转或解聘</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于理解人员选拔的重要性。企业招聘的目的是要获得合格的员工，而是否能获得合格的员工则是由选拔过程确定的。有效的选拔工作，可以避免日后的调职或解聘。故本题的正确答案为C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "二、人员选拔的重要性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>资格审查主要审查求职者是否符合职位的（）</p>",
+        "questionId": 212478,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>政治条件</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>身高条件</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相貌要求</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>基本要求</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核选拔的程序。资格审查主要审查求职者是否符合职位的基本要求。因此本题选择D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>个性测试主要是测量被试人的内向性、动机等，主要的测试方法是（）</p>",
+        "questionId": 225668,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>面试法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>量表法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实验法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>影射法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核选拔的程序。个性测试主要是测量被试人的内向性、动机等，主要的测试方法是影射法。因此本题选择D。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "65.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过情景模拟的方法来对应聘者作出评价的测试类型是（）</p>",
+        "questionId": 225691,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>能力测试</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>体能测试</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作样本测试</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>评价中心测试</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核选拔的程序。评价中心测试就是通过情景模拟的方法来对应聘者作出评价的测试类型。因此本题选择D。<br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将面试分为结构型面试、非结构型面试、压力面试的分类依据是（）</p>",
+        "questionId": 567523,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>参与面试过程的人员</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>面试所达到的效果</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>面试的组织形式</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>面试的性质与任务</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>从面试的组织形式来看，面试则分为：结构型面试、非结构型面试、压力面试。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "73.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1804真题-第3题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对经过初步面试筛选合格的应聘者进行实际能力与潜力的测试被称为（ ）</p>",
+        "questionId": 1999529,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>压力面试</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>诊断面试</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>甄选面试</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>录用面试</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“<span style=\"font-size: 14px;\">实际能力与潜力的测试</span><span style=\"font-size: 14px;\">”，CD选项为干扰项，重点在于区分AB选项的内容，如下表：</span></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/316fdcfa393dd0d2cadcbed3581fde71/a.png\" alt=\"\" width=\"661\" height=\"94\"><span style=\"font-size: 14px;\"><br></span></p><p>故本题的正确答案为B。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>主试者要求应聘者对两个或更多的事物进行比较分析，以达到了解应聘者的个人品格、工作动机、工作能力与潜力的目的。这种面试的提问方式被称为（ ）</p>",
+        "questionId": 2005503,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>简单提问</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观评价提问</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>递进提问</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>比较式提问</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：比较分析</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/35f5d965d76bf48324e86089ccb305a0/image.png\" alt=\"\" width=\"641\" height=\"140\"><br></p><p>根据上图可知，<b>正确答案为D项</b>。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>当应聘者回答有关问题时，主试者让其举例说明，引导应聘者回答解决某一问题或完成某项任务所采取的方法和措施，以此鉴别应聘者所谈问题的真假，了解应聘者实际解决问题的能力。这种招聘面试的提问方式是（ ）</p>",
+        "questionId": 2005510,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>举例提问</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>客观评价提问</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>比较式提问&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>递进提问</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：举例说明</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2b64e0df2317a88125614e838504a1ed/image.png\" alt=\"\" width=\"668\" height=\"183\"><br></p><p>故本题的<b>正确答案为A项</b>。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>把几个应聘者组成一个小组，给他们提供一个议题，事先并不指定主持人，让他们通过小组讨论的方式在限定时间内给出一个决策，评委们则在旁边观察所有应聘者的行为表现并作出评价。这属于评价中心测试方法中的（ ）</p>",
+        "questionId": 2005543,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>公文处理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>角色扮演</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>无领导小组讨论 &nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>即席发言法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：不指定主持人、小组讨论</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e4b77e021b8c580f338b629bbd40f314/image.png\" alt=\"\" width=\"709\" height=\"231\"><br></p><p>故本题的<b>正确答案为C项</b>。<br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>把应征者的兴趣与各种职业的成果职员的兴趣进行比较，然后以此作为应试者适合做什么工作、不适合做什么工作的参考依据。这种测试称为（ ）</p>",
+        "questionId": 2126446,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>兴趣测试</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>个性测试</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>能力测试</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>专业知识测试</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：<b>“兴趣”</b></p><p><b>兴趣测试：</b>把应征者的<b>兴趣</b>和各种职业的成功职员的兴趣进行比较，然后以此作为应试者适合做什么工作、 不适合做什么工作的录用的参考依据<b>。A项正确</b></p><p>个性测试：主要是测量被测试人的 内向性、稳定性、动机等。排除B</p><p>能力测试：包括一般智力测试和特殊认知能力测试。排除C</p><p>专业知识测试：由考官事先出好试卷，让求职者在规定的时间作答。排除D</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>主试者在用简单提问提出几个问题以后，谈话的气氛往往开始轻松下来，这时可采用将问题向深层次引申一步的提问方式进行提问，以引导应聘者详细描述自己的工作经历、技能、成果、动机、个人兴趣等。这种面试的提问方式是（）</p>",
+        "questionId": 2550372,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>简单提问</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观评价提问</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>举例提问</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>递进提问</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查递进提问的概念，递进式提问先提出简单问题，再向深层次进一步提问。因此本题选择D。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "三、选拔的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源管理中最基础的工作，同时也是出现得最早的工作是（）</p>",
+        "questionId": 212417,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>招聘与录用</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源规划</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业生涯规划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工培训</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核招聘的含义。员工的招聘与录用工作是人力资源管理中最基础的工作，同时也是出现得最早的工作。因此本题选择A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "招聘的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>如同生产高质量的产品必须有高质量的原材料一样，组织的生存与发展也必须有高质量的（）</p>",
+        "questionId": 272555,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>机器设备</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>厂房车间</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人脉资源</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资源的地位和作用。如同生产高质量的产品必须有高质量的原材料一样，组织的生存与发展也必须有高质量的人力资源。故本题选C。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "招聘的意义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>作为人力资源管理的一项基本职能，并构成人力资源管理成本重要组成部分的是（ ）</p>",
+        "questionId": 1753545,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>招聘活动的时间</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>招聘活动的成本</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>招聘活动的内容</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>招聘活动的过程</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核招聘的意义。招聘工作影响着人力资源管理的费用。作为人力资源管理的一项基本职能，招聘活动的成本构成了人力资源管理成本的重要组成部分。因此本题选择B。<br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "招聘的意义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>影响企业招聘工作的外部因素有很多，概括起来可以分为两类：一类为经济因素；一类为（）</p>",
+        "questionId": 212820,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会因素</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>文化因素</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>法律和政策因素</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>心理因素</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核企业外部影响因素。影响企业招聘工作的外部因素分为两类，一类是经济因素，另一类是法律和政策因素。因此本题选择C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "企业外部影响因素",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从内部提拔一些合适人员来填补职位空缺的方法称为（）</p>",
+        "questionId": 1553852,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>提升</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作调换</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作轮换</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>临时聘用</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破提点：“内部提拔”，需要对这几个内部招聘的方法进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a9c815f89e8e09c6db1552c71a47a3ec/1.png\" alt=\"\" width=\"520\" height=\"72\"><br></p><p>D选项属于干扰项，本题的正确答案为A。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "内部招聘",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在进行外部招聘中，最常用、最简单且信息传播最广泛的招募手段是（ ）</p>",
+        "questionId": 2005389,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>招聘会&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>网上招聘</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>校园招聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>招聘广告</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：最常用、最简单、最广泛</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1b5307317b805e7f30b9c03b23bf26b0/image.png\" alt=\"\" width=\"450\" height=\"134\"><br></p><p>故本题的<b>正确答案为D项</b>。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "60.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "外部招聘的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>信度指的是可靠性程度，通过某项测试所得结果的稳定性和（）</p>",
+        "questionId": 226145,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可变性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可测性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一致性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可靠性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核招聘的信度评估。信度指的是可靠性程度，通过某项测试所得结果的稳定性和一致性。因此本题选择C。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "招聘的信度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>测验的可靠程度和客观程度是（）</p>",
+        "questionId": 595864,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>效度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>信度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>浓度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>密度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>信度指的是可靠性程度，通过某项测试所得结果的稳定性和一致性。通常信度可分为：稳定系数、等值系数、内在一致性系数。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "63.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1004真题-第1题",
+        "mainNodeName": "招聘的信度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>信度指的是（ ）</p>",
+        "questionId": 2010988,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>有效性程度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>效率性程度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济性程度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可靠性程度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“信度”。信度是通过某项测试所得结果的稳定性和一致性，<span style=\"font-size: 14px;\">是指可靠性程度</span><span style=\"font-size: 14px;\">。故本题的正确答案为D。</span></p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 21,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "招聘的信度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在招聘的信度评估中，对同一应聘者进行两种对等的、内容相当的测试，其结果之间的一致性称为（）</p>",
+        "questionId": 2299189,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>稳定系数</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>等值系数</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​内在一致性系数<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>外在一致性系数</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>等值系数：是指对同一应聘者进行两种对等的、内容相当的测试，其结果之间的一致性。故选B</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 22,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1804真题-第29题",
+        "mainNodeName": "招聘的信度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>用同一种测试方法对一组应聘者在两个不同时间进行测试结果的一致性称为（）</p>",
+        "questionId": 2404453,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>等值系数</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内在一致性系数</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>稳定系数</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>变动系数</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核招聘的效用评估。稳定系数是用同一种测试方法对一组应聘者在两个不同时间进行测试结果的一致性。因此本题选择C。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 23,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "招聘的信度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在招聘效度的分类中，测试是否代表了工作绩效的某些重要因素属于（ ）</p>",
+        "questionId": 2005517,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>预测效度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内容效度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>同测效度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关联效度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>招聘的效度可分为三种，即预测效度、同测效度和内容效度。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2cda8a668b003871bb7532cf1a57ae4f/image.png\" alt=\"\" width=\"565\" height=\"109\"><br></p><p>D项未提及，为干扰项，排除；故本题的<b>正确答案为B项</b>。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "70.0%",
+        "score": 1.0,
+        "sequence": 24,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "招聘的效度评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在招录的成本效用评估中，录用人数与招聘总成本之比称为（ ）</p>",
+        "questionId": 2005521,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>招募成本效用</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>选拔成本效用</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员录用效用</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>总成本效用</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>招募成本效用=应聘人数/招募期间的费用，排除A</p><p>选拔成本效用=被选中人数/选拔期间的费用，排除B</p><p>人员录用效用=正式录用的人数/录用期间的费用，排除C</p><p><b>总成本效用=录用人数/招聘总成本</b></p><p>故本题的<b>正确答案为D项</b>。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "64.0%",
+        "score": 1.0,
+        "sequence": 25,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "成本效用评估",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

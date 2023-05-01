@@ -1,0 +1,963 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>被称为“科学管理之父”的是（）</p>",
+        "questionId": 233265,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>斯密</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>舒尔茨</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>泰罗</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>曼昆</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资源理论产生的基础。20世纪初至20世纪20年代是科学管理时期，管理从经验阶段步入科学阶段。为解决劳资矛盾，泰罗开创科学管理运动，被称为“科学管理之父”。故本题选C。<br></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "一、人力资源理论产生的基础",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>被称为“科学管理之父”的管理学家是（ ）</p>",
+        "questionId": 2003070,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>西蒙</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>梅奥</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>泰罗</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>韦伯</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：科学管理之父</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/afc5989c2ec7010eab83d05c7f6fcd87/image.png\" alt=\"\" width=\"407\" height=\"149\"><br></p><p>故<b>本题的正确答案为C项</b>。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "一、人力资源理论产生的基础",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>作为企业的战略性决策，并且是企业制订各种具体人事决策基础的是（）</p>",
+        "questionId": 208701,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人力资源规划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源培训</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源测评</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源决策</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资源规划的含义。人力资源规划有利于协调组织的人力资源管理。人力资源规划作为企业的战略性决策，是企业制订各种具体人事决策的基础。人力资源规划的合理与否，直接关系到组织人力资源管理水平的高低。因此本题选择A。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "一、人力资源规划的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源成本中一项最大的支出是（ ）</p>",
+        "questionId": 2404440,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>原材料成本</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工资支出</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>货币成本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>福利支出<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题需要理解人力资源成本。<span style=\"font-size: 14px;\">工资支出是</span><span style=\"font-size: 14px;\">人力资源成本中一项最大的支出，而工资总额在很大程度上又取决于组织内部人力资源的分布状况。故本题的正确答案为B。</span></p>",
+        "avgAnswerTime": 33,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "二、人力资源规划的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>一般认为，第一次使用“人力资源”术语的人是（）</p>",
+        "questionId": 568536,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>德鲁克</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>巴克</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>迈尔斯</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>康芒斯</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1919年，约翰·康芒斯在《产业信誉》中首次使用了“人力资源”一词。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1804真题-第19题",
+        "mainNodeName": "人力资源理论的形成过程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1919年，约翰·康芒斯在《产业信誉》一书中首次使用的概念是（ ）</p>",
+        "questionId": 2002992,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人力资源</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人事管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资本</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1919年，<b>约翰·康芒斯</b>在《产业信誉》一书中首次使用了<b>“人力资源”</b>一词。<b>A项正确</b><br></p><p>20世纪60年代，“人力资源管理”术语开始流行。排除C</p><p>BD项未提及，为干扰项，排除。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "人力资源理论的形成过程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>被西方经济学界公认的人力资本之父是（ ）</p>",
+        "questionId": 1720048,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>西蒙</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>舒尔茨</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>斯密</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>大卫·李嘉图</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>舒尔茨是西方经济学界公认的人力资本之父。因此本题选择B。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "24.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "人力资本理论的产生和发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>西方经济学界公认的人力资本之父是（ ）</p>",
+        "questionId": 2012339,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>舒尔茨</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>李嘉图</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>马斯洛</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德鲁克</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“人力资本之父”，需要对选项中各位学者及其相关理论或成就进行匹配，如下表：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/42e3d0a121d50b3850eacf2b0db670fd/a.png\" alt=\"\" width=\"568\" height=\"146\"><br></p><p>故本题的正确答案为A。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "人力资本理论的产生和发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从家庭生产（生育行为）和个人资源的经济决策及成本效用分析角度研究人力资本投资问题的经济学家是（）</p>",
+        "questionId": 2299050,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>舒尔茨</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>贝克尔</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>康芒斯</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>巴克</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>贝克尔</b>从家庭生产（生育行为）和个人资源的经济决策及成本效用分析角度研究人力资本投资问题。因此本题选择<b>B</b>。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "人力资本理论的基本内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资本是通过人力资本投资形成的，其投资是多方面的，其中最主要的是（ ）</p>",
+        "questionId": 2404438,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>保健支出&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>劳动力国内流动支出</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>教育支出</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>衣食住行支出</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“人力资本、最主要”。人力资本是通过人力资本投资形成的，其投资是多方面的，<span style=\"font-size: 14px;\">包括教育支出、保健支出、劳动力国内流动支出或用于移民入境支出以及搜集价格与收入的信息等多种形式。</span><span style=\"font-size: 14px;\">其中最主要的是教育支出。故本题的正确答案为C。</span></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "人力资本的投资途径",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>首次提出“人性假设”概念的学者是（）</p>",
+        "questionId": 2404444,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薛恩</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>麦格雷戈</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>马斯洛</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>梅奥</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>美国学者麦格雷戈1957年在《企业中人的方面》一书中，首次提出了“人性假设”的概念。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1804真题-第1题",
+        "mainNodeName": "X-Y理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社交需要是人类行为的基本动机，要求员工与同事之间建立良好的人际关系，以获得基本的认同感，人际关系是形成员工身份感的基本要素。这一人性假设理论是（）</p>",
+        "questionId": 208423,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济人假设</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会人假设</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自我实现人假设</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>复杂人假设</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核四种人性假设理论。社会人假设认为社交需要是人类行为的基本动机，要求员工与同事之间建立良好的人际关系，以获得基本的认同感，人际关系是形成员工身份感的基本要素。因此本题选择B。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "四种人性假设理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>员工受经济性刺激物的刺激而工作，只要能获得最大经济利益，他就会干任何工作。这种人性假设是（）</p>",
+        "questionId": 390591,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会人假设</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济人假设</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自我实现人假设</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>复杂人假设</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核四种人性假设理论。经济人假设认为，员工受经济性刺激物的刺激而工作，只要能获得最大经济利益，他就会干任何工作。因此本题选择B。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "四种人性假设理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国学者薛恩在其1965年出版的《组织心理学》一书中提出的人性假设是（）</p>",
+        "questionId": 1610274,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济人假设</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会人假设</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自我实现人假设</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>复杂人假设</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>美国学者薛恩在其1965年出版的《组织心理学》一书中提出的人性假设是复杂人假设。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "四种人性假设理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国学者薛恩提出的人性假设观点是（）</p>",
+        "questionId": 2404447,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济人假设</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会人假设</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自我实现人假设</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>复杂人假设</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核四种人性假设理论。美国学者薛恩1965年在《组织心理学》一书中将关于人性假设的研究成果归纳为“经济人假设”、“社会人假设”和“自我实现人假设”，并提出了自己的人性假设观点—“复杂人假设”。因此本题选择D。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "四种人性假设理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业对人力资源的需求是一种（ ）</p>",
+        "questionId": 2002777,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直接需求</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>刚性需求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>弹性需求</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>派生需求</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业对人力资源的需求是一种<b>派生需求（D项正确）</b>，当消费者的收入水平提高时，对商品的需求会增加，企业的销售量就增加，从而增加生产，扩大对人力资源的需求。ABC项未提及，为干扰项，排除；故<b>本题的正确答案为D项</b>。<br></p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "影响人力资源规划的外部环境",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在西方国家，人力资源开发的理论依据是（）</p>",
+        "questionId": 207923,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人力资本理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>金融资本理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>文化资本理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会资本理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核人力资本理论体系的构成。人力资源开发理论在西方国家是以人力资本理论为依据的。因此本题选择A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "人力资本理论体系的构成",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资源理论体系包括人力资源开发理论和（ ）</p>",
+        "questionId": 2404437,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人力资源应用理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源考评理论&nbsp;</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源培训理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人力资源管理理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“人力资源理论体系”。人力资源理论体系包括人力资源开发理论和人力资源管理理论（识记：“人力资源理论体系=开发+管理”），因此本题的正确答案为D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第1题",
+        "mainNodeName": "人力资本理论体系的构成",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>开发潜能的关键在于（）</p>",
+        "questionId": 1139475,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>开发人的大脑</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>养成良好的习惯</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>加强学习和实践</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>勇于思考和善于思考</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考核充分发挥大脑功能。开发潜能的关键在于开发人的大脑。因此本题选择A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "潜能的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>开发潜能的关键在于开发人的（ ）</p>",
+        "questionId": 2011025,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>心理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>精神</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>大脑</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>双手</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点：“开发潜能”，<b>关键</b>在于开发人的<b>大脑</b>。故本题的正确答案为C。</p><p>开发途径包括：①信息刺激，勤于用脑；②协同开发，全面塑脑；③劳逸结合，科学护脑；④营养健身，合理补脑。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "潜能的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}
