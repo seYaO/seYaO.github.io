@@ -1,0 +1,725 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">现代人力资源管理所有职能工作的基础和前提是（ ）</font></span></p>",
+        "questionId": 2013326,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">岗位分析</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘配置</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">绩效管理</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">薪酬福利</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1、<b>岗位分析</b>是现代人力资源管理所有职能工作的基础和前提，是建立在对企业一切问题进行深刻了解的基础上的。故选项A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2、<b>岗位分析的结果可以在</b>企业人力资源管理的规划、<b>招聘配置、绩效管理、薪酬福利</b>等多个领域<b>应用</b>，故选项BCD可排除。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><br></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "一、岗位分析的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析包含的要素有（）</p>",
+        "questionId": 190240,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>3个</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>6个</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>7个</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>9个</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查岗位分析的内容。</p><p>工作分析要素有7个，是指6个W和1个H。\n<br>①需要什么样的人完成此项工作（who）；\n<br>②需要完成什么样的工作（what）；\n<br>③工作要在什么时候完成（when）；\n<br>④工作将在哪里进行（where）；\n<br>⑤为什么要完成此项工作（why）；\n<br>⑥员工为谁工作（for whom）；\n<br>⑦如何做（how）。&nbsp;<br></p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "三、岗位分析的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">一般来说，工作分析包含的要素有（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2097707,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">5个</span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">6个</span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">7个</span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">9个</span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>一般来说，工作分析包含的要素有<b>7个</b>，是指6个W和1个H。</p><p>（1）<b>6个W</b>是指：①需要什么样的人完成此项工作（who）；&nbsp;<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">②需要完成什么样的工作（what）；&nbsp;</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">③工作要在什么时候完成（when）；&nbsp;</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">④工作将在哪里进行（where）；&nbsp;</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">⑤为什么要完成此项工作（why）；&nbsp;</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">⑥员工为谁工作（for whom）。</span></p><p>（2）<b>1个H</b>是指：如何做（how）。&nbsp;</p><p>综上可知，本题的正确答案为C。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1507真题-第1题",
+        "mainNodeName": "三、岗位分析的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在岗位说明书中，描述工作的总体性质，即列出主要工作的特征以及主要工作范围，称为（）</p>",
+        "questionId": 1589679,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作标识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作综述</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作程序</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7db4af34e7f05d4420e4d6be49f0a9d1/2017111600277.png\" alt=\"\" width=\"586\" height=\"168\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "五、岗位说明书的编制",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在岗位说明书中，列出工作的名称、编号、工作所属部门或班组、工作地位、岗位说明书的编写日期、编写人员与审核人，以及文件确认时间等项目，属于（）</p>",
+        "questionId": 1589689,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作标识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作综述</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作程序</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e647e3627c8f87fb3c09733a109fbc82/2017111600397.png\" alt=\"\" width=\"589\" height=\"167\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "五、岗位说明书的编制",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在岗位说明书中，列出工作团队中的人数、完成工作所要求的人际交往的数量和程度、各部门之间的关系，工作现场内外的文化设施、社会习俗等，属于（ ）</p>",
+        "questionId": 1589730,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内外软性环境</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作综述</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作活动和程序</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e8a2d5aee0cf5e93df5670a36638eeb1/2018042600412.png\" alt=\"\" width=\"581\" height=\"167\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "64.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "五、岗位说明书的编制",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>胜任素质的应用起源于（）</p>",
+        "questionId": 190890,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>19世纪50年代初</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>20世纪50年代初</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>19世纪80年代初</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>20世纪80年代初</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查胜任素质模型的发展历程。胜任素质的应用起源于20世纪50年代初。1973年麦克里兰博士在《美国心理学家》杂志上发表了《应测试的是胜任力而非智力》一文，标志着胜任素质运动的开端。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "一、胜任素质模型的发展历程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>国际上公认的胜任素质方法的创始人为（ ）</p>",
+        "questionId": 2101128,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>罗伯特•卡普兰</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>戴维•诺顿</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>彼得•圣吉</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>戴维•麦克里兰</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1973年<b>麦克里兰</b>博士在《美国心理学家》杂志上发表了《应测试的是胜任力而非智力》一文，标志着<b>胜任素质运动的开端</b>。因此，<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>麦克里兰</b>是胜任素质方法的创始人。本题选D。</span></p><p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">知识扩展：</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">胜任素质是指在特定工作岗位、组织环境和文化氛围中有优异成绩者所具备的任何可以客观衡量的个人特质。</span></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1607真题-第1题",
+        "mainNodeName": "一、胜任素质模型的发展历程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在使用观察法进行岗位分析的过程中，适用于周期长和突发性事件比较多的工作的是（ ）</p>",
+        "questionId": 1589387,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直接观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>阶段观察法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>间接观察法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作参与法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4ed83301064b1fa0866eaa992b353bd1/2018042504230.png\" alt=\"\" width=\"582\" height=\"117\"><br></p><p>选项C为干扰项，可排除。故本题选D。</p>",
+        "avgAnswerTime": 28,
+        "avgCorrectRate": "64.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "非结构化的岗位分析方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过观察，把有关工作各部分的内容、原因、方法、程序、目的等信息记录下来，把所有获得的工作信息进行整理，此种岗位分析的方法称为（）</p>",
+        "questionId": 1589430,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>访谈法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作实践法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/16b36c9aab3d893c909766c7b30b0677/2017111600395.png\" alt=\"\" width=\"584\" height=\"181\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "非结构化的岗位分析方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在结构化岗位分析法中，把工作中最关键的几个事件或因素找出来进行分析，或者把最有效的任职者选出来并对其所做所为进行描述的方法，称为（）</p>",
+        "questionId": 1589582,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件技术法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>扩展关键事件技术法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指导线导向岗位分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9485b4f0687a5232bf2b3898d813e556/2017111600276.png\" alt=\"\" width=\"584\" height=\"203\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "结构化岗位分析方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在结构化岗位分析法中，根据国家的就业政策和国家对工作设计的法律指导线来进行分析的方法，称为（ ）</p>",
+        "questionId": 1589602,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件技术法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>扩展关键事件技术法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指导线导向岗位分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c8a04ac563bd2cd6661f5018537820c4/2018042600424.png\" alt=\"\" width=\"583\" height=\"203\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "结构化岗位分析方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在胜任力冰山模型中，某人所具有的特征或其典型的行为方式，称为（）</p>",
+        "questionId": 2100935,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>特质</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>社会角色</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动机</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自我认知</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">特质</b><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">——</span><b style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">某人所具有的特征或其典型的行为方式</b><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">。</span><br></p><p>社会角色——个体对于社会规范的认知与理解。</p><p>动机——决定外显行为的内在稳定的想法或念头。<br>自我认知——对自己身份的知觉和评价。</p><p>故本题选A。<br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1607真题-第1题",
+        "mainNodeName": "胜任素质的基本内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在胜任力冰山模型中，个体对于社会规范的认知与理解，称为（ ）</p>",
+        "questionId": 2195527,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>知识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会角色</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>技能</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自我认知</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.知识指某一职业领域需要的信息（如人力资源管理的专业知识）。</p><p>2.社会角色指个体对于社会规范的认知与理解（如想成为工作团队中的领导）</p><p>3.技能指掌握和运用专门技术的能力（如英语读写能力、计算机操作能力）。</p><p>4.自我认知指对自己身份的知觉和评价（如认为自己是某一领域的权威）。</p><p>5.知识扩展：</p><p>胜任素质的基本内容包括以下几个层面：</p><p>知识；技能；社会角色；自我认知；特质；动机。</p><p>综上，本题选B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "71.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "胜任素质的基本内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在胜任力冰山模型中，某一职业领域需要的信息被称为（ ）</p>",
+        "questionId": 2404403,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>自我认知</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>技能</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会角色</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>知识</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>在胜任力冰山模型中：</p><p>（1）<b>知识</b>——<b>某一职业领域需要的信息</b>。\n<br>（2）技能——掌握和运用专门技术的能力。\n<br>（3）社会角色——个体对于社会规范的认知与理解。\n<br>（4）自我认知——对自己身份的知觉和评价。\n<br>（5）特质——某人所具有的特征或其典型的行为方式。\n<br>（6）动机——决定外显行为的内在稳定的想法或念头。</p><p>故本题应选D。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1707真题-第1题",
+        "mainNodeName": "胜任素质的基本内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

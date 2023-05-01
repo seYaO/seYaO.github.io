@@ -1,0 +1,726 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>在招聘广告设计上要注意AIDA法则，其中“D”，是指（）</p>",
+        "questionId": 1597941,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>创造愿望</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>促使行动</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>吸引注意</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>激发兴趣</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/89265f989541cbb515dff3e50443b2c4/2017111600404.png\" alt=\"\" width=\"578\" height=\"119\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "一、广告媒体招聘",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在设计招聘广告时要注意</font>AIDA法则。其中的D表示（ ）</span></p>",
+        "questionId": 2024934,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">吸引注意</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">激发兴趣</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">创造愿望</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">促使行动</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1、AIDA法则即</span><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">吸引注意（attract attention）、</span><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">激发兴趣（develop interest）、</span><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><b>创造愿望（create desire）</b>、</span><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">促使行动（promote action）。因此答案是C。</span></p><p class=\"MsoNormal\"><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">2、知识扩展：招聘广告是求职者了解职位信息的窗口。</span></p><p class=\"MsoNormal\"><br></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1804真题-第1题",
+        "mainNodeName": "一、广告媒体招聘",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在招聘广告设计上要注意AIDA法则，其中I指（ ）</p>",
+        "questionId": 2404414,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>创造愿望</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>促使行动</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>吸引注意</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>激发兴趣</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">招聘广告是为了让人们接受到企业人才招聘的信息，以吸引各种人才前来招聘。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">在设计上要注意</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">AIDA法则：</span></p><p>吸引注意——attract attention（A）</p><p><b>激发兴趣</b>——develop <b>interest（I）</b></p><p>创造愿望——create desire（D）</p><p>促使行动——promote action（A）</p><p>综上可知，本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1607真题-第1题",
+        "mainNodeName": "一、广告媒体招聘",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于外部招聘渠道的是（）</p>",
+        "questionId": 1598183,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内部晋升</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>岗位轮换</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员返聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>熟人推荐</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/8a295cfe6f22f89fdd790f4c172fcd75/2018033104774.png\" alt=\"\" width=\"583\" height=\"89\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第25题",
+        "mainNodeName": "五、熟人推荐",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">高级管理人才的选拔应遵循的原则是（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2013284,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">外部优先</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内外并重</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内部优先</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">上级委派</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">1、在人力资本成为企业核心竞争力重要组成部分的今天，高级管理人才对于任何企业的发展都是不可或缺的。企业在高级管理人才的选拔过程中应当遵循<b>内部优先</b>的原则。故可排除选项</font>AB，得出选项C正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">2、选项</font>D“上级委派”与题干中的“选拔”不符，可排除。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><br></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "70.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1904真题-第1题",
+        "mainNodeName": "四、企业选择招聘方式时应遵循的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在招聘到合适人员情况下所花费的成本最小，这体现了好的招聘渠道的（）</p>",
+        "questionId": 1595648,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>目的性特征</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济性特征</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>现实性特征</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可行性特征</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f5131b77cd34ff07e40197076f8aadc2/2017111600282.png\" alt=\"\" width=\"584\" height=\"102\"><br></p><p>选项C为干扰项，可排除。故本题选B。</p><p><br></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1307真题-第1题",
+        "mainNodeName": "招聘渠道的含义及类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">属于内部招聘渠道类型的是（ ）</font></span></p>",
+        "questionId": 2024916,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">校园招聘</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">熟人推荐</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">网络招聘</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工推荐法</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.企业比较常见的内部招聘渠道主要包括内部晋升、职位公告法、岗位轮换、</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">员工推荐法</font></span></b><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">。故选项</font>D正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.外部招聘渠道类型包括广告媒体招聘、校园招聘、借助中介、网络招聘、熟人推荐。故可排除选项ABC。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综上，本题选</font>D。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1804真题-第1题",
+        "mainNodeName": "招聘渠道的含义及类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于企业内部招聘渠道的是（ ）</p>",
+        "questionId": 2100127,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>校园招聘</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位公告法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>广告媒体招聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>熟人推荐</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">按照招聘人员来源方式的不同，可将招聘渠道分为内部招聘和外部招聘：<br></span>（1）<b>内部招聘</b>渠道：内部晋升、<b>职位公告法</b>、岗位轮换、员工推荐法；</p><p>（2）外部招聘渠道：<b>广告媒体招聘</b>、<b>校园招聘</b>、借助中介、网络招聘、<b>熟人推荐</b>。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1707真题-第1题",
+        "mainNodeName": "招聘渠道的含义及类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>招聘渠道的选择是否能够达到招聘的要求，体现了招聘渠道的（ ）</p>",
+        "questionId": 2101097,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>目的性&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>经济性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>现实性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可行性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">一个</span>好的招聘渠道应具备以下特征：</p><p>（1）<b>目的性：招聘渠道的选择是否能够达到招聘的要求</b>。</p><p>（2）经济性：在招聘到合适人员情况下所花费的成本最小。<br>（3）可行性：选择的招聘渠道符合现实情况，具有可操作性。</p><p>综上可知，C选项为干扰项，<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">本题选A。</span></p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "71.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1607真题-第1题",
+        "mainNodeName": "招聘渠道的含义及类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>选择招聘渠道时，招聘成本也是需要考虑的问题，要做到用最少的开支找到最合适的人才，这体现了招聘渠道的（）</p>",
+        "questionId": 1596305,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>时效性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>普适性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/88edf44c6bf2eca6d174a87d0a8ebce8/2017111600403.png\" alt=\"\" width=\"583\" height=\"160\"><br></p><p>选项D为干扰项，可排除。故本题选C。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1304真题-第1题",
+        "mainNodeName": "招聘渠道选择的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>好的招聘渠道既要能在短时间内建立企业和求职者的相互了解，又要保证双方沟通足够便利，这体现了招聘渠道的（ ）</p>",
+        "questionId": 1596323,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>时效性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>普适性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e1ca857c08b315e186c703db87d94cd2/2018042504260.png\" alt=\"\" width=\"579\" height=\"161\"><br></p><p>选项D为干扰项，可排除。故本题选A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1404真题-第1题",
+        "mainNodeName": "招聘渠道选择的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>选择招聘渠道时，要做到用最少的开支招到最合适的人才。这一招聘渠道选择的原则是（）</p>",
+        "questionId": 1596547,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实用性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2144c1453aca7063877df202e838ebaf/2017111501334.png\" alt=\"\" width=\"582\" height=\"162\"><br></p><p>选项CD为干扰项，可排除。故本题选A。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1504真题-第1题",
+        "mainNodeName": "招聘渠道选择的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>好的招聘渠道应该适用于不同类型的人才招聘，因此在选择招聘渠道时，要结合岗位需求，确定理想的人才群体，有的放矢，这体现了招聘渠道的（）</p>",
+        "questionId": 1596560,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>时效性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>经济性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>普适性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d9f89cf05ebbeb901093913c9855969f/2017111501283.png\" alt=\"\" width=\"578\" height=\"161\"><br></p><p>选项D为干扰项，可排除。故本题选B。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1604真题-第1题",
+        "mainNodeName": "招聘渠道选择的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>好的招聘渠道既要能在短时间内建立企业和求职者的相互了解，又要保证双方沟通足够便利。这一招聘渠道选择的原则是（）</p>",
+        "questionId": 1596639,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经济性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>普适性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>时效性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/39e1b5f97c7a5d71c9557675507f077e/2018033105379.png\" alt=\"\" width=\"580\" height=\"159\"><br></p><p>选项C为干扰项，可排除。故本题选D。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1704真题-第4题",
+        "mainNodeName": "招聘渠道选择的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">猎头公司的猎物对象是（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2097634,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">高级管理人才</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“蓝领”人才</span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">基础事务人才</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">微观区域人才</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>猎头公司的猎物对象是高级管理人才</b>，一般来说，主要是举荐总裁、副总裁、总经理、其他高级顾问及其他经理级以上人才等。故本题的正确答案为A。</p><p>2.知识扩展：人才交流中心的服务对象是“蓝领”人才、基础事务人才、微观区域人才。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1507真题-第1题",
+        "mainNodeName": "猎头公司",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}
