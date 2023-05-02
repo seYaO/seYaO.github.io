@@ -5,6 +5,318 @@
   "resultMessage": {
     "total": 22,
     "totalSubQuestionNum": 22,
-    "questionList": null
+    "questionList": [
+      {
+        "questionContent": "1.提高人力资源质量最重要、最直接的手段是( )",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>优生优育</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>营养</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>教育</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人口迁移</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点:最重要、最直接教育是赋予人力资源质量的一种最重要、最直接的手段，它能使人力资源 的智力水平和专业技能水平都得到提高。C 项正确营养因素是人体发育的重要条件，排除 B 项人口迁移是 影响人力资源数量的因素，排除 D 项 A 项未提及，为干扰项，排除;故本题的正确答案为 C 项。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "2.人力资源与其他资源最根本的区别是人力资源在被开发的过程中具有( )",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生物性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>能动性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>再生性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>时代性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>人力资源的特点主要包括:(1)存在状态的生物性。(2)开发对象的能动性。(3)人力资源在被开发的过程中具有能动性，这是人力资源与其他资源最根本的区别。生成过程的时代性。(4)使用过程的 时效性。(5)开发过程的持续性。(6)使用开发的再生性。(7)闲置过程的消耗性。(8)人力资源的 社会性。故本题的正确答案为 B 项。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "3.战略性人力资源管理的核心要求是( )",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>战略性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>匹配性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点:核心要求</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "4.人力资源管理的发展先后经历了三个阶段，具体为:人事管理、人力资源管理以及( )",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>策略性人力资源管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>技术性人力资源管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>战术性人力资源管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>战略性人力资源管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>人力资源管理的发展阶段:(1)人事管理;(2)人力资源管理;(3)战略性人力资源管理。这三 个阶段既有联系又有区别。故本题的正确答案为 D。易混淆选项为 C，考生需注意区分。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "5.商品的价值是由转移价值和________价值这两个性质不同的主要部分构成。",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": null,
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>商品的价值主要由转移价值和附加价值这两个性质不同的主要部分构成。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "附加",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "1.属于现实的人力资源的是( )",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>在校的青年学生</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>现役军人</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>从事家务劳动的家庭妇女</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>由于非个人原因暂时未能从事劳动的人口</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的关键在于区分现实的人力资源和潜在的人力资源。现实的人力资源包括正在从事劳动和投入 经济运行的人口，以及由于非个人原因暂时未能从事劳动的人口(如失业)。而 ABC 这三类人都属于潜在 的人力资源。故本题正确答案选 D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "2.西方人力资源管理理论的基础是( )",
+        "questionId": 1541458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>个人主义</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集体主义</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自由主义</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集权主义</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点:“西方”、“基础”。个人主义是西方人力资源管理理论的基础。故本题的正确答案为 A。 扩展:在西方人力资源管理上，实行的是自由雇佣制，这是一种个人之间高度竞争的劳动制度。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1407真题-第1题",
+        "mainNodeName": "一、人力资源的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
   }
 }
