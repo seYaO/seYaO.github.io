@@ -1,0 +1,676 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 14,
+    "totalSubQuestionNum": 14,
+    "questionList": [
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工关系管理的根本是（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1956371,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">利益关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳资关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">隶属关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">信赖关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><font face=\"微软雅黑\">本题属于概念识记类题目，主要考查的是<b>利益关系</b>的相关概念。<b>利益关系</b>——员工关系管理的<b>根本</b>+企业处理员工关系的<b>最大约束</b>。</font></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><font face=\"微软雅黑\">B项“劳资关系”在20世纪初已被员工关系取代，故排除。C、D选项未涉及，为无关干扰项，故排除。</font></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "员工关系管理的特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\">企业处理员工关系的最大约束<span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">是（ ）</font></span></p>",
+        "questionId": 1956377,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">利益关系</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理契约</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">企业目标</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">企业价值观</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\"><font face=\"微软雅黑\">本题属于概念识记类题目，主要考查的是利益关系的相关概念。</font></p><p class=\"MsoBodyText\"><font face=\"微软雅黑\">考生可结合表格区分记忆：</font></p><p class=\"MsoBodyText\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2e49eb81b5f0874561d336561132d4f5/员工关系管理的特征.png\" alt=\"\" width=\"467\" height=\"73\"><font face=\"微软雅黑\"><br></font></p><p class=\"MsoBodyText\">C项为无关干扰项，故本题选A。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "员工关系管理的特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业中的员工关系并不是一成不变的，往往会随着企业薪酬制度、绩效考评制度等的变化而发生变化。这体现了员工关系中（ ）</p>",
+        "questionId": 1956641,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">复杂性特征</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">多变性特征</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">社会性特征</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">适应性特征</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\">本题属于理解记忆类题目，主要考查的是员工关系多变性特征的表现。其中，D不属于员工关系的特征，故排除。</p><p class=\"MsoBodyText\">考生可结合表格区分记忆：</p><p class=\"MsoBodyText\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5d8ec636e65622a596b83e6e17b5be4d/复杂多变社会.png\" alt=\"\" width=\"587\" height=\"73\"><br></p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "员工关系的特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">20世纪初期，西方学者从人力资源管理角度提出的，用以取代“劳资关系”概念的是（ ）</span></p>",
+        "questionId": 1956679,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">雇佣关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳工关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">雇工关系</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">本题属于概念识记类题目，考生需牢记一个关键点：20世纪初→<b>员工关系取代“劳资关系”</b>。</font></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工关系概念的记忆关键：<b>员工关系</b>→社会关系在企业中的特殊表现形式→</font><b>20世纪初</b>，西方学者从<b>人力资源管理</b>角度提出的<b>取代“劳资关系”</b>的概念。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "员工关系的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">属于员工关系管理的内部环境的是（ ）</font></span></p>",
+        "questionId": 2031110,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">经济环境</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">社会文化环境</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">技术环境</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">工作环境</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6395e95a63ba8219d3e45986f78ba67c/image.png\" alt=\"\" width=\"599\" height=\"55\"><br></p><p>由表可知，本题应选D。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "二、员工关系管理的内部环境",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在诸多政策环境中，对劳动力市场以及就业组织中的员工关系的影响最为直接的政策是（ ）</font></span></p>",
+        "questionId": 2031124,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">货币政策</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">财政政策</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">产业政策</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">就业政策</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:5.2500pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">本题属于细节记忆类题目，主要考查的是员工关系管理的外部环境之一<b>政策环境</b>，考生需牢记：</font></span><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\"><font face=\"微软雅黑\"><b>就业</b>政策→</font></span>最<b>直接影响</b><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\">劳动力市场+就业组织的员工关系。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:5.2500pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\">就业政策→通过调整供求状况→改变供求关系双方在劳动力市场的力量。</span></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "政策环境",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">属于员工关系管理外部环境的是（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2031128,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">组织结构</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">社会文化环境</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">企业文化</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">工作环境</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6395e95a63ba8219d3e45986f78ba67c/image.png\" alt=\"\" width=\"599\" height=\"55\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">由表可知，本题应选B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "员工关系管理的外部环境",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">个体与组织之间隐含的、没有明文规定的双方各自的责任以及对对方的期望称为（）</font></span></p>",
+        "questionId": 2031568,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">情感体验</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理沟通</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理契约</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理暗示</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">1.情感体验</font></span>指个体对自己情感状态的意识。与题干不符，可排除。</p><p class=\"MsoBodyText\"><span style=\"font-family: 微软雅黑;\">2.心理沟通的重点在沟通，与题干不符，可排除。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\"><b><br></b></font></span></p><p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\"><b>3.心理契约</b>是</font></span>个体与组织之间隐含的、没有明文规定的双方各自的责任以及对对方的期望<span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">，包括员工期望组织为自己提供什么即组织对员工的信任，以及组织对员工的期望即员工对组织的信任。故选项C正确。</span></p><p class=\"MsoBodyText\"><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">4.心理暗示</span>指人接受外界或他人的愿望、观念、情绪、判断、态度影响的心理特点。与题干不符，可排除。</p><p class=\"MsoBodyText\">综上，本题选C。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "三、员工心理契约与满意度管理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工参与管理是依据企业管理过程中的</font>“机会均等”原则和（）</span></p>",
+        "questionId": 2031833,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“分享管理”原则</span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“自主管理”原则</span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“利益共享”原则</span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“和谐共处”原则</span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><b><font face=\"微软雅黑\">1.员工参与是依据企业管理过程中的</font>“分享管理”和“机会均等”原则发展而来的</b>，其核心是员工有权参与涉及他们自身利益问题的决策和管理，一般是指名义上不具有管理职权的员工参与企业经营决策或管理实践活动。可排除选项BCD，得出选项A正确。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.“自主管理”原则、“利益共享”原则和“和谐共处”原则与员工参与管理的依据没有直接联系。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.知识扩展：员工参与管理有多种形式，最主要的几种形式是分享决策权、代表参与、质量圈、员工持股、职工代表大会和建议方案这几种形式。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">综上，本题选A。</span></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "四、员工参与管理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">对核心人才的绩效考核方式一般是采取（）</font></span></p>",
+        "questionId": 2409381,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">结果导向型</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">过程导向型</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">规范导向型</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">目标导向型</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">此题考核的是对核心人才的绩效考核方式。<b>对核心人才的绩效考核一般是结果导向型而非过程导向型</b>，即雇主更多考虑核心人才为企业带来的利益，而非他们在企业中工作的规范性和程序性。</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "五、重视对核心人才的管理与开发",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在员工关系中，一方没有履行某一义务，他方可以免除另一相对义务的履行，这体现了员工关系特征中的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2409382,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">经济性特征</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">个别性特征</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">对等性特征</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">双方性特征</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题属于理解记忆类题目，主要考查的是员工关系<b>对等性特征</b>的表现。其中，D不属于员工关系的特征，故排除。\n<br>考生可结合表格区分记忆：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c8164808dc763138ad140bd5fd6638cd/个别经济对等.png\" alt=\"\" width=\"578\" height=\"73\"><br></p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "员工关系的特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“知识型员工”概念的提出者是（）</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2409385,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">莱文森</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">施恩</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">西蒙</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">德鲁克</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\">​1.<b>“心理契约之父”莱文森</b>提出，心理契约是“组织和员工之间隐含的、未公开说明的相互期望的总和”。<span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\"><b><br></b></font></span></p><p class=\"MsoBodyText\">2.<b>组织行为学家施恩</b>在其《组织行为学》中将心理契约定义为“在任一组织中，每一成员与该组织的各种管理者之间及其他人之间，总是有一套非成文的期望在起作用”。</p><p class=\"MsoBodyText\">3.<b>美国管理学家赫伯特•西蒙</b>认为“沟通可视为任何一种程序，借此程序，组织中的一员将其所决定意见或前提，传送给其他有关的成员。”</p><p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\"><b>4.德鲁克</b>提出了知识型员工的概念，故选项D正确</font>。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">综上，本题选D。</span></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "二、知识型员工成为员工关系管理的主要对象",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>当冲突发生时，我们首先要辨别冲突的（ ）</p>",
+        "questionId": 2520881,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>类型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>范围</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>焦点</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>当事人</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）冲突发生时，首先要<b><u>辨别冲突的类型</u></b>，对不利冲突必须加以解决；</p><p>（2）知识扩展：解决冲突的方法包括：协商法、上级仲裁法、拖延法、和平共处法、转移目标法、教育法。</p><p>故本题选A。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "六、冲突和危机管理",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对核心人才的绩效考核一般是采取（ ）</p>",
+        "questionId": 2520915,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>结果导向型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>过程导向型</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>程序导向型</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>制度导向型</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）对核心人才的绩效考核一般是<b>结果导向型而非过程导向型</b>，即雇主更多考虑核心人才为企业带来的利益，而非他们在企业中工作的规范性和程序性；</p><p>（2）知识扩展：企业核心人才，是指那些拥有专门技术，掌握核心机密，控制关键资源，对企业发展产生深远影响的人才。</p><p>故本题选A。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "五、重视对核心人才的管理与开发",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,964 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>企业依据员工个人的绩效评价结果，确定奖金的发放标准并支付的奖金被称为（ ）</p>",
+        "questionId": 2049756,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效加薪</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>特殊奖金</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>特别津贴</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效奖金</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>绩效加薪</b>指将基本薪酬的增加与员工所获得的评价等级联系在一起的绩效奖励计划。<br></p><p>2.<b>特殊奖金计划</b>指在员工努力的程度超出了工作标准的要求，为企业创造了优异的业绩或作出了重大贡献时，企业给予他们的一次性奖励。</p><p>3.<b>绩效奖金</b>是企业依据员工个人的绩效评价结果，确定奖金的发放标准并支付奖金的做法。故选项D正确。</p><p>4.<b>特别津贴</b>不符合题干要求。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "四、绩效考核结果在薪酬中的应用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在员工努力的程度超出了工作标准的要求，为企业创造了优异的业绩或作出了重大贡献时，企业给予他们的一次性奖励，称为（）</p>",
+        "questionId": 2049929,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效加薪</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>特别津贴</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>特殊奖金认可计划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效奖金</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.最为常见的薪酬制度有：绩效加薪、绩效奖金、特殊绩效奖金认可计划。故可排除选项B。</p><p>2.<b>绩效加薪</b>指将基本薪酬的增加与员工所获得的评价等级联系在一起的绩效奖金计划。</p><p>3.<b>绩效奖金</b>是企业依据员工个人的绩效评价结果，确定奖金的发放标准并支付奖金的做法。</p><p>4.<b>特殊奖金认可计划</b>指在员工努力的程度超出了工作标准的要求，为企业创造了优异的业绩或作出了重大贡献时，企业给予他们的一次性奖励。</p><p>综上，本题选C。<br></p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "四、绩效考核结果在薪酬中的应用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效反馈面谈时，在了解公司激励政策的前提下予以奖励，并且提出更高的目标和要求的策略，适用于（）</p>",
+        "questionId": 1782335,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>贡献型下属</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>冲锋型下属</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>安分型下属</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>堕落型下属</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d8ccfb76985ea07607f69d747254a21d/image.png\" alt=\"\" width=\"578\" height=\"120\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作态度不错，工作兢兢业业、认认真真，对上司、公司有很高的认同度，可是工作业绩就是上不去的员工类型属于（）</p>",
+        "questionId": 1782391,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>贡献型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>冲锋型</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>堕落型</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>安分型</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/033cffe6c3fc272f08ff4dd1f824be91/image.png\" alt=\"\" width=\"576\" height=\"140\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">绩效</font>BEST反馈中，T指的是（）</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1998370,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">表达后果</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">征求意见</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">放眼未来</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">描述行为</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c5b21f38d95e12b53554b993cf7240bd/image.png\" alt=\"\" width=\"230\" height=\"115\"><br></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">故本题选</font>C。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效结果反馈者如实将考核结果的优缺点告诉被评人，并用实例说明绩效结果的正确性，最后鼓励其发扬优点，改进缺点和再创佳绩的绩效反馈面谈方法，称为（）</p>",
+        "questionId": 2048647,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>倾听法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>解决问题法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>说服法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>信任建立法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效反馈面谈的主要方法有倾听法、说服法、解决问题法。可排除选项D。<br></p><p>2.<b>倾听法</b>指绩效结果反馈者如实将考核结果告诉被评人，然后倾听对方意见，相互讨论。</p><p>3.<b>说服法</b>指绩效结果反馈者如实将考核结果的优缺点告诉被评人，并用实例说明绩效结果的正确性，最后鼓励其发扬优点，改进缺点和再创佳绩。故选项C正确。</p><p>4.<b>解决问题法</b>指绩效结果反馈者一般不将考核结果告诉被评人，而是帮助其自我评价，重点放在寻找解决问题的途径上，协商出有针对性的改正计划。</p><p>综上，本题选C。<br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效结果反馈者如实将考核结果告诉被评人，然后倾听对方意见，相互讨论的绩效反馈面谈方法称为（）</p>",
+        "questionId": 2049042,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>倾听法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>解决问题法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>说服法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>信任建立法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效反馈面谈的主要方法有<b>倾听法、说服法、解决问题法</b>。故可排除选项D。<br></p><p>2.<b>倾听法</b>指绩效结果反馈者如实将考核结果（优缺点）告诉被评人，然后倾听对方意见，相互讨论。</p><p>3.<b>说服法</b>指绩效结果反馈如实将考核结果的优缺点告诉被评人，并用实例说明绩效结果的正确性，然后鼓励其发扬优点，改进缺点和再创佳绩。</p><p>4.<b>解决问题法</b>指绩效结果反馈者一般不将考核结果告诉被评人，而是帮助其自我评价，重点放在寻找解决问题的途径上，协商出有针对性的改正计划。</p><p>综上，本题选A。<br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在商业组织目标和绩效目标驱动下，通过评估问题症状，分析导致绩效问题的根本原因来找出对症的策略，改进绩效，从而促使组织商业目标和绩效目标的达成。这种解决组织绩效问题的方式称为（）</p>",
+        "questionId": 2048599,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>愿望导向</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果导向</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>需要导向</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>过程导向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.解决组织绩效的问题有几种方式：愿望导向、需要导向与结果导向。可排除选项D。<br></p><p>2.<b>愿望导向</b>指客户需要什么，就给他们什么。</p><p>3.<b>需要导向</b>指通过一系列活动来应对客户的绩效差距。</p><p>4.<b>结果导向</b>指在商业组织目标和绩效目标驱动下，通过评估问题症状，分析导致绩效问题的根本原因来找出对症的策略，改进绩效，从而促使组织商业目标和绩效目标的达成。故选项B正确。</p><p>综上，本题选B。<br></p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "以结果为导向，强调“执果索因”与“对症下药”",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>客户需要什么，就给他们什么，此种解决组织绩效问题的方式称为（）</p>",
+        "questionId": 2048639,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>愿望导向</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>结果导向</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>需要导向</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>过程导向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.解决组织绩效的问题有几种方式：愿望导向、需要导向与结果导向。可排除选项D。<br></p><p>2.<b>愿望导向</b>指客户需要什么，就给他们什么。故选项A正确。</p><p>3.<b>需要导向</b>指通过一系列活动来应对客户的绩效差距。</p><p>4.<b>结果导向</b>指在商业组织目标和绩效目标驱动下，通过评估问题症状，分析导致绩效问题的根本原因来找出对症的策略，改进绩效，从而促使组织商业目标和绩效目标的达成。</p><p>综上，本题选A。<br></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "63.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "以结果为导向，强调“执果索因”与“对症下药”",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>解决组织绩效问题有多种方式：愿望导向、结果导向和（）</p>",
+        "questionId": 2049764,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>过程导向</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>财务导向</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客户导向</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>需要导向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.解决组织绩效的问题有几种方式：<b>愿望</b>导向；<b>需要</b>导向；<b>结果</b>导向。故可排除选项ABC，得出选项D正确。</p><p>2.本题口诀：结果需要愿望。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "以结果为导向，强调“执果索因”与“对症下药”",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>客户需要什么，就给他们什么，这种解决组织绩效问题的方式是（ ）</p>",
+        "questionId": 2128565,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>需要导向</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果导向</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​愿望导向<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>过程导向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.解决组织绩效的问题有几种方式：愿望导向、需要导向与结果导向。可排除选项D。\n<br>2.<b>愿望导向</b>指客户需要什么，就给他们什么。故选项C正确。\n<br>3.需要导向指通过一系列活动来应对客户的绩效差距。 可排除选项A。</p><p>4.结果导向指在商业组织目标和绩效目标驱动下，通过评估问题症状，分析导致绩效问题的根本原因来找出对症的策略，改进绩效，从而促使组织商业目标和绩效目标的达成。 可排除选项B。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "以结果为导向，强调“执果索因”与“对症下药”",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过一系列活动来应对客户的绩效差距，这种解决组织绩效问题的方式称为（ ）</p>",
+        "questionId": 2409323,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>愿望导向</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>过程导向</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果导向</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>需要导向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>解决组织绩效的问题有几种方式：愿望导向、需要导向与结果导向。<br>愿望导向指客户需要什么，就给他们什么。&nbsp;<br>需要导向指通过一系列活动来应对客户的绩效差距。\n<br>结果导向指在商业组织目标和绩效目标驱动下，通过评估问题症状，分析导致绩效问题的根本原因来找出对症的策略，改进绩效，从而促使组织商业目标和绩效目标的达成。\n<br>B项是干扰项。故本题应选D项。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "以结果为导向，强调“执果索因”与“对症下药”",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效改进的基本流程中，绩效分析的两个步骤是需求评估和（）</p>",
+        "questionId": 1785549,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>原因分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>指标设计</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>双向沟通</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>设计开发</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dc37d5d77f19d3ab6c4c417d98bf2e5f/image.png\" alt=\"\" width=\"207\" height=\"65\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>需要通过对组织的绩效改进效果进行持续追踪，从而评估方案实施后个体或组织的持续能力、持续效果等，此绩效改进的评价类型称为（）</p>",
+        "questionId": 1785904,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>形成性评价</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>总结性评价</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>证实性评价</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>元评价</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a0e0cee20367ac0f1b7c62ee56e2ad11/image.png\" alt=\"\" width=\"582\" height=\"160\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 31,
+        "avgCorrectRate": "66.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "评价绩效改进",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效改进的评价可分为：形成性评价、总结性评价、证实性评价和（）</p>",
+        "questionId": 2049109,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>动评价</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测性评价</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>元评价</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>多层次评价</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1、绩效改进的评价可分为：“形成性评价”、“总结性评价”、“证实性评价”和“元评价”四类。故可排除选项ABD，得出选项C正确。<br></p><p>2、动评价、预测性评价、多层次评价在本书未涉及。</p><p>综上，本题选C。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "评价绩效改进",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于传统绩效管理方法的是（ ）</p>",
+        "questionId": 2107623,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>配对比较法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>关键绩效指标法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>平衡计分卡</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>标杆管理法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>传统绩效考核方法：比较类考核方法（如排序法、<b>配对比较法</b>、强制分布法）、量表类考核方法（如尺度评价表法、行为锚定等级评定法）、其他考核方法（如关键事件法、不良事故考核法）。\n<br>现代绩效管理方法：关键绩效指标法；平衡计分卡；目标管理法；标杆管理法等。</p><p>BCD为现代绩效管理方法，故排除。本题应选A项。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "传统绩效考核方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在现代绩效管理方法中，以全面衡量企业经营能力、推进企业战略实施的考核方法是（ ）</p>",
+        "questionId": 1786609,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>标杆管理法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键绩效指标法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>目标管理法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>平衡计分卡</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/26535b081443de6be48dc09fd35febb0/image.png\" alt=\"\" width=\"581\" height=\"120\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "现代绩效管理方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于现代绩效管理方法的是（）</p>",
+        "questionId": 2049751,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>配对比较法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>尺度评价表法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>平衡计分卡</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>不良事故考核法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>传统绩效考核方法</b>有比较类考核方法（如排序法、<b>配对比较法</b>、强制分布法）、量表类考核方法（如<b>尺度评价表法</b>、行为锚定等级评定法）、其他考核方法（如关键事件法、<b>不良事故考核法</b>）。</p><p>2.<b>现代绩效管理方法</b>有关键绩效指标法；<b>平衡计分卡</b>；目标管理法；标杆管理法等。</p><p>综上，本题选C。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "现代绩效管理方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>业绩评定表应用的核心是（  ）</p>",
+        "questionId": 2524105,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>行为</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>因素</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>表格</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>业绩评定表应用的核心是<b><u>表格</u>。</b></p><p>故本题选D。</p><p>【拓展】</p><p><b>表格</b>由两部分组成：一是被评估的各项因素；二是按照一定的评估尺度，用特定的表述方式将各项被评估因素分为高低渐次的几个等级（通常为5-7个）。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "操作步骤",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>行为锚定等级评价法的提出者是（  ）</p>",
+        "questionId": 2524107,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>德鲁克和瓦泽瑞</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>麦克利兰和法约尔</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>史密斯和肯德尔</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>弗拉赖根和贝勒斯</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>行为锚定等级评价法</b>：也称为行为定位法、行为决定性等级量表法、行为定位等级法，1963年由美国学者<b><u>史密斯和肯德尔</u></b>在美国全国护士联合会的资助下提出。</p><p>故本题选C。</p><p>彼特‧德鲁克在《管理实践》一书中提出了目标管理理论。</p><p><br></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "定义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

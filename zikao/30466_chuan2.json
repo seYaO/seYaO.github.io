@@ -1,0 +1,484 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 10,
+    "totalSubQuestionNum": 10,
+    "questionList": [
+      {
+        "questionContent": "<p>心理契约是形成组织凝聚力和团队氛围的一种无形手段，本质上是一种（ ）</p>",
+        "questionId": 2520902,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>显性契约</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​经济契约<br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>制度契约</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>情感契约​</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>心理契约本质上是一种情感契约</b>，是形成组织凝聚力和团队氛围的一种无形的手段。</p><p>（2）知识扩展：心理契约是组织和个人双方彼此对对方应该付出什么同时又应该得到什么的一种主观心理约定，约定的核心成分是组织和个人双方内隐的不成文的相互责任。</p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "一、心理契约的内涵",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">当竞争激烈形成工作压力时，人们会对环境作出不同程度的反应，这时，彼此之间就可能产生冲突。造成这种冲突的原因是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1549549,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">信息缺乏</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">价值观的差异</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">环境应激</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">沟通障碍</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/656f2a809fb7d9274622028601a71e2b/2018051002072.png\" alt=\"\" width=\"593\" height=\"125\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">故本题选C。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "二、冲突产生的原因",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">纪律处分程序中最重要的步骤是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2032044,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">向员工说明规章制度</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">建立规章制度</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">观察员工表现</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">实施恰当的处分</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.<b>“向员工说明规章制度”</b>这一步骤是纪律处分程序中最重要的步骤。故选项A正确。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.<b>建立规章制度</b>指凡是直接或间接影响企业生产力或企业目标达成的事项，都应当研拟成具体的纪律法规，以规范员工工作行为。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.<b>观察员工的表现</b>指在确保员工对规章制度及目标有了一定程度上的了解后，接下来要做好的就是不断观察员工的表现，并且经常给予反馈。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.<b>实施恰当的处分</b>指如果员工的行为背离规章制度很远，就要遵照规章制度对其实施恰当的处分。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">综上，本题选A。</span></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "三、纪律处分的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">现代企业中员工和企业间关系的最佳结合点是（）</font></span></p>",
+        "questionId": 2409380,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理契约</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动合同</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动协议</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">职业生涯规划</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\"><b>心理契约</b>是现代企业中员工和企业间关系的最佳结合点。</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "54.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "心理契约在员工关系管理中的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">最常见的员工满意度调查方法是（）</font></span></p>",
+        "questionId": 2031989,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">工作描述指数法</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">明尼苏达工作满意度调查表</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">彼得需求满意调查表</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">李克特满意度调查表</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">1.常用的员工满意度调查方法主要有：</font></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">（</font>1）工作描述指数法。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\">（2）明尼苏达工作满意度调查表。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\">（3）彼得需求满意调查表。</span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\">可排除选项D。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><font color=\"#000000\" face=\"微软雅黑\">2.</font>工作描述指数法<span style=\"color: rgb(0, 0, 0); font-family: 微软雅黑;\">这是最常见的员工满意度调查方式。故选项A正确。</span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"color: rgb(0, 0, 0); font-family: 微软雅黑;\">3.</span>明尼苏达工作满意度调查表，该表含有20大项，每一大项下有5个小项，共计100个细项调查内容。</p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">4.彼得需求满意调查表，该表适用于管理人员的开放性调查方式。</p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">综上，本题选A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "员工满意度调查",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">企业采用再设计方法，使工作具有更高挑战性和成就感，让工作变得多样化，这被称为</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">（）</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+        "questionId": 2031661,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">工作扩大化</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">工作轮换</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">职务专业化</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">工作丰富化</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">1.<b>工作扩大化</b>是通过增加某一工作的内容，使员工的工作内容扩大，要求员工掌握更多的知识和技能，从而提高员工对工作的兴趣。</font></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">2.<b>工作轮换</b>是让员工从执行一项工作转向执行另一项工作，从而克服工作的单调感，并提升员工的综合工作技能。</font></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">3.<b>职务专业化</b>是将职务划分为单一的、标准化和专一化的任务，以提高生产率。</font></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">4.<b>工作丰富化</b>是指使工作具有更高的挑战性和成就感，企业让工作变得多样化、丰富化。故选项D正确。</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">综上，本题选D。</font></span></p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "员工满意度分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">最常见的解决冲突的方法是</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">（ ）</font></span></p>",
+        "questionId": 1993178,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">协商法</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">教育法</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">拖延法</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">和平共处法</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d41d8cd98f00b204e9800998ecf8427e/chulicohngtu.JPG\" alt=\"\" width=\"633\" height=\"332\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "处理冲突的策略与方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从广义上说，纪律就是（ ）</p>",
+        "questionId": 2520841,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>秩序</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>制度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>约束</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>法规</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>广义上说，纪律就是秩序</b>；</p><p>（2）纪律是企业员工的自我控制及有秩序的行为，它显示了组织内部真诚的合作；</p><p>（3）纪律并不意味着僵硬的规定和严格的信条，而是指正常而有秩序的活动。</p><p>故本题选A。</p>",
+        "avgAnswerTime": 3,
+        "avgCorrectRate": "100.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "纪律的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">若明知企业有相关规定，还要以身试</font>“法”、触犯单位的规章制度，就一定要对其进行惩处，以明纪律、以儆效尤。这体现了“热炉法则”中的（）</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2409378,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">即时性原则</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">彻底贯穿性原则</font></span><span style=\"mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">警告性原则</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">验证性原则</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\">1.<b>即时性原则</b>指惩处必须在错误行为发生后立即进行，决不拖泥带水，决不能有时间差，以便达到及时改正错误行为的目的。<br></p><p class=\"MsoBodyText\">2.<b>彻底贯穿性原则</b>指执行和落实惩罚制度虽然会使人痛苦一时，但绝对必要。</p><p class=\"MsoBodyText\">3.<b>警告性原则</b>指为让员工趋利避害，企业的领导就要经常对下属进行规章制度的教育和宣传，以警告或劝诫员工不要触犯规章制度，说明罚款的种类和额度。</p><p class=\"MsoBodyText\">4.<b>验证性原则</b>指谁若明知企业有相关规定，还有以身试“法”、触犯单位的规章制度，就一定要对其进行惩处，以明纪律、以儆效尤。故选项D正确。</p><p class=\"MsoBodyText\">综上，本题选D。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "纪律处分方式一：热炉法则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在倾听的层次中，最高层次的听是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1560166,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">听而不闻</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">敷衍了事的听</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">有选择的听</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">同理心的倾听</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7ee6f95599ed1915cb202073b37524ff/2018051002746.png\" alt=\"\" width=\"583\" height=\"141\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">本题选D。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "学会倾听",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

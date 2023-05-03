@@ -1,0 +1,960 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>小组内部同类人员相互比较作出评价，可以确定人员的优劣顺序，但不能准确地把握员工与职位要求之间的符合程度，此种考核方法称为（）</p>",
+        "questionId": 1765329,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绝对标准考核</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相对标准考核</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​特征导向考核<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果导向考核</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a39c69d0f09f231dee1aabc942248c6a/image.png\" alt=\"\" width=\"579\" height=\"202\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>按同一尺度去衡量相同职务人员，可以明确地判断员工是否符合职位要求以及符合的程度，此种考核方法称为（）</p>",
+        "questionId": 1765376,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绝对标准考核</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>相对标准考核</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>特征导向考核</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结果导向考核</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/982150b44f1d64aa01f9f6b9c991d863/image.png\" alt=\"\" width=\"579\" height=\"202\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从考核内容来看，考核的重点是员工的工作方式和工作行为，此种绩效考核类型称为（）</p>",
+        "questionId": 1765513,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>特征导向型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>行为导向型</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>结果导向型</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>标准导向型</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3bcc11aae6adefe1a832e6f4cd2b2d8d/image.png\" alt=\"\" width=\"579\" height=\"139\"><br></p><p>选项D不是按考核内容的分类。故本题选B。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效考核分为特征导向型、行为导向型和结果导向型的划分标准是（）</p>",
+        "questionId": 1765632,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考核时间</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核主体</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核内容</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​考核方法<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/55275368008fa61304ea5eea9ec6c15a/image.png\" alt=\"\" width=\"579\" height=\"119\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效考核分为口头考核与书面考核、直接考核与间接考核、个别考核与集体考核的划分标准是（ ）</p>",
+        "questionId": 1765651,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考核时间</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核性质</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核形式</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>考核目的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c228fdec24e26bc2d2f0d56c257e064d/image.png\" alt=\"\" width=\"577\" height=\"139\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从考核内容来看，考核的重点是工作内容和工作质量，此种绩效考核类型称为（ ）</p>",
+        "questionId": 2109173,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>特征导向型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>行为导向型</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​结果导向型<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>标准导向型</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>按照考核内容划分，绩效考核可分为：</p><p>行为导向型：考核的重点是员工的工作方式和工作行为，即对工作过程的考量。<br>特征导向型：考核的重点是员工的个人特质，即考量员工是一个怎样的人。</p><p><b>结果导向</b>型：<b>考核的重点是工作内容和工作质量</b>，侧重点是员工完成的工作任务和生产的产品。</p><p>选项D为干扰项，故本题选C。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效考核分为上级考核、自我考核、同事考核、专家考核和下级考核的划分标准是（ ）</p>",
+        "questionId": 2109175,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考核时间</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核性质</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核目的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核主体</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效考核的类型：<br>1）按考核时间划分：分为定期考核和不定期考核。\n<br>2）按考核性质划分：分为定性考核（主观考核）和定量考核（客观考核）。\n<br>3）按考核目的划分：分为例行考核、晋升考核、转正考核、评定职称考核、培训考核、对新员工考核等。\n<br>4）按<b>考核主体</b>划分：分为<b>上级考核、自我考核、同事考核、专家考核和下级考核</b>，以及综合以上各种方法的立体考核。</p><p>故本题选D。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效考核分为绝对标准考核和相对标准考核的划分依据是（ ）</p>",
+        "questionId": 2409337,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考核时间</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核性质</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核方法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>考核形式</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>按照考核时间可将绩效考核分为定期考核和不定期考核。</p><p>按照考核的性质可将绩效考核分为定性考核（主观考核）和定量考核（客观考核）。</p><p>按照<b>考核方法</b>，绩效考核可分为<b>绝对标准考核</b>和<b>相对标准考核</b>。</p><p>按照考核形式，绩效考核可分为口头考核与书面考核、直接考核与间接考核、个别考核与集体考核。</p><p>故本题应选C项。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">评估者对被评估者的第一印象的好坏对评估结果影响过大，如果第一印象好，对被评估者各方面的评价都比较高；第一印象如果不好，则对其各方面的评价都比较低，这被称为绩效评估中的（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 616421,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">首因效应</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">晕轮效应</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">近因效应</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">对比误差</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">此题考核的是首因误差。首因误差，也称第一印象误差，是指员工在绩效计划实施初期的绩效表现对考核者考核其以后的绩效表现会产生延续性影响。故</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>评估者对被评估者的第一印象的好坏对评估结果影响过大，如果第一印象好，对被评估者各方面的评价都比较高；第一印象如果不好，则对其各方面的评价都比较低，这是首因效应的表现。（教材已改版）</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1110真题-第1题",
+        "mainNodeName": "考核误差的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在绩效考核中，只看到被评估者近期的表现和成绩，以近期的记忆或印象来代替被评估者在整个被评估期的工作表现情况，因而造成评估误差，这就是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 616604,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">首因误差</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">晕轮误差</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">近因误差</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">刻板印象</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">此题考核的是近因误差。近因即最近的印象，由于在形成印象的过程中不断有新信息提供，而原来的印象已渐渐淡忘，导致最近的印象对人的认知具有重要的影响。故“在</font></span>绩效考核中，只看到被评估者近期的表现和成绩，以近期的记忆或印象来代替被评估者在整个被评估期的工作表现情况，因而造成评估误差，这就是近因误差。<span style=\"font-size: 10.5pt; font-family: 微软雅黑;\"><font face=\"微软雅黑\">”</font></span>（教材已改版）</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1101真题-第1题",
+        "mainNodeName": "考核误差的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">根据绩效反馈的内容和态度，一般将绩效反馈分为负面反馈、中立反馈和（）</font></span></p>",
+        "questionId": 616997,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">价值反馈</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">理论反馈</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">对立反馈</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">正面反馈</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">此题考核的是绩效反馈的分类。</font></span>根据绩效反馈的内容和态度，一般将绩效反馈分为负面反馈、中立反馈和正面反馈。<span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">（教材已改版）</span></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1101真题-第1题",
+        "mainNodeName": "绩效反馈的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在进行反面反馈时可采用“BEST”反馈法，其中“E”是指（）</p>",
+        "questionId": 1782237,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>表达后果</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>征求意见</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>放眼未来</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>描述行为</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a33a31bfd085bc4167cc2567c40f8e35/image.png\" alt=\"\" width=\"581\" height=\"119\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效反馈面谈时，在了解公司激励政策的前提下予以奖励，并且提出更高的目标和要求的策略，适用于（）</p>",
+        "questionId": 1782335,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>贡献型下属</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>冲锋型下属</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>安分型下属</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>堕落型下属</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d8ccfb76985ea07607f69d747254a21d/image.png\" alt=\"\" width=\"578\" height=\"120\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作态度不错，工作兢兢业业、认认真真，对上司、公司有很高的认同度，可是工作业绩就是上不去的员工类型属于（）</p>",
+        "questionId": 1782391,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>贡献型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>冲锋型</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>堕落型</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>安分型</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/033cffe6c3fc272f08ff4dd1f824be91/image.png\" alt=\"\" width=\"576\" height=\"140\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">绩效</font>BEST反馈中，T指的是（）</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1998370,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">表达后果</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">征求意见</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">放眼未来</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">描述行为</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c5b21f38d95e12b53554b993cf7240bd/image.png\" alt=\"\" width=\"230\" height=\"115\"><br></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">故本题选</font>C。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效结果反馈者如实将考核结果的优缺点告诉被评人，并用实例说明绩效结果的正确性，最后鼓励其发扬优点，改进缺点和再创佳绩的绩效反馈面谈方法，称为（）</p>",
+        "questionId": 2048647,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>倾听法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>解决问题法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>说服法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>信任建立法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效反馈面谈的主要方法有倾听法、说服法、解决问题法。可排除选项D。<br></p><p>2.<b>倾听法</b>指绩效结果反馈者如实将考核结果告诉被评人，然后倾听对方意见，相互讨论。</p><p>3.<b>说服法</b>指绩效结果反馈者如实将考核结果的优缺点告诉被评人，并用实例说明绩效结果的正确性，最后鼓励其发扬优点，改进缺点和再创佳绩。故选项C正确。</p><p>4.<b>解决问题法</b>指绩效结果反馈者一般不将考核结果告诉被评人，而是帮助其自我评价，重点放在寻找解决问题的途径上，协商出有针对性的改正计划。</p><p>综上，本题选C。<br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效结果反馈者如实将考核结果告诉被评人，然后倾听对方意见，相互讨论的绩效反馈面谈方法称为（）</p>",
+        "questionId": 2049042,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>倾听法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>解决问题法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>说服法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>信任建立法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效反馈面谈的主要方法有<b>倾听法、说服法、解决问题法</b>。故可排除选项D。<br></p><p>2.<b>倾听法</b>指绩效结果反馈者如实将考核结果（优缺点）告诉被评人，然后倾听对方意见，相互讨论。</p><p>3.<b>说服法</b>指绩效结果反馈如实将考核结果的优缺点告诉被评人，并用实例说明绩效结果的正确性，然后鼓励其发扬优点，改进缺点和再创佳绩。</p><p>4.<b>解决问题法</b>指绩效结果反馈者一般不将考核结果告诉被评人，而是帮助其自我评价，重点放在寻找解决问题的途径上，协商出有针对性的改正计划。</p><p>综上，本题选A。<br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效反馈面谈时，以制定明确的严格的绩效改进计划作为绩效面谈的重点；严格按照绩效考核办法予以考核，不能因为态度好就代替工作业绩不好，更不能用工作态度来掩盖工 作业绩的策略，适用于（\t）</p>",
+        "questionId": 2109156,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>贡献型下属</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>冲锋型下属</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>安分型下属</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>堕落型下属</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>对待不同类型下属的面谈策略：</p><p>（1）贡献型下属：在了解公司激励政策的前提下予以奖励，并且提出更高的目标和要求。</p><p>（2）冲锋型下属：沟通+辅导。<br>（3）<b>安分型下属</b>：以<b>制定明确的严格的绩效改进计划作为绩效面谈的重点</b>；<b>严格按照绩效考核</b>办法予以考核，不能因为态度好就代替工作业绩不好，更不能用工作态度来掩盖工作业绩。</p><p>（4）堕落型下属：重申工作目标，澄清下属对工作成果的看法。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在进行反面反馈时可采用“BEST”反馈法，其中“S”是指（&nbsp; )</p>",
+        "questionId": 2109186,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>表达后果</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>征求意见</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>放眼未来</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>描述行为</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>BEST反馈：</p><p>（1）描述行为（B）；</p><p>（2）表达后果（E）；</p><p>（3）<b>征求意见（S）</b>；</p><p>（4）放眼未来（T）。</p><p>故本题选B。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>BEST反馈中，每一个大写字母代表一个词，其中B代表（  ）</p>",
+        "questionId": 2524096,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>表达后果</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>征求意见</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>描述行为</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>放眼未来</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>BEST反馈：&nbsp;<br></p><p>（1）<b><u>描述行为（B）</u></b>；\n<br>（2）表达后果（E）；\n<br>（3）征求意见（S）；\n<br>（4）放眼未来（T）。</p><p>B指行为，意思是第一步先表述干了什么事。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "绩效反馈面谈的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

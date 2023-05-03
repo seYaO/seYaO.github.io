@@ -1,0 +1,1208 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 25,
+    "totalSubQuestionNum": 25,
+    "questionList": [
+      {
+        "questionContent": "<p>工作分析的结果最终表现为（）</p>",
+        "questionId": 2341645,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作描述</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作规范</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作说明书</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作设计</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作分析的结果最终表现为工作说明书。故选C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "工作说明书",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析的基本流程可概括分为（ ）。</p>",
+        "questionId": 2341637,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>三个阶段</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>四个阶段</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>五个阶段</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>六个阶段</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>工作分析的流程</b>可以分为<b>四步</b>：工作分析计划制订、工作分析设计、工作信息资料的收集和分析、成果运用和反馈。</p><p>拓展：工作分析的整个过程从本质上来讲是一个信息的流动过程，从输入到分析再到输出，随着企业的发展和企业组织结构的调整，进行适时修正，把关于工作岗位的复杂信息加工成为有序的工作分析结果的信息。</p><p><b>故本题选B项。</b></p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "第零节 工作分析的流程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作分析计划的制定阶段，其中第三个环节是（）</p>",
+        "questionId": 2403468,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>明确工作分析的目的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定工作分析的内容</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定整体工作安排</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>制定试点工作计划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作分析计划的制定阶段口诀：慕（目的）容（内容）的牌（安排）技（计划）。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/8226578300744165cf38b3df13014a3c/image.png\" alt=\"\" width=\"587\" height=\"82\"><br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "三、确定整体工作安排",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作分析计划的制定阶段，最重要和最基本的环节是（ ）</p>",
+        "questionId": 2246323,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>明确工作分析的目的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定工作分析的内容</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>确定整体工作安排</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>制定试点工作计划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>A项是工作分析的首要问题，也是工作分析过程中不可少的一个环节。B项工作分析内容的确定是进行工作分析最重要和最基本的环节，也是工作分析人员进行工作分析的依据。CD项对工作分析没有特殊意义，是干扰项。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "工作分析内容的确定",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>进行工作分析最重要和最基本的环节是（ ）</p>",
+        "questionId": 2403440,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>明确工作分析的目的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定工作分析的内容</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>确定整体工作安排</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>制定试点工作计划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/df8c466bb971dca1b52cfa8d4878d852/image.png\" alt=\"\" width=\"591\" height=\"146\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "工作分析内容的确定",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作标识中最重要的项目是（ ）。</p>",
+        "questionId": 2246330,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作名称</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作概要</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作名称是工作识别项目中最重要的项目，记忆口诀：表示（标识）命（名称）中（最重要）了。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "工作分析的具体内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作标识中最重要的项目是（ ）</p>",
+        "questionId": 2246331,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>​工作名称<br></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作身份</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作编号</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作地点</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作名称是工作表示中最重要的项目，记忆口诀：表示（标识）命（名称）中（最重要）了。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第8题",
+        "mainNodeName": "工作分析的具体内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作标识中最重要的项目是（）</p>",
+        "questionId": 2246581,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作名称</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作身份</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作编号</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作地点</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5fa1ea47b4952c92e0f3fc2fa7bb70cf/image.png\" alt=\"\" width=\"584\" height=\"123\"><br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "工作分析的具体内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作环境分析的目的是确认工作的环境和（ ）</p>",
+        "questionId": 2380964,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>位置</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>条件</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作环境分析的目的是确认工作的<b><u>条件和环境</u></b>；</p><p>（2）工作环境不能由工作人员自由支配，并且工作环境会影响到工作人员的体力或脑力健康，所以工作环境的特定性将会决定工作所需要的人员的条件，故本题选D。</p>",
+        "avgAnswerTime": 22,
+        "avgCorrectRate": "72.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作分析的具体内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析小组的人员数量视情况而定，一般人数为（ ）</p>",
+        "questionId": 2380966,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>​1-5人<br></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>5-10人</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>5-15人</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>10-25人</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作分析小组的人员数量视情况而定；</p><p>（2）人数过多，容易出现人浮于事的现象；人数过少，难以在规定时间内完成工作任务，延误时机；</p><p>（3）工作分析小组一般是由外聘专家和企业内部成员两部分组成；</p><p>（4）<b>人数一般为5〜15人不等</b>，具体人数需根据实际情况而定，故本题选C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "44.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作分析小组的组建",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>我国的《职业分类大典》将职业分成大类、中类、小类和细类四个层次。其中小类有（）</p>",
+        "questionId": 2325656,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>66个</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>166个</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>413个</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>1838个</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）旧版教材：我国的《职业分类大典》将职业分成大类、中类、小类和细类四个层次，其中其中8个大类、66个中类、413个小类和1838个细类，故选C；</p><p>（2）知识扩展：</p><p>2020年新版教材：1999年版的《中华人民共和国职业分类大典》将职业分为四个层次，其中8个大类、66个中类、413个小类和1838个细类，依次体现由粗到细的职业类型；2015年版的《中华人民共和国职业分类大典》将职业分为四个层次，其中8个大类、75个中类、<b>434个小类</b>和1481个细类（职业）。</p><p><br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "65.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "工作信息资料收集",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在我国的职业分类中，依据工作性质的同一性，并考虑相应的能力水平进行的分类属于（）</p>",
+        "questionId": 2341644,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>大类层次的职业分类</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>中类层次的职业分类</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>小类的职业分类</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>细类的职业分类</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c7281efaa352fd263660bf94bb9c4274/image.png\" alt=\"\" width=\"607\" height=\"116\"><br></p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "工作信息资料收集",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在岗位描述分析中，对工作的制约与被制约关系、协作关系、升迁与调换关系等进行的分析称为（）。</p>",
+        "questionId": 2246438,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作任务分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作责权分析</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作关系分析</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>劳动强度分析</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“关系”入手。定位题干中的“关系”即可选出C。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/87968c7ac61e305219bfee1af6c63bf9/image.png\" alt=\"\" width=\"634\" height=\"144\"><br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1210真题-第1题",
+        "mainNodeName": "资料分析的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对工作执行人员在工作中应具备的行走、跑步、攀登、站立、平衡、旋转、弯腰、推拉、耐力、灵活性、协调性的分析属于任职资格分析中的（）</p>",
+        "questionId": 2246439,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>必备心理素质分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必备经验分析</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必备知识分析</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必备的身体素质分析</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/971a3b1c16e8830e0f11dab6f6eceb99/image.png\" alt=\"\" width=\"659\" height=\"147\"><br></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1210真题-第1题",
+        "mainNodeName": "资料分析的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对工作执行人员所具备的基本知识技能的分析属于任职资格分析中（）</p>",
+        "questionId": 2403444,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>必备心理素质分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必备的身体素质分析</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必备经验分析</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必备知识分析</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5817c178ba13b2db86a0ff68e20986da/image.png\" alt=\"\" width=\"658\" height=\"121\"><br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "资料分析的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作描述一般用来表达工作内容、任务以及（ ）。</p>",
+        "questionId": 2246499,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>权力</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>权利</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作描述一般用来表达工作内容、任务、职责、环境等，而工作规范则用来表达任职者所需的资格要求，如技能、学历、培训、经验、体能等。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "一、工作描述概述",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>某一工作区别于其他工作的基本标志是（ ）</p>",
+        "questionId": 2246520,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作概要</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作标识</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/96266724eb6419aa9199087666ec7d59/image.png\" alt=\"\" width=\"625\" height=\"141\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "工作标识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作标识的内容中，工作在实际中的物理位置称为（）</p>",
+        "questionId": 2246521,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作名称</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作身份</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作编号</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作地点</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/50ac5302f733cc5c23c30db2a3ee7ee1/image.png\" alt=\"\" width=\"587\" height=\"126\"><br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "工作标识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作描述的基本内容中，用简练的语言概括工作的总体性质、中心任务和所要达到的工作目标被称为（）</p>",
+        "questionId": 2403457,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作关系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作概要</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e5adc28b2df3cb6aa48761fb5a4ef7d3/image.png\" alt=\"\" width=\"606\" height=\"142\"><br></p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "工作概要",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作描述的基本内容中，任职者所从事的工作在组织中承担的责任、所需完成的工作内容及其要求称为（）</p>",
+        "questionId": 2246538,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作概要</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作关系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/46ab4cda65c847fa8a1ff27f71e18b10/image.png\" alt=\"\" width=\"649\" height=\"121\"><br></p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1301真题-第1题",
+        "mainNodeName": "工作职责",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作描述的基本内容中，工作描述的主体是（）</p>",
+        "questionId": 2246539,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作标识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作概要</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/73abf779fd7f4aef6665fd388aeb3ba4/image.png\" alt=\"\" width=\"584\" height=\"143\"><br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 21,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "工作职责",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>根据该职位的工作目标和工作职责，组织赋予该职位的权限范围、层级与控制力度称为（）</p>",
+        "questionId": 2246541,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作环境</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“职位的权限范围”入手。直接定位题干中的<b>权限</b>范围即可选出<b>工作权限</b>。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 22,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "工作权限",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>组织根据某一职位的工作目标和工作职责，赋予该职位的权力范围、层级与控制力度称为（ ）</p>",
+        "questionId": 2246542,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作权限</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作环境</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4d694281e27b42b099c853bae4b36d4e/image.png\" alt=\"\" width=\"604\" height=\"143\"><br></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 23,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第4题",
+        "mainNodeName": "工作权限",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>确定绩效标准时应当遵循SMART原则，其中字母R代表（ ）</p>",
+        "questionId": 2246550,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>具体</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可实现</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>现实性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可量度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>确定绩效标准时应当遵循SMART原则，这一原则中各字母代表的含义分别是：</p><p>（1）S—具体；</p><p>（2）M—可量度；</p><p>（3）A—可实现；</p><p>（4）<b>R—现实性</b>；</p><p>（5）T—有时限。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 24,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "绩效标准",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>确定绩效标准时应当遵循SMART原则，其中字母M代表（ ）</p>",
+        "questionId": 2403452,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>具体</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可量度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可实现</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>有时限</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>确定绩效标准时应当遵循SMART原则，</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2bcbc6d6b77b82ace5e402636a2266b1/image.png\" alt=\"\" width=\"216\" height=\"90\"><br></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 25,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "绩效标准",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

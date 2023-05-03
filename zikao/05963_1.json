@@ -1,0 +1,918 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 19,
+    "totalSubQuestionNum": 19,
+    "questionList": [
+      {
+        "questionContent": "<p>绩效管理理论在我国企业绩效管理中的应用，可以清晰地分为四个发展阶段。其中第三阶段是（）</p>",
+        "questionId": 1724034,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>奖勤罚懒阶段</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>主观评价阶段</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>科学考核阶段</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德能勤绩阶段</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4b2bab55290c399ccd88c1115060025c/image.png\" alt=\"\" width=\"580\" height=\"118\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 23,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "二、中国绩效管理发展历史",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从管理学的视角看，绩效可以解释为是组织期望的结果，是组织为了能够达到其目标而展现在不同层面上的有效输出，具体包括（）</p>",
+        "questionId": 2049332,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>行为绩效和结果绩效</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>财务绩效和非财务绩效</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>静态绩效和动态绩效</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>个人绩效和组织绩效</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.从管理学视角来看，绩效可以解释为是组织期望的结果，是组织为了能够达到其目标而展现在不同层面上的有效输出，包括<b>个人绩效和组织绩效</b>两个方面。<br></p><p>2.统一绩效论认为绩效是结果和行为的统一，把绩效理解成既<b>包括“工作结果”又包括“工作行为”</b>，是二者的统一。</p><p>3.财务绩效和非财务绩效、静态绩效和动态绩效在本书未涉及。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "不同学科视角下的绩效",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>结果绩效论<span style=\"font-size: 14px;\">将绩效解释成（）</span></p>",
+        "questionId": 1720448,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>“工作结果”或“过程”</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“工作结果”或“产出”</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​<span style=\"font-size: 14px;\">“工作行为”或“过程”</span><br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“工作行为”或“产出”</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e065b3cd00952d4423d10b6d06a4d2ea/image.png\" alt=\"\" width=\"580\" height=\"102\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "模拟题",
+        "mainNodeName": "目前关于绩效的几种观点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效解释成“工作结果”或“产出”的理论是（）</p>",
+        "questionId": 2048879,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>结果绩效论&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>行为绩效论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>统一绩效论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>发展绩效论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>结果绩效论</b>认为<b>绩效就是结果，将绩效解释成“工作结果”或“产出”</b>。故选项A正确。<br></p><p><b>行为绩效论</b>认为绩效是行为，将绩效解释成“工作行为”或“过程”。</p><p><b>统一绩效论</b>认为绩效是结果和行为的统一体。</p><p>D为混淆项，综上，本题选A。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "目前关于绩效的几种观点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效解释成既包括“工作结果”又包括“工作行为”的是（ ）</p>",
+        "questionId": 2107440,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>结果绩效论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>行为绩效论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>统一绩效论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>发展绩效论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>结果绩效论将绩效解释成“工作结果”或“产出”。</p><p>行为绩效论将绩效解释成“工作行为”或“过程”。</p><p><b>统一绩效论</b>把绩效理解成<b>既包括“工作结果”又包括“工作行为”</b>，是二者的统一。</p><p>D项是干扰项。故本题应选C项。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "73.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "目前关于绩效的几种观点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对于绩效的评价与分析应该从多个角度和方面进行，这样才能得到有关绩效的真实评价，这是指绩效具有（）</p>",
+        "questionId": 2048592,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>多因性&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>多维性&nbsp;</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>静态性&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动态性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>多因性</b>指员工或组织绩效的优劣并不取决于单一的因素，而是受制于主客观的多种因素。<br></p><p>2.<b>多维性</b>指对于绩效的评价与分析应该从多个角度和方面进行，这样才能得到有关绩效的真实评价。故选项B正确。</p><p>3.<b>动态性</b>指绩效不是一成不变的，由于员工的激励状态、技能水平和环境因素的变化，绩效也是会改变的。可排除选项C。</p><p>4.知识扩展：绩效的特性包括多因性、多维性、动态性。<br></p><p>综上，本题选B。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "绩效的特性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>员工或组织绩效的优劣并不取决于单一的因素，而是受制于主客观的多种因素，这体现了绩效的（\t）</p>",
+        "questionId": 2109135,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>多因性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>多维性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>静态性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动态性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效管理的特性：</p><p>1）<b>多因性</b>，是指员工或组织绩效的优劣<b>并不取决于单一的因素，而是受制于主客观的多种因素。</b></p><p>2）多维性，是指对于绩效的评价与分析应该从多个角度和方面进行，这样才能得到有关绩效的真实评价。</p><p>3）动态性，是指绩效不是一成不变的，由于员工的激励状态、技能水平和环境因素的变化，绩效也是会改变的。</p><p>选项C为干扰项，故排除。本题选A。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效的特性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>由于员工的激励状态、技能水平和环境因素的变化，绩效也是会改变的。这就要求在评价绩效的时候不能凭已有的印象和僵化的观点来看待绩效问题。这说明绩效具有（ ）</p>",
+        "questionId": 2109238,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>多因性特征</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>多维性特征</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动态性特征</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>静态性特征</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）绩效的多因性：员工或组织绩效的优劣并不取决于单一的因素，而是受制于主客观的多种因素。故排除A。&nbsp;<br>（2）绩效的多维性：对于绩效的评价与分析应该从多个角度和方面进行，这样才能得到有关绩效的真实评价。故排除B。&nbsp;</p><p>（3）绩效的动态性：绩效不是一成不变的，由于员工的激励状态、技能水平和环境因素的变化，绩效也是会改变的。 故C正确。<br>（4）D选项为混淆项，故排除。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "绩效的特性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过绩效管理促进组织与员工的共同成长，通过绩效管理过程，为每一个员工提供指导、支持和帮助，不断提升员工的胜任力，建立学习型组织，从而建立组织的高绩效文化，这体现了绩效管理的（）</p>",
+        "questionId": 1721381,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>强调发展</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>目标导向</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>以人为本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统思维</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7a67c381fed1b8dc1ade1c22b0f7f33c/image.png\" alt=\"\" width=\"581\" height=\"203\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "绩效管理的特点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效管理需要具备全面的、相互联系的观点，重视目标制定、沟通管理等过程，需要掌握和使用相应的技巧和技能，在实施绩效管理中需要克服很多困难和障碍。这体现了绩效管理特点中的（）</p>",
+        "questionId": 1721415,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>目标导向</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>强调发展</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>以人为本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统思维</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ee3009623e73faaa35d46fd6119dd11d/image.png\" alt=\"\" width=\"583\" height=\"204\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "73.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效管理的特点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效管理对管理者的作用之一是（ ）</p>",
+        "questionId": 2048587,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>奠定企业战略目标实现的基础</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>促进员工的能力提高和职业发展</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>帮助管理者实现管理目标</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>提供企业价值创造循环的动力</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效管理对管理者的作用：</p><p>①帮助管理者实现管理<b>目标</b>；故选项C正确。</p><p>②<b>提高</b>管理者的管理技能；</p><p>③节约管理者的<b>时间</b>。</p><p>2.选项AD为绩效管理对企业的作用。</p><p>3.选项B为绩效管理对员工的作用。</p><p>4.本题口诀：提高目标时间。</p><p>综上，本题选C。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "绩效管理的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在目前国内的绩效管理实践中，比较常见的绩效管理模式是（）</p>",
+        "questionId": 1722260,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>“德能勤绩”式</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“检查评比”式</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>“共同参与”式</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“自我管理”式</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c5266a052cc222118b3beb77ea83814f/image.png\" alt=\"\" width=\"580\" height=\"167\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "“检查评比”式",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>世界一流企业推崇的管理方式，管理理念的基础是对人性的假设坚持“Y”理论的绩效管理方式为（）</p>",
+        "questionId": 1723260,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>“德能勤绩”式&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“检査评比”式</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“共同参与”式&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“自我管理”式</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/89a0e2cb481bd08601706f5036af05e5/image.png\" alt=\"\" width=\"580\" height=\"159\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "“自我管理”式",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>启动员工绩效管理系统的基础性环节是（）</p>",
+        "questionId": 2109117,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效实施</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效评价</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效改进</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效管理的基本流程：1）绩效计划。2）绩效实施。3）绩效评价。4）绩效应用。5）绩效改进。</p><p>其中，<b>绩效计划</b>是启动员工绩效管理系统的基础性环节。</p><p>故本题答案为A。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效计划",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效管理的基本流程中，按照绩效计划对员工工作绩效进行原始数据搜集，并对员工绩效进行监督、辅导与改进的过程称为（ ）</p>",
+        "questionId": 2109247,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效实施</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效评价</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效计划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效改进</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>绩效实施：按照绩效计划对员工工作绩效进行原始数据搜集，并对员工绩效进行监督、辅导与改进的过程。</b>故A正确。</p><p>（2）绩效评价：在绩效周期结束后，采用科学的评价方法对员工的工作实绩进行价值判断的过程。故排除B。</p><p>（3）绩效计划：启动员工绩效管理系统的基础性环节。故排除C。</p><p>（4）绩效改进；依据上一轮评价周期的绩效考核情况，对员工新一轮的绩效目标和评价标准进行修正的过程。故排除D。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "绩效实施",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效周期结束之后，采用科学的评价方法对员工的工作实绩进行价值判断的过程被称为（ ）</p>",
+        "questionId": 2107578,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效实施</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效评价</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效计划</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效改进</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效实施是按照绩效计划对员工工作绩效进行原始数据搜集，并对员工绩效进程进行监控、辅导与改进的过程。</p><p><b>绩效评价</b>是在绩效周期结束后，采用科学的评价方法对员工的工作实绩进行价值判断的过程。</p><p>绩效计划须分层分解，首先是确定企业总体目标，然后确定部门绩效目标，管理者和员工最后共同根据部门目标就员工在考核期内的工作职责、工作目标、评估标准及奖惩措施等内容达成共识。</p><p>绩效改进是依据上一轮评价周期的绩效考核情况，对员工新一轮的绩效目标和评价标准进行修正的过程。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "绩效评价",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>依据上一轮评价周期的绩效考核情况，对员工新一轮的绩效目标和评价标准进行修正的过程是指（）</p>",
+        "questionId": 1724963,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效实施</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效评价</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效改进</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7ea055e084bacc3288b807377a93337e/image.png\" alt=\"\" width=\"584\" height=\"205\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效改进",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效评价的（）即确定多长时间评价一次。</p>",
+        "questionId": 945215,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>周期</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>时期</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>时点</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>时效</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效评价的周期即确定多长时间评价一次。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "模拟题",
+        "mainNodeName": "评价周期",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效管理的关键决策中，所谓（）是指如何正确的选择绩效评价主体。</p>",
+        "questionId": 1725225,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>评价对象</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>评价周期</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>评价什么</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>谁来评价</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/73d46ddc2c6d69ccce0fcc9ae9ac5102/image.png\" alt=\"\" width=\"582\" height=\"99\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "62.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "模拟题",
+        "mainNodeName": "谁来评价",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

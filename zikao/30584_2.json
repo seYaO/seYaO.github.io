@@ -1,0 +1,593 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 12,
+    "totalSubQuestionNum": 12,
+    "questionList": [
+      {
+        "questionContent": "<p>美国著名的行为科学家、管理理论的奠基人道格拉斯•麦格雷戈提出的理论是（）</p>",
+        "questionId": 1805913,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>​期望理论<br></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>X-Y理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>双因素理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>认知结构学习理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>20世纪50年代后期，美国著名的行为科学家、管理理论的奠基人道格拉斯•麦格雷戈，提出了X-Y理论。故选项B正确。其他选项均为混淆项，可排除。故本题选B。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "二、行为科学阶段",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">马斯洛的理论是（）</font></span></p>",
+        "questionId": 2005456,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">X-Y理论</span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">期望理论</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">社会学习理论</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">需求层次理论</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/932f1f229cd058c87fe1362d9c8aa755/image.png\" alt=\"\" width=\"291\" height=\"115\"><br></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">故本题选</font>D。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "二、行为科学阶段",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>行为主义心理学的创立者是（）</p>",
+        "questionId": 813142,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>巴甫洛夫</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>斯金纳</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>华生</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>考夫卡</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>行为主义是由美国心理学家华生在巴甫洛夫条件反射理论的基础上创立的，他主张心理学应该摒弃意识等主观的东西，只研究所观察到的并能客观地加以测量的刺激和反应。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "一、行为主义的学习理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>班杜拉认为人的行为，特别是人的复杂行为主要是（  ）</p>",
+        "questionId": 2526155,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>先天遗传的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自然成长的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>偶然发现的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>后天习得的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>班杜拉认为，<b><u>人的行为</u></b>，特别是<b><u>人的复杂行为</u></b>主要是<b><u>后天习得的</u></b>。<br></p><p>故本题选D。</p><p>拓展：</p><p>班杜拉的社会学习理论主要包括：</p><p>①观察学习；</p><p>②交互决定论；</p><p>③自我调节理论；</p><p>④自我效能理论。</p><p><br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "班杜拉的社会学习理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>大卫·奥苏伯尔学习理论的基础是（）</p>",
+        "questionId": 1804094,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>同化</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>认知</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>转化</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>建构</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>大卫·奥苏伯尔学习理论的基础是同化。故选项A正确。其他选项均为干扰项，可排除。故本题选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "奥苏伯尔的认知同化理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>学习者将概括程度处在较低水平的概念或命题，纳入自身认知结构中原有概括程度较高水平的概念或者命题之中，从而掌握新学习的有关概念或命题。这种学习被大卫•奥苏伯尔称为（）</p>",
+        "questionId": 1806954,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>上位学习</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>下位学习</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>并列结合学习</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>平行学习</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3a7a97498fcf2c68b34885fb8dd68c50/image.png\" alt=\"\" width=\"578\" height=\"161\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "奥苏伯尔的认知同化理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>诺克斯于1980年提出的成人学习理论是（）</p>",
+        "questionId": 1808769,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>熟练理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>余力理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>培训迁移理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>认知同化理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5726324affc33ca7b1d0ffc0b7c1149d/image.png\" alt=\"\" width=\"579\" height=\"116\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "成人学习生活情境理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国密歇根大学的麦克鲁斯基于1963年首次提出的理论是（ ）</p>",
+        "questionId": 1808823,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>余力理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>熟练理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>认知同化理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会学习理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c98ea02e877ce02d07987ef4429a1a5d/image.png\" alt=\"\" width=\"578\" height=\"119\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "成人学习生活情境理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>麦克鲁斯基认为，在影响成人学习的余力因素中，至关重要的条件是（  ）</p>",
+        "questionId": 2526092,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>行为能力</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济能力</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>运动能力</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>思考能力</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>麦克鲁斯基认为，在影响成人学习的余力因素中，<b><u>经济能力</u></b>是<b>至关重要的条件</b>。</p><p>故本题选B。</p><p>【拓展】</p><p>余力理论的核心论点：生活余力可因能力增加或负担减少而增加；也可因负担增加能力减少而减少。</p>",
+        "avgAnswerTime": 45,
+        "avgCorrectRate": "45.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "成人学习生活情境理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>西奥多•W•舒尔茨认为人力资本最重要的是（）</p>",
+        "questionId": 1811001,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>医疗保健 &nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>就业迁移</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>教育投资</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>控制人口</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>西奥多•W•舒尔茨认为人力资本最重要的是<b>教育投资</b>。故选项C正确。其他选项均为干扰项，可排除。故本题选C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "舒尔茨的人力资本理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>大卫·奥苏伯尔提出的人类存在的有意义学习的类型主要有（）</p>",
+        "questionId": 1804097,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>&nbsp;表征学习&nbsp;</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>概念学习&nbsp;</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>理论学习</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​继续学习<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>命题学习</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1585cf63a555f58bf5195c060be80a1e/image.png\" alt=\"\" width=\"354\" height=\"111\"><br></p><p>故本题选ABE。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABC",
+        "questionAnswer": "ABE",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "奥苏伯尔的认知同化理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>人力资本投资的内容或范围分为（&nbsp; ）</p>",
+        "questionId": 1810890,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>医疗保健</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>在职培训</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>正式教育</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>成人学习项目</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>就业迁移</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dfd4b81d03c000305d33ce01bfa7d429/image.png\" alt=\"\" width=\"299\" height=\"189\"><br></p><p>故本题选ABCDE。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "questionAnswer": "ABCDE",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "舒尔茨的人力资本理论",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      }
+    ]
+  }
+}

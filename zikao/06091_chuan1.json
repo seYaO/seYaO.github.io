@@ -1,0 +1,963 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>员工所得的总薪酬的组成成分以及各部分的比例关系称为（）</p>",
+        "questionId": 2341675,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薪酬体系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬水平</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬结构</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬形式</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>员工所得的总薪酬的组成成分以及各部分的比例关系称为薪酬形式。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "二、薪酬管理的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对企业而言，薪酬的功能主要表现为：改善经营绩效，控制经营成本、支持企业变革和（&nbsp; ）</p>",
+        "questionId": 2509929,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>塑造企业文化</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>经济保障功能</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会信号功能</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>激励功能</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>薪酬对<b><u>企业</u></b>的功能：</p><p>（1）改善<b><u>经</u>营</b>绩效；</p><p>（2）控制经营<b><u>成</u>本</b>；</p><p>（3）塑造企业<b><u>文</u>化</b>；</p><p>（4）支持企业<b><u>变</u>更</b>。&nbsp;</p><p>故本题选A。</p><p>【拓展】<br>薪酬对<b><u>员工</u></b>的功能：（1）经济保障功能；（2）激励功能；（3）社会信号功能。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "薪酬的功能",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以薪酬的刚性高低和差异性大小来看，员工福利具有（ ）</p>",
+        "questionId": 2004102,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>高刚性和高差异性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>高刚性和低差异性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>低刚性和高差异性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>低刚性和低差异性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6f4e47daae9939d3d15f0918fc16b0c0/image.png\" alt=\"\" width=\"499\" height=\"386\"><br></p><p>故答案为B。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "薪酬的结构",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>薪酬管理系统在多大程度上能够帮助企业实现预定的经营目标。这一薪酬管理原则称为（）</p>",
+        "questionId": 2056808,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>公平性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>合法性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一致性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>有效性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关键词：<b>“经营目标”</b>。</p><p>薪酬管理的原则主要包括：①公平性原则；②有效性原则；③合法性原则。</p><p>公平性原则——企业薪酬管理系统以及管理过程的公平性和公正性。</p><p><b>有效性原则——薪酬管理系统在多大程度上能够帮助企业实现预定的经营目标。</b></p><p>合法性原则——企业的薪酬管理体系和管理过程是否符合国家的相关法律规定。</p><p>选项C不属于薪酬管理的原则，故排除。</p><p>本题答案为D。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "薪酬管理的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>按职能划分垂直领导系统，又按产品划分横向领导系统来设立项目小组的组织构成称为（ ）</p>",
+        "questionId": 2079350,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直线制组织</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能制组织</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事业部制组织</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>矩阵制组织</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>职能制组织的组织构成是以劳动分工为基础的。（排除选项B）</p><p>事业部制组织的组织构成以产品、地区、顾客、销售渠道等为部门化依据。（排除选项C）</p><p><b>矩阵制组织</b>既<b>按职能</b>划分<b>垂直领导系统</b>，又<b>按产品（项目）</b>划分<b>横向领导系统</b>来设立项目小组。</p><p>选项A为干扰项，故答案为D。<br></p>",
+        "avgAnswerTime": 87,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "企业内部环境对薪酬战略设计的影响",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以产品的创新以及产品生命周期的缩短为导向的企业竞争战略类型是（）</p>",
+        "questionId": 1755388,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>低成本战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>专一化战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>创新型战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ba319698516c72fa91cbc623f39af34a/image.png\" alt=\"\" width=\"629\" height=\"204\"><br></p><p>故答案为D。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "保持薪酬制度与企业战略类型相适应",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业通过采用特定的技术和方法，使本企业的产品或服务在质量、设计、服务及其他方面都与众不同，这一企业战略类型是（）</p>",
+        "questionId": 2030650,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>低成本战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>专一化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>创新型战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>低成本战略——又称成本领先战略，即在产品本身的质量大体相同的情况下，企业可以以低于竞争对手的价格向客户提供产品。（A错误）<br></p><p>专一化战略——企业生产经营单一产品或服务，或者将产品或服务指向特定的地理区域、特定的顾客群。（B错误）</p><p><b>差异化战略——企业通过采用特定的技术和方法，使本企业的产品或服务在质量、设计、服务及其他方面都与众不同。</b>（C正确）</p><p>创新型战略——以产品创新及产品生命周期的缩短为导向。（D错误）</p><p>故答案为C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "保持薪酬制度与企业战略类型相适应",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业战略通常涉及三个层面的战略：公司战略、职能战略与（&nbsp; ）</p>",
+        "questionId": 2509976,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>规划战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经营战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>学习成长战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业战略通常涉及三个层面的战略：<b>公司战略、</b><u><b>经营战略</b></u>与<b>职能战略</b>。</p><p>（1）<b>公司战略</b>决策涉及两个方面：一是在哪些行业展开竞争的决策；二是组织的不同生命周期的影响。</p><p>（2）<b>经营战略</b>与薪酬战略：在确定公司战略的基础上，组织需要采取不同的经营战略去实现公司战略，进而需要不同的薪酬战略去支撑。</p><p>（3）<b>职能战略</b>包括营销、生产、财务、顾客服务、产品开发和人力资源战略。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "公司战略与薪酬战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>迈克尔•波特提出的组织经营战略有（）</p>",
+        "questionId": 171550,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>前瞻者战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>防御者战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>分析者战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>迈克尔•波特提出的组织经营战略有差异化战略、成本领先战略、集中化战略；米尔斯和斯诺提出的战略有：前瞻者战略、防御者战略、分析者战略。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "经营战略与薪酬战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>标志着边际生产力工资理论最终确立的著作是（）</p>",
+        "questionId": 2341673,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《财富的分配》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>《就业、利息和货币通论》</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《效率工资假说、剩余劳动力和欠发达国家的收入分配》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《工作与激励》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>克拉克的《财富的分配》一书的出版标志着边际生产力工资理论的最终确立。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "边际生产力工资理论的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>标志着边际生产力工资理论最终确立的专著是（&nbsp; ）</p>",
+        "questionId": 2510042,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《效率工资假说》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《政治经济学原理》</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《国富论》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《财富的分配》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>A：斯蒂格利茨在《牛津经济评论》杂志上发表了题为《<b>效率工资假说</b>、剩余劳动力和欠发达国家的收入分配》一文，这是效率工资理论的开山之作。</p><p>B：约翰•斯图亚特•穆勒在其<b>《政治经济学原理》</b>中认为工人的工资决定于劳动的供给与需求，工资基金代表对劳动的需求，工资的高低取决于劳动供给的多少，即取决于劳动人口与资本的比例。</p><p>D：克拉克的<b><u>《财富的分配》</u></b>一书的出版标志着<b><u>边际生产力工资理论的最终确立</u></b>。（助记：生产力最终是财富。）<br></p><p>故本题选D。C为干扰项。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "边际生产力工资理论的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>组织提供发挥才能的机会、参与决策、提案制度，是为了满足员工的（ ）</p>",
+        "questionId": 2079360,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生理需要</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>安全需要</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社交需要</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自我实现需要</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ded0c71d2e67fd5dc47ae9f96e7dfc53/image.png\" alt=\"\" width=\"500\" height=\"91\"><br></p><p>故答案为D。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "需要层次理论的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>根据马斯洛的需要层次理论，在实践工作中，非正式群体的建立、工会活动、各种社团的组建都是为了满足人的（&nbsp; ）</p>",
+        "questionId": 2510004,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生理和安全需要</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自尊与受人尊重的需要</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社交和爱的需要</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自我实现的需要</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马斯洛的需要层次理论：</p><p>（1）<b>生理需要</b>：人类维护自身生存所必需的、最基本的、非习得性的原始需要，包括衣食住行等方面的需要。</p><p>（2）<b>安全需要</b>：人类保障自身安全、避免失业和财产丧失的需要。</p><p>（3）<b><u>社交和爱的需要</u></b>：人类对从属于某个群体或组织、与人交往、获得情感的需要。在实践工作中，<b><u>非正式群体的建立、工余活动、各种社团的组建</u></b>都是满足员工社交和爱的需要的基本措施。</p><p>（4）<b>自尊与受人尊重的需要</b>：这类需要组织可以通过工作职位的设计、荣誉的赋予、奖励以及绩效认可计划来满足。</p><p>（5）<b>自我实现的需要</b>：这是马斯洛需要层次结构中最高层级的需要。</p><p>故本题选C。</p><p></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "需要层次理论的主要内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>薪酬激励理论的双因素理论中属于激励因素的是（）</p>",
+        "questionId": 1758390,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作条件</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作中的成就感</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>组织政策</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人际关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/fbffd05ad81e10593b3f81c13f890bda/image.png\" alt=\"\" width=\"389\" height=\"324\"><br></p><p>故答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "双因素理论的基本内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>用于区别组织中特定工作与其他工作的是（&nbsp; ）</p>",
+        "questionId": 2510112,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作概要</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作关系</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作标志</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>A：<b>工作概要</b>是对工作性质、内容、责任等的简要概括。</p><p>B：<b>工作职责</b>是指任职者所从事的工作在组织中承担的责任，所需要完成的工作内容及其要求，它具有成果导向性、完备性、稳定性、独立性、系统性的特点。</p><p>C：<b>工作关系</b>（或工作联系）表明该岗位的任职者与组织内外相关岗位因工作所发生的联系。</p><p>D：<b><u>工作标志</u></b>的作用是用来<b><u>区别特定工作与组织中其他工作</u></b>。</p><p>故本题选D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作描述",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>所选择的评价指标应该是对不同岗位劳动均有适用性和代表性，而不仅仅适用或反映个别的特殊劳动，这体现了岗位评价指标具有（&nbsp; ）</p>",
+        "questionId": 2510128,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>实用性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>普遍性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>价值性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>全面性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>岗位评价指标确定的原则：</p><p>（1）<b>实用性</b>：确定岗位评价指标时，必须从企业的实际出发，全面体现岗位劳动的特点，以提高岗位劳动评价的应用价值。</p><p>（2）<b><u>普遍性</u></b>：所选择的评价指标应该是<b><u>对不同岗位劳动具有普遍的适用性和代表性</u></b>，而不是仅仅适用或反映个别的特殊劳动。</p><p>（3）可评价性：只有评价指标具有可评价性，评价结果才具有科学性，才能体现岗位劳动的差别。</p><p>（4）<b>价值性</b>：所确定的岗位评价指标应能为企业的劳动管理和劳动保护等工作提供科学依据。</p><p>（5）<b>全面性</b>：指评价因素能全面反映生产岗位劳动者的劳动状况和劳动量，体现不同岗位的差别劳动，反映出岗位劳动对企业劳动成果的贡献。</p><p>故本题选B。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "岗位评价指标确定的原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>由岗位评价人员根据其对企业各项工作的经验认识和主观判断，对各岗位的相对价值大小进行整体比较，并由高到低进行排序的岗位评价方法是（）</p>",
+        "questionId": 2056770,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>岗位分类法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>岗位排序法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>要素比较法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>要素计点法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>岗位分类法——事先建立工作等级标准，并给出明确定义，然后将各岗位工作与这一设定的标准进行比较，从而将待评岗位确定到各种等级中去。（A排除）<br></p><p><b>岗位排序法</b>——<b>由岗位评价人员，根据其对企业各项工作的经验认识和主观判断，对各岗位的相对价值大小进行整体比较，并由高到低进行排序。</b>（B正确）</p><p>要素比较法——在确定标杆岗位和付酬要素的基础上，运用标杆岗位和付酬要素制成的要素比较尺度表，将待评岗位付酬要素与标杆岗位进行比较，从而确定待评岗位的付酬标准。（C排除）</p><p>要素计点法——又称点数加权法、点数法，是目前最常用的一种复杂的量化职位评价技术。（D排除）</p><p>故答案为B。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "岗位排序法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>事先建立工作等级标准，并给出明确定义，然后将各岗位工作与这一设定的标准进行比较，从而将待评岗位确定到各种等级中去的岗位评价方法是（）</p>",
+        "questionId": 2559315,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>岗位分类法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>岗位排序法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>要素比较法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>要素计点法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>岗位分类法</b>：是<b>事先建立工作等级标准</b>，并给出<b>明确定义</b>，然后将各岗位工作与这一设定的标准进行比较，从而<b>将待评岗位确定到各种等级中</b>去。<br></p><p>2.<b>岗位排序法</b>：由岗位评价人员，根据其对企业各项工作的经验认识和主观判断，对各岗位的相对价值大小进行整体比较，并由高到低进行排序。</p><p>3.<b>要素比较法</b>：是一种量化的岗位评价方法，是在确定标杆岗位和付酬要素的基础上，运用标杆岗位和付酬要素制成的要素比较尺度表，将待评岗位付酬要素与标杆岗位进行比较，从而确定待评岗位的付酬标准。</p><p>4.<b>要素计点法</b>：又称点数加权法、点数法，是目前最常用的一种复杂的量化职位评价技术。</p><p>综上，本题选A。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "岗位分类法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在确定标杆岗位和付酬要素的基础上，运用标杆岗位和付酬要素制成的要素比较尺度表，将待评岗位付酬要素与标杆岗位进行比较，从而确定待评岗位的付酬标准的岗位评价方法是（）</p>",
+        "questionId": 2056565,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>要素比较法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>岗位排序法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>岗位分类法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>要素计点法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>题干所属内容是要素比较法的内涵，考生需特殊记忆。</b>（A正确）&nbsp;<br></p><p>岗位排序法——由岗位评价人员，根据其对企业各项工作的经验认识和主观判断，对各岗位的相对价值大小进行整体比较，并由高到低进行排序。（B排除）</p><p>岗位分类法——事先建立工作等级标准，并给出明确定义，然后将各岗位工作与这一设定的标准进行比较，从而将待评岗位确定到各种等级中去。（C排除）&nbsp;</p><p>要素计点法——是目前最常用的一种复杂的量化职位评价技术。（D排除）</p><p>故答案为A。<br></p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "要素比较法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>员工从工作本身所获得的心理收入，即对工作的责任感、成就感、胜任感、富有价值的贡献和影响力等属于（ ）</p>",
+        "questionId": 2056464,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效薪酬</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>间接薪酬</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>非货币性外在薪酬</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内在薪酬</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关键词：<b>“心理收入”</b>。</p><p>绩效薪酬——是指将员工的薪酬与员工的工作努力程度和劳功成果直接挂钩确定的薪酬。（A排除）</p><p>间接薪酬——包括福利、有形服务等一些具有经济价值但是以非货币形式提供给员工的报酬。（B排除）</p><p>非货币性外在薪酬——福利及福利设施、教育培训、社会保障等。（C排除）</p><p>内在薪酬——<u><b>发自内心的心理激励</b></u>，包括通过工作产生的<u><b>成就、荣誉感</b></u>等来自工作本身的薪酬，也包含工作环境比如舒适的办公环境、融洽的工作氛围、和谐的公司文化等方面的福利。（D正确）</p><p>故本题答案为D。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1010真题-第1题",
+        "mainNodeName": "外在薪酬和内在薪酬",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

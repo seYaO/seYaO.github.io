@@ -1,0 +1,487 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 10,
+    "totalSubQuestionNum": 10,
+    "questionList": [
+      {
+        "questionContent": "<p>在行业处于寿命周期的成长期时，企业一般采用的薪酬制度是（ ）。</p>",
+        "questionId": 2056816,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>股权激励制度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>股票期权制度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>利润分享制度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工持股制度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>关键词：“成长期”。</b><br></p><p>行业处于不同的寿命周期所采用的薪酬制度如下：</p><p>引入期——股权激励制度；</p><p><b>成长期——股票期权制度；</b></p><p>成熟期——利润分享制度；</p><p>衰退期——管理者收购与雇员持股等制度。</p><p>故排除ACD，本题答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "产业环境对薪酬战略设计的影响",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在企业的经营价值观中，强调雇员的劳动生产率，更容易采取旨在激励劳动投入的计件工资制度，薪酬制度主要与劳动数量挂钩，忽视对雇员创造性和团队精神的培养的是（）</p>",
+        "questionId": 1273492,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生活质量价值观</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>最大利润价值观</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>最大产量价值观</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>最大产值价值观</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业经营价值观：\n<br>1.最大产值价值观：企业强调雇员的劳动生产率，更容易采取旨在激励劳动投入的计件工资制度，薪酬制度主要与劳动数量挂钩，忽视对雇员创造性和团队精神的培养。\n<br>2.最大利润价值观：企业倾向于采用劳动力市场中的低位薪酬水平，忽视对雇员学习性的投入，忽视雇员心理报酬的满足。\n<br>3.工作生活质量价值观：企业谋求资本收益和劳动者报酬之间的平衡，将提高雇员的工作生活质量当作企业的重要目标。&nbsp;<br></p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "企业内部环境对薪酬战略设计的影响",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>按职能划分垂直领导系统，又按产品划分横向领导系统来设立项目小组的组织构成称为（ ）</p>",
+        "questionId": 2079350,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直线制组织</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能制组织</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事业部制组织</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>矩阵制组织</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>职能制组织的组织构成是以劳动分工为基础的。（排除选项B）</p><p>事业部制组织的组织构成以产品、地区、顾客、销售渠道等为部门化依据。（排除选项C）</p><p><b>矩阵制组织</b>既<b>按职能</b>划分<b>垂直领导系统</b>，又<b>按产品（项目）</b>划分<b>横向领导系统</b>来设立项目小组。</p><p>选项A为干扰项，故答案为D。<br></p>",
+        "avgAnswerTime": 87,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "企业内部环境对薪酬战略设计的影响",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在企业的经营价值观中，倾向于采用劳动力市场中的低位薪酬水平，忽视对雇员学习性的投入，忽视雇员心理报酬的满足的是（）</p>",
+        "questionId": 2341655,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生活质量价值观</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>最大产量价值观</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>最大利润价值观</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>最大产值价值观</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>持有<b>生活质量价值观</b>的企业——谋求资本收益和劳动者报酬之间的平衡，将提高雇员的工作生活质量当作企业的重要目标。（A排除）</p><p>持有<b>最大利润价值观</b>的企业——倾向于<b>采用劳动力市场中的低位薪酬水平，忽视对雇员学习性的投入，忽视雇员心理报酬的满足。</b>（C正确）<br></p><p>持有<b>最大产值价值观</b>的企业——强调雇员的劳动生产率，更容易采取旨在家里劳动投入的计件工资制度，薪酬制度主要与劳动数量挂钩，忽视对雇员创造性和团队精神的培养。（D排除）</p><p>选项B为干扰项，故答案为C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "企业内部环境对薪酬战略设计的影响",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业通过采用特定的技术和方法，使本企业的产品或服务在质量、设计、服务及其他方面都与众不同，这一企业战略类型是（）</p>",
+        "questionId": 2030650,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>低成本战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>专一化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>创新型战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>低成本战略——又称成本领先战略，即在产品本身的质量大体相同的情况下，企业可以以低于竞争对手的价格向客户提供产品。（A错误）<br></p><p>专一化战略——企业生产经营单一产品或服务，或者将产品或服务指向特定的地理区域、特定的顾客群。（B错误）</p><p><b>差异化战略——企业通过采用特定的技术和方法，使本企业的产品或服务在质量、设计、服务及其他方面都与众不同。</b>（C正确）</p><p>创新型战略——以产品创新及产品生命周期的缩短为导向。（D错误）</p><p>故答案为C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "保持薪酬制度与企业战略类型相适应",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业生产经营单一产品或服务，或者将产品或服务指向特定地理区域、特定的顾客群的企业经营战略称为（ ）</p>",
+        "questionId": 2403476,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>专一化战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>低成本战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集中化战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2c51082a364fb8fa1c7931800b8b3665/image.png\" alt=\"\" width=\"631\" height=\"156\"><br></p><p>选项D为干扰项，故答案为A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "保持薪酬制度与企业战略类型相适应",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业保持现在产品和市场在防御外来环境威胁的同时保持均匀、小幅度的增长，它是（ ）</p>",
+        "questionId": 2004429,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>创新型薪酬战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>稳定薪酬战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>专一化薪酬战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>主流型薪酬战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f6bba49a42d6ac9be2c6f4bbe2fafdf8/image.png\" alt=\"\" width=\"656\" height=\"165\"><br></p><p>D选项为无关项，故答案为B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "保持薪酬制度与企业战略态势相适应",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业面临衰退的市场或失去竞争优势时，主动放弃某些产品或市场，以维持其生存能力的战略称为（）</p>",
+        "questionId": 2056622,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>稳定发展战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>快速发展战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>收缩战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>撤退战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关键词：<b>“维持生存能力”。</b></p><p>稳定发展战略——强调市场份额或者运营成本的战略。（A排除）</p><p>快速发展战略——关注市场开发、产品开发、创新以及合并等内容的战略。（B排除）</p><p>收缩战略——企业面临衰退的市场或失去竞争优势时，主动放弃某些产品或市场，以维持其生存能力的战略。（C正确）</p><p>选项D为干扰项，故排除。本题答案为C。</p>",
+        "avgAnswerTime": 24,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "保持薪酬制度与企业战略态势相适应",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>迈克尔•波特提出的组织经营战略有（）</p>",
+        "questionId": 171550,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>前瞻者战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>防御者战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>分析者战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>迈克尔•波特提出的组织经营战略有差异化战略、成本领先战略、集中化战略；米尔斯和斯诺提出的战略有：前瞻者战略、防御者战略、分析者战略。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "经营战略与薪酬战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于米尔斯和斯诺提出的组织经营战略类型的是（）</p>",
+        "questionId": 2056874,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集中化战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>防御者战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>成本领先战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关键词：<b>“米尔斯和斯诺”</b>。</p><p>迈克尔•波特将组织经营战略划分为三种类型：差异化战略、成本领先战略、集中化战略。（故排除ABD）</p><p><b>米尔斯和斯诺</b>提出的组织经营战略类型是前瞻者战略、分析者战略、<b>防御者战略</b>（C正确）。</p><p>故本题答案为C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "经营战略与薪酬战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

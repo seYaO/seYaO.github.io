@@ -1,0 +1,723 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">有权检查和审查认证用人单位的基本情况，及时制止和责令用人单位纠正其违法、违规行为，并对其违法、违规行为进行处罚的部门是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 624983,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">司法行政部门</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">公安行政部门</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动行政部门</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">监察行政部门</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动行政部门有权检查和审查认证用人单位的基本情况，及时制止和责令用人单位纠正其违法、违规行为，并对其违法、违规行为进行处罚。</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "二、劳动争议预防的措施",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">我国企业实行民主化管理的基本形式是企业的（）</font></span></p>",
+        "questionId": 2409386,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">工会</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">党委会</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">股东大会</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">职工代表大会</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>我国企业实行民主管理的基本形式是企业的<b>职工代表大会</b>，企业应当按照《劳动法》《企业法》《工会法》的有关规定，建立职工代表大会制度，支持职工代表大会的工作，接受其监督。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "二、劳动争议预防的措施",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在个人产生工作压力的情境中，妨碍欲望得到额外满足的限制可称为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1570076,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">机会</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">要求</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">缺陷</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">约束</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/10d0cbb46f38ce0a401a15e094497cba/2018051001113.png\" alt=\"\" width=\"589\" height=\"105\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">选项C为干扰项，可排除。故本题选D。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "工作压力的内涵",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作压力与工作绩效的关系可以用耶基斯——多德森法则来表示，该曲线呈（ ）</p>",
+        "questionId": 1993260,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>倒U</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>正U</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>倒Y</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>正Y</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>一般而言，工作压力与工作绩效的关系可用耶基斯——多德森法则的倒U曲线来表示：当压力过小或过大时，工作效率都比较低。故选项A正确。其他选项均为混淆项，可排除。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "工作压力的影响",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">既不会出现过度焦虑和紊乱也不会感觉到缺乏自我实现的理想压力状态的压力类型称为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1570939,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">过度压力</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">匮乏压力</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">潜在压力</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">适度压力</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">本题考查的是适度压力。</p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5af2266c0f3e7a31b5c6341e903f8b3e/2018051003108.png\" alt=\"\" width=\"582\" height=\"143\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "压力的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">在压力的类型中，个体目前没有明显感觉，但将来会面临的压力称为（）</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+        "questionId": 1570949,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">潜在压力</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">适度压力</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">匮乏压力</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">临界压力</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">本题考查的是潜在压力。</p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4c749b5bbc270a8359b3aded978428a8/2018051102817.png\" alt=\"\" width=\"582\" height=\"141\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">选项D为干扰项，可排除。故本题选A。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "压力的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">因长期静止、单调乏味或感觉剥夺等因素而引起的一种缺乏自我实现的压力状况称为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2374491,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">过度压力</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">匮乏压力</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">静态压力</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">潜在压力</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>按照个体的适应能力，可把压力分为：\n<br>（1）过度压力是指超过个体适应能力达到极限时，对组织和员工都有危害的压力状况；\n<br>（2）适度压力是指既不会出现过度焦虑和紊乱也不会感觉到缺乏自我实现的理想压力状态；\n<br>（3）<b>匮乏压力</b>是指因长期静止、单调乏味或感觉剥夺等因素而引起的一种缺乏自我实现的压力状况；\n<br>（4）潜在压力是指个体目前没有明显感觉，但将来会面临的压力。\n<br>综上所述，本题选B。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "68.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "压力的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">诱发压力的第三种社会因素是（）</font></span></p>",
+        "questionId": 624656,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">新观念不断涌现</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">生活水平的提高</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">技术的高速发展</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">竞争愈益激烈</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">技术的高速发展是诱发压力的第三种社会因素，技术更新会使员工的技术和经验在很短的时间内变得落后，</font>IT行业就是这方面的典型例子。</span></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "环境压力来源",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在企业内部设置专门的部门，由有管理、心理咨询、社工等专业背景的人员作为专职人员，来对本企业员工实施员工援助计划。这种设计模式称为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1571937,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">整合模式</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">联合模式</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">专业模式</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内置模式</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/74a6386eabe758de406717f88264dc5a/2018050303837.png\" alt=\"\" width=\"584\" height=\"96\"><br></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">选项C为干扰项，可排除。故本题选D。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "员工援助计划的设计",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">企业将员工援助计划服务外包给外部专业的员工援助计划服务公司，企业与这样的专业公司签订合同，并安排专人与专业公司联络和协调。这种员工援助计划的设计模式称（）</font></span></p>",
+        "questionId": 2031790,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">专业模式</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">外设模式</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">联合模式</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">市场模式</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">1.员工援助计划的设计模式主要可分为<b>内置模式、外设模式、联合模式、整合模式</b>等。可排除选项AD。<br></p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">2.<b>外设模式</b>是企业将员工援助计划服务外包给外部专业的员工援助计划服务公司，企业与这样的专业公司签订合同，并安排专人与专业公司联络和协调。故选项B正确。</p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">3.<b>联合模式</b>是若干企业联合成立一个专门的员工援助计划服务机构。由专职人员为这些企业员工提供服务。</p><p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\">综上，本题选B。<br></p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "员工援助计划的设计",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">按照我国劳动法律法规的规定，发生集体劳动争议的职工一方，人数应当在（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2409392,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2人以上</span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3人以上</span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">5人以上</span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">10人以上</span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">按照我国劳动法律法规的规定，发生劳动争议的职工一方，<b>人数在</b></font><b>3人以上</b>，并且有共同理由的为集体劳动争议。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "劳动争议的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">劳动争议处理过程中，第三者或者中间人介入争议处理过程，并提出建议，促使双方达成协议，这种方式称为（）</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+        "questionId": 2409389,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">斡旋</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">裁决</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">调解</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\">妥协</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;mso-para-margin-right:0.0000gd;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><font face=\"微软雅黑\"><b>调解</b>是第三者或者中间人介入争议处理过程，并提出建议，促使双方达成协议。</font></span><span class=\"15\" style=\"font-family: 微软雅黑; color: rgb(0, 0, 0); font-size: 10.5pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "劳动争议处理的非司法方式",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">属于劳动争议处理的司法方式（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2031801,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">仲裁</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">信访</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">行政救济</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">斡旋和调解</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\">1.劳动争议处理的<b>非司法方式</b>主要有<b>协商</b>、<b>斡旋和调解</b>、<b>信访</b>、<b>行政救济</b>。可排除选项BCD。<br></p><p class=\"MsoNormal\">2.劳动争议处理的<b>司法方式</b>主要有<b>仲裁</b>、<b>诉讼</b>。故选项A正确。</p><p class=\"MsoNormal\">综上，本题选A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "劳动争议处理的司法方式",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动争议调解委员会调解劳动争议的期限为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 2031823,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">10天</span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">15天</span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">30天</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">60天</span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">1.调解委员会调解劳动争议应当在</font><b>30日内</b>结案，到期未结束的，视为调解不成。可排除选项ABD，得出选项C正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.知识扩展：劳动争议发生后，如果当事人申请调解，应在自知道或应当知道权利被损害之日起30日内，以口头或书面形式向本企业的劳动争议调解委员会提出申请，并填写《劳动争议调解申请人》，写明争议的原因、经过和具体要求。</span></p><p class=\"MsoBodyText\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">综上，本题选C。</span></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "劳动争议调解",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动争议的最终程序是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 625042,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">人民法院的审判</font></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">仲裁委员会的仲裁</font></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">劳动行政部门的处罚</font></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">当事人双方的协商</font></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" align=\"justify\" style=\"margin-right:0.0000pt;margin-left:0.0000pt;mso-para-margin-right:0.0000gd;mso-para-margin-left:0.0000gd;text-indent:0.0000pt;mso-char-indent-count:0.0000;text-autospace:ideograph-numeric;mso-pagination:none;text-align:justify;text-justify:inter-ideograph;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">人民法院的审判是劳动争议的最终程序。</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "劳动争议处理的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

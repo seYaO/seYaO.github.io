@@ -1,0 +1,1213 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 25,
+    "totalSubQuestionNum": 25,
+    "questionList": [
+      {
+        "questionContent": "<p>工作分析的思想起源于（ ）</p>",
+        "questionId": 2319531,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会分层理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会分工思想</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>科学管理理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>功利主义思想</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作分析的思想起源于<b style=\"text-decoration-line: underline;\">社会分工思想</b>，故选B；</p><p>（2）知识扩展：工作分析的思想来源已久，对工作分析进行系统的研究最早产生于美国的工业企业中，之后经过众多学者长期的研究和一系列工作分析的实践，至今已形成了一套比较成熟的工作分析理论和工作分析实践体系。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "一、工作分析的思想探源",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>被誉为“人力资源管理系统的基石”的是（ ）</p>",
+        "questionId": 2403460,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人员素质测评</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人员招聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“人力资源管理系统的基石”入手。工作分析被誉为“人力资源管理系统的基石”，口诀：资源系统积（基石）分（工作分析）。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "一、工作分析的战略化",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>职系又被称为（ ）</p>",
+        "questionId": 2380695,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作队</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作群</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作组</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作族</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>职系又被称为工作族</b>，由两个或两个以上的工作组成，是职责繁简、难易、轻重、大小及所需资格条件不同，但工作性质充分相似的所有职位集合，故选D；</p><p>（2）知识扩展：职系是一系列工作性质相同，而责任轻重和困难程度不同，从而职级、职等不相同的职位系列。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "38.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "三、工作分析的相关术语",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>专门针对管理人员而设计的定量化的工作分析系统是（）</p>",
+        "questionId": 1568432,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“管理人员”入手。看到题干中的“<b>管理人员</b>”就可以选<b>管理职位描述问卷法</b>。管理职位描述问卷法：这种问卷法是专门针对管理人员而设计的定量化的工作分析系统，是所有工作分析系统中最有针对性的一种系统，它涉及管理者所关心的问题、所承担的责任、所受的限制以及管理者的工作所具备的各种特征。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "管理职位描述问卷的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析系统的研究开发始于20世纪（ ）</p>",
+        "questionId": 2324449,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>20-30年代</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>30-40年代</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>40-50年代</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>70-80年代</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工资分析系统的研究开发始于，故选C；</p><p>（2）知识扩展：工作分析最初产生于美国的工业企业中，系统的工作分析最早出现于19世纪末20世纪初。</p><p><br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "70.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第11题",
+        "mainNodeName": "三、工作分析发展的现状",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析产生于美国工业，最初称为岗位研究，后运用于政府文员的管理，被称为（ ）</p>",
+        "questionId": 2244172,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>岗位分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分类</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职位分工</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分流</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的破题点是“政府文员的管理”。</p><p>工作分析最初产生于美国的工业企业中，当时被称为岗位研究，后来又被应用于<b>政府文官管理</b>中，被称为<b>职位分类</b>。故本题应选B项。</p><p>需要记忆的点有“工业企业”——“岗位研究”；“政府文官管理”——“职位分类”。</p>",
+        "avgAnswerTime": 40,
+        "avgCorrectRate": "26.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "工作分析的萌芽",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析最初产生于美国的（ ）</p>",
+        "questionId": 2324319,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工业企业中</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>商业银行中</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>银行业中</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>军队中</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作分析最初产生于<u><b>美国的工业企业</b></u>中，当时被称为岗位研究，后来又被应用于政府文官管理中，被称为职位分类，故选A；</p><p>（2）知识扩展：历史上第一次大规模的工作分析活动应该是18世纪法国的启蒙思想家丹尼斯•狄德罗所进行的《百科全书》的编写工作。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "工作分析的萌芽",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>历史上第一次大规模的工作分析活动应该是在《百科全书》的编写工作中，该书编者是法国的启蒙思想家（ ）</p>",
+        "questionId": 2520846,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>蒙田</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>让·雅克·卢梭</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​<b>​</b>​孟德斯鸠<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>丹尼斯·狄德罗</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>历史上第一次大规模的工作分析活动</b>应该是18世纪法国的启蒙思想家<u><b>丹尼斯•狄德罗</b></u>所进行的《百科全书》的编写工作，故选D；</p><p>（2）在27年的编写过程中，丹尼斯•狄德罗发现，许多有关贸易、艺术以及手工业方面的资料不完整，而且缺乏统一的意图，他决定对多种工作操作的过程进行一次新的调查。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作分析的萌芽",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>被称为美国科学管理之父的是（）</p>",
+        "questionId": 2248808,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>德鲁克</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>梅奥</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>泰罗</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>西蒙</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>美国管理学家弗雷德里克•温斯洛•泰罗被称为“科学管理之父”。C项正确&nbsp;</b></p><p>拓展：非正式组织是正式组织的对称。这一概念最早由美国管理学家梅奥在“霍桑实验”中提出。</p><p>知识型员工是一个特殊的群体。最早提出这一概念的是由被称为现代管理学之父的美国管理学家彼得•德鲁克在1959年出版的《明天的里程碑》一书中提出的。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "美国的科学管理运动",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>系统的工作分析最早出现于（ ）</p>",
+        "questionId": 2324121,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>19世纪40年代</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>19世纪50年代</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>19世纪80年代</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>19世纪末20世纪初</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）系统的工作分析最早出现于<u style=\"font-weight: bold;\">19世纪末20世纪初</u>；</p><p>（2）作为一个管理工具，它是在被称为“科学管理之父”的美国管理学家弗雷德里克·温斯洛·泰罗的科学管理理论的基础上发展而来的，故选D。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "美国的科学管理运动",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1903年泰罗出版了一本书，书中详细介绍了由于把工作氛围若干部分从而提高了劳动效率的事实，这本书的全称是（ ）</p>",
+        "questionId": 2380665,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>百科全书</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>科学管理原理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工厂管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>国富论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>泰罗</b>在1903年出版的<b>《工厂管理》</b>一书中详细地介绍了由于把工作分成若干部分而提高了劳动效率的事实；</p><p>（2）泰罗在1911年出版的《科学管理原理》一书中指出科学管理是将一项工作分解成若干部分，他用秒表精确测量了完成每部分工作所需要的时间，通过这种方法对工作时间和工作效率进行调查，进而设计出科学、高效的工作流程与岗位配置的管理方法；</p><p>（3）历史上第一次大规模的工作分析活动应该是18世纪法国的启蒙思想家丹尼斯•狄德罗所进行的《百科全书》的编写工作；</p><p>（4）英国古典经济学的杰出代表和创立者之一的亚当•斯密在其名著《国民财富的性质和原因的研究》（简称《国富论》）一书中，提出了国际分工与自由贸易的理论，并以此作为他反对重商主义的“贸易差额论”和保护贸易政策的重要武器。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "53.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "美国的科学管理运动",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1950年，赛迪•范提出的理论是（）</p>",
+        "questionId": 2324384,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职能职业分类计划</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>无边界组织理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业锚理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职业生涯发展理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）1950年，<b>赛迪•范</b>提出了<u><b>“职能职业分类计划”</b></u>理论；</p><p>（2）学者戴维斯提出了 “无边界组织” 的概念；</p><p>（3）CD为干扰项可排除，故选A。</p>",
+        "avgAnswerTime": 82,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "第二次世界大战后工作分析的发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国服务管理专家彼德·米尔斯建议要将客户看成是企业的（ ）</p>",
+        "questionId": 2520889,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>不完全的员工</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>完全的员工</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>不完整的员工</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>秘密的员工</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）美国服务管理专家<b>彼德•米尔斯</b>建议，要将客户看成是企业的<u><b>“不完全的员工”</b></u>，提出应对客户进行工作分析；</p><p>（2）知识扩展：本杰明•施耐德和戴维•伯文教授建议企业使用工作分析的方法来评价当前客户的作用，并且编写客户如何发挥理想作用的说明书，故选A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "五、对客户进行工作分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人们常说，管理是百分之80的科学，百分之20的（ ）</p>",
+        "questionId": 2244859,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>实验</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实务</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​艺术<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>运动</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题的破题点是“百分之20”。</p><p>人们常说：“管理是80%的科学，<b>20%的艺术</b>。”故本题应选C。</p><p>可结合“管理=80%科学+20%艺术”进行记忆。</p>",
+        "avgAnswerTime": 43,
+        "avgCorrectRate": "49.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "工作分析在企业管理方面的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>具有工作分析专长，并对组织结构及组织内部各项工作有着明确认识的人员被称为（ ）</p>",
+        "questionId": 2380699,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作分析领导</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析专家</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作分析队员</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析经理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作分析专家是指具有工作分析专长，并对组织结构及组织内部各项工作有着明确认识的人员，故选B；</p><p>（2）知识扩展：工作分析小组一般由企业人力资源管理部门和外聘的工作分析专家所组成。</p>",
+        "avgAnswerTime": 29,
+        "avgCorrectRate": "80.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作分析主体的确定",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析从管理的角度可以归纳为七个问题，即（ ）</p>",
+        "questionId": 2403465,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>2W5H</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>5W2H</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>6W1H</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>6H1W</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>工作分析从管理的角度可以归纳为七个问题，即6W1H。</b></p><p>（1）<b>6W</b>：做什么（<b>W</b>hat）、为什么（<b>W</b>hy）、谁来做（<b>W</b>ho）、何时做（<b>W</b>hen）、在哪里做（<b>W</b>here）、为谁做（for <b>W</b>hom）；\n<br>（2）<b>1H</b>：如何做（<b>H</b>ow）。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "三、工作分析的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在对职位进行分析的过程中，不能仅仅从静态的角度分析某个职位的特征和任职资格，还应分析这个职位在组织中的位置，以及同其他职位的工作联系，这样才能从总体上把握这个职位的全部特征。这一原则属于工作分析原则中的（）</p>",
+        "questionId": 2403458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>系统原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>动态原则&nbsp;</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>应用原则&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>科学原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/eb2407431a4ec7a8226d85c0e081442c/image.png\" alt=\"\" width=\"648\" height=\"162\"><br></p>",
+        "avgAnswerTime": 22,
+        "avgCorrectRate": "68.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "系统性原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析作为一项基础性的管理工作，需要各级管理人员以及员工的广泛参与，这是工作分析的（ ）</p>",
+        "questionId": 2403470,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>科学原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>参与原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>应用原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ab94c3d4c61c3a144623f8368036fe8b/image.png\" alt=\"\" width=\"812\" height=\"212\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 117,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "参与性原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>由调查人员亲自到工作单位、工作地点观看和考察实际情况，以标准格式记录各个环节的内容、原因和方法，系统地收集一种工作的任务、责任和工作环境方面的信息，然后进行分析和归纳的一种工作分析方法是（ ）</p>",
+        "questionId": 2245307,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资源分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“观看和考察实际情况”入手。题干中的“观看、考察”类似于观察，故正确答案选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "观察法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>适用于以体力劳动为主的工作周期短、有标准化工序工作的工作分析方法是（）</p>",
+        "questionId": 2245316,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5e7b41a227daa71ee1aa0c3c05dcf726/image.png\" alt=\"\" width=\"585\" height=\"166\"><br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "观察法的应用要求和适用范围",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作分析的基础方法中，可以提供一个非常完整的工作图景是（ ）</p>",
+        "questionId": 2380706,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>访谈法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作日志法可以提供一个非常完整的工作图景，再以连续同员工和主管进行面谈作为辅助手段的情况下，这种工作信息的收集方法效果会更好；</p><p>（2）访谈法是获取工作信息最常用的一种方法，许多通过观察法和问卷调查法难以解决的问题都可以通过访谈法来解决；</p><p>（3）观察法一般是由有经验的工作分析人员，在不影响被观察人员正常工作的条件下，通过直接观察的方法，记录某一时期内工作的内容、形式、方法、程序、设备和工作环境等信息，并在此基础上分析有关的工作因素，达到分析目的的一种活动；</p><p>（4）问卷调查法是以书面的形式，通过工作任职者或其他相关人员单方面的信息传递来实现的工作信息收集的一种方式，故本题选C。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 21,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作日志法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>只适用于工作循环周期较短，工作状态稳定、无大起伏的职位的工作分析方法是（）</p>",
+        "questionId": 2245385,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作日志法的缺点表现之一为只适用于工作循环周期较短，工作状态稳定、无大起伏的职位</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "68.0%",
+        "score": 1.0,
+        "sequence": 22,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "工作日志法的操作流程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于工作分析的基础性方法的是（ ）。</p>",
+        "questionId": 2245166,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "访谈法的含义",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a63638594541208ed610fe41ec14e642/image.png\" alt=\"\" width=\"382\" height=\"185\"><br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 23,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第13题",
+        "viceNodeName2": "问卷调查法的含义",
+        "mainNodeName": "工作分析的基础性方法——前言",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于工作分析的基础性方法的是（ ）</p>",
+        "questionId": 2245168,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "访谈法的含义",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/32e102ce2d08248ade922c4e0fd9faab/image.png\" alt=\"\" width=\"401\" height=\"205\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 24,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "viceNodeName2": "问卷调查法的含义",
+        "mainNodeName": "工作分析的基础性方法——前言",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析被誉为人力资源管理系统的（ ）</p>",
+        "questionId": 2248634,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>基石</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>司南</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>重心</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动力</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>工作分析被誉为“人力资源管理系统的基石”</b>，但随着知识经济时代的到来和经济全球化趋势的发展，企业的组织架构和业务流程需要不断适应内外部环境的变化而进行优化甚至变革，导致企业的基本单元——工作也在不断变化，工作的稳定性、工作方式以及工作对任职者的要求等方面也都发生着巨大的变革。<b>故本题选A。</b><br></p><p>BCD项为干扰项，排除。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 25,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "工作分析的发展趋势——前言",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,972 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>工作分析的出发点是从岗位出发分析其内容、性质、关系、环境以及任职资格等，即分析完成这个职位工作的从业人员需具备什么样的资格与条件，而不是分析在岗的人员如何，否则会产生社会赞许行为与防御心理等不利于工作分析结果的问题，工作分析的这一原则被称为（ ）</p>",
+        "questionId": 1735899,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>动态原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>岗位原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​参与原则<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a81b2ba6a6ce15cb40269f093d89bc17/image.png\" alt=\"\" width=\"580\" height=\"200\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 22,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "工作分析的要素与原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析的客体是（）</p>",
+        "questionId": 2049327,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>​任职者<br></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>直接主管</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作岗位</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>工作任职者</b>是工作分析中“天然的”最佳主体。<br></p><p>2.<b>任职者的直接主管</b>是工作分析能够正常、顺利进行的关键人物。</p><p>3.<b>工作岗位</b>是工作分析的客体。故选项C正确。</p><p>4.<b>工作职责</b>属于职务规范。</p><p>综上，本题选C。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "工作分析的要素与原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析中“天然的”最佳主体是（ ）</p>",
+        "questionId": 2109280,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作分析小组</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作岗位的任职者</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>任职者的直接主管</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析的基本对象</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>工作岗位的任职者</b>——工作分析中的<b>“天然的”最佳主体。</b>故B正确。</p><p>（2）工作分析小组——扮演指导者和培训师的角色。不符合题意，排除A。</p><p>（3）任职者的直接主管——是工作分析能够正常、顺利进行的关键人物。不符合题意，排除C。</p><p>（4）工作分析的基本对象——工作分析的客体，即工作岗位。不符合题意，排除D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "工作分析的要素与原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析一般由人力资源管理部门组织实施，但不能把这项工作看成仅仅是人力资源部的事情。工作分析是一项基础性的管理工作，它需要各级管理人员以及员工的共同参加。工作分析的这一原则称为（ ）</p>",
+        "questionId": 2109281,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>动态原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>目的原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​参与原则<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）动态原则：工作分析绝不是一劳永逸的事情，而应是基础性、常规性的工作，工作分析的结果也不是一成不变的，要根据实际情况及时加以调整。A选项不符合题意。</p><p>（2）系统原则：任何一个组织都是一个相对独立的系统，组织中的每一个职位都不是孤立存在的，而是整个组织系统的一部分。B选项不符合题意。</p><p>（3）目的原则：在工作分析中，要明确工作分析的目的。根据工作分析的目的，注意工作分析的侧重点不一样。C选项不符合题意。</p><p>（4）参与原则：工作分析一般由人力资源部门组织实施，但不能把这项工作看成仅仅是人力资源部的事情。D选项符合题意。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "工作分析的要素与原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>美国著名战略学家、哈佛大学的迈克尔•波特教授认为战略是（）</p>",
+        "questionId": 1737381,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>目标与手段的结合</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>基于核心能力的选择</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问题及其解决方案</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>差异化的选择与定位</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/0e3959f169f0356750580b2adb3bbd3d/image.png\" alt=\"\" width=\"577\" height=\"181\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "战略的定义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是一个概念作用和设计内外匹配过程的学派是（）</p>",
+        "questionId": 1738431,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>企业家学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/476c375d63020cdd25164d5910f55eca/image.png\" alt=\"\" width=\"580\" height=\"118\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是一个为了应对外在环境不可预测时通过学习来应急的过程的学派是（）</p>",
+        "questionId": 1738437,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>学习学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/268d6fa6a54c546dae78faec429ba4a9/image.png\" alt=\"\" width=\"579\" height=\"139\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>被认为是现代企业战略理论研究起点的著作是（）</p>",
+        "questionId": 1738445,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《公司战略》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>《企业核心能力》</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《战略历程》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《经理的职能》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/48a3ce1f6ed433ec0881f75f03eda944/image.png\" alt=\"\" width=\"582\" height=\"145\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是组织内各种权力派别之间进行博弈和协商并达成共识的过程的学派是 （）</p>",
+        "questionId": 1738485,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>权力学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/922f6cb35835bbc15220db774d7ab62c/image.png\" alt=\"\" width=\"581\" height=\"142\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是一个通过分析而选择竞争优势的过程的学派是（）</p>",
+        "questionId": 1738519,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>企业家学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/54084331a988b67648a495288f999359/image.png\" alt=\"\" width=\"576\" height=\"117\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是基于某种组织状态来整合已有战略观点而实现转变的过程的战略学派是（）</p>",
+        "questionId": 1738541,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结构学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>环境学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/48d57cee61dafc0d1e10d224d8cf9a76/image.png\" alt=\"\" width=\"579\" height=\"139\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是企业家依靠其直觉思维、灵感而进行预测的过程的学派是（ ）</p>",
+        "questionId": 1738553,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>企业家学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f95bfd6fdc70c15905c9b66a4442d5c9/image.png\" alt=\"\" width=\"579\" height=\"118\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">将战略形成看成是基于对所处环境进行权变或适应的过程战略理论称为（）</font></span></p>",
+        "questionId": 1998312,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">环境战略理论</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">认知战略理论</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">文化战略理论</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">定位战略理论</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/aab8578363767668585a96a43c48a8c6/image.png\" alt=\"\" width=\"586\" height=\"163\"><br></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">故本题选</font>A。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是一个正式、详细、具体、规范计划的过程的学派是（ ）</p>",
+        "questionId": 2109286,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>企业家学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）设计学派：将战略形成看成是一个概念作用和设计内外匹配的过程。不符合题意。</p><p>（2）计划学派：将战略形成看成是一个正式、详细、具体、规范计划的过程。与题意相符。</p><p>（3）企业家学派：将战略形成看成是企业家依靠其直觉思维、灵感而进行预测的过程。不符合题意。</p><p>（4）定位学派：将战略形成看成是一个通过分析而选择竞争优势的过程。不符合题意。</p><p>故本题答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是组织内各种权力派别之间进行博弈和协商并达成共识过程的战略管理学派是（ ）</p>",
+        "questionId": 2409346,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>权力学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>设计学派将战略形成看成是一个概念作用和设计内外匹配的过程。</p><p><b>权力学派将战略形成看成是组织内各种权力派别之间进行博弈和协商并达成共识的过程</b>。</p><p>计划学派将战略形成看成是一个正式、详细、具体、规范计划的过程。</p><p>定位学派将战略形成看成是一个通过分析而选择竞争优势的过程。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1956年，美国学者伊戈尔·安索夫出版的第一本有关战略研究的著作是（ ）</p>",
+        "questionId": 2409347,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《企业核心能力》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《战略历程》</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《公司战略》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>《经理的职能》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ddeb82397212e026f32a305d39e0fe59/image.png\" alt=\"\" width=\"580\" height=\"121\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>先由企业总部高层管理人员制定企业的总体战略，然后再逐层分解为各部门的战略的战略制定方法是（ ）</p>",
+        "questionId": 1740614,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>自上而下法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自下而上法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>上下结合法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​总分层次法<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1b86f8d1155ce2bde4936bf601e9b78e/image.png\" alt=\"\" width=\"577\" height=\"181\"><br></p><p>选项D为干扰项，可排除。故本题选A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "使战略性绩效管理成为现实",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>制定公司战略时，企业高层对下属部门不做具体硬性规定，而要求各部门先积极提交战略方案，在此基础上，企业最高管理层加以协调和平衡并最终形成公司整体战略，这种制定公司战略的方法是（ ）</p>",
+        "questionId": 2409344,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>总分层次法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自上而下法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自下而上法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>上下结合法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）制定公司战略的方法通常有自上而下法、自下而上法和上下结合法三种；故排除A。</p><p>（2）自上而下法是指先由企业总部高层管理人员制定企业的总体战略，然后再逐层分解为各部门的战略，故B错误；</p><p>（3）自下而上法是指制定公司战略时，企业高层对下属部门不做具体硬性规定，而要求各部门先积极提交战略方案，在此基础上，企业最高管理层加以协调和平衡并最终形成公司整体战略，故C正确；</p><p>（4）上下结合法是指在战略制定过程中，企业最高管理层与下属各部门管理人员共同参与，通过沟通和磋商，制定出适宜的战略，故D错误。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "使战略性绩效管理成为现实",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>卡迪、多宾斯和沃德曼将影响员工绩效的因素分为（）</p>",
+        "questionId": 1740835,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>组织因素和个人因素</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>组织因素和价值绩效</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>价值因素和系统因素&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统因素和个人因素</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>卡迪、多宾斯和沃德曼提出影响员工绩效的因素应分为系统因素与个人因素。故选项D正确。其他选项均为干扰项，可排除。故本题选D。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1210真题-第1题",
+        "mainNodeName": "因素分析概述",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>卡迪、多宾斯和沃德曼提出影响员工绩效的因素有（）</p>",
+        "questionId": 1740848,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>制约因素</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统因素</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>个人因素</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>动机因素</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>促进因素</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>卡迪、多宾斯和沃德曼提出影响员工绩效的因素应分为系统因素与个人因素。选项BC为正确。其他选项均为干扰项，可排除。故本题选BC。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "BC",
+        "questionSource": "江苏省-1010真题-第1题",
+        "mainNodeName": "因素分析概述",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      }
+    ]
+  }
+}

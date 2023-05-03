@@ -1,0 +1,1090 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 22,
+    "totalSubQuestionNum": 22,
+    "questionList": [
+      {
+        "questionContent": "<p>标志着平衡计分卡开始成为组织管理重要工具的事件是出版著作（ ）</p>",
+        "questionId": 1791269,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《战略组织》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​《战略中心组织》<br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>《组织协同》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《平衡计分卡》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>《战略中心组织》</b>该著作的出版标志着平衡计分卡开始成为组织管理的重要工具。故选项B正确。其他选项均为混淆项，可排除。故本题选B。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "平衡计分卡的推广应用与理论再发展时期（1994年至今）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>标志着平衡计分卡开始成为组织管理的重要工具的著作是（）</p>",
+        "questionId": 2049369,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《战略地图》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《平衡计分卡》</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《组织协同》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《战略中心组织》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>​</b>​1.2004年，卡普兰和诺顿开始陆续出版新著《战略地图》、《组织协同》等，使平衡计分卡的应用得到了进一步的发展和升华。故排除选项AC。<br></p><p>2.平衡计分卡，简称BSC，卡普兰和诺顿于1992年发明并推广，他们在《哈佛商业评论》发表了第一篇关于平衡计分卡的文章。故排除选项B。</p><p><b>3.《战略中心组织》</b>，该著作的出版标志着平衡计分卡开始成为组织管理的重要工具。故选项D正确。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "平衡计分卡的推广应用与理论再发展时期（1994年至今）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>KPI的理论基础是（）</p>",
+        "questionId": 2048929,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>热炉法则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>二八法则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>格雷欣法则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>三七法则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>KPI的理论基础</b>是“<b>二八法则</b>”，其基本含义是在一个企业的价值创造中存在着“20／80”的规律，即20%的骨干人员创造企业80%的价值。故选项B正确。<br></p><p>2.1）<span style=\"font-weight: bolder;\">热炉法则</span>指组织中任何人触犯规章制度都要受到处罚。</p><p><b>2）格雷欣法则</b>指在实行金银双本位制条件下，金银有一定的兑换比率，当金银的市场比价与法定比价不一致时，市场比价比法定比价高的金属货币（良币）将逐渐减少，而市场比价比法定比价低的金属货币(劣币)将逐渐增加，形成良币退藏，劣币充斥的现象。</p><p><b>3）三七法则</b>指技术、管理、营销中的一种模式。</p><p>综上，本题选B。<br></p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "关键绩效指标的起源",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>设定考核标准时，确定从哪些方面来对工作产出进行衡量或考核，称为（）</p>",
+        "questionId": 2049363,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>关键维度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>范围维度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效指标</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>绩效标准</b>指在各个指标上分别应该达到什么样的水平。</p><p>2.一般来说，<b>绩效指标</b>指的是从哪些方面来对工作产出进行衡量或考核。故选项D正确。</p><p>3.关键维度和范围维度在本书未涉及。</p><p>3.知识扩展：维度是事物或现象的某种特征，如地区、时间、范围等。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 26,
+        "avgCorrectRate": "62.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "构建关键绩效指标体系的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>确定工作产出的原则分别为：确定权重原则、客户导向原则、结果导向原则和（）</p>",
+        "questionId": 2049893,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>行为导向原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>财务指向原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>增值产出原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>适时反馈原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.确定工作产出的四个原则：<br></p><p>（1）<b>增值</b>产出原则；</p><p>（2）<b>客户</b>导向原则；</p><p>（3）<b>结果</b>导向原则；</p><p>（4）<b>确定</b>权重原则。</p><p>故可排除选择ABD，得出选项C为正确选项。</p><p>2.本题口诀：客户确定增值结果。</p><p>综上，本题选C。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "63.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "构建关键绩效指标体系的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>确定工作产出的原则分别为：增值产出原则、客户导向原则、结果导向原则和（）</p>",
+        "questionId": 2109201,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>行为导向原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定权重原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>财务指向原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>适时反馈原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>确定工作产出的四个原则：\n<br>（1）<u>增值</u>产出原则；\n<br>（2）<u>客户</u>导向原则；\n<br>（3）<u>结果</u>导向原则；\n<br>（4）<b><u>确定</u>权重</b>原则。</p><p>选项ACD为干扰项，故本题选B。<br></p><p><b>本题口诀：客户确定增值结果。</b></p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "构建关键绩效指标体系的程序",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1954年管理大师彼得·德鲁克提出并倡导的一种科学的优秀管理模式，称为（）</p>",
+        "questionId": 616639,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>关键指标法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>目标管理法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>平衡计分卡</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>360度反馈法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>目标管理法源自彼得·德鲁克。他在1954年在《管理实践》一书中最先提出了“目标管理”的概念。故“1954年管理大师彼得·德鲁克提出并倡导的一种科学的优秀管理模式，称为目标管理法。”（教材已改版）</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "目标管理法的产生与发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>目标管理法的提出者是（）</p>",
+        "questionId": 616811,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>诺伯特·维纳</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>大卫·诺顿</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>戴维·麦克利兰</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>彼得·德鲁克</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>目标管理法源自于彼得·德鲁克。他在1954年在《管理实践》一书中最先提出了“目标管理”的概念。故选D。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1010真题-第1题",
+        "mainNodeName": "目标管理法的产生与发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">目标管理法的提出者是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 616977,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">马库斯</font>▪白金汉</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">唐纳德</font>▪克里夫顿</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">史密斯</font>▪肯德尔</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\">彼得<span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">▪德鲁克</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p class=\"MsoNormal\" style=\"text-autospace:ideograph-numeric;mso-pagination:none;line-height:14.0000pt;mso-line-height-rule:exactly;\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">此题考核的是目标管理法。</font></span>目标管理法源自于彼得·德鲁克。他在1954年在《管理实践》一书中最先提出了“目标管理”的概念。故选D。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1101真题-第1题",
+        "mainNodeName": "目标管理法的产生与发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>“目标管理及自我控制”概念的提出者是（）</p>",
+        "questionId": 2049345,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>罗伯特·卡普兰</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>彼得·德鲁克</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>大卫·诺顿</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>诺伯特·维纳</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>罗伯特•卡普兰</b>和<b>大卫•诺顿</b>发明平衡计分卡并推广。</p><p>2.“目标管理及自我控制”概念的提出者是<b>彼得·德鲁克</b>。解决问题的答案在于将目标管理与自我控制结合起来，这是德鲁克提出的主张。故选项B正确。</p><p>3.<b>诺伯特·维纳</b>是控制论的创始人，提出了“控制论”一词。</p><p>综上，本题选B。</p><p><br></p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "目标管理法的产生与发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在目标管理法的具体操作步骤中，第一个步骤是（）</p>",
+        "questionId": 2048882,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效目标设定</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>制定达到目标的时间框架</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>比较实际绩效水平与绩效目标</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>设定新的绩效目标</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>目标管理法的具体操作步骤可以分为以下四个步骤：</p><p>1.<b>绩效目标设定</b>是目标管理程序的第一步。</p><p>2.<b>制定达到目标的时间框架</b>是实施目标管理的第二步。</p><p>3.<b>比较实际绩效水平与绩效目标</b>是实施目标管理的第三步。</p><p>4.<b>设定新的绩效目标</b>是目标管理的第四步。</p><p>综上，本题选A。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "绩效目标设定",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以企业领先者或某些企业的优秀职能操作为基准进行的标杆管理，称为（）</p>",
+        "questionId": 1793468,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内部标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>竞争标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>功能标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>流程标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/07737c9817387bc25037e2d307cf5d6a/image.png\" alt=\"\" width=\"577\" height=\"119\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在双方协商同意的情况下，彼此自愿共享信息的标杆管理被称为（ ）</p>",
+        "questionId": 1796075,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>过程的标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>单项的标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>战略的标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>合作的标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2719a6d326ad8d563a8be68104c44d13/image.png\" alt=\"\" width=\"577\" height=\"159\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以最佳工作流程为基准进行的标杆管理，称为（ ）</p>",
+        "questionId": 2109164,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内部标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>竞争标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>功能标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>流程标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>按目标的不同，标杆管理的分类：&nbsp;&nbsp;</p><p>1、内部标杆管理：指以企业内部操作为基准的标杆管理。\n<br>2、竞争标杆管理：指以竞争为基准的标杆管理。\n<br>3、功能标杆管理：指以企业领先者或某些企业的优秀职能操作为基准进行的标杆管理。</p><p>4、<b>流程标杆管理</b>：<b>指以最佳工作流程为基准进行的标杆管理</b>。</p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过对领先企业的管理系统、管理绩效进行对比衡量，发现他们成功的关键因素，进而学习赶超它们的标杆管理为（ ）</p>",
+        "questionId": 2128576,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>产品的标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>战略的标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理的标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>过程的标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）产品的标杆管理：强调仔细考察其他组织的产品而不仅是竞争对手的产品；</p><p>（2）战略的标杆管理：研究学习其他组织的战略和战略性策略，以及有关企业长远整体的一些发展问题，如发展方向、发展目标和竞争战略的标杆管理活动。</p><p>（3）<b>管理的标杆管理</b>：通过对领先企业的管理系统、管理绩效进行对比衡量，发现他们成功的关键因素，进而学习赶超它们的标杆管理；</p><p>（4）过程的标杆管理：通过对某一过程的比较，发现领先企业赖以取得优秀绩效的关键因素，通过学习模仿、改进融合，使企业在该领域中赶上或超越对手的标杆管理。</p><p>综上所述，本题选C。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以企业领先者或某些企业的优秀职能操作为基准进行的标杆管理称为（）</p>",
+        "questionId": 2409340,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内部标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>竞争标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>功能标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>流程标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e95507c39eec04647a9d22b1d28824eb/image.png\" alt=\"\" width=\"578\" height=\"118\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 26,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>20世纪90年代初，罗伯特·S·卡普兰和大卫·P·诺顿提出一种全新的组织绩效管理方法，称为（）</p>",
+        "questionId": 2049894,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>平衡计分卡</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>关键绩效指标</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>目标管理法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>全面质量管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>平衡计分卡</b>简称BSC，是美国哈佛商学院教授罗伯特·S·卡普兰和咨询公司总裁大卫·P·诺顿于1992年发明并推广的。<br></p><p>2.<b>目标管理法</b>源自于彼得•德鲁克。他在1954年在《管理实践》一书中最先提出了“目标管理”的概念。</p><p>3.知识扩展：<b>关键绩效指标</b>是进行绩效沟通的基石。</p><p>4.<b>全面质量管理</b>在本书未涉及。</p><p>综上，本题选A。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1301真题-第1题",
+        "mainNodeName": "概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>平衡计分卡评价绩效的角度主要包括（）</p>",
+        "questionId": 1791373,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>学习与成长</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>能力需求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​内部流程<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​客户<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>财务</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5da1e3d7f39e9ce78b28b1a90d06ece0/image.png\" alt=\"\" width=\"238\" height=\"133\"><br></p><p>故本题选ACDE。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "ACDE",
+        "questionSource": "江苏省-1201真题-第1题",
+        "mainNodeName": "平衡计分卡的概念和内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>经典的平衡计分卡四维度分别为（）</p>",
+        "questionId": 2049910,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>财务</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>客户</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>系统</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内部运营</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>学习与成长</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b777cf13367daff57b7de7694d5ca3c2/image.png\" alt=\"\" width=\"240\" height=\"135\"><br></p><p>可排除选项C，得出选项ABDE均正确。</p><p>本题口诀：客户学习运营财务。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCD",
+        "questionAnswer": "ABDE",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "平衡计分卡的概念和内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>目标管理法的优势有（ ）</p>",
+        "questionId": 2128421,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>形成激励</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>有效管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>明确任务</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>创造优势</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>控制有效</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.目标管理法的优势：\n<br>1）形成<b>激励</b>。\n<br>2）有效<b>管理</b>。\n<br>3）明确<b>任务</b>。\n<br>4）<b>控制</b>有效。\n<br>可排除选项D，得出选项ABCE均正确。\n<br>2.本题口诀：激励管理，控制任务。\n<br>综上，本题选ABCE。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "66.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "ABCE",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "目标管理法的优势",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>按照标杆管理的内容的不同，可将标杆管理分为（）</p>",
+        "questionId": 1793522,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>产品的标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>过程的标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>管理的标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>战略的标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>最佳实践标杆管理</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3dc2e06fb3cae21c4765473a67580c58/image.png\" alt=\"\" width=\"576\" height=\"114\"><br></p><p>故本题选ABCDE。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "68.0%",
+        "score": 1.0,
+        "sequence": 21,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCD",
+        "questionAnswer": "ABCDE",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>按照标杆管理的标的不同，可将标杆管理分为（ ）</p>",
+        "questionId": 2128413,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>战略标杆管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>&nbsp;内部标杆管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>竞争标杆管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>功能标杆管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>流程标杆管理</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>在标杆管理的分类中，<u>按标的不同</u>可分为：内部标杆管理、竞争标杆管理、功能标杆管理、流程标杆管理。</p><p>战略标杆管理属于按内容不同的分类，故排除选项A。</p><p>本题选BCDE。</p><p></p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "53.0%",
+        "score": 1.0,
+        "sequence": 22,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "BCDE",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "标杆管理的分类",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      }
+    ]
+  }
+}

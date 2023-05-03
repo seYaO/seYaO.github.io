@@ -1,0 +1,973 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>某一时间内某一主体所担负的一项或数项相互联系的职责集合称为（ ）</p>",
+        "questionId": 2403449,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>任务</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职务</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）任务是指一系列为了不同的目的所需完成的不同的工作活动；</p><p>（2）职务是指主要职责在重要性与数量上相当的一组职位的集合或统称；</p><p>（3）<b>职位即岗位，是某一时间内某一任职主体所担负的一项或数项相互联系的职责集合；故选C</b></p><p>（4）职系又被称为工作族，由两个或两个以上的工作组成，是职责繁简、难易、轻重、大小及所需资格条件不同，但工作性质充分相似的所有职位集合。</p>",
+        "avgAnswerTime": 22,
+        "avgCorrectRate": "51.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "三、工作分析的相关术语",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析的客体就是（ ）</p>",
+        "questionId": 1564225,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作任职者</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作任务</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作职责</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作岗位</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“客体”入手。A项是工作分析的主体；BC项都是工作岗位的工作内容，是工作岗位的一部分；D项是工作分析的客体。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "二、工作分析的客体",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>适用于对目标职位的功能性要素进行分析的工作分析方法是 （ ）<br></p>",
+        "questionId": 2613501,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>题干中的“目标<b>职位的功能性</b>要素”就是职位的<b>职能</b>，故应该选A。</p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第7题",
+        "mainNodeName": "一、各种工作分析方法的比较",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>专门针对管理人员而设计的定量化的工作分析系统是（）</p>",
+        "questionId": 1568432,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“管理人员”入手。看到题干中的“<b>管理人员</b>”就可以选<b>管理职位描述问卷法</b>。管理职位描述问卷法：这种问卷法是专门针对管理人员而设计的定量化的工作分析系统，是所有工作分析系统中最有针对性的一种系统，它涉及管理者所关心的问题、所承担的责任、所受的限制以及管理者的工作所具备的各种特征。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "管理职位描述问卷的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在管理职位描述问卷的管理工作维度中，用来衡量某一管理工作（职位）相对其他工作 (职位）而言对组织的贡献度有多大的因子是（ ）</p>",
+        "questionId": 1568585,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>管理工作因子</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作报酬因子</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理绩效因子&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作评价因子</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“相对，贡献度”入手。B项不是管理职位描述问卷的管理工作维度，排除。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/134da403caa072f48b2c4b381078c405/image.png\" alt=\"\" width=\"633\" height=\"77\"><br></p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第17题",
+        "mainNodeName": "管理职位描述问卷的管理工作维度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业人力资源管理的基础性工作是（ ）</p>",
+        "questionId": 2244861,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人员素质测评</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人员招聘</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>工作分析作为人力资源管理的基础性工作</b>，是人力资源管理系统内在各功能模块进行整合的基础与前提，也是企业的专利、组织、流程向人力资源管理过渡的桥梁。<b>A项正确。</b></p><p>企业进行人员素质测评、工作评价和定员定额时，必须以工作分析为基础。排除B</p><p>人员招聘取决于空缺岗位所需要的资格要求；排除C</p><p>企业进行绩效管理的最终目的是调动广大员工的积极性，提高生产效率，实现企业提高经济效益的目标。排除D</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1301真题-第1题",
+        "mainNodeName": "工作分析在企业管理方面的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作分析过程中扮演着指导者和培训师的角色，主要职责是为整个工作分析提供指导、规划，设计工作分析的程序、步骤，安排工作分析的时间，提供工作分析所需要的各种表格、范例等，而不是直接从事工作分析的工作分析主体是（ ）</p>",
+        "questionId": 2244898,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>高层管理者</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作任职者</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析对象的直接领导</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析小组</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“指导者和培训师、提供指导、规划，不直接从事工作分析工作”入手。A项不属于工作分析主体，故排除。</p><p>工作任职者：是最关键、“天然的”主体；</p><p>工作分析对象的直接领导：是岗位任职者的直接主管；</p><p>工作分析小组：即专家组，是指导者和培训师，提供指导、规划，不直接从事工作分析。</p>",
+        "avgAnswerTime": 24,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第4题",
+        "mainNodeName": "工作分析主体的确定",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>进行工作分析的一个最重要和最基本的要素是（）</p>",
+        "questionId": 2244934,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作分析的主体</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析的目的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析的客体</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作分析内容的确定</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作分析内容的确定是进行工作分析的一个最重要和最基本的要素，它是工作分析人员进行工作分析的依据。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "三、工作分析的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析的基本出发点是（）</p>",
+        "questionId": 2244960,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>组织结构</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>业务流程</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>组织环境</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>岗位</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“基本出发点”入手。岗位是企业运行的最基本的细胞，工作分析所分析的也是工作岗位的内容、职责、权限等，所以工作分析是围绕岗位展开的，岗位就是工作分析的基本出发点。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "工作分析是以岗位为基本出发点的",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过对现有资料的收集，借助资料分析的工具，直接提炼有用的工作分析信息的一种方法是（ ）</p>",
+        "questionId": 2403441,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f2b873ed02deddd7b6a216ce4b604474/image.png\" alt=\"\" width=\"667\" height=\"208\"><br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "资料分析法的操作步骤",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>由调查人员亲自到工作单位、工作地点观看和考察实际情况，以标准格式记录各个环节的内容、原因和方法，系统地收集一种工作的任务、责任和工作环境方面的信息，然后进行分析和归纳的一种工作分析方法是（ ）</p>",
+        "questionId": 2245307,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资源分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“观看和考察实际情况”入手。题干中的“观看、考察”类似于观察，故正确答案选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "观察法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>适用于以体力劳动为主的工作周期短、有标准化工序工作的工作分析方法是（）</p>",
+        "questionId": 2245316,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5e7b41a227daa71ee1aa0c3c05dcf726/image.png\" alt=\"\" width=\"585\" height=\"166\"><br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "观察法的应用要求和适用范围",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在工作分析的基础方法中，可以提供一个非常完整的工作图景是（ ）</p>",
+        "questionId": 2380706,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>访谈法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）工作日志法可以提供一个非常完整的工作图景，再以连续同员工和主管进行面谈作为辅助手段的情况下，这种工作信息的收集方法效果会更好；</p><p>（2）访谈法是获取工作信息最常用的一种方法，许多通过观察法和问卷调查法难以解决的问题都可以通过访谈法来解决；</p><p>（3）观察法一般是由有经验的工作分析人员，在不影响被观察人员正常工作的条件下，通过直接观察的方法，记录某一时期内工作的内容、形式、方法、程序、设备和工作环境等信息，并在此基础上分析有关的工作因素，达到分析目的的一种活动；</p><p>（4）问卷调查法是以书面的形式，通过工作任职者或其他相关人员单方面的信息传递来实现的工作信息收集的一种方式，故本题选C。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "工作日志法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>只适用于工作循环周期较短，工作状态稳定、无大起伏的职位的工作分析方法是（）</p>",
+        "questionId": 2245385,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作日志法的缺点表现之一为只适用于工作循环周期较短，工作状态稳定、无大起伏的职位</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "68.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "工作日志法的操作流程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>要求每个员工都要将自己所从事的每一项活动按照时间顺序以日志的形式进行记录，以实现工作分析目的的一种工作分析方法称为（）</p>",
+        "questionId": 2245388,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“以日志的形式记录”入手。根据题干中的以<b>日志形式</b>即可快速选出<b>工作日志法</b>。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "99.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "工作日志法的操作流程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>适于确定有关工作职责、工作内容、工作关系、劳动强度等方面的信息的工作分析方法是（）。</p>",
+        "questionId": 2245401,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/73b85ebc35aa53192b5f180887d76af6/image.png\" alt=\"\" width=\"535\" height=\"172\"><br></p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "70.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1210真题-第1题",
+        "mainNodeName": "工作日志法的优缺点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1972年由美国普渡大学麦考密克、詹纳雷特和米查姆等人用了10年时间开发的工作分析方法是（ ）</p>",
+        "questionId": 2245414,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点“麦考密克、詹纳雷特和米查姆等人”、“10年”。</p><p>职位分析问卷是1972年美国普渡大学教授麦考密克、詹纳雷特和米查姆等人用了10年时间开发出来的。记忆重点：“麦考密克等人10年开发——职位分析问卷法”。</p><p>故本题应选C项。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第7题",
+        "mainNodeName": "职位分析问卷法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作者在工作所处的环境的影响下趋同或求变的能力称为（）</p>",
+        "questionId": 2245461,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>通用技能</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>适应性技能</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>特定技能</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一般技能</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“趋同或求变的能力”入手。D项一般技能书中并未提及过，首先排除。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ba28673685a923aa730fd8fd07c15f6c/image.png\" alt=\"\" width=\"582\" height=\"99\"><br></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "职能工作分析法的框架",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于工作分析的基础性方法的是（ ）。</p>",
+        "questionId": 2245166,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "访谈法的含义",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/a63638594541208ed610fe41ec14e642/image.png\" alt=\"\" width=\"382\" height=\"185\"><br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "89.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第13题",
+        "viceNodeName2": "问卷调查法的含义",
+        "mainNodeName": "工作分析的基础性方法——前言",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>属于工作分析的基础性方法的是（ ）</p>",
+        "questionId": 2245168,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "访谈法的含义",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/32e102ce2d08248ade922c4e0fd9faab/image.png\" alt=\"\" width=\"401\" height=\"205\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1810真题-第1题",
+        "viceNodeName2": "问卷调查法的含义",
+        "mainNodeName": "工作分析的基础性方法——前言",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

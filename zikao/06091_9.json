@@ -1,0 +1,499 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 10,
+    "totalSubQuestionNum": 10,
+    "questionList": [
+      {
+        "questionContent": "<p>管理者在薪酬管理过程中进行的一系列成本开支方面的权衡和取舍称为（）</p>",
+        "questionId": 2056919,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薪酬控制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬调整</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬预算</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>薪酬监控</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关键词：<b>“成本开支方面”</b><br></p><p>薪酬控制——为确保既定薪酬方案顺利落实而采取的种种相关措施。（A排除）</p><p>薪酬调整——在企业战略调整过程中利益的再分配。（B排除）</p><p><b>薪酬预算——管理者在薪酬管理过程中进行的一系列成本开支方面的权衡和取舍。</b>（C正确）</p><p>选项D为干扰项，故答案为C。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "一、薪酬预算管理的含义和作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>薪酬总额与销售额之比称为（&nbsp; ）</p>",
+        "questionId": 2509919,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>薪酬利润率</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬分配率</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬预算率</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>薪酬费用率</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>A：<b>薪酬利润率</b>=（利润总额/薪酬总额）×100%</p><p>B：劳动<b>分配率</b>：指薪酬总额与附加价值之比。如果用公式来表示，就是：劳动分配率=薪酬总额/附加价值</p><p>D：<b><u>薪酬费用率</u></b>：指<b><u>薪酬总额与销售额之比</u></b>。如果用公式来表示，就是<b>薪酬费用率=薪酬总额/销售额</b><br></p><p>故本题选D。C为干扰项。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "五、薪酬预算的步骤",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在薪酬沟通的步骤中，最后一个步骤是（）</p>",
+        "questionId": 1789377,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>制定薪酬沟通策略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>沟通效果评估</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>薪酬沟通面谈</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>创建制度化沟通通道</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/74ddf3215c7c0afd2c9290821eb172e9/image.png\" alt=\"\" width=\"406\" height=\"251\"><br></p><p>故答案为B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "四、薪酬沟通的步骤",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在任何薪酬沟通方案中，最重要的步骤是（）</p>",
+        "questionId": 2608454,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>建立薪酬沟通机制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>确定薪酬沟通的目标</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>制定薪酬沟通策略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>正式沟通面谈</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>薪酬沟通的步骤：<br></p><p>（1）建立薪酬沟通机制；</p><p>（2）确定薪酬沟通的目标；</p><p>（3）收集薪酬沟通的相关信息；</p><p>（4）制定薪酬沟通策略；</p><p>（5）选择沟通媒介；</p><p>（6）创建制度化沟通通道；</p><p>（7）<b><u>薪酬沟通面谈（最重要的步骤）</u></b>。</p><p>（8）沟通效果评估。</p><p>【助记：建立→确定→收集→制定→选择→创建→面谈→评估】&nbsp;</p><p>故答案为D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "四、薪酬沟通的步骤",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>实行社会医疗保险模式的代表性国家是（）</p>",
+        "questionId": 1785838,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>英国</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德国</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>美国</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>新加坡</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/380632d71bdba69078d94cffd05c2e4e/image.png\" alt=\"\" width=\"442\" height=\"144\"><br></p><p>故答案为B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "71.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "医疗保险",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>通过最高薪酬水平和最低薪酬水平来控制员工薪酬的控制方法是（）</p>",
+        "questionId": 1787835,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>通过雇佣量进行薪酬控制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>通过薪酬结构进行薪酬控制</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>通过薪酬水平进行薪酬控制</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>通过薪酬技术进行潜在的薪酬控制</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cf41b85738ee0a91f1c2ec1e3cb1ca41/image.png\" alt=\"\" width=\"614\" height=\"130\"><br></p><p>故答案为D。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "薪酬控制的方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>根据员工的岗位重要性、相对价值大小、员工资历等不同情况，确定不同的调整比例的薪酬水平调整方法是（）</p>",
+        "questionId": 2056517,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>等额调整法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>等比调整法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>不规则调整法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>综合调整法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>ABCD均是薪酬水平调整的具体方法。<br></p><p>等额调整法——所有员工都按照同样数额调整薪酬。（A排除）</p><p>等比调整法——所有员工以原有薪酬为基数，按同样的百分比调整。（B排除）</p><p><b>不规则调整法——根据员工的岗位重要性、相对价值大小、员工资历等不同状况，确定不同的调整比例。</b>（C正确）</p><p>综合调整法——综合考虑通货膨胀、员工资历、员工绩效等因素，对薪酬水平进行调整。（D排除）</p><p>故答案为C。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "薪酬水平调整",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>综合考虑通货膨胀、员工资历、员工绩效等因素，对薪酬水平进行调整的方法称为（）</p>",
+        "questionId": 2056858,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>等比调整法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>综合调整法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>不规则调整法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>等额调整法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>ABCD都属于薪酬水平调整的具体方法。<br></p><p>等比调整法——员工以原有薪酬为基数，按同样的百分比调整。（A排除）</p><p><b>综合调整法——综合考虑通货膨胀、员工资历、员工绩效等因素，对薪酬水平进行调整。</b>（B正确）</p><p>不规则调整法——根据员工的岗位重要性、相对价值大小、员工资历等不同状况，确定不同的调整比例。（C排除）<br></p><p>等额调整法——所有员工都按照同样数额调整薪酬。（D排除）</p><p>故答案为B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "薪酬水平调整",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>影响薪酬预算的宏观环境因素有（）</p>",
+        "questionId": 2056911,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生活成本的变动</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>当地物价的变动</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>经济发展水平与劳动生产率</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>劳动力市场的供求和竞争状况</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>政府的宏观调控</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>影响薪酬预算的因素一般从宏观环境和微观环境两个方面来分析。<br></p><p>关键性：<b>“宏观环境”</b>。</p><p>薪酬预算的宏观环境因素主要为：①经济发展<b>水</b>平与劳动生产率；②劳动力市场的供<b>求</b>和竞争状况；③当地物价的<b>变</b>动；④政府的<b>宏</b>观调控。</p><p><b>记忆口诀：水球变红。</b></p><p>选项A属于微观环境的内容，故答案为BCDE。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "BCDE",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "宏观环境",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>薪酬调整的必要性主要有（）</p>",
+        "questionId": 2056883,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>企业效益变化</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>生活费用变化</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>竞争策略变化</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人才供需变化</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>员工需求变化</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>为保证薪酬制度和薪酬方案的科学性，进行必要的调整是在所难免的。</p><p>薪酬调整的必要性主要为：①企业<b>效</b>益变化；②生活<b>费</b>用变化；③竞争<b>策</b>略变化；④人才<b>供</b>需变化；⑤员工需<b>求</b>变化。</p><p><b>记忆口诀：消费测供求。</b></p><p>故答案为ABCDE。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "ABCDE",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "薪酬调整的必要性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      }
+    ]
+  }
+}

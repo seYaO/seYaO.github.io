@@ -1,0 +1,970 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 20,
+    "totalSubQuestionNum": 20,
+    "questionList": [
+      {
+        "questionContent": "<p>在绩效计划的各主体中，职责主要是了解组织战略目标，结合组织、团队的目标和个人实际确定绩效目标的人员是（\t）</p>",
+        "questionId": 2109079,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直接上级</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>公司高层领导</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工本人</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源管理专业人员</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效计划的主体及职责：<br>员工的直接上级：宣传组织战略和目标，分解各部门的任务；引导并推动不同系列的员工建立科学合理的绩效目标；与下属员工共同制定员工绩效计划。<br><b>员工本人</b>：<b>了解组织战略目标，结合组织、团队的目标和个人实际确定自己的绩效目标</b>；拟定个人绩效计划，并与上级交流沟通。\n<br>人力资源管理专业人员：宣传组织的战略、文化；制定绩效管理制度，明确不同岗位的员工绩效评价内容；组织绩效计划培训；解决绩效计划问题。</p><p>选项B为干扰项，故排除。本题选C。</p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "二、绩效计划的主体",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效计划的主体中，其职责主要是宣传组织战略和目标，分解各部门的任务；引导并推动不同系列的员工建立科学合理的绩效目标；与下属员工共同制定员工绩效计划的是（ ）</p>",
+        "questionId": 2409345,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>员工本人</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>公司高层领导</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>直接上级</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源管理专业人员</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效计划的主体主要是由<b>人力资源管理专业人员</b>、员工的<b>直接上级</b>和<b>员工本人</b>组成。故可排除选项B。&nbsp;<br></p><p>2.<b>员工本人</b>的职责是了解组织战略目标，结合组织、团队的目标和个人实际确定自己的绩效目标；拟定个人绩效计划，并与上级交流沟通。<br>3.<b>直接上级</b>的职责是宣传组织战略和目标，分解各部门的任务；引导并推动不同系列的员工建立科学合理的绩效目标；与下属员工共同制定员工绩效计划。</p><p>4.<b>人力资源管理专业人员</b>的职责是宣传组织的战略、文化；制定绩效管理制度，明确不同岗位的员工绩效评价内容；组织绩效计划培训；解决绩效计划问题。</p><p>故本题应选C。</p>",
+        "avgAnswerTime": 30,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "二、绩效计划的主体",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将战略形成看成是组织内各种权力派别之间进行博弈和协商并达成共识过程的战略管理学派是（ ）</p>",
+        "questionId": 2409346,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>设计学派</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>权力学派</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>计划学派</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定位学派</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>设计学派将战略形成看成是一个概念作用和设计内外匹配的过程。</p><p><b>权力学派将战略形成看成是组织内各种权力派别之间进行博弈和协商并达成共识的过程</b>。</p><p>计划学派将战略形成看成是一个正式、详细、具体、规范计划的过程。</p><p>定位学派将战略形成看成是一个通过分析而选择竞争优势的过程。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "96.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1956年，美国学者伊戈尔·安索夫出版的第一本有关战略研究的著作是（ ）</p>",
+        "questionId": 2409347,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>《企业核心能力》</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《战略历程》</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>《公司战略》</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>《经理的职能》</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ddeb82397212e026f32a305d39e0fe59/image.png\" alt=\"\" width=\"580\" height=\"121\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "战略管理理论的流派",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>制定公司战略时，企业高层对下属部门不做具体硬性规定，而要求各部门先积极提交战略方案，在此基础上，企业最高管理层加以协调和平衡并最终形成公司整体战略，这种制定公司战略的方法是（ ）</p>",
+        "questionId": 2409344,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>总分层次法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自上而下法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>自下而上法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>上下结合法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）制定公司战略的方法通常有自上而下法、自下而上法和上下结合法三种；故排除A。</p><p>（2）自上而下法是指先由企业总部高层管理人员制定企业的总体战略，然后再逐层分解为各部门的战略，故B错误；</p><p>（3）自下而上法是指制定公司战略时，企业高层对下属部门不做具体硬性规定，而要求各部门先积极提交战略方案，在此基础上，企业最高管理层加以协调和平衡并最终形成公司整体战略，故C正确；</p><p>（4）上下结合法是指在战略制定过程中，企业最高管理层与下属各部门管理人员共同参与，通过沟通和磋商，制定出适宜的战略，故D错误。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "使战略性绩效管理成为现实",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>员工薪酬结构中，反映工作或技能本身价值的工资是（）</p>",
+        "questionId": 1744029,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>基本工资</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效工资</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>奖励/奖金</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>福利与服务</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9903dd86f0cf8e56f48d284a1abec8fb/image.png\" alt=\"\" width=\"578\" height=\"139\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "91.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效管理的定位",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在薪酬结构中，与公司业绩直接挂钩的薪酬是（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionId": 1998376,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">基本工资</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">奖励奖金</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">绩效工资</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">福利与服务</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c4c6bb65b962ded3b63f54592bd6d2d0/image.png\" alt=\"\" width=\"582\" height=\"146\"><br></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">故本题选</font>B。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "45.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1910真题-第1题",
+        "mainNodeName": "绩效管理的定位",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在制定绩效计划的时候，要注意使评价结果与薪酬及其他非物质奖惩等激励机制紧密相连，拉大绩效突出者与其他人的薪酬差距，打破分配上的平均主义，做到奖优罚劣、奖勤罚懒、激励先进、鞭策后进，营造一种突出绩效的企业文化。这一绩效计划制定的原则是（ ）</p>",
+        "questionId": 2076117,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>突出重点原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>足够激励原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可行性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观公正原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>​计划制定的原则共有八个，分别是：与公司发展战略和年度绩效计划相一致原则；突出重点原则；可行性原则；全员参与原则；足够激励原则；客观公正原则；综合平衡原则；职位特色原则。其中：<br></p><p>突出重点原则：在设定关键绩效指标和工作目标设定时，切忌面面俱到，而是要突出关键，突出重点，选择那些与公司价值关联度较大、与职位职责结合更紧密的绩效指标和工作目标，而不是将整个工作过程和工作内容具体化。</p><p><b>足够激励原则</b>：在制定绩效计划的时候，要注意使评价结果与薪酬及其他非物质奖惩等激励机制紧密相连，拉大绩效突出者与其他人的薪酬差距，打破分配上的平均主义，做到奖优罚劣、奖勤罚懒、激励先进、鞭策后进，营造一种突出绩效的企业文化。</p><p>可行性原则：关键绩效指标与工作目标，一定要是员工能够控制的，要界定在员工职责和权利控制的范围之内。</p><p>客观公正原则：绩效计划的制定要保证绩效透明性，实施公开的、公平的、跨越组织等级的绩效审核和沟通，做到系统地、客观地评估绩效。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "73.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "足够激励原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效计划的制定要保证绩效透明性、实施公开的、公平的、跨越组织等级的绩效审核和沟通，做到系统地、客观地评估绩效。这一绩效计划的制定原则是（ ）</p>",
+        "questionId": 1747243,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>足够激励原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观公正原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>突出重点原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​综合平衡原则<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/752eb2083e7fad8b0c11bf74129ffa98/image.png\" alt=\"\" width=\"578\" height=\"201\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "客观公正原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效计划是对职位整体工作职责的唯一评价手段，因此必须要通过合理分配关键绩效指标与工作目标完成效果评价的内容和权重，实现对职位全部重要职责的合理衡量。这一绩效计划制定的原则是（ ）</p>",
+        "questionId": 2128488,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>足够激励原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可行性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>突出重点原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>综合平衡原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）综合平衡原则：绩效计划是对职位整体工作职责的唯一评价手段，因此必须要通过合理分配关键绩效指标与工作目标完成效果评价的内容和权重，实现对职位全部重要职责的合理衡量；</p><p>（2）摘取文中关键点：合理衡量、合理分配；</p><p>（3）综上所述，本题选D。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "综合平衡原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>界定了员工的工作任务，即规定员工在绩效评价期间应当做什么样的事情，称为（）</p>",
+        "questionId": 1748351,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效过程</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效内容</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e4e943b1ff30c247d4ccaaa1d2e1503f/image.png\" alt=\"\" width=\"581\" height=\"97\"><br></p><p>选项AC为干扰项，可排除。故本题选D。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "绩效内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效内容包括绩效项目和（）两个部分。</p>",
+        "questionId": 1748507,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效过程</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效指标</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>关键事件</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/75924b1bc5d1ad89f7b490aa0c723397/image.png\" alt=\"\" width=\"185\" height=\"120\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效内容包括绩效指标和（）</p>",
+        "questionId": 2048691,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效过程</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效项目</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效目标由绩效内容和<b>绩效标准</b>两部分内容组成。可排除选项B。<br></p><p>2.绩效内容包括<b>绩效项目</b>和<b>绩效指标</b>两个部分。故选项D正确。</p><p>3.绩效过程和关键事件与绩效内容无直接联系，可排除。</p><p>综上，本题选D。<br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业制定绩效目标时，要遵循SMART原则，其中字母S表示目标是（ ）</p>",
+        "questionId": 2409329,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可衡量的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相关的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可达到的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>具体的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业制定绩效目标时，要遵循SMART原则，具体来说：</p><p>（1）目标是<b>具体的</b>——<b>S</b>；</p><p>（2）目标是可衡量的——M；</p><p>（3）目标是可达到的——A；</p><p>（4）目标是与公司和部门目标高度相关的——R；</p><p>（5）目标是以时间为基础的——T。</p><p>故本题应选D项。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "目标是具体的（specific）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业制定绩效目标时，要遵循SMART原则，其中M表示目标是（）</p>",
+        "questionId": 2109128,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可衡量的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>相关的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可达到的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>具体的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>要遵循SMART原则：\n<br>（1）目标是具体的（S）；\n<br>（2）<b>目标是可衡量的（M）</b>；\n<br>（3）目标是可达到的（A）；\n<br>（4）目标是与公司和部门目标高度相关的（R）；\n<br>（5）目标是以时间为基础的（T）。</p><p>故本题选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "目标是可衡量的（measurable）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业制定绩效目标时，要遵循SMART原则，其中字母R表示目标是（ ）</p>",
+        "questionId": 2128495,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可衡量的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相关的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可达到的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>具体的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业制定绩效目标时，要遵循SMART原则，具体来说：&nbsp;<br></p><p>（1）目标是具体的——S；\n<br>（2）目标是可衡量的——M；\n<br>（3）目标是可达到的——A；\n<br>（4）<b>目标是与公司和部门目标高度相关的——R</b>；\n<br>（5）目标是以时间为基础的——T。</p><p>本题选B。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "目标是与公司和部门目标高度相关的（relevant）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业制定绩效目标时，要遵循SMART原则，其中字母T表示目标是（ ）</p>",
+        "questionId": 2409339,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "目标是可达到的（attainable）",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可衡量的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>与公司和部门目标高度相关的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可达到的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>以时间为基础的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b58da70f69bed076e9f5e7bee5e3b68e/image.png\" alt=\"\" width=\"579\" height=\"139\"><br></p><p>故本题选D。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第1题",
+        "viceNodeName2": "目标是可衡量的（measurable）",
+        "mainNodeName": "目标是以时间为基础的（time-based）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>使用一些带有程度差异的形容词、副词、名词等修饰的词组揭示有关评价标志的状态、水平变化与分布情形的绩效评价尺度类型被称为（ ）</p>",
+        "questionId": 2409335,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>量词式标度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>等级式标度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>数量式标度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定义式标度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效评价尺度的类型：</p><p>（1）量词式标度：这种标度就是使用一些带有程度差异的形容词、副词、名词等修饰的词组揭示有关评价标志的状态、水平变化与分布情形。</p><p>（2）等级式标度：这种标度用一些等级顺序明确的词、字母或数字来揭示评价标志的状态、水平变化的刻度形式。</p><p>（3）数量式标度：这是一种用分数来揭示评价标志水平变化的刻度。</p><p>（4）定义式标度：这种标度是用许多文字规定各个标度的范围和级别差异。</p><p>故本题应选A项。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "绩效评价尺度的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>用一些等级顺序明确的词、字母或数字来揭示评价标志的状态、水平变化的刻度形式，这是（ ）</p>",
+        "questionId": 2409336,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>量词式标度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>等级式标度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>数量式标度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定义式标度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/bbca6acdadef84e2dd0577aef5844370/image.png\" alt=\"\" width=\"581\" height=\"164\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1710真题-第1题",
+        "mainNodeName": "绩效评价尺度的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>整个绩效计划管理过程的起点是（）</p>",
+        "questionId": 2344656,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效计划的制定</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效计划的反馈</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效计划的实施</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效计划的修正</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/530541920908e25e921ad6aec568493f/image.png\" alt=\"\" width=\"578\" height=\"117\"><br></p><p>故本题选A。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "绩效计划的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

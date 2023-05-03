@@ -1,0 +1,874 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 17,
+    "totalSubQuestionNum": 17,
+    "questionList": [
+      {
+        "questionContent": "<p>适用于对目标职位的功能性要素进行分析的工作分析方法是 （ ）<br></p>",
+        "questionId": 2613501,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>题干中的“目标<b>职位的功能性</b>要素”就是职位的<b>职能</b>，故应该选A。</p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "75.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1710真题-第7题",
+        "mainNodeName": "一、各种工作分析方法的比较",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>专门针对管理人员而设计的定量化的工作分析系统是（）</p>",
+        "questionId": 1568432,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“管理人员”入手。看到题干中的“<b>管理人员</b>”就可以选<b>管理职位描述问卷法</b>。管理职位描述问卷法：这种问卷法是专门针对管理人员而设计的定量化的工作分析系统，是所有工作分析系统中最有针对性的一种系统，它涉及管理者所关心的问题、所承担的责任、所受的限制以及管理者的工作所具备的各种特征。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "管理职位描述问卷的内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在管理职位描述问卷的管理工作维度中，用来衡量某一管理工作（职位）相对其他工作 (职位）而言对组织的贡献度有多大的因子是（ ）</p>",
+        "questionId": 1568585,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>管理工作因子</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作报酬因子</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理绩效因子&nbsp;</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作评价因子</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“相对，贡献度”入手。B项不是管理职位描述问卷的管理工作维度，排除。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/134da403caa072f48b2c4b381078c405/image.png\" alt=\"\" width=\"633\" height=\"77\"><br></p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1710真题-第17题",
+        "mainNodeName": "管理职位描述问卷的管理工作维度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>适用于以体力劳动为主的工作周期短、有标准化工序工作的工作分析方法是（）</p>",
+        "questionId": 2245316,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5e7b41a227daa71ee1aa0c3c05dcf726/image.png\" alt=\"\" width=\"585\" height=\"166\"><br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "观察法的应用要求和适用范围",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>使用范围较小，只适用于工作循环周期较短，工作状态稳定、无大起伏的职位的基础性工作分析方法是（）</p>",
+        "questionId": 2245400,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>访谈法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f53c4552364cbe045d4e450e3cabc31d/image.png\" alt=\"\" width=\"532\" height=\"152\"><br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1301真题-第1题",
+        "mainNodeName": "工作日志法的优缺点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>1972年由美国普渡大学麦考密克、詹纳雷特和米查姆等人用了10年时间开发的工作分析方法是（ ）</p>",
+        "questionId": 2245414,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题破题点“麦考密克、詹纳雷特和米查姆等人”、“10年”。</p><p>职位分析问卷是1972年美国普渡大学教授麦考密克、詹纳雷特和米查姆等人用了10年时间开发出来的。记忆重点：“麦考密克等人10年开发——职位分析问卷法”。</p><p>故本题应选C项。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "69.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第7题",
+        "mainNodeName": "职位分析问卷法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作者在工作所处的环境的影响下趋同或求变的能力称为（）</p>",
+        "questionId": 2245461,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>通用技能</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>适应性技能</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>特定技能</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一般技能</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“趋同或求变的能力”入手。D项一般技能书中并未提及过，首先排除。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ba28673685a923aa730fd8fd07c15f6c/image.png\" alt=\"\" width=\"582\" height=\"99\"><br></p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "职能工作分析法的框架",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>组织文化的核心是（）</p>",
+        "questionId": 2245505,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>价值观</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>组织制度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>文化环境</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>组织精神</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题口诀：价值温馨。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/52394272c277364d530c839cdd366acd/image.png\" alt=\"\" width=\"253\" height=\"50\"><br></p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "97.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "内部环境分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>非正式组织这一概念最早的提出者是（）</p>",
+        "questionId": 2245506,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>梅奥</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>泰勒</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>勒温</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>麦考密克</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>非正式组织是正式组织的对称。这一概念最早由美国管理学家梅奥在“霍桑实验”中提出的。本题记忆口诀：非正式媒（梅奥）体（提出）。</p>",
+        "avgAnswerTime": 42,
+        "avgCorrectRate": "86.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1301真题-第1题",
+        "mainNodeName": "内部环境分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业中各种用工形式的人员，包括固定工、合同工、临时工和实习生等称为（ ）</p>",
+        "questionId": 2520916,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>员工</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>领导</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>干部</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职员</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>员工是指企业中各种用工形式的人员，包括固定工、合同工、临时工和实习生等，故选A。</p><p>因员工能力、态度、个人目标和品质方面的不同，企业人力资源管理的工作方法也有所不同。</p><p>领导者是指居于某一领导职位，拥有一定领导职权，承担一定的领导责任，实施一定领导职能的人。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-2010真题-第1题",
+        "mainNodeName": "内部环境分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在使用问卷调查法收集信息的过程中要注意的操作要点包括（）</p>",
+        "questionId": 2245234,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>问卷设计</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷试测</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>样本选择</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷发放及回收</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷处理及运用</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“问卷调查法收集信息的注意要点”入手。采用问卷调查法注意的操作要点：问卷设计、问卷试测、样本选择、问卷发放及回收、问卷处理及运用。本题口诀：处理设计样本，放回试测。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "84.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCD",
+        "questionAnswer": "ABCDE",
+        "questionSource": "江苏省-1210真题-第1题",
+        "mainNodeName": "问卷调查法的操作实施",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析方法中，观察法的缺点主要有（ ）</p>",
+        "questionId": 2245364,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>干扰工作正常行为或工作者的心智活动</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>无法感受或观察到特殊事故</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>不能得到有关任职者资格要求的信息</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>要求观察者有足够的实际操作经验</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>不适用于循环周期短、体力劳动的工作</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>观察法的缺点：\n<br>（1）干扰工作正常行为或工作者的心智活动。\n<br>（2）无法感受或观察到特殊事故，如果工作本质上偏重心理活动，则观察的成效有限。\n<br>（3）要求观察者有足够的实际操作经验。\n<br>（4）不能得到有关任职者资格要求的信息。\n<br>（5）不适用于工作循环周期长、脑力劳动等工作。</p><p>本题口诀：特殊镜（经验）子（资格），干扰周期长。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "ABCD",
+        "questionSource": "江苏省-1810真题-第1题",
+        "mainNodeName": "观察法的优缺点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析的系统性方法主要有（）</p>",
+        "questionId": 2245411,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "管理职位描述问卷法的含义",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能工作分析法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>资料分析法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>管理职位描述问卷法</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>工作分析的系统性方法的记忆口诀：管理职位职能分析。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e7d58e9a5e80e9a58bd7f7b53d1ade3f/image.png\" alt=\"\" width=\"345\" height=\"119\"><br></p>",
+        "avgAnswerTime": 55,
+        "avgCorrectRate": "71.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "BCE",
+        "questionSource": "江苏省-1401真题-第1题",
+        "viceNodeName2": "职能工作分析法的含义",
+        "mainNodeName": "职位分析问卷法的含义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>在选择工作分析方法时，企业需要考虑的因素有（）</p>",
+        "questionId": 2403473,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "分析成本",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作分析的目的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>待分析的工作样本数量</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>成本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作性质</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>分析对象</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>ABCDE就是企业需要考虑的主要因素的所有内容，记忆口诀：对象数（样本数）目（目的）本（成本）质（性质）。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCE",
+        "questionAnswer": "ABCDE",
+        "questionSource": "江苏省-1510真题-第1题",
+        "viceNodeName2": "工作性质",
+        "mainNodeName": "工作分析的目的",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>宏观工作环境中的外部环境主要包括（）</p>",
+        "questionId": 2245539,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>政治法律环境</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>宏观经济环境</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>组织文化</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会文化环境</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>技术环境</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>宏观工作环境包括政治法律、经济、社会文化、技术等组织外部环境，口诀：回（社会）京（经济）述（技术）职（政治）。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "82.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABD",
+        "questionAnswer": "ABDE",
+        "questionSource": "江苏省-1301真题-第1题",
+        "mainNodeName": "外部环境分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>宏观工作环境中的内部环境主要包括（）</p>",
+        "questionId": 2245511,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>技术环境</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>组织文化</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>领导者的风格</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>员工</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>正式与非正式组织</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>宏观工作环境中的内部环境主要有：组织战略目标、组织文化、领导者风格、员工、正式组织与非正式组织，记忆口诀：正（正式）问（文化）道（领导者）员工的飞（非正式）镖（目标）。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "72.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "BCD",
+        "questionAnswer": "BCDE",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "内部环境分析",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      },
+      {
+        "questionContent": "<p>工作分析的基础性方法主要有（）</p>",
+        "questionId": 2245165,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "访谈法的含义",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>访谈法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>问卷调查法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职位分析问卷法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>观察法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>工作日志法</p>",
+            "optionTitle": "E",
+            "sequence": 4,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/08bacb54822c3ada0e65a40024365a51/image.png\" alt=\"\" width=\"264\" height=\"153\"><br></p>",
+        "avgAnswerTime": 52,
+        "avgCorrectRate": "83.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "ABCDE",
+        "questionAnswer": "ABDE",
+        "questionSource": "江苏省-1510真题-第1题",
+        "viceNodeName2": "问卷调查法的含义",
+        "mainNodeName": "工作分析的基础性方法——前言",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "MULTI_CHOICE"
+      }
+    ]
+  }
+}

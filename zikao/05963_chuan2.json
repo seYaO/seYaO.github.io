@@ -1,0 +1,1449 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 30,
+    "totalSubQuestionNum": 30,
+    "questionList": [
+      {
+        "questionContent": "<p>在绩效计划的各主体中，职责主要是了解组织战略目标，结合组织、团队的目标和个人实际确定绩效目标的人员是（\t）</p>",
+        "questionId": 2109079,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直接上级</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>公司高层领导</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工本人</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人力资源管理专业人员</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效计划的主体及职责：<br>员工的直接上级：宣传组织战略和目标，分解各部门的任务；引导并推动不同系列的员工建立科学合理的绩效目标；与下属员工共同制定员工绩效计划。<br><b>员工本人</b>：<b>了解组织战略目标，结合组织、团队的目标和个人实际确定自己的绩效目标</b>；拟定个人绩效计划，并与上级交流沟通。\n<br>人力资源管理专业人员：宣传组织的战略、文化；制定绩效管理制度，明确不同岗位的员工绩效评价内容；组织绩效计划培训；解决绩效计划问题。</p><p>选项B为干扰项，故排除。本题选C。</p>",
+        "avgAnswerTime": 25,
+        "avgCorrectRate": "67.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "二、绩效计划的主体",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在制定绩效计划的时候，要注意使评价结果与薪酬及其他非物质奖惩等激励机制紧密相连，拉大绩效突出者与其他人的薪酬差距，打破分配上的平均主义，做到奖优罚劣、奖勤罚懒、激励先进、鞭策后进，营造一种突出绩效的企业文化。这一绩效计划制定的原则是（ ）</p>",
+        "questionId": 2076117,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>突出重点原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>足够激励原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可行性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观公正原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>​计划制定的原则共有八个，分别是：与公司发展战略和年度绩效计划相一致原则；突出重点原则；可行性原则；全员参与原则；足够激励原则；客观公正原则；综合平衡原则；职位特色原则。其中：<br></p><p>突出重点原则：在设定关键绩效指标和工作目标设定时，切忌面面俱到，而是要突出关键，突出重点，选择那些与公司价值关联度较大、与职位职责结合更紧密的绩效指标和工作目标，而不是将整个工作过程和工作内容具体化。</p><p><b>足够激励原则</b>：在制定绩效计划的时候，要注意使评价结果与薪酬及其他非物质奖惩等激励机制紧密相连，拉大绩效突出者与其他人的薪酬差距，打破分配上的平均主义，做到奖优罚劣、奖勤罚懒、激励先进、鞭策后进，营造一种突出绩效的企业文化。</p><p>可行性原则：关键绩效指标与工作目标，一定要是员工能够控制的，要界定在员工职责和权利控制的范围之内。</p><p>客观公正原则：绩效计划的制定要保证绩效透明性，实施公开的、公平的、跨越组织等级的绩效审核和沟通，做到系统地、客观地评估绩效。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "73.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "足够激励原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效计划是对职位整体工作职责的唯一评价手段，因此必须要通过合理分配关键绩效指标与工作目标完成效果评价的内容和权重，实现对职位全部重要职责的合理衡量。这一绩效计划制定的原则是（ ）</p>",
+        "questionId": 2128488,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>足够激励原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可行性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>突出重点原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>综合平衡原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）综合平衡原则：绩效计划是对职位整体工作职责的唯一评价手段，因此必须要通过合理分配关键绩效指标与工作目标完成效果评价的内容和权重，实现对职位全部重要职责的合理衡量；</p><p>（2）摘取文中关键点：合理衡量、合理分配；</p><p>（3）综上所述，本题选D。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "综合平衡原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效内容包括绩效指标和（）</p>",
+        "questionId": 2048691,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>绩效过程</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效标准</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效项目</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效目标由绩效内容和<b>绩效标准</b>两部分内容组成。可排除选项B。<br></p><p>2.绩效内容包括<b>绩效项目</b>和<b>绩效指标</b>两个部分。故选项D正确。</p><p>3.绩效过程和关键事件与绩效内容无直接联系，可排除。</p><p>综上，本题选D。<br></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效内容",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业制定绩效目标时，要遵循SMART原则，其中M表示目标是（）</p>",
+        "questionId": 2109128,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可衡量的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>相关的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可达到的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>具体的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>要遵循SMART原则：\n<br>（1）目标是具体的（S）；\n<br>（2）<b>目标是可衡量的（M）</b>；\n<br>（3）目标是可达到的（A）；\n<br>（4）目标是与公司和部门目标高度相关的（R）；\n<br>（5）目标是以时间为基础的（T）。</p><p>故本题选A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "目标是可衡量的（measurable）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>企业制定绩效目标时，要遵循SMART原则，其中字母R表示目标是（ ）</p>",
+        "questionId": 2128495,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>可衡量的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相关的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可达到的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>具体的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>企业制定绩效目标时，要遵循SMART原则，具体来说：&nbsp;<br></p><p>（1）目标是具体的——S；\n<br>（2）目标是可衡量的——M；\n<br>（3）目标是可达到的——A；\n<br>（4）<b>目标是与公司和部门目标高度相关的——R</b>；\n<br>（5）目标是以时间为基础的——T。</p><p>本题选B。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "目标是与公司和部门目标高度相关的（relevant）",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效评价指标构成中，对指标的内在性质和范围等方面的内容进行界定、说明，防止评价双方在理解上产生差异，称为（\t）</p>",
+        "questionId": 2109057,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>指标名称</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指标编号</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指标定义</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>指标维度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效评价指标的构成要素：<br>1）指标名称：指的是对评价指标的内容作出总体性概括的一个名词界定。\n<br>2）指标编号：为了便于管理、一目了然，通常需要对各项评价指标进行标号，以方便查询和管理。\n<br>3）<b>指标定义</b>：对指标的<b>内在性质和范围</b>等方面的内容进行<b>界定、说明</b>，<b>防止评价双方在理解上产生差异</b>。</p><p>选项D为干扰项，故排除。本题选C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效评价指标的构成要素",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效评价指标的构成要素中，对指标的内在性质和范围等方面的内容进行界定、说明，防止评价双方在理解上产生差异的要素是（ ）</p>",
+        "questionId": 2409324,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>指标名称</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指标编号</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指标定义</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>指标维度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）绩效评价指标的构成要素包括：指标名称、指标编号、指标定义，故可排除D选项；</p><p>（2）指标名称是指对评价指标的内容作出总体性概括的一个名词界定，故A错误；</p><p>（3）指标编号是指为了便于管理、一目了然，通常需要对各项评价指标进行标号，以方便查询和管理，故B错误；</p><p>（4）指标定义是指对指标的内在性质和范围等方面的内容进行界定、说明，防止评价双方在理解上产生差异，故C正确。</p><p><br></p>",
+        "avgAnswerTime": 21,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "绩效评价指标的构成要素",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效评价标准体系具有完整性、比例性和（）</p>",
+        "questionId": 2049870,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>方向性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​工具性<br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>操作性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>协调性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效评价标准体系具有<b>完整</b>性、<b>协调</b>性和<b>比例</b>性三个特征。故可排除选项ABC，得出选项D正确。</p><p>2.方向性、工具性、操作性与绩效评价标准体系无直接联系。</p><p>3.本题口诀：协调完整比例。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "绩效评价标准体系的特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在设计绩效评价指标权重时，将各个评价指标进行比较，然后将比较结果汇总进行比较，从而得出权重的设计方法，称为（）</p>",
+        "questionId": 2109163,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经验判断法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p><u>​</u>重要性排序法<br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>对偶比较法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>倍数加权法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>对偶比较法</b>：<b>将各个评价指标进行比较，然后将比较结果汇总进行比较，从而得出权重的设计方法。</b></p><p>经验判断法：主要由决策者根据历史数据和他们自己的直观判断来确定权重的方法。\n<br>重要性排序法：该方法的操作过程为：对要赋予权重的几个指标，按照他们的重要性依次排序，分别给每一个指标一个相应的显示其重要性的分数，最终根据每个评价指标的重要程度得分在所有绩效指标整体重要程度得分之和中所占的比例来确定各个评价指标的权重。</p><p>倍数加权法：首先选出最次要的评价要素，将之设定为1，然后将其他评价要素的重要性和该评价要素作比较，得出重要性的倍数，然后进行归一处理。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "对偶比较法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在设计绩效评价指标权重时，将各个评价指标进行比较，然后将比较结果汇总进行比较，从而得出权重的设计方法是（ ）</p>",
+        "questionId": 2409332,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "倍数加权法",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>经验判断法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>重要性排序法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>倍数加权法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>对偶比较法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）经验判断法：一种主要由决策者根据历史数据和他们自己的直观判断来确定权重的方法，故A错误；</p><p>（2）重要性排序法：对要赋予权重的几个指标，按照他们的重要性依次排序，分别给每一个指标一个相应的显示其重要性的分数，最终根据每个评价指标的重要程度得分在所有绩效指标整体重要程度得分之和中所占的比例来确定各个评价指标的权重，故B错误；</p><p>（3）倍数加权法：首先选出最次要的评价要素，将之设定为1，然后将其他评价要素的重要性和该评价要素作比较，得出重要性的倍数，然后进行归一处理，故C错误；</p><p>（4）对偶比较法：将各个评价指标进行比较，然后将比较结果汇总进行比较，从而得出权重的设计方法，故D正确</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "85.0%",
+        "score": 1.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1801真题-第1题",
+        "viceNodeName2": "重要性排序法",
+        "mainNodeName": "对偶比较法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>使用一些带有程度差异的形容词、副词、名词等修饰的词组揭示有关评价标志的状态、水平变化与分布情形的绩效评价尺度类型被称为（ ）</p>",
+        "questionId": 2409335,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>量词式标度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>等级式标度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>数量式标度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>定义式标度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效评价尺度的类型：</p><p>（1）量词式标度：这种标度就是使用一些带有程度差异的形容词、副词、名词等修饰的词组揭示有关评价标志的状态、水平变化与分布情形。</p><p>（2）等级式标度：这种标度用一些等级顺序明确的词、字母或数字来揭示评价标志的状态、水平变化的刻度形式。</p><p>（3）数量式标度：这是一种用分数来揭示评价标志水平变化的刻度。</p><p>（4）定义式标度：这种标度是用许多文字规定各个标度的范围和级别差异。</p><p>故本题应选A项。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "绩效评价尺度的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>准备阶段绩效沟通的目的是（ ）</p>",
+        "questionId": 2109168,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>目标认同</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>克服障碍</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指导激励</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>传播理念</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效沟通的阶段以及各阶段的主要工作：</p><p>1）<b>准备阶段的绩效沟通：传播理念</b>。</p><p>2）前期的绩效沟通：目标认同。</p><p>3）中期的绩效沟通：克服障碍。</p><p>4）后期的绩效沟通：指导激励。</p><p>故本题答案为D。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "准备阶段的绩效沟通：传播理念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>准备阶段绩效沟通的目的是（ ）</p>",
+        "questionId": 2409333,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>传播理念</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>克服障碍</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>指导激励</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>目标认同</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效沟通的各阶段：&nbsp;</p><p>1）准备阶段的绩效沟通：<b>传播理念</b>。\n<br>2）前期的绩效沟通：目标认同。\n<br>3）中期的绩效沟通：克服障碍。\n<br>4）后期的绩效沟通：指导激励。</p><p>本题选A。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "88.0%",
+        "score": 1.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "准备阶段的绩效沟通：传播理念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>中期绩效沟通的目的是（ ）</p>",
+        "questionId": 2409349,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>目标认同</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>克服障碍</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>指导激励</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>传播理念</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效沟通的阶段以及各阶段沟通的目的：</p><p>（1）准备阶段的绩效沟通：传播理念；</p><p>（2）前期的绩效沟通：目标认同；</p><p>（3）<b>中期</b>的绩效沟通：<b>克服障碍</b>；</p><p>（4）后期的绩效沟通：指导激励。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 7447328,
+        "avgCorrectRate": "78.0%",
+        "score": 1.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "中期的绩效沟通：克服障碍",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在后期绩效沟通过程中，针对考核结果中没有完成的目标，双方共同分析产生问题的原因及影响目标达成的各种关键因素并分析如何消除这些因素的影响，根据需要，制定培训和辅导计划及下—阶段改进的方向与计划，称为（）</p>",
+        "questionId": 1761675,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>结果反馈</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​问题诊断<br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>员工激励</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>行动计划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2f53a8f854208e21f26014d728f85535/image.png\" alt=\"\" width=\"588\" height=\"206\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 28,
+        "avgCorrectRate": "57.0%",
+        "score": 1.0,
+        "sequence": 16,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1510真题-第1题",
+        "mainNodeName": "后期的绩效沟通：指导激励",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在后期绩效沟通过程中，根据激励制度对员工上一阶段完成的绩效目标进行奖励，同时还要强调一时的结果并不代表未来，并帮助员工分析出未来绩效改善的突破口，称为（）</p>",
+        "questionId": 2109181,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>结果反馈</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>问题诊断</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工激励</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>行动计划</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>沟通的内容包括：</p><p>结果反馈：管理者将员工上一阶段的绩效结果反馈给本人，使员工能够了解自己的实际表现并有机会提出对考核结果的意见，最终对考核结果达成共识。<br>问题诊断：对考核结果中没有完成的目标，双方共同分析产生问题的原因及影响目标达成的各种关键因素并分析如何消除这些因素的影响，根据需要，制定培训和辅导计划及下一阶段改进的方向与计划。<br></p><p><b>员工激励</b>：根据激励制度对<b>员工上一阶段</b>完成的绩效目标进行<b>奖励</b>，同时还要强调<b>一时的结果并不代表未来</b>并帮助员工分析出末来绩效改善的<b>突破口</b>。</p><p>行动计划：和员工一起讨论、确定下一阶段的工作目标、完成进度表和检查考核计划，让员工对完成的目标、阶段性目标、何时反馈等有明确的认识。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "71.0%",
+        "score": 1.0,
+        "sequence": 17,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "后期的绩效沟通：指导激励",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对员工特别突出或者异常失误的情况进行记录的绩效信息收集方法，称为（）</p>",
+        "questionId": 2109037,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考勤记录法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件记录法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>生产记录法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>减分搜查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效信息的收集办法有：</p><p>（1）<b>关键事件记录法</b>：就是对<b>员工特别突出或者异常失误</b>的情况进行记录。</p><p>（2）考勤记录法：这种收集信息的方法最常用，主要记录员工的出勤情况，如出勤、缺勤及其原因。\n<br>（3）生产记录法：这种方法在生产服务型组织中常用，主要记录如产品数量、消耗原材料数目、服务的数量和质量等生产情况。\n&nbsp;<br>（4）减分搜查法：按职位或者岗位要求规定应遵守的项目，定出违反规定的减分，定期进行登记。</p><p>故本题选B。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "98.0%",
+        "score": 1.0,
+        "sequence": 18,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效信息的收集办法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>按职位或者岗位要求规定应遵守的项目，定出违反规定的减分，定期进行登记的绩效信息收集方法被称为（ ）</p>",
+        "questionId": 2409334,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考勤记录法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>关键事件记录法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产记录法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>减分搜查法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考勤记录法：这种收集信息的方法最常用，主要记录员工的出勤情况，如出勤、缺勤及其原因。</p><p>关键事件记录法：就是对员工特别突出或者异常失误的情况进行记录。</p><p>生产记录法：这种方法在生产服务型组织中常用，主要记录如产品数量、消耗原材料数目、服务的数量和质量等生产服务情况。</p><p><b>减分搜查法：按职位或者岗位要求规定应遵守的项目，定出违反规定的减分，定期进行登记。</b></p><p>故本题应选D项。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "90.0%",
+        "score": 1.0,
+        "sequence": 19,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "绩效信息的收集办法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从考核内容来看，考核的重点是工作内容和工作质量，此种绩效考核类型称为（ ）</p>",
+        "questionId": 2109173,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>特征导向型</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>行为导向型</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​结果导向型<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>标准导向型</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>按照考核内容划分，绩效考核可分为：</p><p>行为导向型：考核的重点是员工的工作方式和工作行为，即对工作过程的考量。<br>特征导向型：考核的重点是员工的个人特质，即考量员工是一个怎样的人。</p><p><b>结果导向</b>型：<b>考核的重点是工作内容和工作质量</b>，侧重点是员工完成的工作任务和生产的产品。</p><p>选项D为干扰项，故本题选C。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "81.0%",
+        "score": 1.0,
+        "sequence": 20,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1601真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>将绩效考核分为绝对标准考核和相对标准考核的划分依据是（ ）</p>",
+        "questionId": 2409337,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>考核时间</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核性质</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>考核方法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>考核形式</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>按照考核时间可将绩效考核分为定期考核和不定期考核。</p><p>按照考核的性质可将绩效考核分为定性考核（主观考核）和定量考核（客观考核）。</p><p>按照<b>考核方法</b>，绩效考核可分为<b>绝对标准考核</b>和<b>相对标准考核</b>。</p><p>按照考核形式，绩效考核可分为口头考核与书面考核、直接考核与间接考核、个别考核与集体考核。</p><p>故本题应选C项。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "59.0%",
+        "score": 1.0,
+        "sequence": 21,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "绩效考核的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>表示跨形式的一致性的绩效考核信度指标，称为（）</p>",
+        "questionId": 2048683,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>稳定系数</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>等值系数</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>预测系数</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内在一致性系数</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.绩效考核信度指标多以相关系数表示，大致可分为3类：<b>稳定系数、等值系数、内在一致性系数</b>。可排除选项C。<br></p><p>2.稳定系数表示跨时间的一致性。</p><p>3.<b>等值系数</b>表示跨形式的一致性。故选项B正确。</p><p>4.内在一致性系数表示跨项目的一致性。</p><p>综上，本题选B。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 22,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效考核的信度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>表示跨时间的一致性的绩效考核信度指标，称为（）</p>",
+        "questionId": 2049102,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>稳定系数</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>等值系数</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测系数</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内在一致性系数</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.<b>信度指标</b>多以相关系数表示，大致可分为3类：<b>稳定系数、等值系数、内在一致性系数</b>。故可排除选项C。<br></p><p>2.<b>稳定系数</b>指跨时间的一致性。故选项A正确。</p><p>3.<b>等值系数</b>指跨形式的一致性。</p><p>4.<b>内在一致性系数</b>指跨项目的一致性。</p><p>综上，本题选A。</p><p><br></p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "76.0%",
+        "score": 1.0,
+        "sequence": 23,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效考核的信度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>表示跨项目一致性的绩效考核信度指标，称为（）</p>",
+        "questionId": 2049108,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>稳定系数</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>等值系数</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测系数</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>内在一致性系数</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.信度指标多以相关系数表示，大致可分为3类：稳定系数、等值系数和内在一致性系数。故可排除选项C。<br></p><p>2.<b>稳定系数</b>表示跨时间的一致性。</p><p>3.<b>等值系数</b>表示跨形式的一致性。</p><p>4.<b>内在一致性系数</b>表示跨项目的一致性。</p><p>综上，本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 24,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "江苏省-1310真题-第1题",
+        "mainNodeName": "绩效考核的信度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在效度判断中，对个体现有工作绩效的考核结果与下一考核期的考核结果是否具有相关性，是否能够预测员工工作的预期绩效，称为（）</p>",
+        "questionId": 1768258,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内容效度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测效度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>结构效度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>重测效度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/76d9cc1f0ab97395cf731563d09d7efa/image.png\" alt=\"\" width=\"581\" height=\"142\"><br></p><p>故本题选B。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "94.0%",
+        "score": 1.0,
+        "sequence": 25,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1401真题-第1题",
+        "mainNodeName": "绩效考核的效度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在效度分析中，考核结果体现出来的某种结构与测量之间的对应程度，用以考察量表实际测量的是哪些特征，表示绩效考核在多大程度上正确的验证了考核设计时的理论构想，称为（）</p>",
+        "questionId": 2048679,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内容效度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>预测效度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>结构效度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>重测效度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1.效度分析有很多种方法，其测量结果反映效度的不同方面，具体判断方法有<b>内容效度、预测效度、结构效度</b>。可排除选项D。<br></p><p>2.<b>内容效度</b>指所设计的题项能否代表所要测量的内容或主题。</p><p>3.<b>预测效度</b>指对个体现有工作绩效的考核结果与下一考核期的考核结果是否具有相关性，是否能够预测员工工作的预期绩效。</p><p>4.<b>结构效度</b>指考核结果体现出来的某种结构与测量之间的对应程度，用以考察量表实际测量的是哪些特征，表示绩效考核在多大程度上正确的验证了考核设计时的理论构想。</p><p>故选项C正确。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "65.0%",
+        "score": 1.0,
+        "sequence": 26,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1410真题-第1题",
+        "mainNodeName": "绩效考核的效度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效考核应当根据明确规定的考核标准，针对客观考核资料进行评价，尽量避免渗入主观性和感情色彩。这一绩效考核的原则是（ ）</p>",
+        "questionId": 2128530,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>公开性原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>客观公正原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>及时性原则</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）公开性原则：要让考评者了解考核的程序、方法和时间等事宜，提高考核的透明度，故A错误；<br></p><p>（2）客观公正原则：绩效考核应当根据明确规定的考核标准，针对客观考核资料进行评价，尽量避免渗入主观性和感情色彩，故B正确；</p><p>（3）及时性原则；考核结果一定要及时反馈给被考核者本人，故C错误；</p><p>（4）针对性原则：针对工作紧密相关的内容，不可将与工作无关的因素带入考核工作，更不可涉及人员的隐私，故D错误。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 27,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1801真题-第1题",
+        "mainNodeName": "客观公正原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在绩效考核时，要让被考评者了解考核的程序、方法和时间等事宜，提高考核的透明度。这一绩效考核的原则是（ ）</p>",
+        "questionId": 2069564,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>客观公正原则</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>公开性原则</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​及时反馈原则<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>针对性原则</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>绩效考核的原则包括：1）客观公正原则；2）公开性原则；3）严格性原则；4）及时反馈原则；5）差别界限原则；6）单头考核原则；7）定期化和制度化原则；8）针对性原则。其中：</p><p>客观公正原则：首先要求考核指标体系和考核标准设计科学；其次要求考核过程体现民主和透明，考评人员能客观公正地做出评价。</p><p><b>公开性原则：要让被考评者了解考核的程序、方法和时间等事宜，提高考核的透明度。</b></p><p>​及时反馈原则：考评的结果（评语）一定要及时反馈给被考核者本人，否则就起不到考核的教育作用。</p><p>针对性原则：绩效考核的内容是针对工作紧密相关的内容，不可将与工作无关的因素代入考核工作，更不可涉及人员的隐私。</p><p>故本题应选B项。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 28,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "公开性原则",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>由于在形成印象的过程中不断有新信息提供，而原来的印象已渐渐淡忘，导致最近的印象对人的认知具有重要的影响。这种考核误差的类型称为（）</p>",
+        "questionId": 1770767,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>晕轮误差</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>首因误差</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>近因误差</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>逻辑误差</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/46dce5be70c22ff6fd5065538815fb40/image.png\" alt=\"\" width=\"586\" height=\"209\"><br></p><p>故本题选C。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "87.0%",
+        "score": 1.0,
+        "sequence": 29,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1610真题-第1题",
+        "mainNodeName": "考核误差的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>因被考核者在考核期之前的绩效失误而降低其考核等级，由此产生的考核误差被称为（ ）</p>",
+        "questionId": 2409330,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>晕轮误差</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>逻辑误差</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>溢出误差</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>近因误差</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考核误差总共有9类：晕轮误差、逻辑误差、首因误差、近因误差、宽大化倾向和严格化倾向、趋中化倾向、个人偏见误差、对比效应、溢出误差。</p><p>其中：</p><p>晕轮误差：通常又称为晕轮效应，是指当评定者对一个人的某种特征形成好或坏的印象后，他会倾向于据此推论该人其他方面的特征，从而造成以偏概全，产生评估误差。</p><p>逻辑误差：逻辑误差是指考核者在对某些逻辑关系的评价要素进行评价时，使用简单的推理而造成的误差。</p><p>溢出误差：溢出误差是指因被考核者在考核期之前的绩效失误而降低其考核等级。</p><p>近因误差：考核评定人员对考核对象的近期表现关注较多，而忽视了他们以往的表现。</p><p>故本题应选C项。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "63.0%",
+        "score": 1.0,
+        "sequence": 30,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "江苏省-1701真题-第1题",
+        "mainNodeName": "考核误差的类型",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

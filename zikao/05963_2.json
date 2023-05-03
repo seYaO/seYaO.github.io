@@ -1,0 +1,483 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 10,
+    "totalSubQuestionNum": 10,
+    "questionList": [
+      {
+        "questionContent": "<p>（）包括制造、营销、人力资源、研究与开发、财务等部门，它们的战略需要支持事业层的战略，需要围绕事业层战略制订具体的行动计划。</p>",
+        "questionId": 446076,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>公司层</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能层</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>技术层</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>基层</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查职能层战略。职能层包括制造、营销、人力资源、研究与开发、财务等部门，它们的战略需要支持事业层的战略，需要围绕事业层战略制订具体的行动计划。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "模拟题",
+        "mainNodeName": "职能层战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>（）寻求决定组织如何在每一项事业上展开竞争，以获取竞争优势。</p>",
+        "questionId": 1577371,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>公司层战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事业层战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>职能层战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>成本领先战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“按组织层次对战略的分类的含义”入手，具体为：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3b1141acd2e973cf3d4432f1327fd4bd/1.png\" alt=\"\" width=\"551\" height=\"97\"><br></p><p>选项D为事业层战略的分类。故正确答案为：B。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "74.0%",
+        "score": 1.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "模拟题",
+        "mainNodeName": "事业层战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>绩效管理对接的战略通常是（）</p>",
+        "questionId": 1587807,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>差异化战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>稳定战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>收缩战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>竞争战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“绩效管理对接的战略的定义”入手，<b>绩</b>效管理对<b>接</b>的<b>战</b>略主要是指竞<b>争</b>战略。记忆方法：集结战争。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "65.0%",
+        "score": 1.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "模拟题",
+        "mainNodeName": "战略的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>当组织在某些产品或服务上的竞争地位处于劣势，导致业绩下降，销售额下降，由盈利变为亏损时，应当采取（）</p>",
+        "questionId": 1577353,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>增长战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集中战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>稳定战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>收缩战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“公司层战略的分类”入手，公司层战略分为：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ed33e640382224e83df0cb3e2472af6e/1.png\" alt=\"\" width=\"494\" height=\"97\"><br></p><p>故正确答案为：D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "92.0%",
+        "score": 1.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "模拟题",
+        "mainNodeName": "公司层战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>（）是指组织在扩张时进入与原来所在的产业不同的产业，或者经营与原有产品不同类的产品。</p>",
+        "questionId": 1577309,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>稳定战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>收缩战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>集中战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>多元化战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“公司层战略分类的定义”入手，具体如下图：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5924e65795f080860e2c09433256d9d9/1.png\" alt=\"\" width=\"636\" height=\"164\"><br></p><p>故正确答案为：D。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "模拟题",
+        "mainNodeName": "公司层战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>（）决定组织的方向，也决定每一个事业部将在公司战略中扮演的角色。</p>",
+        "questionId": 1577332,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>公司层战略</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>事业层战略</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>职能层战略</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>竞争战略</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“按组织层次对战略的分类”入手，具体分为：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/579fa869ee1245de535c3bea58f4a533/1.png\" alt=\"\" width=\"554\" height=\"97\"><br></p><p>故正确答案为：A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "77.0%",
+        "score": 1.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "模拟题",
+        "mainNodeName": "公司层战略",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>不属于战略性人力资源管理的基本特征的是（ ）</p>",
+        "questionId": 1578452,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "系统性",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>战略性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动态性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>操作性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>战略性人力资源管理的基本特征：战<b>略</b>性（本质特征）、<b>动</b>态性、匹<b>配</b>性（核心要求）、<b>系</b>统性。\n<br>记忆方法：略懂配戏。<br>故正确答案为：D。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "95.0%",
+        "score": 1.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "模拟题",
+        "mainNodeName": "战略性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>战略性人力资源管理的（）强调人力资源管理者的全局思想和整体观念，要求人力资源管理部门更多地了解组织内其他部门的业务，以便更好地为组织战略服务。</p>",
+        "questionId": 1578551,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>战略性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>系统性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>匹配性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>动态性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题可从“战略性人力资源管理的特征”入手，战略性人力资源管理的特征：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/67056e58cc3a3d18c957d6189783af09/1.png\" alt=\"\" width=\"670\" height=\"187\"><br></p><p>故正确答案为：B。</p>",
+        "avgAnswerTime": 19,
+        "avgCorrectRate": "61.0%",
+        "score": 1.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "模拟题",
+        "mainNodeName": "系统性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在战略性人力资源管理系统中处于核心地位的是（）</p>",
+        "questionId": 977042,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>工作分析</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>绩效评价</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>员工培训</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查绩效管理的地位。绩效管理在战略性人力资源管理系统中处于核心地位。&nbsp;</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "79.0%",
+        "score": 1.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "模拟题",
+        "mainNodeName": "绩效管理的核心地位",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以组织战略为导向，通过动态协同人力资源管理的各项职能活动，确保组织获取持续竞争优势，达成组织目标的过程，指的是（ ）</p>",
+        "questionId": 1577973,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>战略性人力资源管理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>战略管理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>绩效管理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>战略性绩效管理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>战略性人力资源管理就是以<b>组织战略</b>为导向，通过动态协同<b>人力资源管理</b>的各项职能活动，确保组织获取持续竞争优势，达成组织目标的过程。</p><p>记忆方法：关键字（战略、人力资源管理→战略性人力资源管理）</p><p>故正确答案为：A。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "93.0%",
+        "score": 1.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "北京市-1804真题-第1题",
+        "mainNodeName": "一、战略性人力资源管理的概念",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}
