@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 23,
     "questionList": [
       {
-        "questionContent": "<p>工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于（）</p>",
+        "questionContent": "工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于（）",
         "questionId": 210600,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>施恩的职业锚理论</p>",
+            "optionContent": "施恩的职业锚理论",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>泰罗的科学管理理论</p>",
+            "optionContent": "泰罗的科学管理理论",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>梅奥的人际关系理论</p>",
+            "optionContent": "梅奥的人际关系理论",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>萨柏的职业发展阶段理论</p>",
+            "optionContent": "萨柏的职业发展阶段理论",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的发展历程。工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于泰罗的科学管理理论。因此本题选择B。</p>",
+        "analysis": "本题考核工作分析的发展历程。工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于泰罗的科学管理理论。因此本题选择B。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "80.0%",
         "score": 1.0,
@@ -54,32 +54,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>经过几十年的工作分析和设计研究，总结归纳出了工作分析的工效学调查法，被管理学界认为是工作分析创始人的是（）</p>",
+        "questionContent": "经过几十年的工作分析和设计研究，总结归纳出了工作分析的工效学调查法，被管理学界认为是工作分析创始人的是（）",
         "questionId": 210604,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>罗莫特</p>",
+            "optionContent": "罗莫特",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>泰罗</p>",
+            "optionContent": "泰罗",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>吉尔布雷斯夫妇</p>",
+            "optionContent": "吉尔布雷斯夫妇",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>明斯特伯格</p>",
+            "optionContent": "明斯特伯格",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -87,7 +87,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的发展历程。随着工作分析方法和理论的日趋成熟，使得它在20世纪70年代已被西方发达国家作为人力资源管理现代化的标志之一，并被人力资源管理专家视为人力资源管理最基本的职能。罗莫特被管理学界公认为是工作分析的创始人。因此本题选择A。</p>",
+        "analysis": "本题考核工作分析的发展历程。随着工作分析方法和理论的日趋成熟，使得它在20世纪70年代已被西方发达国家作为人力资源管理现代化的标志之一，并被人力资源管理专家视为人力资源管理最基本的职能。罗莫特被管理学界公认为是工作分析的创始人。因此本题选择A。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "75.0%",
         "score": 1.0,
@@ -101,32 +101,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>公平管理包括公平分配和（ ）</p>",
+        "questionContent": "公平管理包括公平分配和（ ）",
         "questionId": 2012241,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>结果公平</p>",
+            "optionContent": "结果公平",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>程序公平&nbsp;</p>",
+            "optionContent": "程序公平&nbsp;",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>形式公平</p>",
+            "optionContent": "形式公平",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>实质公平</p>",
+            "optionContent": "实质公平",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -134,7 +134,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“公平管理”。公平管理<span style=\"font-size: 14px;\">主要包括公平分配和程序公平</span><span style=\"font-size: 14px;\">。故本题的正确答案为B。</span></p><p>知识拓展：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1daa95c9aa322ecbb6492d168d3f0b6e/a.png\" alt=\"\" width=\"566\" height=\"89\"><br></p><p><br></p><p><br></p>",
+        "analysis": "本题破题点：“公平管理”。公平管理<span style=\"font-size: 14px;\">主要包括公平分配和程序公平</span><span style=\"font-size: 14px;\">。故本题的正确答案为B。</span>知识拓展：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1daa95c9aa322ecbb6492d168d3f0b6e/a.png\" alt=\"\" width=\"566\" height=\"89\"><br><br><br>",
         "avgAnswerTime": 8,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -149,32 +149,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在工作分析的相关概念中，一些具有相似职责的职位的集合称为（）</p>",
+        "questionContent": "在工作分析的相关概念中，一些具有相似职责的职位的集合称为（）",
         "questionId": 210894,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>任务</p>",
+            "optionContent": "任务",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作</p>",
+            "optionContent": "工作",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作簇</p>",
+            "optionContent": "工作簇",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>职责</p>",
+            "optionContent": "职责",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -182,7 +182,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的概念界定。工作是指一些具有相似职责的职位的集合，它是实现企业职能的一个个具体活动所构成的相对独立体。因此本题选择B。而选项A任务是为了达到某种目的而进行的一系列工作要素的集合；选项C工作簇是两个或两个以上具有相似职责的工作的集合；选项D职责是指一人担负的由一项或多项任务组成的相关任务集合。</p>",
+        "analysis": "本题考核工作分析的概念界定。工作是指一些具有相似职责的职位的集合，它是实现企业职能的一个个具体活动所构成的相对独立体。因此本题选择B。而选项A任务是为了达到某种目的而进行的一系列工作要素的集合；选项C工作簇是两个或两个以上具有相似职责的工作的集合；选项D职责是指一人担负的由一项或多项任务组成的相关任务集合。",
         "avgAnswerTime": 18,
         "avgCorrectRate": "66.0%",
         "score": 1.0,
@@ -196,32 +196,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>作为人力资源管理活动最基本的职能，在整个人力资源管理活动中起着举足轻重的作用的是（）</p>",
+        "questionContent": "作为人力资源管理活动最基本的职能，在整个人力资源管理活动中起着举足轻重的作用的是（）",
         "questionId": 211266,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>工作预测</p>",
+            "optionContent": "工作预测",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作部署</p>",
+            "optionContent": "工作部署",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作分析</p>",
+            "optionContent": "工作分析",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作总结</p>",
+            "optionContent": "工作总结",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -229,7 +229,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的意义和作用。工作分析对于人力资源管理的理论研究和实际操作都具有越来越重要的作用，它是现代人力资源管理所有职能的前提和基础。因此本题选择C。</p>",
+        "analysis": "本题考核工作分析的意义和作用。工作分析对于人力资源管理的理论研究和实际操作都具有越来越重要的作用，它是现代人力资源管理所有职能的前提和基础。因此本题选择C。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -243,32 +243,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>现代人力资源管理所有职能的前提和基础是（）</p>",
+        "questionContent": "现代人力资源管理所有职能的前提和基础是（）",
         "questionId": 211283,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>招聘录用</p>",
+            "optionContent": "招聘录用",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>绩效管理</p>",
+            "optionContent": "绩效管理",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作分析</p>",
+            "optionContent": "工作分析",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>基本方式</p>",
+            "optionContent": "基本方式",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -276,7 +276,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的意义和作用。工作分析对于人力资源管理的理论研究和实际操作都具有越来越重要的作用，它是现代人力资源管理所有职能的前提和基础。因此本题选择C。</p>",
+        "analysis": "本题考核工作分析的意义和作用。工作分析对于人力资源管理的理论研究和实际操作都具有越来越重要的作用，它是现代人力资源管理所有职能的前提和基础。因此本题选择C。",
         "avgAnswerTime": 12,
         "avgCorrectRate": "76.0%",
         "score": 1.0,
@@ -290,32 +290,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>确定职位薪酬等级的主要依据是（ ）</p>",
+        "questionContent": "确定职位薪酬等级的主要依据是（ ）",
         "questionId": 2010987,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>职位价值</p>",
+            "optionContent": "职位价值",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>职位价格</p>",
+            "optionContent": "职位价格",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>职务价值</p>",
+            "optionContent": "职务价值",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>职务价格</p>",
+            "optionContent": "职务价格",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -323,7 +323,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“职位薪酬等级”。职位价值是确定该职位薪酬等级的主要依据，一般来说，员工所从事的工作难度越大，薪酬就越高。故本题的正确答案为A。</p>",
+        "analysis": "本题破题点：“职位薪酬等级”。职位价值是确定该职位薪酬等级的主要依据，一般来说，员工所从事的工作难度越大，薪酬就越高。故本题的正确答案为A。",
         "avgAnswerTime": 22,
         "avgCorrectRate": "82.0%",
         "score": 1.0,
@@ -337,32 +337,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在工作分析的计划阶段最重要的是确定（）</p>",
+        "questionContent": "在工作分析的计划阶段最重要的是确定（）",
         "questionId": 211324,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>工作分析的原则</p>",
+            "optionContent": "工作分析的原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作分析的理念</p>",
+            "optionContent": "工作分析的理念",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作分析的目标</p>",
+            "optionContent": "工作分析的目标",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作分析的方法</p>",
+            "optionContent": "工作分析的方法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -370,7 +370,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析流程。在工作分析的计划阶段确定工作分析的目标是最重要的。因此本题选择C。</p>",
+        "analysis": "本题考核工作分析流程。在工作分析的计划阶段确定工作分析的目标是最重要的。因此本题选择C。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -384,32 +384,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工作分析的整个过程其实从本质上来讲是一个（ ）</p>",
+        "questionContent": "工作分析的整个过程其实从本质上来讲是一个（ ）",
         "questionId": 2012236,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>资金流动过程</p>",
+            "optionContent": "资金流动过程",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>人员流动过程</p>",
+            "optionContent": "人员流动过程",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>信息流动过程</p>",
+            "optionContent": "信息流动过程",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>物质流动过程</p>",
+            "optionContent": "物质流动过程",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -417,7 +417,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“工作分析”。从本质上讲，<b>工作分析</b>的整个过程是一个<b>信息的流动过程</b>，从输入到分析再到输出，把工作岗位的复杂信息加工成为有序的工作分析结果的信息。故本题的正确答案为C。</p>",
+        "analysis": "本题破题点：“工作分析”。从本质上讲，<b>工作分析</b>的整个过程是一个<b>信息的流动过程</b>，从输入到分析再到输出，把工作岗位的复杂信息加工成为有序的工作分析结果的信息。故本题的正确答案为C。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -431,32 +431,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在工作分析方法中，应用最为广泛的方法是（）</p>",
+        "questionContent": "在工作分析方法中，应用最为广泛的方法是（）",
         "questionId": 212038,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>观察法</p>",
+            "optionContent": "观察法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷调查法</p>",
+            "optionContent": "问卷调查法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作日志法</p>",
+            "optionContent": "工作日志法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>访谈法</p>",
+            "optionContent": "访谈法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -464,7 +464,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的方法。访谈法是与任职者或相关人员一起讨论被分析职位的特点和要求，从而取得相关信息的方法，目前广泛且最常用的工作分析方法。因此本题选择D。</p>",
+        "analysis": "本题考核工作分析的方法。访谈法是与任职者或相关人员一起讨论被分析职位的特点和要求，从而取得相关信息的方法，目前广泛且最常用的工作分析方法。因此本题选择D。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "50.0%",
         "score": 1.0,
@@ -479,32 +479,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在使用问卷调查法进行工作分析时，其中最重要的环节是（ ）</p>",
+        "questionContent": "在使用问卷调查法进行工作分析时，其中最重要的环节是（ ）",
         "questionId": 1552129,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>问卷设计</p>",
+            "optionContent": "问卷设计",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>确定调查对象</p>",
+            "optionContent": "确定调查对象",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷发放</p>",
+            "optionContent": "问卷发放",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>数据分析</p>",
+            "optionContent": "数据分析",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -512,7 +512,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于理解问卷调查法，这是一种事先根据需要设计问卷，由被调查者填写，再进行汇总分析的方法。其中，问卷设计是问卷调查法的最重要环节。故本题的正确答案为A。</p>",
+        "analysis": "本题的关键在于理解问卷调查法，这是一种事先根据需要设计问卷，由被调查者填写，再进行汇总分析的方法。其中，问卷设计是问卷调查法的最重要环节。故本题的正确答案为A。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -527,32 +527,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>将工作分析的方法划分为结构分析法和非结构分析法的依据是（）</p>",
+        "questionContent": "将工作分析的方法划分为结构分析法和非结构分析法的依据是（）",
         "questionId": 1552153,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>功能</p>",
+            "optionContent": "功能",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>分析内容</p>",
+            "optionContent": "分析内容",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>分析对象</p>",
+            "optionContent": "分析对象",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>基本方式</p>",
+            "optionContent": "基本方式",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -560,7 +560,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“结构和非结构”，需要理解区分工作分析是如何划分的，具体内容如下表：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4be0dc983eb522b24b5f548ad27bd82f/1.png\" alt=\"\" width=\"405\" height=\"145\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“结构和非结构”，需要理解区分工作分析是如何划分的，具体内容如下表：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/4be0dc983eb522b24b5f548ad27bd82f/1.png\" alt=\"\" width=\"405\" height=\"145\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 240,
         "avgCorrectRate": "66.0%",
         "score": 1.0,
@@ -575,32 +575,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>让员工以日记的形式按时间顺序记录工作过程，然后经过归纳提炼，获得所需工作信息的工作分析方法被称为（ ）</p>",
+        "questionContent": "让员工以日记的形式按时间顺序记录工作过程，然后经过归纳提炼，获得所需工作信息的工作分析方法被称为（ ）",
         "questionId": 2005378,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>观察法</p>",
+            "optionContent": "观察法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作日志法</p>",
+            "optionContent": "工作日志法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>问卷调查法</p>",
+            "optionContent": "问卷调查法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>访谈法</p>",
+            "optionContent": "访谈法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -608,7 +608,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：日记</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d89c727e20e9dc498c006252db5167dc/a.png\" alt=\"\" width=\"720\" height=\"200\"><br></p><p>故本题的<b>正确答案为B项</b>。</p>",
+        "analysis": "破题点：日记<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d89c727e20e9dc498c006252db5167dc/a.png\" alt=\"\" width=\"720\" height=\"200\"><br>故本题的<b>正确答案为B项</b>。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "100.0%",
         "score": 1.0,
@@ -622,32 +622,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>我国使用较多的职位分析问卷形式是（）</p>",
+        "questionContent": "我国使用较多的职位分析问卷形式是（）",
         "questionId": 2299186,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>结构化问卷</p>",
+            "optionContent": "结构化问卷",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>非结构化问卷</p>",
+            "optionContent": "非结构化问卷",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>标准问卷</p>",
+            "optionContent": "标准问卷",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>非标准问卷</p>",
+            "optionContent": "非标准问卷",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -655,7 +655,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>非结构化问卷形式是我国使用较多的职位分析问卷形式。故选B</p>",
+        "analysis": "非结构化问卷形式是我国使用较多的职位分析问卷形式。故选B",
         "avgAnswerTime": 5,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -670,32 +670,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>适应于各类工作的分析，并且对中高层管理工作进行深度分析具有很好的效果的工作分析方法是（ ）</p>",
+        "questionContent": "适应于各类工作的分析，并且对中高层管理工作进行深度分析具有很好的效果的工作分析方法是（ ）",
         "questionId": 2404446,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>观察法</p>",
+            "optionContent": "观察法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷调查法</p>",
+            "optionContent": "问卷调查法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>访谈法</p>",
+            "optionContent": "访谈法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作日志法</p>",
+            "optionContent": "工作日志法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -703,7 +703,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“适应于各类工作的分析，中高层管理工作”，再对ABCD四个选项的方法的应用进行辨析：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d41d8cd98f00b204e9800998ecf8427e/33333.JPG\" alt=\"\" width=\"700\" height=\"146\"><br></p><p>故本题的正确答案为C。</p>",
+        "analysis": "本题破题点：“适应于各类工作的分析，中高层管理工作”，再对ABCD四个选项的方法的应用进行辨析：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d41d8cd98f00b204e9800998ecf8427e/33333.JPG\" alt=\"\" width=\"700\" height=\"146\"><br>故本题的正确答案为C。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -717,32 +717,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在工作描述的内容中，一组在重要职责上相同的职位总称被称为（）</p>",
+        "questionContent": "在工作描述的内容中，一组在重要职责上相同的职位总称被称为（）",
         "questionId": 1552708,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>工作代码</p>",
+            "optionContent": "工作代码",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作名称</p>",
+            "optionContent": "工作名称",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作职责</p>",
+            "optionContent": "工作职责",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作权限</p>",
+            "optionContent": "工作权限",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -750,7 +750,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“职责相同的职位总称”，关键在于区分工作描述的内容：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c1e3d42b063a9684f955889dfe50c3c3/1.png\" alt=\"\" width=\"611\" height=\"94\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“职责相同的职位总称”，关键在于区分工作描述的内容：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c1e3d42b063a9684f955889dfe50c3c3/1.png\" alt=\"\" width=\"611\" height=\"94\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 19,
         "avgCorrectRate": "62.0%",
         "score": 1.0,
@@ -765,32 +765,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工作描述的主体是（）</p>",
+        "questionContent": "工作描述的主体是（）",
         "questionId": 1555646,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>工作职责</p>",
+            "optionContent": "工作职责",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作关系</p>",
+            "optionContent": "工作关系",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作标志</p>",
+            "optionContent": "工作标志",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作范围</p>",
+            "optionContent": "工作范围",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -798,7 +798,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“主体”，关键在于理解工作描述的这几个内容：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d508a2de1134c894ae721dc0c07eb599/1.png\" alt=\"\" width=\"607\" height=\"96\"><br></p><p>故本题的正确答案为A。</p>",
+        "analysis": "本题破题点：“主体”，关键在于理解工作描述的这几个内容：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d508a2de1134c894ae721dc0c07eb599/1.png\" alt=\"\" width=\"607\" height=\"96\"><br>故本题的正确答案为A。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -812,32 +812,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工作标志中最重要的项目是（）</p>",
+        "questionContent": "工作标志中最重要的项目是（）",
         "questionId": 2404442,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>工作名称</p>",
+            "optionContent": "工作名称",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作代码</p>",
+            "optionContent": "工作代码",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>薪资范围</p>",
+            "optionContent": "薪资范围",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>所属部门</p>",
+            "optionContent": "所属部门",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -845,7 +845,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题需要对工作标志的内容进行辨析：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/02ccf243901f212b5920df2bd3d8af1c/1.png\" alt=\"\" width=\"537\" height=\"94\"><br></p><p>故本题的正确答案为A。</p>",
+        "analysis": "本题需要对工作标志的内容进行辨析：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/02ccf243901f212b5920df2bd3d8af1c/1.png\" alt=\"\" width=\"537\" height=\"94\"><br>故本题的正确答案为A。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -859,32 +859,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>“隐形”任职资格主要涉及的是（）</p>",
+        "questionContent": "“隐形”任职资格主要涉及的是（）",
         "questionId": 212335,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>对工作能力的要求</p>",
+            "optionContent": "对工作能力的要求",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>对工作经验的要求</p>",
+            "optionContent": "对工作经验的要求",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>对工作技能的要求</p>",
+            "optionContent": "对工作技能的要求",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>对教育和相关培训的要求</p>",
+            "optionContent": "对教育和相关培训的要求",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -892,7 +892,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作说明书的编写。工作规范也称任职资格，就是反映从事某项工作的人必须具备的最基本的资格条件，即一个职位对承担这些工作活动的人的要求，包括相关的知识、技能、能力和其他的特征，它回答的是“要做好这项工作，任职者必须具备什么样的特点和经验。可分为“显性”任职资格，如工作经验、工作技能、教育和相关的培训等要求；“隐性”任职资格，主要涉及的是对工作能力的要求等。因此本题选择A。</p>",
+        "analysis": "本题考核工作说明书的编写。工作规范也称任职资格，就是反映从事某项工作的人必须具备的最基本的资格条件，即一个职位对承担这些工作活动的人的要求，包括相关的知识、技能、能力和其他的特征，它回答的是“要做好这项工作，任职者必须具备什么样的特点和经验。可分为“显性”任职资格，如工作经验、工作技能、教育和相关的培训等要求；“隐性”任职资格，主要涉及的是对工作能力的要求等。因此本题选择A。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "69.0%",
         "score": 1.0,
@@ -906,32 +906,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>为达到某一目的所从事的一系列活动是（）</p>",
+        "questionContent": "为达到某一目的所从事的一系列活动是（）",
         "questionId": 595841,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>职称</p>",
+            "optionContent": "职称",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作</p>",
+            "optionContent": "工作",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>职业</p>",
+            "optionContent": "职业",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>任务</p>",
+            "optionContent": "任务",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -939,7 +939,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>任务：是为了达到某种目的而进行的一系列工作要素的集合，是职位分析的基本单位，是对工作职责的进一步分解。</p>",
+        "analysis": "任务：是为了达到某种目的而进行的一系列工作要素的集合，是职位分析的基本单位，是对工作职责的进一步分解。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "56.0%",
         "score": 1.0,
@@ -954,32 +954,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>由一组主要职责相似的岗位所要完成的任务是（）</p>",
+        "questionContent": "由一组主要职责相似的岗位所要完成的任务是（）",
         "questionId": 595880,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>职称</p>",
+            "optionContent": "职称",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作</p>",
+            "optionContent": "工作",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>职业</p>",
+            "optionContent": "职业",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>任务</p>",
+            "optionContent": "任务",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -987,7 +987,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>工作：一些具有相似职责的职位的集合，它是由实现企业职能的一个个具体活动所构成的相对独立体。</p>",
+        "analysis": "工作：一些具有相似职责的职位的集合，它是由实现企业职能的一个个具体活动所构成的相对独立体。",
         "avgAnswerTime": 22,
         "avgCorrectRate": "63.0%",
         "score": 1.0,
@@ -1001,32 +1001,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在工作分析的相关概念中，为了达到某种目的而进行的一系列工作要素的集合称为（）</p>",
+        "questionContent": "在工作分析的相关概念中，为了达到某种目的而进行的一系列工作要素的集合称为（）",
         "questionId": 1550073,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>职责</p>",
+            "optionContent": "职责",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>任务</p>",
+            "optionContent": "任务",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>工作</p>",
+            "optionContent": "工作",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>职位</p>",
+            "optionContent": "职位",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1034,7 +1034,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于区分这四个概念，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d2922292a568f5dd30f3ba94fa184394/1.png\" alt=\"\" width=\"375\" height=\"116\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题的关键在于区分这四个概念，如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d2922292a568f5dd30f3ba94fa184394/1.png\" alt=\"\" width=\"375\" height=\"116\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -1048,32 +1048,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>一人担负的由一项或多项任务组成的相关任务集合称为（ ）</p>",
+        "questionContent": "一人担负的由一项或多项任务组成的相关任务集合称为（ ）",
         "questionId": 2404460,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>任务</p>",
+            "optionContent": "任务",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>工作簇</p>",
+            "optionContent": "工作簇",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>职位</p>",
+            "optionContent": "职位",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>职责</p>",
+            "optionContent": "职责",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -1081,7 +1081,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>任务：是为了达到某种目的而进行的一系列工作要素的集合；排除A</p><p>工作簇：两个或两个以上具有相似职责的工作的集合；排除B</p><p>职位：单个人所完成的任务与职责的结合。排除C</p><p>职责：是指一人担负的<b>由一项或多项任务组成</b>的相关任务集合。<b>D项正确</b></p>",
+        "analysis": "任务：是为了达到某种目的而进行的一系列工作要素的集合；排除A工作簇：两个或两个以上具有相似职责的工作的集合；排除B职位：单个人所完成的任务与职责的结合。排除C职责：是指一人担负的<b>由一项或多项任务组成</b>的相关任务集合。<b>D项正确</b>",
         "avgAnswerTime": 10,
         "avgCorrectRate": "72.0%",
         "score": 1.0,

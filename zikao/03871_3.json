@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 24,
     "questionList": [
       {
-        "questionContent": "<p>明确市场调查的（）是市场调查方案设计的首要问题。</p>",
+        "questionContent": "明确市场调查的（）是市场调查方案设计的首要问题。",
         "questionId": 1465363,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>目的</p>",
+            "optionContent": "目的",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>计划</p>",
+            "optionContent": "计划",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时间</p>",
+            "optionContent": "时间",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>对象</p>",
+            "optionContent": "对象",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>明确市场调查的<b>目的</b>是市场调查方案设计的首要问题。</p>",
+        "analysis": "明确市场调查的<b>目的</b>是市场调查方案设计的首要问题。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在某市职工家庭基本情况的调查中，该市全部职工家庭就是这一调查的（ ）</p>",
+        "questionContent": "在某市职工家庭基本情况的调查中，该市全部职工家庭就是这一调查的（ ）",
         "questionId": 1992218,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>调查项目</p>",
+            "optionContent": "调查项目",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查对象</p>",
+            "optionContent": "调查对象",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>调查内容</p>",
+            "optionContent": "调查内容",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​调查单位<br></p>",
+            "optionContent": "​调查单位<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>（1）<b>调查对象</b>是指依据调查的任务和目的，确定本次调查的范围及需要调查的<b>现象的总体</b>，它是<b>由某些性质上相同的许多个体所组成</b>的。</p><p>例：在某市职工家庭基本情况的调查中，该市<b>全部职工家庭</b>就是这一调查的<b>调查对象（B项正确）</b>，每一户职工家庭就是调查单位（排除D）。</p><p>（2）相关概念拓展：①​调查单位是指调查对象中所要调查的具体单位。②调查项目是指对调查单位所要调查的主要内容。④确定调查内容即确定调查的具体内容， 包括定义研究的问题及进一步确定调查的项目。</p>",
+        "analysis": "（1）<b>调查对象</b>是指依据调查的任务和目的，确定本次调查的范围及需要调查的<b>现象的总体</b>，它是<b>由某些性质上相同的许多个体所组成</b>的。例：在某市职工家庭基本情况的调查中，该市<b>全部职工家庭</b>就是这一调查的<b>调查对象（B项正确）</b>，每一户职工家庭就是调查单位（排除D）。（2）相关概念拓展：①​调查单位是指调查对象中所要调查的具体单位。②调查项目是指对调查单位所要调查的主要内容。④确定调查内容即确定调查的具体内容， 包括定义研究的问题及进一步确定调查的项目。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -103,32 +103,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在调查项目中，（ ）是表明事物的数量特征，它可以用数量来表示。</p>",
+        "questionContent": "在调查项目中，（ ）是表明事物的数量特征，它可以用数量来表示。",
         "questionId": 1934905,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>品质标志</p>",
+            "optionContent": "品质标志",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>数量标志</p>",
+            "optionContent": "数量标志",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>一般标志</p>",
+            "optionContent": "一般标志",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>特殊标志</p>",
+            "optionContent": "特殊标志",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>调查项目可分为品质标志和数量标志。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/486182774fc7e9c6caa51791cc7a5bf3/image.png\" alt=\"\" width=\"533\" height=\"96\"><br></p><p>CD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。</p>",
+        "analysis": "调查项目可分为品质标志和数量标志。<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/486182774fc7e9c6caa51791cc7a5bf3/image.png\" alt=\"\" width=\"533\" height=\"96\"><br>CD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -150,32 +150,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>按（）分组能直接反映事物性质的不同，而且分组相对稳定明确。</p>",
+        "questionContent": "按（）分组能直接反映事物性质的不同，而且分组相对稳定明确。",
         "questionId": 1465393,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>品质标志</p>",
+            "optionContent": "品质标志",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>数量标志</p>",
+            "optionContent": "数量标志",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>特征标志</p>",
+            "optionContent": "特征标志",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>整体标志</p>",
+            "optionContent": "整体标志",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -183,7 +183,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>按<b>品质标志</b>分组能直接反映事物性质的不同，而且分组相对稳定明确。</p>",
+        "analysis": "按<b>品质标志</b>分组能直接反映事物性质的不同，而且分组相对稳定明确。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -197,32 +197,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是按一定的标志将总体划分为若干部分的方法，是整理和分析统计资料的基本方法。</p>",
+        "questionContent": "（）是按一定的标志将总体划分为若干部分的方法，是整理和分析统计资料的基本方法。",
         "questionId": 1755886,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>统计分组法</p>",
+            "optionContent": "统计分组法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>归纳分析法</p>",
+            "optionContent": "归纳分析法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>一元回归法</p>",
+            "optionContent": "一元回归法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>演绎推理法</p>",
+            "optionContent": "演绎推理法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -230,7 +230,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c002ac018f7c7da7e50a6c4b7fa84901/image.png\" alt=\"\" width=\"629\" height=\"164\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c002ac018f7c7da7e50a6c4b7fa84901/image.png\" alt=\"\" width=\"629\" height=\"164\"><br>",
         "avgAnswerTime": 16,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -245,32 +245,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（ ）是指在市场调查项目实施之前对调查的目的、内容、研究方法、数据分析、时间安排、经费预算等所做的统一安排和规划以及由这些内容形成的文字材料。</p>",
+        "questionContent": "（ ）是指在市场调查项目实施之前对调查的目的、内容、研究方法、数据分析、时间安排、经费预算等所做的统一安排和规划以及由这些内容形成的文字材料。",
         "questionId": 1967993,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场调查策划</p>",
+            "optionContent": "市场调查策划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查方案</p>",
+            "optionContent": "市场调查方案",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场调查预测</p>",
+            "optionContent": "市场调查预测",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查开发</p>",
+            "optionContent": "市场调查开发",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -278,7 +278,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查方案，也称市场调查计划书、调查项目计划书、调查项目建议书或调查策划书，是指在市场调查项目实施之前对调查的目的、内容、研究方法、数据分析、时间安排、经费预算等所做的统一安排和规划以及由这些内容形成的文字材料。B项正确。</b></p><p>拟订调查方案的过程就是调查方案设计，也称为市场调查策划（排除A项）。CD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。</p>",
+        "analysis": "<b>市场调查方案，也称市场调查计划书、调查项目计划书、调查项目建议书或调查策划书，是指在市场调查项目实施之前对调查的目的、内容、研究方法、数据分析、时间安排、经费预算等所做的统一安排和规划以及由这些内容形成的文字材料。B项正确。</b>拟订调查方案的过程就是调查方案设计，也称为市场调查策划（排除A项）。CD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -292,32 +292,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>围绕某种目的，通过收集企业内部和外部已经积累起来的现成的各种信息、情报资料，对调查内容进行分析研究的一种调查方法是（）</p><p><br></p>",
+        "questionContent": "围绕某种目的，通过收集企业内部和外部已经积累起来的现成的各种信息、情报资料，对调查内容进行分析研究的一种调查方法是（）<br>",
         "questionId": 1608217,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>文案调查法</p>",
+            "optionContent": "文案调查法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>小组座谈法</p>",
+            "optionContent": "小组座谈法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>访问调查法</p>",
+            "optionContent": "访问调查法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>深度访谈法</p>",
+            "optionContent": "深度访谈法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -325,7 +325,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​由题干关键点：“已经积累起来的、情报资料”可锁定A（文案调查法）</p><p>“小组座谈法”强调小组讨论，“访问调查法”强调采访、询问，“深度访谈法”强调单独沟通与交流。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<b>​</b>​由题干关键点：“已经积累起来的、情报资料”可锁定A（文案调查法）“小组座谈法”强调小组讨论，“访问调查法”强调采访、询问，“深度访谈法”强调单独沟通与交流。故本题正确答案为：A",
         "avgAnswerTime": 4,
         "avgCorrectRate": "33.0%",
         "score": 1.0,
@@ -340,32 +340,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（ ）是指别人就别的目的先前已收集好的，而不是研究者就手边的研究而自己收集的资料。</p>",
+        "questionContent": "（ ）是指别人就别的目的先前已收集好的，而不是研究者就手边的研究而自己收集的资料。",
         "questionId": 1936853,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>第一手资料</p>",
+            "optionContent": "第一手资料",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>第二手资料</p>",
+            "optionContent": "第二手资料",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>第三手资料</p>",
+            "optionContent": "第三手资料",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>第四手资料</p>",
+            "optionContent": "第四手资料",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -373,7 +373,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>市场信息资料主要来源于两个方面，即第一手资料和第二手资料。 \n<br>第一手资料是指通过实地调查所获得的资料（排除A项）；<b>第二手资料是指别人就别的目的先前已收集好的，而不是研究者就手边的研究而自己收集的资料（B 项正确）。</b>CD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。</p>",
+        "analysis": "市场信息资料主要来源于两个方面，即第一手资料和第二手资料。 \n<br>第一手资料是指通过实地调查所获得的资料（排除A项）；<b>第二手资料是指别人就别的目的先前已收集好的，而不是研究者就手边的研究而自己收集的资料（B 项正确）。</b>CD项未提及，为干扰项，排除；故<b>正确答案为B项</b>。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "77.0%",
         "score": 1.0,
@@ -388,32 +388,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>通过实地调查所获得的资料是（ ）</p>",
+        "questionContent": "通过实地调查所获得的资料是（ ）",
         "questionId": 2137183,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>第一手资料</p>",
+            "optionContent": "第一手资料",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>第二手资料</p>",
+            "optionContent": "第二手资料",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>第三手资料</p>",
+            "optionContent": "第三手资料",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>第四手资料</p>",
+            "optionContent": "第四手资料",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -421,7 +421,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>A项：第一手资料是指通过实地调查所获得的资料；</p><p>B项：第二手资料是指别人就别的目的先前已收集好的，而不是研究者就手边的研究而自己收集的资料。</p><p>CD项是无关干扰项。故本题应选A项。</p>",
+        "analysis": "A项：第一手资料是指通过实地调查所获得的资料；B项：第二手资料是指别人就别的目的先前已收集好的，而不是研究者就手边的研究而自己收集的资料。CD项是无关干扰项。故本题应选A项。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "81.0%",
         "score": 1.0,
@@ -436,32 +436,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在文案调查资料的来源途径中，以下不属于外部资料搜集的渠道的是（）</p>",
+        "questionContent": "在文案调查资料的来源途径中，以下不属于外部资料搜集的渠道的是（）",
         "questionId": 1462327,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>统计部门以及各级、各类政府主管部门公布的有关资料</p>",
+            "optionContent": "统计部门以及各级、各类政府主管部门公布的有关资料",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>财务资料</p>",
+            "optionContent": "财务资料",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>各种国际组织、学术团体、外国使馆、商会所提供的国际信息</p>",
+            "optionContent": "各种国际组织、学术团体、外国使馆、商会所提供的国际信息",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>国内外有关的书籍、报纸、杂志所提供的文献资料</p>",
+            "optionContent": "国内外有关的书籍、报纸、杂志所提供的文献资料",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -469,7 +469,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>对于来自企业外部的资料，可以通过以下几种主要渠道加以收集：\n<br>（1）统计部门以及各级、各类政府主管部门公布的有关资料。</p><p>（2）各种经济信息中心、专业信息咨询机构、各行业协会和联合会提供的信息和有关行业情报。\n<br>（3）国内外有关的书籍、报纸、杂志所提供的文献资料。\n<br>（4）有关生产和经营机构提供的商品目录、广告说明书、专利资料及商品价目表等以及各地电台、电视台提供的有关信息。\n<br>（5）各种国际组织、学术团体、外国使馆、商会所提供的国际信息。\n<br>（6）国内外各种博览会、展销会、交易会、订货会等促销会议以及专业性、学术性经验交流会议上所发放的各种文件和材料。</p>",
+        "analysis": "对于来自企业外部的资料，可以通过以下几种主要渠道加以收集：\n<br>（1）统计部门以及各级、各类政府主管部门公布的有关资料。（2）各种经济信息中心、专业信息咨询机构、各行业协会和联合会提供的信息和有关行业情报。\n<br>（3）国内外有关的书籍、报纸、杂志所提供的文献资料。\n<br>（4）有关生产和经营机构提供的商品目录、广告说明书、专利资料及商品价目表等以及各地电台、电视台提供的有关信息。\n<br>（5）各种国际组织、学术团体、外国使馆、商会所提供的国际信息。\n<br>（6）国内外各种博览会、展销会、交易会、订货会等促销会议以及专业性、学术性经验交流会议上所发放的各种文件和材料。",
         "avgAnswerTime": 4,
         "avgCorrectRate": "24.0%",
         "score": 1.0,
@@ -484,32 +484,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>文案调查对现有资料的收集必须周详，要通过各种信息渠道，利用各种机会，采取各种方式大量收集各方面有价值的资料，这体现了文案资料收集的（）</p>",
+        "questionContent": "文案调查对现有资料的收集必须周详，要通过各种信息渠道，利用各种机会，采取各种方式大量收集各方面有价值的资料，这体现了文案资料收集的（）",
         "questionId": 1608347,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>针对性原则</p>",
+            "optionContent": "针对性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>广泛性原则</p>",
+            "optionContent": "广泛性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>连续性原则</p>",
+            "optionContent": "连续性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性原则</p>",
+            "optionContent": "时效性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -517,7 +517,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>文案资料收集的原则：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1ddc8544651755732c1224442bc1e074/image.png\" alt=\"\" width=\"498\" height=\"226\"><br></p><p>故本题正确答案为：B</p>",
+        "analysis": "文案资料收集的原则：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1ddc8544651755732c1224442bc1e074/image.png\" alt=\"\" width=\"498\" height=\"226\"><br>故本题正确答案为：B",
         "avgAnswerTime": 10,
         "avgCorrectRate": "56.0%",
         "score": 1.0,
@@ -532,32 +532,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>文案调查的最大优点是省时省钱，如果文案调查的费用支出过高，调查周期过长，就失去了文案调查的优势，这体现了文案资料收集的（）</p>",
+        "questionContent": "文案调查的最大优点是省时省钱，如果文案调查的费用支出过高，调查周期过长，就失去了文案调查的优势，这体现了文案资料收集的（）",
         "questionId": 1608354,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>效益性原则</p>",
+            "optionContent": "效益性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>时效性原则</p>",
+            "optionContent": "时效性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>连续性原则</p>",
+            "optionContent": "连续性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>针对性原则</p>",
+            "optionContent": "针对性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -565,7 +565,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>文案资料收集的优点：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/38262e7edc2469f3b506b1b1321cb15e/image.png\" alt=\"\" width=\"498\" height=\"227\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "文案资料收集的优点：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/38262e7edc2469f3b506b1b1321cb15e/image.png\" alt=\"\" width=\"498\" height=\"227\"><br>故本题正确答案为：A",
         "avgAnswerTime": 9,
         "avgCorrectRate": "82.0%",
         "score": 1.0,
@@ -580,32 +580,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>文献资料大多数是历史性资料，因此，要求调查人员在资料的收集过程中，必须考虑资料的时间背景，摒弃过时的、与目前市场情况不相符的资料内容，确保收集到的资料能够准确反映调查对象的发展规律，这体现了文案资料收集的（）</p>",
+        "questionContent": "文献资料大多数是历史性资料，因此，要求调查人员在资料的收集过程中，必须考虑资料的时间背景，摒弃过时的、与目前市场情况不相符的资料内容，确保收集到的资料能够准确反映调查对象的发展规律，这体现了文案资料收集的（）",
         "questionId": 1608363,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>连续性原则</p>",
+            "optionContent": "连续性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>效益性原则</p>",
+            "optionContent": "效益性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性原则</p>",
+            "optionContent": "时效性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>针对性原则</p>",
+            "optionContent": "针对性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -613,7 +613,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>文案资料收集的优点：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/717cad8748f7c63a7f918600dc62b677/image.png\" alt=\"\" width=\"498\" height=\"227\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "文案资料收集的优点：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/717cad8748f7c63a7f918600dc62b677/image.png\" alt=\"\" width=\"498\" height=\"227\"><br>故本题正确答案为：C",
         "avgAnswerTime": 12,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -628,32 +628,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>“资料所涉及的时期是否适当，有没有时过境迁”，这是文案调查资料评估指标中的（）&nbsp;</p>",
+        "questionContent": "“资料所涉及的时期是否适当，有没有时过境迁”，这是文案调查资料评估指标中的（）&nbsp;",
         "questionId": 1943980,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>内容</p>",
+            "optionContent": "内容",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>水平</p>",
+            "optionContent": "水平",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时间</p>",
+            "optionContent": "时间",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>方便</p>",
+            "optionContent": "方便",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -661,7 +661,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/49cf3ad43caf720a08e774a5dadc2c26/image.png\" alt=\"\" width=\"485\" height=\"181\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/49cf3ad43caf720a08e774a5dadc2c26/image.png\" alt=\"\" width=\"485\" height=\"181\"><br>故本题正确答案为：C",
         "avgAnswerTime": 33,
         "avgCorrectRate": "33.0%",
         "score": 1.0,
@@ -676,7 +676,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>调查人员采用一对一的形式，直接与被访谈者进行单独沟通和交流，获得关于个人的某种态度、观念等方面信息的一种市场调查方法是（）</p>",
+        "questionContent": "调查人员采用一对一的形式，直接与被访谈者进行单独沟通和交流，获得关于个人的某种态度、观念等方面信息的一种市场调查方法是（）",
         "questionId": 1608627,
         "answerTime": 0,
         "correct": 2,
@@ -684,25 +684,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>访问调查法</p>",
+            "optionContent": "访问调查法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>深度访谈法</p>",
+            "optionContent": "深度访谈法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场实验调查法</p>",
+            "optionContent": "市场实验调查法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>文案调查法</p>",
+            "optionContent": "文案调查法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -710,7 +710,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​根据题干关键点：“一对一”、“直接单独沟通和交流”可锁定B选项。<br></p><p>本题易混选项为A。访问调查法又称采访法、询问法，是指调查人员通过口头、书面或电信等方式向被调查者了解、收集信息资料的调查方法。</p><p>故本题正确答案为：B</p>",
+        "analysis": "<b>​</b>​根据题干关键点：“一对一”、“直接单独沟通和交流”可锁定B选项。<br>本题易混选项为A。访问调查法又称采访法、询问法，是指调查人员通过口头、书面或电信等方式向被调查者了解、收集信息资料的调查方法。故本题正确答案为：B",
         "avgAnswerTime": 13,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -724,32 +724,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>深度访谈的时间尽量不超过（）。</p>",
+        "questionContent": "深度访谈的时间尽量不超过（）。",
         "questionId": 1465337,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>半个小时</p>",
+            "optionContent": "半个小时",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>1小时</p>",
+            "optionContent": "1小时",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>2小时</p>",
+            "optionContent": "2小时",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>3小时</p>",
+            "optionContent": "3小时",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -757,7 +757,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>深度访谈的时间通常在1小时至2小时之间，尽量不要超过<b>2小时</b>。</p>",
+        "analysis": "深度访谈的时间通常在1小时至2小时之间，尽量不要超过<b>2小时</b>。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "67.0%",
         "score": 1.0,
@@ -772,32 +772,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在比较常用的深度访谈技术中，顺着一定的问题线探索，使得访谈人员有机会了解受访者思想的脉络的是（ ）</p>",
+        "questionContent": "在比较常用的深度访谈技术中，顺着一定的问题线探索，使得访谈人员有机会了解受访者思想的脉络的是（ ）",
         "questionId": 1969958,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>直接访谈</p>",
+            "optionContent": "直接访谈",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>阶梯前进</p>",
+            "optionContent": "阶梯前进",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>隐蔽问题寻探</p>",
+            "optionContent": "隐蔽问题寻探",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>象征性分析</p>",
+            "optionContent": "象征性分析",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -805,7 +805,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dff52bfbbe04e912fe3447fed06787df/image.png\" alt=\"\" width=\"490\" height=\"127\" class=\"\"><br></p><p>A项未提及，为干扰项，排除；故<b>正确答案为B项</b>。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dff52bfbbe04e912fe3447fed06787df/image.png\" alt=\"\" width=\"490\" height=\"127\" class=\"\"><br>A项未提及，为干扰项，排除；故<b>正确答案为B项</b>。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -820,32 +820,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在比较常用的深度访谈技术中，通过反面比较来分析对象的含义的是（ ）</p>",
+        "questionContent": "在比较常用的深度访谈技术中，通过反面比较来分析对象的含义的是（ ）",
         "questionId": 1969960,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>隐蔽问题寻探</p>",
+            "optionContent": "隐蔽问题寻探",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>阶梯前进</p>",
+            "optionContent": "阶梯前进",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>直接访谈</p>",
+            "optionContent": "直接访谈",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>象征性分析</p>",
+            "optionContent": "象征性分析",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -853,7 +853,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2fbc74558d4cc5c007a2ce8f8e5f5856/image.png\" alt=\"\" width=\"484\" height=\"126\"><br></p><p>C项未提及，为干扰项，排除；故<b>正确答案为D项</b>。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2fbc74558d4cc5c007a2ce8f8e5f5856/image.png\" alt=\"\" width=\"484\" height=\"126\"><br>C项未提及，为干扰项，排除；故<b>正确答案为D项</b>。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -867,32 +867,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查中最基本、应用最普遍的一种方法是（）</p>",
+        "questionContent": "市场调查中最基本、应用最普遍的一种方法是（）",
         "questionId": 1608897,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>访问调查法</p>",
+            "optionContent": "访问调查法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>深度访谈法</p>",
+            "optionContent": "深度访谈法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>文案调查资料</p>",
+            "optionContent": "文案调查资料",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>反射法</p>",
+            "optionContent": "反射法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -900,7 +900,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2a82aaca0ee2d3222fc1675829086ab7/image.png\" alt=\"\" width=\"395\" height=\"73\"><br></p><p>CD选项为干扰项。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2a82aaca0ee2d3222fc1675829086ab7/image.png\" alt=\"\" width=\"395\" height=\"73\"><br>CD选项为干扰项。故本题正确答案为：A",
         "avgAnswerTime": 6,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -915,32 +915,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指调查人员通过口头、书面或电信等方式向被调查者了解、收集信息资料的调查方法。</p>",
+        "questionContent": "（）是指调查人员通过口头、书面或电信等方式向被调查者了解、收集信息资料的调查方法。",
         "questionId": 1704672,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>深度访谈法<br></p>",
+            "optionContent": "深度访谈法<br>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>访问调查法</p>",
+            "optionContent": "访问调查法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>文案调查法</p>",
+            "optionContent": "文案调查法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>投射法</p>",
+            "optionContent": "投射法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -948,7 +948,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​根据题干关键点：“调查人员”、“口头”、“书面”等可锁定B选项。<br></p><p>“深度访谈法”强调一对一、单独沟通和交流，“文案调查法”强调利用已有情报资料。</p><p>故本题正确答案为：B</p>",
+        "analysis": "<b>​</b>​根据题干关键点：“调查人员”、“口头”、“书面”等可锁定B选项。<br>“深度访谈法”强调一对一、单独沟通和交流，“文案调查法”强调利用已有情报资料。故本题正确答案为：B",
         "avgAnswerTime": 11,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -963,32 +963,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指调查者通过口头语言对被调查者进行访问。</p>",
+        "questionContent": "（）是指调查者通过口头语言对被调查者进行访问。",
         "questionId": 1609419,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>直接访问</p>",
+            "optionContent": "直接访问",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>书面访问</p>",
+            "optionContent": "书面访问",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>口头访问</p>",
+            "optionContent": "口头访问",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>间接访问</p>",
+            "optionContent": "间接访问",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -996,7 +996,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​根据题干关键词“口头语言”可锁定C选项（口头访问）。<br></p><p>本题易混选项是D，间接访问是调查者通过电话或书面问卷工具对被调查者进行访问。</p><p>故本题正确答案为：C</p>",
+        "analysis": "<b>​</b>​根据题干关键词“口头语言”可锁定C选项（口头访问）。<br>本题易混选项是D，间接访问是调查者通过电话或书面问卷工具对被调查者进行访问。故本题正确答案为：C",
         "avgAnswerTime": 7,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -1011,32 +1011,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）也称为有结构访问，它是按照事先设计好的、有一定结构的访问问卷进行访问，整个访问过程是在高度控制下进行的。</p>",
+        "questionContent": "（）也称为有结构访问，它是按照事先设计好的、有一定结构的访问问卷进行访问，整个访问过程是在高度控制下进行的。",
         "questionId": 1756662,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>标准化访问</p>",
+            "optionContent": "标准化访问",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>书面访问</p>",
+            "optionContent": "书面访问",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>口头访问</p>",
+            "optionContent": "口头访问",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>非标准化访问</p>",
+            "optionContent": "非标准化访问",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1044,7 +1044,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/bf301d1895c3ed370825495bc59e25c2/image.png\" alt=\"\" width=\"585\" height=\"228\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/bf301d1895c3ed370825495bc59e25c2/image.png\" alt=\"\" width=\"585\" height=\"228\"><br>",
         "avgAnswerTime": 10,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -1059,32 +1059,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指调查人员将调查问卷交给被调查者，对有关问题做出适当的解释说明后，留给被调查者自行填写问卷；调查人员按约定时间上门回收或交给被调查者已写好地址、贴好邮票的信封，请被调查者填好问卷后寄回调查部门或调查公司的一种调查方法。</p>",
+        "questionContent": "（）是指调查人员将调查问卷交给被调查者，对有关问题做出适当的解释说明后，留给被调查者自行填写问卷；调查人员按约定时间上门回收或交给被调查者已写好地址、贴好邮票的信封，请被调查者填好问卷后寄回调查部门或调查公司的一种调查方法。",
         "questionId": 1756732,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>电话调查法</p>",
+            "optionContent": "电话调查法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>面谈调查法</p>",
+            "optionContent": "面谈调查法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>留置问卷调查法</p>",
+            "optionContent": "留置问卷调查法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>邮寄调查法</p>",
+            "optionContent": "邮寄调查法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1092,7 +1092,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/34bd00bc979cac0b7e4ea006203b32bf/image.png\" alt=\"\" width=\"588\" height=\"229\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/34bd00bc979cac0b7e4ea006203b32bf/image.png\" alt=\"\" width=\"588\" height=\"229\"><br>",
         "avgAnswerTime": 9,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -1106,32 +1106,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>事先不设计问卷，没有规定的提问顺序，只是准备一个题目或提纲，由访谈人员围绕调查问题自由交谈，做好记录后再进行整理的面谈调查法是（ ）</p>",
+        "questionContent": "事先不设计问卷，没有规定的提问顺序，只是准备一个题目或提纲，由访谈人员围绕调查问题自由交谈，做好记录后再进行整理的面谈调查法是（ ）",
         "questionId": 1972298,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>直接访问</p>",
+            "optionContent": "直接访问",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>非标准式面谈</p>",
+            "optionContent": "非标准式面谈",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>标准式面谈</p>",
+            "optionContent": "标准式面谈",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>间接访问</p>",
+            "optionContent": "间接访问",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1139,7 +1139,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/582d2476e34b655247b33c437360310c/image.png\" alt=\"\" width=\"567\" height=\"160\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/582d2476e34b655247b33c437360310c/image.png\" alt=\"\" width=\"567\" height=\"160\"><br>",
         "avgAnswerTime": 15,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -1154,32 +1154,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查从定性认识过渡到定量认识的开始阶段，在市场调查中起着统筹兼顾、统一协调的作用。</p>",
+        "questionContent": "（）是市场调查从定性认识过渡到定量认识的开始阶段，在市场调查中起着统筹兼顾、统一协调的作用。",
         "questionId": 1630464,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场调查计划制定</p>",
+            "optionContent": "市场调查计划制定",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查报告制作</p>",
+            "optionContent": "市场调查报告制作",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查方案设计<br></p>",
+            "optionContent": "市场调查方案设计<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场调查资料收集</p>",
+            "optionContent": "市场调查资料收集",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1187,7 +1187,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：开始阶段（方案设计）<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7db348e0d69f9198cee0a4b8d98fe5f8/image.png\" alt=\"\" width=\"466\" height=\"40\"><br></p><p>ABD选项为无关干扰项。</p><p>故本题正确答案为：C</p>",
+        "analysis": "<b>​</b>​破题点：开始阶段（方案设计）<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7db348e0d69f9198cee0a4b8d98fe5f8/image.png\" alt=\"\" width=\"466\" height=\"40\"><br>ABD选项为无关干扰项。故本题正确答案为：C",
         "avgAnswerTime": 31,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -1201,32 +1201,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是调查方案的开头部分，简要介绍整个调查课题出台的背景主要是什么，向哪个方向发展，拟定课题想要达到什么样的效果。</p>",
+        "questionContent": "（）是调查方案的开头部分，简要介绍整个调查课题出台的背景主要是什么，向哪个方向发展，拟定课题想要达到什么样的效果。",
         "questionId": 1465372,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>调查课题的意义和目的</p>",
+            "optionContent": "调查课题的意义和目的",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>前言</p>",
+            "optionContent": "前言",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场调查对象和范围</p>",
+            "optionContent": "市场调查对象和范围",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查所采用的方法</p>",
+            "optionContent": "调查所采用的方法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1234,7 +1234,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>前言</b>是调查方案的开头部分，简要介绍整个调查课题出台的背景主要是什么，向哪个方向发展，拟定课题想要达到什么样的效果。</p>",
+        "analysis": "<b>前言</b>是调查方案的开头部分，简要介绍整个调查课题出台的背景主要是什么，向哪个方向发展，拟定课题想要达到什么样的效果。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -1248,32 +1248,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指组织一些具有丰富调查经验的人士或专家，对设计出的调查方案加以初步研究和判断，以说明方案的可行性。</p>",
+        "questionContent": "（）是指组织一些具有丰富调查经验的人士或专家，对设计出的调查方案加以初步研究和判断，以说明方案的可行性。",
         "questionId": 1697956,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>逻辑分析法</p>",
+            "optionContent": "逻辑分析法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计分组法</p>",
+            "optionContent": "统计分组法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>试点调查法</p>",
+            "optionContent": "试点调查法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>经验判断法</p>",
+            "optionContent": "经验判断法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -1281,7 +1281,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：丰富调查经验。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5fded394f8a5ca0f6ec71067f68f4b0e/image.png\" alt=\"\" width=\"511\" height=\"197\"><br></p><p>B选项为无关干扰项。</p><p>故本题正确答案为：D</p>",
+        "analysis": "<b>​</b>​破题点：丰富调查经验。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5fded394f8a5ca0f6ec71067f68f4b0e/image.png\" alt=\"\" width=\"511\" height=\"197\"><br>B选项为无关干扰项。故本题正确答案为：D",
         "avgAnswerTime": 9,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -1295,32 +1295,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指检查所设计的市场调查方案的部分内容是否符合逻辑和情理。</p>",
+        "questionContent": "（）是指检查所设计的市场调查方案的部分内容是否符合逻辑和情理。",
         "questionId": 1697960,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>逻辑分析法</p>",
+            "optionContent": "逻辑分析法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>统计分组法</p>",
+            "optionContent": "统计分组法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>​试点调查法<br></p>",
+            "optionContent": "​试点调查法<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>经验判断法</p>",
+            "optionContent": "经验判断法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1328,7 +1328,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：是否符合逻辑和情理。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7c87beec6a0872d3fded9378b60f0633/image.png\" alt=\"\" width=\"513\" height=\"198\"><br></p><p>B选项为无关干扰项。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<b>​</b>​破题点：是否符合逻辑和情理。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7c87beec6a0872d3fded9378b60f0633/image.png\" alt=\"\" width=\"513\" height=\"198\"><br>B选项为无关干扰项。故本题正确答案为：A",
         "avgAnswerTime": 10,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -1343,32 +1343,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>试点具有两个明显的特点：一是它的实践性，二是它的（），两者互相联系、相辅相成。</p>",
+        "questionContent": "试点具有两个明显的特点：一是它的实践性，二是它的（），两者互相联系、相辅相成。",
         "questionId": 1698206,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>全面性</p>",
+            "optionContent": "全面性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>科学性</p>",
+            "optionContent": "科学性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>创新性</p>",
+            "optionContent": "创新性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>准确性</p>",
+            "optionContent": "准确性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1376,7 +1376,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ded0c3fcf4ca34e39ef2afec15ac06d2/image.png\" alt=\"\" width=\"191\" height=\"72\"><br></p><p>助记：试点两特点，要实践和创新。</p><p>故本题正确答案为：C</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ded0c3fcf4ca34e39ef2afec15ac06d2/image.png\" alt=\"\" width=\"191\" height=\"72\"><br>助记：试点两特点，要实践和创新。故本题正确答案为：C",
         "avgAnswerTime": 6,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -1391,32 +1391,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>下列选项中不属于市场调查方案可行性研究的主要方法的是（ ）</p>",
+        "questionContent": "下列选项中不属于市场调查方案可行性研究的主要方法的是（ ）",
         "questionId": 1995299,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>逻辑分析法</p>",
+            "optionContent": "逻辑分析法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计分组法</p>",
+            "optionContent": "统计分组法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>经验判断法</p>",
+            "optionContent": "经验判断法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>试点调查法</p>",
+            "optionContent": "试点调查法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1424,7 +1424,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>市场调<b>查方</b>案<b>可</b>行性<b>研</b>究的主要方法有：逻<b>辑</b>分析法，<b>经</b>验判断法和<b>试点</b>调查法。<br></p><p>助记：查房可严，几经试点。</p><p>本题为<b>选非题</b>，<b>B选项不属于，故为正确答案</b>。</p>",
+        "analysis": "市场调<b>查方</b>案<b>可</b>行性<b>研</b>究的主要方法有：逻<b>辑</b>分析法，<b>经</b>验判断法和<b>试点</b>调查法。<br>助记：查房可严，几经试点。本题为<b>选非题</b>，<b>B选项不属于，故为正确答案</b>。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "66.0%",
         "score": 1.0,

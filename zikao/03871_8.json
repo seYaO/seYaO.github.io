@@ -7,7 +7,7 @@
     "totalSubQuestionNum": 6,
     "questionList": [
       {
-        "questionContent": "<p>研究对象从过去到现在有一个运动倾向，这种倾向总是朝着未来延伸，据此可以预测事物的未来状态，这是指（）</p>",
+        "questionContent": "研究对象从过去到现在有一个运动倾向，这种倾向总是朝着未来延伸，据此可以预测事物的未来状态，这是指（）",
         "questionId": 1667287,
         "answerTime": 0,
         "correct": 2,
@@ -15,25 +15,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>系统性原理</p>",
+            "optionContent": "系统性原理",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>可控性原理<br></p>",
+            "optionContent": "可控性原理<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>相关性原理</p>",
+            "optionContent": "相关性原理",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>惯性原理</p>",
+            "optionContent": "惯性原理",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -41,7 +41,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/df14aff6bad75c456e7fa9706c6cd84e/image.png\" alt=\"\" width=\"526\" height=\"224\"><br></p><p>故本题正确答案为：D</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/df14aff6bad75c456e7fa9706c6cd84e/image.png\" alt=\"\" width=\"526\" height=\"224\"><br>故本题正确答案为：D",
         "avgAnswerTime": 11,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -57,7 +57,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指预测必须坚持以系统观点为指导，采用系统分析方法，实现预测的系统目标。</p>",
+        "questionContent": "（）是指预测必须坚持以系统观点为指导，采用系统分析方法，实现预测的系统目标。",
         "questionId": 1667426,
         "answerTime": 0,
         "correct": 2,
@@ -65,25 +65,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>系统性原理</p>",
+            "optionContent": "系统性原理",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>可控性原理</p>",
+            "optionContent": "可控性原理",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>相关性原理</p>",
+            "optionContent": "相关性原理",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>惯性原理</p>",
+            "optionContent": "惯性原理",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -91,7 +91,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6963b6eb2ca00cb19271ce621a7e767b/image.png\" alt=\"\" width=\"524\" height=\"226\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6963b6eb2ca00cb19271ce621a7e767b/image.png\" alt=\"\" width=\"524\" height=\"226\"><br>故本题正确答案为：A",
         "avgAnswerTime": 8,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -106,32 +106,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指在统计学上描述观测值偏离中心位置的趋势，它反映了所有观测值偏离中心的分布情况。</p>",
+        "questionContent": "（）是指在统计学上描述观测值偏离中心位置的趋势，它反映了所有观测值偏离中心的分布情况。",
         "questionId": 1468806,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>集中趋势</p>",
+            "optionContent": "集中趋势",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>离散趋势</p>",
+            "optionContent": "离散趋势",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>相关分析</p>",
+            "optionContent": "相关分析",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>参数估计</p>",
+            "optionContent": "参数估计",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -139,7 +139,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>所谓<b>离散趋势</b>是指在统计学上描述观测值偏离中心位置的趋势，它反映了所有观测值偏离中心的分布情况。</p>",
+        "analysis": "所谓<b>离散趋势</b>是指在统计学上描述观测值偏离中心位置的趋势，它反映了所有观测值偏离中心的分布情况。",
         "avgAnswerTime": 12,
         "avgCorrectRate": "80.0%",
         "score": 1.0,
@@ -154,32 +154,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）就是总体各单位标志值中最大值与最小值的差距，借以表明总体标志值的差异范围的大小。</p>",
+        "questionContent": "（）就是总体各单位标志值中最大值与最小值的差距，借以表明总体标志值的差异范围的大小。",
         "questionId": 1468807,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>平均数</p>",
+            "optionContent": "平均数",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>组距</p>",
+            "optionContent": "组距",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>全距</p>",
+            "optionContent": "全距",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>中位数</p>",
+            "optionContent": "中位数",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -187,7 +187,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>所谓<b>全距</b>就是总体各单位标志值中最大值与最小值的差距，借以表明总体标志值的差异范围的大小。</p>",
+        "analysis": "所谓<b>全距</b>就是总体各单位标志值中最大值与最小值的差距，借以表明总体标志值的差异范围的大小。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -202,32 +202,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>按相关的方向分类，可将相关关系分为（）</p>",
+        "questionContent": "按相关的方向分类，可将相关关系分为（）",
         "questionId": 1468859,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>完全相关、不完全相关和不相关</p>",
+            "optionContent": "完全相关、不完全相关和不相关",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>正相关和负相关</p>",
+            "optionContent": "正相关和负相关",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>线性相关和非线性相关</p>",
+            "optionContent": "线性相关和非线性相关",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>单相关、负相关和偏相关</p>",
+            "optionContent": "单相关、负相关和偏相关",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -235,7 +235,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>相关关系的分类\n<br>（1）按相关的程度分类可分为完全相关、不完全相关和不相关。\n<br>（2）按相关的方向分类可分为<b>正相关和负相关</b>。\n<br>（3）按相关的形式分类可分为线性相关和非线性相关。\n<br>（4）按影响因素的多少分类可分为单相关、负相关和偏相关。</p>",
+        "analysis": "相关关系的分类\n<br>（1）按相关的程度分类可分为完全相关、不完全相关和不相关。\n<br>（2）按相关的方向分类可分为<b>正相关和负相关</b>。\n<br>（3）按相关的形式分类可分为线性相关和非线性相关。\n<br>（4）按影响因素的多少分类可分为单相关、负相关和偏相关。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "79.0%",
         "score": 1.0,
@@ -250,32 +250,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指客观现象存在的一种非确定的相互依存关系，即自变量的每一个取值，因变量由于受随机因素影响，与其所对应的数值是非确定性的。</p>",
+        "questionContent": "（）是指客观现象存在的一种非确定的相互依存关系，即自变量的每一个取值，因变量由于受随机因素影响，与其所对应的数值是非确定性的。",
         "questionId": 2292733,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>对应关系</p>",
+            "optionContent": "对应关系",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>函数关系</p>",
+            "optionContent": "函数关系",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>相关关系</p>",
+            "optionContent": "相关关系",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>包含关系</p>",
+            "optionContent": "包含关系",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -283,7 +283,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>相关关系</b>是指客观现象存在的一种非确定的相互依存关系，即自变量的每一个取值，因变量由于受随机因素影响，与其所对应的数值是非确定性的</p>",
+        "analysis": "<b>相关关系</b>是指客观现象存在的一种非确定的相互依存关系，即自变量的每一个取值，因变量由于受随机因素影响，与其所对应的数值是非确定性的",
         "avgAnswerTime": 13,
         "avgCorrectRate": "77.0%",
         "score": 1.0,

@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 22,
     "questionList": [
       {
-        "questionContent": "<p>属于现实的人力资源的是（）</p>",
+        "questionContent": "属于现实的人力资源的是（）",
         "questionId": 1541458,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>在校的青年学生</p>",
+            "optionContent": "在校的青年学生",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>现役军人</p>",
+            "optionContent": "现役军人",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>从事家务劳动的家庭妇女</p>",
+            "optionContent": "从事家务劳动的家庭妇女",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>由于非个人原因暂时未能从事劳动的人口</p>",
+            "optionContent": "由于非个人原因暂时未能从事劳动的人口",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于区分现实的人力资源和潜在的人力资源。现实的人力资源包括正在从事劳动和投入经济运行的人口，以及由于非个人原因暂时未能从事劳动的人口（如失业）。而ABC这三类人都属于潜在的人力资源。故本题正确答案选D。</p>",
+        "analysis": "本题的关键在于区分现实的人力资源和潜在的人力资源。现实的人力资源包括正在从事劳动和投入经济运行的人口，以及由于非个人原因暂时未能从事劳动的人口（如失业）。而ABC这三类人都属于潜在的人力资源。故本题正确答案选D。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>提高人力资源质量最重要、最直接的手段是（ ）</p>",
+        "questionContent": "提高人力资源质量最重要、最直接的手段是（ ）",
         "questionId": 2002579,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>优生优育</p>",
+            "optionContent": "优生优育",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>营养</p>",
+            "optionContent": "营养",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>教育</p>",
+            "optionContent": "教育",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>人口迁移</p>",
+            "optionContent": "人口迁移",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：最重要、最直接</p><p><b>教育</b>是赋予人力资源质量的一种<b>最重要、最直接</b>的手段，它能使人力资源的智力水平和专业技能水平都得到提高。<b>C项正确</b></p><p>营养因素是人体发育的重要条件，排除B项</p><p>人口迁移是影响人力资源数量的因素，排除D项</p><p>A项未提及，为干扰项，排除；故本题的<b>正确答案为C项</b>。</p>",
+        "analysis": "破题点：最重要、最直接<b>教育</b>是赋予人力资源质量的一种<b>最重要、最直接</b>的手段，它能使人力资源的智力水平和专业技能水平都得到提高。<b>C项正确</b>营养因素是人体发育的重要条件，排除B项人口迁移是影响人力资源数量的因素，排除D项A项未提及，为干扰项，排除；故本题的<b>正确答案为C项</b>。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -102,32 +102,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源的定义是指一定社会组织内能够作为生产性要素投入社会经济活动的（ ）</p>",
+        "questionContent": "人力资源的定义是指一定社会组织内能够作为生产性要素投入社会经济活动的（ ）",
         "questionId": 2010839,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>全部人口总和</p>",
+            "optionContent": "全部人口总和",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>全部劳动人口总和</p>",
+            "optionContent": "全部劳动人口总和",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>全部男性劳力人口总和</p>",
+            "optionContent": "全部男性劳力人口总和",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>全部女性劳力人口总和</p>",
+            "optionContent": "全部女性劳力人口总和",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -135,7 +135,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“人力资源”。人力资源可以定义为，在一定社会组织范围内能够作为生产性要素投入社会经济活动的<b>全部劳动人口总和</b>。故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“人力资源”。人力资源可以定义为，在一定社会组织范围内能够作为生产性要素投入社会经济活动的<b>全部劳动人口总和</b>。故本题的正确答案为B。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -149,32 +149,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源是可以不断开发的资源，在开发使用后还可以继续开发，指的是人力资源的（）</p>",
+        "questionContent": "人力资源是可以不断开发的资源，在开发使用后还可以继续开发，指的是人力资源的（）",
         "questionId": 567734,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>开发过程的持续性</p>",
+            "optionContent": "开发过程的持续性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>开发对象的能动性</p>",
+            "optionContent": "开发对象的能动性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>使用开发的再生性</p>",
+            "optionContent": "使用开发的再生性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>人力资源的社会性</p>",
+            "optionContent": "人力资源的社会性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -182,7 +182,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>人力资源具有开发过程的持续性。提倡终身学习，由于通过不断的学习，人的工作能力和工作态度会得到不断地提高和完善。人力资源是可以不断开发的资源，在开发使用后还可以继续开发。</p>",
+        "analysis": "人力资源具有开发过程的持续性。提倡终身学习，由于通过不断的学习，人的工作能力和工作态度会得到不断地提高和完善。人力资源是可以不断开发的资源，在开发使用后还可以继续开发。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "74.0%",
         "score": 1.0,
@@ -196,32 +196,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源与其他资源最根本的区别是人力资源在被开发的过程中具有（ ）</p>",
+        "questionContent": "人力资源与其他资源最根本的区别是人力资源在被开发的过程中具有（ ）",
         "questionId": 2005708,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>​<span style=\"font-size: 14px;\">生物性</span><br></p>",
+            "optionContent": "​<span style=\"font-size: 14px;\">生物性</span><br>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>能动性</p>",
+            "optionContent": "能动性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>再生性</p>",
+            "optionContent": "再生性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>时代性</p>",
+            "optionContent": "时代性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -229,7 +229,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>人力资源的特点主要包括：</p><p>1.存在状态的生物性。</p><p>2.开发对象的<b>能动性。</b>人力资源在被开发的过程中具有能动性，这是<b>人力资源与其他资源最根本的区别</b>。</p><p>3.生成过程的时代性。</p><p>4.使用过程的时效性。</p><p>5.开发过程的持续性</p><p>6.使用开发的再生性。</p><p>7.闲置过程的消耗性。</p><p>8.人力资源的社会性。</p><p>故<b>本题的正确答案为B项</b>。</p>",
+        "analysis": "人力资源的特点主要包括：1.存在状态的生物性。2.开发对象的<b>能动性。</b>人力资源在被开发的过程中具有能动性，这是<b>人力资源与其他资源最根本的区别</b>。3.生成过程的时代性。4.使用过程的时效性。5.开发过程的持续性6.使用开发的再生性。7.闲置过程的消耗性。8.人力资源的社会性。故<b>本题的正确答案为B项</b>。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -243,32 +243,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业最重要的资源是（）</p>",
+        "questionContent": "企业最重要的资源是（）",
         "questionId": 233176,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济资源</p>",
+            "optionContent": "经济资源",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>人力资源</p>",
+            "optionContent": "人力资源",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>自然资源</p>",
+            "optionContent": "自然资源",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>信息资源</p>",
+            "optionContent": "信息资源",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -276,7 +276,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核人力资源的地位和作用。人力资源是企业最重要的资源。在这种复杂激烈的生存发展竞争中，人力资源的作用更加突出，已经成为企业能否获胜的关键。从根本上说，企业之间的竞争就是人力资源优劣的竞争。故本题选B。</p>",
+        "analysis": "本题考核人力资源的地位和作用。人力资源是企业最重要的资源。在这种复杂激烈的生存发展竞争中，人力资源的作用更加突出，已经成为企业能否获胜的关键。从根本上说，企业之间的竞争就是人力资源优劣的竞争。故本题选B。",
         "avgAnswerTime": 4,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -290,32 +290,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源管理的内容中，使员工之间和睦相处、协调共事、取得群体认同的是（）</p>",
+        "questionContent": "在人力资源管理的内容中，使员工之间和睦相处、协调共事、取得群体认同的是（）",
         "questionId": 1550235,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>获取</p>",
+            "optionContent": "获取",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>整合</p>",
+            "optionContent": "整合",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>调控</p>",
+            "optionContent": "调控",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>开发</p>",
+            "optionContent": "开发",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -323,7 +323,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的破题点为：“<span style=\"font-size: 14px;\">和睦相处、协调共事、取得群体认同</span><span style=\"font-size: 14px;\">”，需要区分人力资源管理的内容。如下表所示：</span></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5beae7a4c1725135c73195149a37bb22/1.png\" alt=\"\" width=\"511\" height=\"145\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题的破题点为：“<span style=\"font-size: 14px;\">和睦相处、协调共事、取得群体认同</span><span style=\"font-size: 14px;\">”，需要区分人力资源管理的内容。如下表所示：</span><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5beae7a4c1725135c73195149a37bb22/1.png\" alt=\"\" width=\"511\" height=\"145\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -338,32 +338,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>西方人力资源管理理论的基础是（ ）</p>",
+        "questionContent": "西方人力资源管理理论的基础是（ ）",
         "questionId": 2404448,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>个人主义</p>",
+            "optionContent": "个人主义",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>集体主义&nbsp;</p>",
+            "optionContent": "集体主义&nbsp;",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>自由主义</p>",
+            "optionContent": "自由主义",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>集权主义</p>",
+            "optionContent": "集权主义",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -371,7 +371,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“西方”、“基础”。</p><p><span style=\"font-size: 14px;\"><b>个人主义</b></span><span style=\"font-size: 14px;\">是<b>西方</b>人力资源管理理论的<b>基础。</b></span>故本题的正确答案为A。</p><p><span style=\"font-size: 14px;\">扩展：</span>在西方人力资源管理上，实行的是自由雇佣制，这是一种<b>个人之间</b>高度竞争的劳动制度。</p>",
+        "analysis": "本题破题点：“西方”、“基础”。<span style=\"font-size: 14px;\"><b>个人主义</b></span><span style=\"font-size: 14px;\">是<b>西方</b>人力资源管理理论的<b>基础。</b></span>故本题的正确答案为A。<span style=\"font-size: 14px;\">扩展：</span>在西方人力资源管理上，实行的是自由雇佣制，这是一种<b>个人之间</b>高度竞争的劳动制度。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -385,32 +385,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源管理的发展先后经历了三个阶段，具体为：人事管理、人力资源管理以及（ ）</p>",
+        "questionContent": "人力资源管理的发展先后经历了三个阶段，具体为：人事管理、人力资源管理以及（ ）",
         "questionId": 2012284,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>策略性人力资源管理</p>",
+            "optionContent": "策略性人力资源管理",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>技术性人力资源管理</p>",
+            "optionContent": "技术性人力资源管理",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>战术性人力资源管理</p>",
+            "optionContent": "战术性人力资源管理",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>战略性人力资源管理</p>",
+            "optionContent": "战略性人力资源管理",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -418,7 +418,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“人力资源管理的发展”。人力资源管理的发展阶段：（1）人事管理；（2）人力资源管理；（3）战略性人力资源管理。这三个阶段既有联系又有区别。故本题的正确答案为D。<span style=\"font-size: 14px;\">易混淆选项为C，考生需注意区分。</span></p>",
+        "analysis": "本题破题点：“人力资源管理的发展”。人力资源管理的发展阶段：（1）人事管理；（2）人力资源管理；（3）战略性人力资源管理。这三个阶段既有联系又有区别。故本题的正确答案为D。<span style=\"font-size: 14px;\">易混淆选项为C，考生需注意区分。</span>",
         "avgAnswerTime": 5,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -433,32 +433,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>战略性人力资源管理的核心要求是（ ）</p>",
+        "questionContent": "战略性人力资源管理的核心要求是（ ）",
         "questionId": 2404457,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>战略性</p>",
+            "optionContent": "战略性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>匹配性&nbsp;</p>",
+            "optionContent": "匹配性&nbsp;",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>系统性</p>",
+            "optionContent": "系统性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>关键性</p>",
+            "optionContent": "关键性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -466,7 +466,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：<b>核心要求</b></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/04742a9608dc55d434a837c76ba5b3d8/image.png\" alt=\"\" width=\"556\" height=\"155\" class=\"\"><br></p><p>故本题的<b>正确答案为B项</b>。</p>",
+        "analysis": "破题点：<b>核心要求</b><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/04742a9608dc55d434a837c76ba5b3d8/image.png\" alt=\"\" width=\"556\" height=\"155\" class=\"\"><br>故本题的<b>正确答案为B项</b>。",
         "avgAnswerTime": 4,
         "avgCorrectRate": "79.0%",
         "score": 1.0,
@@ -480,32 +480,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源开发活动中对各种要素所进行的组织方法属于人力资源开发要素中（）</p>",
+        "questionContent": "人力资源开发活动中对各种要素所进行的组织方法属于人力资源开发要素中（）",
         "questionId": 1550238,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>开发计划</p>",
+            "optionContent": "开发计划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>开发手段</p>",
+            "optionContent": "开发手段",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>开发对象</p>",
+            "optionContent": "开发对象",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>开发方式</p>",
+            "optionContent": "开发方式",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -513,7 +513,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点为：“组织方法”。关键在于区分人力资源开发的各个要素，具体如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ba46d40760557213ec1f127965d22ab6/1.png\" alt=\"\" width=\"709\" height=\"173\"><br></p><p>故本题的正确答案为D。</p>",
+        "analysis": "本题破题点为：“组织方法”。关键在于区分人力资源开发的各个要素，具体如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ba46d40760557213ec1f127965d22ab6/1.png\" alt=\"\" width=\"709\" height=\"173\"><br>故本题的正确答案为D。",
         "avgAnswerTime": 31,
         "avgCorrectRate": "81.0%",
         "score": 1.0,
@@ -528,32 +528,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源开发活动实施前的准备工作与实施过程的书面描述被称为（）</p>",
+        "questionContent": "人力资源开发活动实施前的准备工作与实施过程的书面描述被称为（）",
         "questionId": 1550239,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>开发计划</p>",
+            "optionContent": "开发计划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>开发方式</p>",
+            "optionContent": "开发方式",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>开发手段</p>",
+            "optionContent": "开发手段",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>开发总结</p>",
+            "optionContent": "开发总结",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -561,7 +561,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点为：“书面描述”。关键在于理解并区分这些人力资源开发的要素，具体如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/56654bed0a89626ed4fac39e80f3dc02/1.png\" alt=\"\" width=\"717\" height=\"174\"><br></p><p>故本题的正确答案为A。</p>",
+        "analysis": "本题破题点为：“书面描述”。关键在于理解并区分这些人力资源开发的要素，具体如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/56654bed0a89626ed4fac39e80f3dc02/1.png\" alt=\"\" width=\"717\" height=\"174\"><br>故本题的正确答案为A。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -576,32 +576,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源开发的类型中，为培养、提高与改进某一素质的教育、教学、学习与管理的活动称为（ ）</p>",
+        "questionContent": "在人力资源开发的类型中，为培养、提高与改进某一素质的教育、教学、学习与管理的活动称为（ ）",
         "questionId": 1999503,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>社会开发</p>",
+            "optionContent": "社会开发",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>个人开发</p>",
+            "optionContent": "个人开发",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>素质开发</p>",
+            "optionContent": "素质开发",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>行为开发</p>",
+            "optionContent": "行为开发",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -609,7 +609,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“改进某一素质”，关键在于区分人力资源开发的类型。如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/8e3414fa3e3f06c442bdb3f19d106e5d/a.png\" alt=\"\" width=\"754\" height=\"147\"><br></p><p>B中的“个人开发”与“个体开发”同义。据表可知，本题的正确答案为C。</p><p><br></p>",
+        "analysis": "本题破题点：“改进某一素质”，关键在于区分人力资源开发的类型。如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/8e3414fa3e3f06c442bdb3f19d106e5d/a.png\" alt=\"\" width=\"754\" height=\"147\"><br>B中的“个人开发”与“个体开发”同义。据表可知，本题的正确答案为C。<br>",
         "avgAnswerTime": 11,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -623,32 +623,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源开发的类型中，为提高一定区域内人力资源的数量、质量与功效而进行的活动属于（ ）</p>",
+        "questionContent": "在人力资源开发的类型中，为提高一定区域内人力资源的数量、质量与功效而进行的活动属于（ ）",
         "questionId": 2002612,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>区域开发</p>",
+            "optionContent": "区域开发",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>社会开发</p>",
+            "optionContent": "社会开发",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>组织开发</p>",
+            "optionContent": "组织开发",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>群体开发</p>",
+            "optionContent": "群体开发",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -656,7 +656,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：一定区域</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c486cf5f377d77d956e9dbedb73b4eaf/image.png\" alt=\"\" width=\"519\" height=\"180\"><br></p><p>故<b>本题的正确答案为A项</b>。</p>",
+        "analysis": "破题点：一定区域<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c486cf5f377d77d956e9dbedb73b4eaf/image.png\" alt=\"\" width=\"519\" height=\"180\"><br>故<b>本题的正确答案为A项</b>。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -671,32 +671,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源开发客体的主观能动性，开发过程中的长期性以及开发活动的负责性，决定着人力资源开发的（ ）</p>",
+        "questionContent": "人力资源开发客体的主观能动性，开发过程中的长期性以及开发活动的负责性，决定着人力资源开发的（ ）",
         "questionId": 2111866,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>动态性</p>",
+            "optionContent": "动态性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>静态性</p>",
+            "optionContent": "静态性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>流动性</p>",
+            "optionContent": "流动性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>灵活性</p>",
+            "optionContent": "灵活性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -704,7 +704,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“主观能动性、长期性和负责性”。人力资源开发必须根据开发过程中出现的各种变化而不断调整。人力资源开发客体的主观能动性，开发过程中的长期性以及开发活动的负责性，决定着人力资源开发的<b>动态性</b>。BCD项都是干扰项，故本题的正确答案为A。</p>",
+        "analysis": "本题破题点：“主观能动性、长期性和负责性”。人力资源开发必须根据开发过程中出现的各种变化而不断调整。人力资源开发客体的主观能动性，开发过程中的长期性以及开发活动的负责性，决定着人力资源开发的<b>动态性</b>。BCD项都是干扰项，故本题的正确答案为A。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -719,32 +719,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>自我开发的形式在目前的组织中主要是自我学习与（）</p>",
+        "questionContent": "自我开发的形式在目前的组织中主要是自我学习与（）",
         "questionId": 233276,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>自我激励制度</p>",
+            "optionContent": "自我激励制度",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>自我申报制度</p>",
+            "optionContent": "自我申报制度",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>自我公开制度</p>",
+            "optionContent": "自我公开制度",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>自我表扬制度</p>",
+            "optionContent": "自我表扬制度",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -752,7 +752,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核自我学习的形式。自我开发的形式在目前的组织中主要是自我学习与自我申报制度。故本题选B。</p>",
+        "analysis": "本题考核自我学习的形式。自我开发的形式在目前的组织中主要是自我学习与自我申报制度。故本题选B。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -767,32 +767,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>卫生型工作设计的理论依据是（）</p>",
+        "questionContent": "卫生型工作设计的理论依据是（）",
         "questionId": 1545936,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>心理学</p>",
+            "optionContent": "心理学",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>文化人类学</p>",
+            "optionContent": "文化人类学",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>体质人类学</p>",
+            "optionContent": "体质人类学",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>人类工程学</p>",
+            "optionContent": "人类工程学",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -800,7 +800,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于区分工作设计的各个类型所依据的理论。如下表所示：</p><p><img src=\"http://store.sunlands.com/qiyejia/original/20190326/1110470273969676288.png\" alt=\"\" width=\"404\" height=\"144\"><br></p><p>故本题的正确答案为D。</p>",
+        "analysis": "本题的关键在于区分工作设计的各个类型所依据的理论。如下表所示：<img src=\"http://store.sunlands.com/qiyejia/original/20190326/1110470273969676288.png\" alt=\"\" width=\"404\" height=\"144\"><br>故本题的正确答案为D。",
         "avgAnswerTime": 17,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -815,32 +815,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>拔高型工作设计的理论依据是（）</p>",
+        "questionContent": "拔高型工作设计的理论依据是（）",
         "questionId": 1545949,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>赫茨伯格的双因素理论</p>",
+            "optionContent": "赫茨伯格的双因素理论",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>人本主义</p>",
+            "optionContent": "人本主义",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>古典主义工程学</p>",
+            "optionContent": "古典主义工程学",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>人类工程学</p>",
+            "optionContent": "人类工程学",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -848,7 +848,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于区分工作设计的各个类型所依据的理论，如下表所示：</p><p><img src=\"http://store.sunlands.com/qiyejia/original/20190326/1110470570489061376.png\" alt=\"\" width=\"404\" height=\"144\"><br></p><p>故本题的正确答案为A。</p>",
+        "analysis": "本题的关键在于区分工作设计的各个类型所依据的理论，如下表所示：<img src=\"http://store.sunlands.com/qiyejia/original/20190326/1110470570489061376.png\" alt=\"\" width=\"404\" height=\"144\"><br>故本题的正确答案为A。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "77.0%",
         "score": 1.0,
@@ -863,32 +863,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>依据人本主义理论进行的工作设计被称为（ ）</p>",
+        "questionContent": "依据人本主义理论进行的工作设计被称为（ ）",
         "questionId": 2000287,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>拔高型工作设计</p>",
+            "optionContent": "拔高型工作设计",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>优化型工作设计</p>",
+            "optionContent": "优化型工作设计",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>卫生型工作设计</p>",
+            "optionContent": "卫生型工作设计",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>心理型工作设计</p>",
+            "optionContent": "心理型工作设计",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -896,7 +896,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：“人本主义理论”</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ca0b7dee7a37efad789ddbdb272cd2a8/a.png\" alt=\"\" width=\"413\" height=\"147\"><br></p><p>故本题的<b>正确答案为D</b>。</p>",
+        "analysis": "破题点：“人本主义理论”<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ca0b7dee7a37efad789ddbdb272cd2a8/a.png\" alt=\"\" width=\"413\" height=\"147\"><br>故本题的<b>正确答案为D</b>。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -911,32 +911,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工作轮换有助于对员工的人力资源进行螺旋式的逐步开发，最终达到的目的是（ ）</p>",
+        "questionContent": "工作轮换有助于对员工的人力资源进行螺旋式的逐步开发，最终达到的目的是（ ）",
         "questionId": 2404450,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>提高工作效率</p>",
+            "optionContent": "提高工作效率",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>全面开发</p>",
+            "optionContent": "全面开发",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>实现工作专业化</p>",
+            "optionContent": "实现工作专业化",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>提高适应性</p>",
+            "optionContent": "提高适应性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -944,7 +944,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>工作轮换</b>是让员工从一个工作岗位流动到另一个工作岗位，它有助于<span style=\"font-size: 14px;\">对员工的人力资源进行螺旋式的逐步开发，</span><span style=\"font-size: 14px;\">最终达到<b>全面开发</b>的目的。<b>B项正确</b></span></p><p><span style=\"font-size: 14px;\">AC选项属于工作专业化的作用，不符合题意，排除；</span></p><p><span style=\"font-size: 14px;\">D选项属于工作扩大化所需要注意的内容，不符合题意，排除；</span></p><p>故本题的<b>正确答案为B项</b>。</p>",
+        "analysis": "<b>工作轮换</b>是让员工从一个工作岗位流动到另一个工作岗位，它有助于<span style=\"font-size: 14px;\">对员工的人力资源进行螺旋式的逐步开发，</span><span style=\"font-size: 14px;\">最终达到<b>全面开发</b>的目的。<b>B项正确</b></span><span style=\"font-size: 14px;\">AC选项属于工作专业化的作用，不符合题意，排除；</span><span style=\"font-size: 14px;\">D选项属于工作扩大化所需要注意的内容，不符合题意，排除；</span>故本题的<b>正确答案为B项</b>。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -959,32 +959,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工业经济时代的关键要素是（ ）</p>",
+        "questionContent": "工业经济时代的关键要素是（ ）",
         "questionId": 2404439,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>土地资源</p>",
+            "optionContent": "土地资源",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>信息资源</p>",
+            "optionContent": "信息资源",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>人力资源</p>",
+            "optionContent": "人力资源",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>资本资源</p>",
+            "optionContent": "资本资源",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -992,7 +992,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“工业经济时代”；需要将各个时代及其关键要素进行匹配，具体见下表：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/69699c5dc1bb67d728c90e274eddf40e/a.png\" alt=\"\" width=\"382\" height=\"109\"><br></p><p>B为无关选项，A与C错误，故本题的正确答案为D。</p>",
+        "analysis": "本题破题点：“工业经济时代”；需要将各个时代及其关键要素进行匹配，具体见下表：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/69699c5dc1bb67d728c90e274eddf40e/a.png\" alt=\"\" width=\"382\" height=\"109\"><br>B为无关选项，A与C错误，故本题的正确答案为D。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -1007,32 +1007,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>通过职业活动本身提高与培养员工素质的开发形式称为（）</p>",
+        "questionContent": "通过职业活动本身提高与培养员工素质的开发形式称为（）",
         "questionId": 233763,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>学校开发</p>",
+            "optionContent": "学校开发",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>业余开发</p>",
+            "optionContent": "业余开发",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>职业开发</p>",
+            "optionContent": "职业开发",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>社会开发</p>",
+            "optionContent": "社会开发",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1040,7 +1040,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核进行立体多维的职业开发。职业开发是指通过职业活动本身提高与培养员工素质的开发形式。故本题选C。</p>",
+        "analysis": "本题考核进行立体多维的职业开发。职业开发是指通过职业活动本身提高与培养员工素质的开发形式。故本题选C。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "96.0%",
         "score": 1.0,

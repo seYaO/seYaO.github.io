@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 20,
     "questionList": [
       {
-        "questionContent": "<p>要求个人在进行自我评估时，对自己的专业特长、个性、优缺点等要实事求是的评价。同时，也要客观地评估所处的职业环境，使评价结果建立在事实的基础上。这一原则是职业生涯规划中的（）</p>",
+        "questionContent": "要求个人在进行自我评估时，对自己的专业特长、个性、优缺点等要实事求是的评价。同时，也要客观地评估所处的职业环境，使评价结果建立在事实的基础上。这一原则是职业生涯规划中的（）",
         "questionId": 1561257,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>阶段性原则</p>",
+            "optionContent": "阶段性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>动态性原则</p>",
+            "optionContent": "动态性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>系统性原则</p>",
+            "optionContent": "系统性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>客观性原则</p>",
+            "optionContent": "客观性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“实事求是”、“客观”，且需要对这几个原则进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/0df17b29444916db194087d69915a27c/1.png\" alt=\"\" width=\"757\" height=\"93\"><br></p><p>故本题的正确答案为D。</p>",
+        "analysis": "本题破题点：“实事求是”、“客观”，且需要对这几个原则进行区分：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/0df17b29444916db194087d69915a27c/1.png\" alt=\"\" width=\"757\" height=\"93\"><br>故本题的正确答案为D。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -54,32 +54,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>现代职业具有自身的特性，即区域性、行业性和（ ）</p>",
+        "questionContent": "现代职业具有自身的特性，即区域性、行业性和（ ）",
         "questionId": 2010690,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济性</p>",
+            "optionContent": "经济性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>效益性</p>",
+            "optionContent": "效益性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>岗位性</p>",
+            "optionContent": "岗位性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>​<span style=\"font-size: 14px;\">探索性</span><br></p>",
+            "optionContent": "​<span style=\"font-size: 14px;\">探索性</span><br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -87,7 +87,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“现代职业”。现代职业具有自身的区域性、行业性、岗位性等特性。<span style=\"font-size: 14px;\">在设计职业生涯规划时，要正确地进行职业分析。故本题的正确答案为C。</span></p>",
+        "analysis": "本题破题点：“现代职业”。现代职业具有自身的区域性、行业性、岗位性等特性。<span style=\"font-size: 14px;\">在设计职业生涯规划时，要正确地进行职业分析。故本题的正确答案为C。</span>",
         "avgAnswerTime": 21,
         "avgCorrectRate": "50.0%",
         "score": 1.0,
@@ -102,32 +102,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>培训是对成人的（ ）</p>",
+        "questionContent": "培训是对成人的（ ）",
         "questionId": 2010665,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>社会化</p>",
+            "optionContent": "社会化",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>再社会化</p>",
+            "optionContent": "再社会化",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>再灌输</p>",
+            "optionContent": "再灌输",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>再教育</p>",
+            "optionContent": "再教育",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -135,7 +135,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于理解培训的含义。<span style=\"font-size: 14px;\">员工培训与正规教育不同，它是一种终身的、回归的继续教育，是属于“第二次教育过程”的<b>再教育</b>。故本题的正确答案为D。</span></p>",
+        "analysis": "本题的关键在于理解培训的含义。<span style=\"font-size: 14px;\">员工培训与正规教育不同，它是一种终身的、回归的继续教育，是属于“第二次教育过程”的<b>再教育</b>。故本题的正确答案为D。</span>",
         "avgAnswerTime": 4,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -149,32 +149,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>对于不同等级水平的企业人员，由于他们承担的工作任务不同，知识和技术需要各异，因而培训的内容应当有所不同。员工培训的这一特点是（ ）</p>",
+        "questionContent": "对于不同等级水平的企业人员，由于他们承担的工作任务不同，知识和技术需要各异，因而培训的内容应当有所不同。员工培训的这一特点是（ ）",
         "questionId": 2005398,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>针对性</p>",
+            "optionContent": "针对性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>广泛性</p>",
+            "optionContent": "广泛性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>层次性</p>",
+            "optionContent": "层次性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>灵活性</p>",
+            "optionContent": "灵活性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -182,7 +182,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：不同等级水平、培训内容不同</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d14db283fc0f8d11b4be5261a9639bdf/image.png\" alt=\"\" width=\"642\" height=\"136\"><br></p><p>故本题的<b>正确答案为C项</b>。</p>",
+        "analysis": "破题点：不同等级水平、培训内容不同<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d14db283fc0f8d11b4be5261a9639bdf/image.png\" alt=\"\" width=\"642\" height=\"136\"><br>故本题的<b>正确答案为C项</b>。",
         "avgAnswerTime": 59,
         "avgCorrectRate": "51.0%",
         "score": 1.0,
@@ -197,32 +197,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>知识培训的主要任务就是对培训对象所拥有的知识进行更新、其所要解决的问题是（）</p>",
+        "questionContent": "知识培训的主要任务就是对培训对象所拥有的知识进行更新、其所要解决的问题是（）",
         "questionId": 1561611,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>“会”</p>",
+            "optionContent": "“会”",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>“知”</p>",
+            "optionContent": "“知”",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>“悟”</p>",
+            "optionContent": "“悟”",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>“适”</p>",
+            "optionContent": "“适”",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -230,7 +230,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“知识培训”，要对各个培训及其培训目标进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/575652d3c82dba131886810bc53bf811/1.png\" alt=\"\" width=\"338\" height=\"114\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“知识培训”，要对各个培训及其培训目标进行匹配：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/575652d3c82dba131886810bc53bf811/1.png\" alt=\"\" width=\"338\" height=\"114\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -245,32 +245,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>将培训经验经过理论提高而制订的对于培训的基本要求称为（）</p>",
+        "questionContent": "将培训经验经过理论提高而制订的对于培训的基本要求称为（）",
         "questionId": 2404461,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>培训计划</p>",
+            "optionContent": "培训计划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>培训设计</p>",
+            "optionContent": "培训设计",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>培训原则</p>",
+            "optionContent": "培训原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>培训大纲</p>",
+            "optionContent": "培训大纲",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -278,7 +278,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核员工培训的原则。培训原则是将培训经验经过理论提高而制订的对于培训的基本要求。故本题选C</p>",
+        "analysis": "本题考核员工培训的原则。培训原则是将培训经验经过理论提高而制订的对于培训的基本要求。故本题选C",
         "avgAnswerTime": 12,
         "avgCorrectRate": "68.0%",
         "score": 1.0,
@@ -293,32 +293,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源管理的最终目的都是为了实现企业的整体战略目标，而这一目的达成的最基本的前提则是（ ）</p>",
+        "questionContent": "人力资源管理的最终目的都是为了实现企业的整体战略目标，而这一目的达成的最基本的前提则是（ ）",
         "questionId": 2003232,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>企业人际关系的和谐</p>",
+            "optionContent": "企业人际关系的和谐",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>每个员工个人目标的实现</p>",
+            "optionContent": "每个员工个人目标的实现",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>每个员工个人绩效的实现</p>",
+            "optionContent": "每个员工个人绩效的实现",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>有利的外部环境</p>",
+            "optionContent": "有利的外部环境",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -326,7 +326,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>人力资源管理的最终目的都是为了实现企业的整体战略目标，而这一目的达成的最基本的前提则是<b>每个员工个人绩效的实现。</b></p><p>ABD项未提及，为干扰项，排除；故<b>本题的正确答案为C项</b>。</p><p>相关拓展：在一定的外部环境条件下，员工的个人绩效主要由工作能力和工作态度这两个因素决定。</p>",
+        "analysis": "人力资源管理的最终目的都是为了实现企业的整体战略目标，而这一目的达成的最基本的前提则是<b>每个员工个人绩效的实现。</b>ABD项未提及，为干扰项，排除；故<b>本题的正确答案为C项</b>。相关拓展：在一定的外部环境条件下，员工的个人绩效主要由工作能力和工作态度这两个因素决定。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "76.0%",
         "score": 1.0,
@@ -341,32 +341,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在SWOT分析法中，S代表（）</p>",
+        "questionContent": "在SWOT分析法中，S代表（）",
         "questionId": 230234,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>优势</p>",
+            "optionContent": "优势",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>劣势</p>",
+            "optionContent": "劣势",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>机会</p>",
+            "optionContent": "机会",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>威胁</p>",
+            "optionContent": "威胁",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -374,7 +374,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核SWOT决策分析法。在SWOT分析法中，S代表优势，W代表劣势，O代表计划，T代表威胁。故本题选A。</p>",
+        "analysis": "本题考核SWOT决策分析法。在SWOT分析法中，S代表优势，W代表劣势，O代表计划，T代表威胁。故本题选A。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -388,7 +388,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在培训评价的四个层次中，第一个层次是（ ）</p>",
+        "questionContent": "在培训评价的四个层次中，第一个层次是（ ）",
         "questionId": 2001894,
         "answerTime": 0,
         "correct": 2,
@@ -396,25 +396,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>行为层</p>",
+            "optionContent": "行为层",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>反应层</p>",
+            "optionContent": "反应层",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>​<span style=\"font-size: 14px;\">学习层</span><br></p>",
+            "optionContent": "​<span style=\"font-size: 14px;\">学习层</span><br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>结果层</p>",
+            "optionContent": "结果层",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -422,7 +422,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：第一个层次</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/de4b9e72f7250a02fd0d90374848f1ca/image.png\" alt=\"\" width=\"355\" height=\"122\"><br></p><p>故本题的<b>正确答案为B项</b>。</p>",
+        "analysis": "破题点：第一个层次<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/de4b9e72f7250a02fd0d90374848f1ca/image.png\" alt=\"\" width=\"355\" height=\"122\"><br>故本题的<b>正确答案为B项</b>。",
         "avgAnswerTime": 4,
         "avgCorrectRate": "79.0%",
         "score": 1.0,
@@ -438,32 +438,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>认为人性是恶的，因而必须采取全过程的控制方法的理论是（）</p>",
+        "questionContent": "认为人性是恶的，因而必须采取全过程的控制方法的理论是（）",
         "questionId": 1564904,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>X理论</p>",
+            "optionContent": "X理论",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>Y理论</p>",
+            "optionContent": "Y理论",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>X-Y理论</p>",
+            "optionContent": "X-Y理论",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>超Y理论</p>",
+            "optionContent": "超Y理论",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -471,7 +471,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“恶”，关键在于区分这几个理论，如下表所示，C为干扰项。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/313e8f0d280d09d6c5e2307afdfdc3c5/a.png\" alt=\"\" width=\"671\" height=\"72\"><br></p><p>故本题的正确答案为A。</p>",
+        "analysis": "本题破题点：“恶”，关键在于区分这几个理论，如下表所示，C为干扰项。<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/313e8f0d280d09d6c5e2307afdfdc3c5/a.png\" alt=\"\" width=\"671\" height=\"72\"><br>故本题的正确答案为A。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -485,32 +485,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>提出了著名的“X-Y理论”的行为科学家是（ ）</p>",
+        "questionContent": "提出了著名的“X-Y理论”的行为科学家是（ ）",
         "questionId": 2003125,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>马斯洛</p>",
+            "optionContent": "马斯洛",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>沙因</p>",
+            "optionContent": "沙因",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>奥尔德弗</p>",
+            "optionContent": "奥尔德弗",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>麦格雷戈</p>",
+            "optionContent": "麦格雷戈",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -518,7 +518,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：<span style=\"font-size: 14px;\">X-Y理论</span></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cf669f1af3974569d7942316bf4d1957/image.png\" alt=\"\" width=\"361\" height=\"120\"><span style=\"font-size: 14px;\"><br></span></p><p>故<b>本题的正确答案为D项</b>。</p>",
+        "analysis": "破题点：<span style=\"font-size: 14px;\">X-Y理论</span><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cf669f1af3974569d7942316bf4d1957/image.png\" alt=\"\" width=\"361\" height=\"120\"><span style=\"font-size: 14px;\"><br></span>故<b>本题的正确答案为D项</b>。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -532,32 +532,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人类工作的主要动机是社会需要，不是经济需要。人们要求有一个良好的工作气氛，要求与同事之间建立良好的人际关系。这属于（）</p>",
+        "questionContent": "人类工作的主要动机是社会需要，不是经济需要。人们要求有一个良好的工作气氛，要求与同事之间建立良好的人际关系。这属于（）",
         "questionId": 1565082,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济人假设</p>",
+            "optionContent": "经济人假设",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>社会人假设</p>",
+            "optionContent": "社会人假设",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>自我实现人假设</p>",
+            "optionContent": "自我实现人假设",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>复杂人假设</p>",
+            "optionContent": "复杂人假设",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -565,7 +565,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“社会需要”，且需要对这几种假设进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/48b2537957d22ebb7000e2fb9242e118/a.png\" alt=\"\" width=\"645\" height=\"96\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“社会需要”，且需要对这几种假设进行区分：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/48b2537957d22ebb7000e2fb9242e118/a.png\" alt=\"\" width=\"645\" height=\"96\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -580,32 +580,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>美国心理学家赫兹伯格首次在1959年提出的理论是（）</p>",
+        "questionContent": "美国心理学家赫兹伯格首次在1959年提出的理论是（）",
         "questionId": 1565145,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>需求层次理论</p>",
+            "optionContent": "需求层次理论",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>期望理论</p>",
+            "optionContent": "期望理论",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>双因素理论</p>",
+            "optionContent": "双因素理论",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>ERG理论</p>",
+            "optionContent": "ERG理论",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -613,7 +613,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“赫兹伯格”，需要对各个理论及其提出学者进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9e45f0132a230626baab6d9132918b90/a.png\" alt=\"\" width=\"295\" height=\"115\"><br></p><p>故本题的正确答案为C。</p>",
+        "analysis": "本题破题点：“赫兹伯格”，需要对各个理论及其提出学者进行匹配：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9e45f0132a230626baab6d9132918b90/a.png\" alt=\"\" width=\"295\" height=\"115\"><br>故本题的正确答案为C。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "39.0%",
         "score": 1.0,
@@ -628,32 +628,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>美国心理学家及行为学家麦克利兰的需要理论的核心是（）</p>",
+        "questionContent": "美国心理学家及行为学家麦克利兰的需要理论的核心是（）",
         "questionId": 1565850,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>权力需要</p>",
+            "optionContent": "权力需要",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>归属需要</p>",
+            "optionContent": "归属需要",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>成就需要</p>",
+            "optionContent": "成就需要",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>自主需要</p>",
+            "optionContent": "自主需要",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -661,7 +661,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点“需要理论的核心”，且要对这几种需要进行区分：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/57996b12329ed37ea4de9bc0c977197d/a.png\" alt=\"\" width=\"597\" height=\"96\"><br></p><p>故本题的正确答案为C。</p>",
+        "analysis": "本题破题点“需要理论的核心”，且要对这几种需要进行区分：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/57996b12329ed37ea4de9bc0c977197d/a.png\" alt=\"\" width=\"597\" height=\"96\"><br>故本题的正确答案为C。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "67.0%",
         "score": 1.0,
@@ -676,32 +676,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>目标设置理论的提出者是（）</p>",
+        "questionContent": "目标设置理论的提出者是（）",
         "questionId": 1566241,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>维克多•弗鲁姆</p>",
+            "optionContent": "维克多•弗鲁姆",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>麦克利兰</p>",
+            "optionContent": "麦克利兰",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>爱德华•洛克</p>",
+            "optionContent": "爱德华•洛克",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>奥尔德弗</p>",
+            "optionContent": "奥尔德弗",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -709,7 +709,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“目标设置理论”，需要对这几个学者及其相关理论进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/84902793a6aed1a9032e030911a44d64/a.png\" alt=\"\" width=\"298\" height=\"115\"><br></p><p>故本题的正确答案为C。</p>",
+        "analysis": "本题破题点：“目标设置理论”，需要对这几个学者及其相关理论进行匹配：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/84902793a6aed1a9032e030911a44d64/a.png\" alt=\"\" width=\"298\" height=\"115\"><br>故本题的正确答案为C。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -723,32 +723,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>强化理论的提出者是（）</p>",
+        "questionContent": "强化理论的提出者是（）",
         "questionId": 1566259,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>亚当斯</p>",
+            "optionContent": "亚当斯",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>斯金纳</p>",
+            "optionContent": "斯金纳",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>爱德华•洛克</p>",
+            "optionContent": "爱德华•洛克",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>巴甫洛夫</p>",
+            "optionContent": "巴甫洛夫",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -756,7 +756,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“强化理论”，需要对这几个学者及其相关理论进行匹配：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/165ad7b8135f65f36c677fa5f13f491c/a.png\" alt=\"\" width=\"298\" height=\"121\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“强化理论”，需要对这几个学者及其相关理论进行匹配：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/165ad7b8135f65f36c677fa5f13f491c/a.png\" alt=\"\" width=\"298\" height=\"121\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -771,7 +771,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>强调人的行为与营销行为的环境刺激之间的关系，认为管理者可以通过不断改变环境的刺激来控制人的行为的激励理论是（ ）</p>",
+        "questionContent": "强调人的行为与营销行为的环境刺激之间的关系，认为管理者可以通过不断改变环境的刺激来控制人的行为的激励理论是（ ）",
         "questionId": 2000296,
         "answerTime": 0,
         "correct": 2,
@@ -779,25 +779,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>期望理论</p>",
+            "optionContent": "期望理论",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>目标设置理论</p>",
+            "optionContent": "目标设置理论",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>强化理论</p>",
+            "optionContent": "强化理论",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>挫折理论<br></p>",
+            "optionContent": "挫折理论<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -805,7 +805,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：环境刺激</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d8154a057eb185ac370a578755ee5f42/image.png\" alt=\"\" width=\"654\" height=\"190\"><br></p><p>故本题的<b>正确答案为C</b>。</p>",
+        "analysis": "破题点：环境刺激<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d8154a057eb185ac370a578755ee5f42/image.png\" alt=\"\" width=\"654\" height=\"190\"><br>故本题的<b>正确答案为C</b>。",
         "avgAnswerTime": 25,
         "avgCorrectRate": "77.0%",
         "score": 1.0,
@@ -821,32 +821,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>公平理论的提出者是（ ）</p>",
+        "questionContent": "公平理论的提出者是（ ）",
         "questionId": 2127779,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>斯金纳</p>",
+            "optionContent": "斯金纳",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>勒温</p>",
+            "optionContent": "勒温",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>弗鲁姆</p>",
+            "optionContent": "弗鲁姆",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>亚当斯</p>",
+            "optionContent": "亚当斯",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -854,7 +854,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：“公平理论”</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/be135432ba9923c929f91a51809fa12d/a.png\" alt=\"\" width=\"297\" height=\"116\"><br></p><p>根据上图可知，本题的<b>正确答案为D项</b>。</p>",
+        "analysis": "破题点：“公平理论”<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/be135432ba9923c929f91a51809fa12d/a.png\" alt=\"\" width=\"297\" height=\"116\"><br>根据上图可知，本题的<b>正确答案为D项</b>。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -869,32 +869,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>个体从事有目的的活动，由于受到干扰或障碍而使其需要和动机得不到满足时的情绪状态被称为（）</p>",
+        "questionContent": "个体从事有目的的活动，由于受到干扰或障碍而使其需要和动机得不到满足时的情绪状态被称为（）",
         "questionId": 782617,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>心理障碍</p>",
+            "optionContent": "心理障碍",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>挫折</p>",
+            "optionContent": "挫折",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>需求</p>",
+            "optionContent": "需求",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>惩罚</p>",
+            "optionContent": "惩罚",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -902,7 +902,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核挫折理论。挫折是指个体从事有目的的活动，由于受到干扰或障碍而使其需要和动机得不到满足时的情绪状态。故本题选B。<br></p>",
+        "analysis": "本题考核挫折理论。挫折是指个体从事有目的的活动，由于受到干扰或障碍而使其需要和动机得不到满足时的情绪状态。故本题选B。<br>",
         "avgAnswerTime": 14,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -916,32 +916,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>早期对激励理论的研究主要集中在激励行为这一内容上，即关注（ ）</p>",
+        "questionContent": "早期对激励理论的研究主要集中在激励行为这一内容上，即关注（ ）",
         "questionId": 2010398,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>人的理想&nbsp;</p>",
+            "optionContent": "人的理想&nbsp;",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>人的想法</p>",
+            "optionContent": "人的想法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>人的需要</p>",
+            "optionContent": "人的需要",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>人的愿景</p>",
+            "optionContent": "人的愿景",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -949,7 +949,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“早期对激励理论的研究”。<span style=\"font-size: 14px;\"><b>早期对激励理论的研究</b>主要集中在<b>激励行为</b>这一内容上，即从<b>人的需要</b>角度出发，试图说明激发人们工作动机的因素。故本题的正确答案为C。</span></p>",
+        "analysis": "本题破题点：“早期对激励理论的研究”。<span style=\"font-size: 14px;\"><b>早期对激励理论的研究</b>主要集中在<b>激励行为</b>这一内容上，即从<b>人的需要</b>角度出发，试图说明激发人们工作动机的因素。故本题的正确答案为C。</span>",
         "avgAnswerTime": 12,
         "avgCorrectRate": "69.0%",
         "score": 1.0,

@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 15,
     "questionList": [
       {
-        "questionContent": "<p>就技术运用而言，评价中心技术具有的特点是（ ）</p>",
+        "questionContent": "就技术运用而言，评价中心技术具有的特点是（ ）",
         "questionId": 2099809,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>综合性</p>",
+            "optionContent": "综合性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>情景模拟性</p>",
+            "optionContent": "情景模拟性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>全面性</p>",
+            "optionContent": "全面性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>预测性</p>",
+            "optionContent": "预测性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>评价中心技术的特点：</p><p>（1）情景模拟性是评价中心的根本特点。\n<br>（2）<b>就技术运用而言</b>，评价中心具有<b>综合性</b>。\n<br>（3）就测评内容而言，评价中心具有全面性和针对性。\n<br>（4）就评价过程而言，评价中心具有动态性。\n<br>（5）就测评功能而言，评价中心具有预测性。</p><p>故本题应选A项。</p>",
+        "analysis": "评价中心技术的特点：（1）情景模拟性是评价中心的根本特点。\n<br>（2）<b>就技术运用而言</b>，评价中心具有<b>综合性</b>。\n<br>（3）就测评内容而言，评价中心具有全面性和针对性。\n<br>（4）就评价过程而言，评价中心具有动态性。\n<br>（5）就测评功能而言，评价中心具有预测性。故本题应选A项。",
         "avgAnswerTime": 20,
         "avgCorrectRate": "50.0%",
         "score": 1.0,
@@ -54,32 +54,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>根据Gaugler等人的研究，在各种评价中心技术的使用过程中，运用频率最高的是（ ）</p>",
+        "questionContent": "根据Gaugler等人的研究，在各种评价中心技术的使用过程中，运用频率最高的是（ ）",
         "questionId": 2099815,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>案例分析</p>",
+            "optionContent": "案例分析",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>公文筐测验</p>",
+            "optionContent": "公文筐测验",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>无领导小组讨论</p>",
+            "optionContent": "无领导小组讨论",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>模拟面谈</p>",
+            "optionContent": "模拟面谈",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -87,7 +87,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>Gaugler等根据运用情景的复杂程度，研究得出各种评价中心技术的使用频率为：<br><b>公文筐测验——81%</b>；</p><p>案例分析——73%；</p><p>无领导小组讨论——59%；</p><p>模拟面谈——47%。</p><p>因此，<b>公文筐测验</b>的运用频率最高，本题应选B项。</p>",
+        "analysis": "Gaugler等根据运用情景的复杂程度，研究得出各种评价中心技术的使用频率为：<br><b>公文筐测验——81%</b>；案例分析——73%；无领导小组讨论——59%；模拟面谈——47%。因此，<b>公文筐测验</b>的运用频率最高，本题应选B项。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -101,32 +101,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>将无领导小组讨论分为无情景性的无领导小组讨论和有情景性的无领导小组讨论的划分标准是（）</p>",
+        "questionContent": "将无领导小组讨论分为无情景性的无领导小组讨论和有情景性的无领导小组讨论的划分标准是（）",
         "questionId": 1610300,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>讨论背景的情景性</p>",
+            "optionContent": "讨论背景的情景性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>是否给被评价者分配角色</p>",
+            "optionContent": "是否给被评价者分配角色",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>小组成员在讨论过程中的相互关系</p>",
+            "optionContent": "小组成员在讨论过程中的相互关系",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>小组成员的不同背景</p>",
+            "optionContent": "小组成员的不同背景",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -134,7 +134,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2c3a45b2e8e489d6d4a980440b233c76/2017111501342.png\" alt=\"\" width=\"582\" height=\"107\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2c3a45b2e8e489d6d4a980440b233c76/2017111501342.png\" alt=\"\" width=\"582\" height=\"107\"><br>故本题选A。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -149,32 +149,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>将无领导小组讨论分为竞争性的、合作性的和竞争与合作相结合的三种类型的划分标准是（）</p>",
+        "questionContent": "将无领导小组讨论分为竞争性的、合作性的和竞争与合作相结合的三种类型的划分标准是（）",
         "questionId": 1610316,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>讨论背景的情景性</p>",
+            "optionContent": "讨论背景的情景性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>是否给被评价者分配角色</p>",
+            "optionContent": "是否给被评价者分配角色",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>参与讨论的小组成员个性</p>",
+            "optionContent": "参与讨论的小组成员个性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>小组成员在讨论过程中的相互关系</p>",
+            "optionContent": "小组成员在讨论过程中的相互关系",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -182,7 +182,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b18a4993e0a25ad814b305645f686a79/2018033105393.png\" alt=\"\" width=\"580\" height=\"100\"><br></p><p>故本题选D。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b18a4993e0a25ad814b305645f686a79/2018033105393.png\" alt=\"\" width=\"580\" height=\"100\"><br>故本题选D。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -196,32 +196,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>将被评价者置于特定职位或管理岗位的模拟环境中，由评价者提供一批该岗位经常需要处理的随机排列、杂乱的文件，要求被评价者在一定的时间和规定的条件下处理完毕，并以书面或口头的方式解释说明这样处理的原则和理由，这种评价中心技术是（）</p>",
+        "questionContent": "将被评价者置于特定职位或管理岗位的模拟环境中，由评价者提供一批该岗位经常需要处理的随机排列、杂乱的文件，要求被评价者在一定的时间和规定的条件下处理完毕，并以书面或口头的方式解释说明这样处理的原则和理由，这种评价中心技术是（）",
         "questionId": 1611053,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>公文筐测验</p>",
+            "optionContent": "公文筐测验",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>管理游戏</p>",
+            "optionContent": "管理游戏",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>角色扮演</p>",
+            "optionContent": "角色扮演",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>案例分析</p>",
+            "optionContent": "案例分析",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -229,7 +229,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e52c64b72e68cd29786b1c4335c3bcf4/2017111501344.png\" alt=\"\" width=\"584\" height=\"246\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e52c64b72e68cd29786b1c4335c3bcf4/2017111501344.png\" alt=\"\" width=\"584\" height=\"246\"><br>故本题选A。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -244,32 +244,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在由一个面试官小组进行面试时，经验不足的普通面试官容易受地位高和经验丰富的面试官的评价影响而放弃自己原有的看法与评价，做出与其他人相似的评价，由此造成的面试工作中的认知偏差属于（）</p>",
+        "questionContent": "在由一个面试官小组进行面试时，经验不足的普通面试官容易受地位高和经验丰富的面试官的评价影响而放弃自己原有的看法与评价，做出与其他人相似的评价，由此造成的面试工作中的认知偏差属于（）",
         "questionId": 1609231,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>首因效应</p>",
+            "optionContent": "首因效应",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>晕轮效应</p>",
+            "optionContent": "晕轮效应",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>诱导效应</p>",
+            "optionContent": "诱导效应",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>定势效应</p>",
+            "optionContent": "定势效应",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -277,7 +277,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/14531a11efc40403e2569ab18cf87a31/2017111600289.png\" alt=\"\" width=\"581\" height=\"162\"><br></p><p>故本题选C。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/14531a11efc40403e2569ab18cf87a31/2017111600289.png\" alt=\"\" width=\"581\" height=\"162\"><br>故本题选C。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "66.0%",
         "score": 1.0,
@@ -292,32 +292,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在面试过程中，面试官认为应聘者的一项素质或能力比如语言沟通能力较好，因而认为其他能力也很好，忽视了全面考察的必要性；反之亦然。由此造成的面试工作中的认知偏差属于（）</p>",
+        "questionContent": "在面试过程中，面试官认为应聘者的一项素质或能力比如语言沟通能力较好，因而认为其他能力也很好，忽视了全面考察的必要性；反之亦然。由此造成的面试工作中的认知偏差属于（）",
         "questionId": 1609444,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>首因效应</p>",
+            "optionContent": "首因效应",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>晕轮效应</p>",
+            "optionContent": "晕轮效应",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>顺序效应</p>",
+            "optionContent": "顺序效应",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>定势效应</p>",
+            "optionContent": "定势效应",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -325,7 +325,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3d9f9688209c865a09da99f8d9152e71/2017111501290.png\" alt=\"\" width=\"580\" height=\"183\"><br></p><p>故本题选B。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3d9f9688209c865a09da99f8d9152e71/2017111501290.png\" alt=\"\" width=\"580\" height=\"183\"><br>故本题选B。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "35.0%",
         "score": 1.0,
@@ -340,32 +340,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">一般将无领导小组讨论测试用于选拔与诊断（ ）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">一般将无领导小组讨论测试用于选拔与诊断（ ）</font></span>",
         "questionId": 2025047,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">基层人员</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">基层人员</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">中低层人员</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">中低层人员</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">中高层人员</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">中高层人员</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">高层人员</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">高层人员</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -373,7 +373,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.无领导小组讨论测试技术要求较高，设计成本高，实施起来费时又费力，因此，一般将无领导小组讨论测试用于<b><u>中高层人员</u></b>的选拔与诊断。故选项C正确。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.知识扩展：如果对基层岗位的人员进行无领导小组讨论测试得不偿失，既浪费物力、人力，同时也浪费时间，而且不一定能取得一般评测方法能取得的成果。</span></p><p class=\"MsoNormal\"><br></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.无领导小组讨论测试技术要求较高，设计成本高，实施起来费时又费力，因此，一般将无领导小组讨论测试用于<b><u>中高层人员</u></b>的选拔与诊断。故选项C正确。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.知识扩展：如果对基层岗位的人员进行无领导小组讨论测试得不偿失，既浪费物力、人力，同时也浪费时间，而且不一定能取得一般评测方法能取得的成果。</span><p class=\"MsoNormal\"><br>",
         "avgAnswerTime": 7,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -387,32 +387,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>“你认为什么样的领导是好领导？”这一问题属于无领导小组讨论试题形式中的（ ）</p>",
+        "questionContent": "“你认为什么样的领导是好领导？”这一问题属于无领导小组讨论试题形式中的（ ）",
         "questionId": 2100105,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>开放式问题</p>",
+            "optionContent": "开放式问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>封闭性问题</p>",
+            "optionContent": "封闭性问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>操作性问题</p>",
+            "optionContent": "操作性问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>两难问题</p>",
+            "optionContent": "两难问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -420,7 +420,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>无领导小组讨论试题形式包括：开放式问题、两难问题、多项选择问题、操作性问题和资源争夺问题。</p><p>A选项：<b>开放式问题</b>答案的范围可以很广、很宽，考察被评价者在思考问题时是否全面、有针对性、有新的观点和见解。例如：你认为什么样的领导是好领导？</p><p>C选项：操作性问题是指给应试者一些材料、工具或者道具，让他们利用所给的这些材料，设计出一个或一些由考官指定的物体来。</p><p>D选项：两难问题是让应试者在两种互有利弊的答案中选择其中的一种，考察被评价者的分析问题能力、语言表达能力以及说服能力等。</p><p>B选项为无关干扰项，CD不符题意，本题的正确答案为A。</p>",
+        "analysis": "无领导小组讨论试题形式包括：开放式问题、两难问题、多项选择问题、操作性问题和资源争夺问题。A选项：<b>开放式问题</b>答案的范围可以很广、很宽，考察被评价者在思考问题时是否全面、有针对性、有新的观点和见解。例如：你认为什么样的领导是好领导？C选项：操作性问题是指给应试者一些材料、工具或者道具，让他们利用所给的这些材料，设计出一个或一些由考官指定的物体来。D选项：两难问题是让应试者在两种互有利弊的答案中选择其中的一种，考察被评价者的分析问题能力、语言表达能力以及说服能力等。B选项为无关干扰项，CD不符题意，本题的正确答案为A。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -434,32 +434,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>让应试者在两种互有利弊的答案中选择其中的一种，主要考察被评价者的分析问题能力、语言表达能力以及说服能力等，此种无领导小组讨论试题的类型为（）</p>",
+        "questionContent": "让应试者在两种互有利弊的答案中选择其中的一种，主要考察被评价者的分析问题能力、语言表达能力以及说服能力等，此种无领导小组讨论试题的类型为（）",
         "questionId": 1610504,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>两难问题</p>",
+            "optionContent": "两难问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>开放式问题</p>",
+            "optionContent": "开放式问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>多项选择问题</p>",
+            "optionContent": "多项选择问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>操作性问题</p>",
+            "optionContent": "操作性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -467,7 +467,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7338515699ee62892ce832bafe13d653/2017111000476.png\" alt=\"\" width=\"581\" height=\"227\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7338515699ee62892ce832bafe13d653/2017111000476.png\" alt=\"\" width=\"581\" height=\"227\"><br>故本题选A。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -481,32 +481,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>让被评价者在多种备选答案中选择其中有效的几种，或对备选答案的重要性进行排序，主要考察被评价者分析问题实质，抓住问题本质方面的能力。此种无领导小组讨论试题的类型为（ ）</p>",
+        "questionContent": "让被评价者在多种备选答案中选择其中有效的几种，或对备选答案的重要性进行排序，主要考察被评价者分析问题实质，抓住问题本质方面的能力。此种无领导小组讨论试题的类型为（ ）",
         "questionId": 1610518,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>两难问题</p>",
+            "optionContent": "两难问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>开放式问题</p>",
+            "optionContent": "开放式问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>多项选择问题</p>",
+            "optionContent": "多项选择问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>操作性问题</p>",
+            "optionContent": "操作性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -514,7 +514,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b0b440cfb208276d952a26175cd8c102/2018042504757.png\" alt=\"\" width=\"584\" height=\"224\"><br></p><p>故本题选C。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b0b440cfb208276d952a26175cd8c102/2018042504757.png\" alt=\"\" width=\"584\" height=\"224\"><br>故本题选C。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -528,7 +528,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">给应试者一些材料、工具或者道具，让他们利用所给的这些材料，设计出一个或一些由考官指定的物体来。这种问题属于（ ）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">给应试者一些材料、工具或者道具，让他们利用所给的这些材料，设计出一个或一些由考官指定的物体来。这种问题属于（ ）</font></span>",
         "questionId": 2025041,
         "answerTime": 0,
         "correct": 2,
@@ -536,25 +536,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">操作性问题</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">操作性问题</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">开放式问题</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">开放式问题</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">资源争夺问题</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">资源争夺问题</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">多项选择问题</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">多项选择问题</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -562,7 +562,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\">1.</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">操作性问题</font></span></b><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\"><font face=\"微软雅黑\">是</font></span><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\"><font face=\"微软雅黑\">给应试者一些材料、工具或者道具，让他们利用所给的这些材料，设计出一个或一些由考官指定的物体来。故选项</font>A正确。</span><br></p><p>2.<b>开放式问题</b>答案的范围可以很广、很宽，主要考察被评价者在思考问题时是否考虑得全面，是否有针对性，思路是否清晰，是否有新的观点和见解。</p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.<b>资源争夺问题</b>指让处于同等地位的应试者就有限的资源进行分配，从而考察应试者的语言表达能力、分析问题能力、概括或总结能力、发言的积极性和反应的灵敏性等。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.<b>多项选择问题</b>是让被评价者在多种备选答案中选择其中有效的几种，或对备选答案的重要性进行排序，主要考察被评价者分析问题实质，抓住问题本质方面的能力。</span></p><p class=\"MsoNormal\"><br></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\">1.</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">操作性问题</font></span></b><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\"><font face=\"微软雅黑\">是</font></span><span style=\"font-size: 10.5pt; font-family: 微软雅黑;\"><font face=\"微软雅黑\">给应试者一些材料、工具或者道具，让他们利用所给的这些材料，设计出一个或一些由考官指定的物体来。故选项</font>A正确。</span><br>2.<b>开放式问题</b>答案的范围可以很广、很宽，主要考察被评价者在思考问题时是否考虑得全面，是否有针对性，思路是否清晰，是否有新的观点和见解。<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.<b>资源争夺问题</b>指让处于同等地位的应试者就有限的资源进行分配，从而考察应试者的语言表达能力、分析问题能力、概括或总结能力、发言的积极性和反应的灵敏性等。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.<b>多项选择问题</b>是让被评价者在多种备选答案中选择其中有效的几种，或对备选答案的重要性进行排序，主要考察被评价者分析问题实质，抓住问题本质方面的能力。</span><p class=\"MsoNormal\"><br>",
         "avgAnswerTime": 10,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -576,32 +576,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>让处于同等地位的应试者就有限的资源进行分配，从而考察应试者的语言表达能力、分析问题能力、概括或总结能力、发言的积极性和反应的灵敏性等，此种无领导小组讨论试题的类型为（ ）</p>",
+        "questionContent": "让处于同等地位的应试者就有限的资源进行分配，从而考察应试者的语言表达能力、分析问题能力、概括或总结能力、发言的积极性和反应的灵敏性等，此种无领导小组讨论试题的类型为（ ）",
         "questionId": 2101211,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>两难问题</p>",
+            "optionContent": "两难问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>开放式问题</p>",
+            "optionContent": "开放式问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>资源争夺问题</p>",
+            "optionContent": "资源争夺问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>操作性问题</p>",
+            "optionContent": "操作性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -609,7 +609,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">A选项：两难问题是让应聘者在两种互有利弊的答案中选择其中的一种，主要考察被评价者的分析问题能力、语言表达能力以及说服能力等。</span><br></p><p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>B选项：</b></span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>资源争夺问题</b>是让处于<b>同等地位</b>的应聘者就<b>有限的资源进行分配</b>，从而考察应试者的语言表达能力、分析问题能力、概括或总结能力、发言的积极性和反应的灵敏性等。</span></p><p>C选项：开放式问题<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">答案的范围可以很广、很宽，</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">考查被评价者在思考问题时是否专虑得全面、有针对性，思路是否清晰，是否有新的观点和见解。</span></p><p>D选项：操作性问题是给应聘者一些材料、工具或者道具，让他们利用所给的材料，设计出一个或一些由考官指定的物体来。</p><p>综上可知，本题选C。</p>",
+        "analysis": "<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">A选项：两难问题是让应聘者在两种互有利弊的答案中选择其中的一种，主要考察被评价者的分析问题能力、语言表达能力以及说服能力等。</span><br><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>B选项：</b></span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>资源争夺问题</b>是让处于<b>同等地位</b>的应聘者就<b>有限的资源进行分配</b>，从而考察应试者的语言表达能力、分析问题能力、概括或总结能力、发言的积极性和反应的灵敏性等。</span>C选项：开放式问题<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">答案的范围可以很广、很宽，</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">考查被评价者在思考问题时是否专虑得全面、有针对性，思路是否清晰，是否有新的观点和见解。</span>D选项：操作性问题是给应聘者一些材料、工具或者道具，让他们利用所给的材料，设计出一个或一些由考官指定的物体来。综上可知，本题选C。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -623,32 +623,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">无领导讨论小组讨论的正式测评过程一般约为（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">无领导讨论小组讨论的正式测评过程一般约为（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2013307,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">30分钟</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">30分钟</span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">45分钟</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">45分钟</span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">60分钟</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">60分钟</span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">90分钟</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">90分钟</span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -656,7 +656,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">无领导小组讨论的正式测评过程一般是</font><b>60分钟</b>左右，包括准备阶段、自由发言阶段、讨论辩驳阶段和总结阶段。选项C正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">无领导小组讨论的正式测评过程一般是</font><b>60分钟</b>左右，包括准备阶段、自由发言阶段、讨论辩驳阶段和总结阶段。选项C正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "avgAnswerTime": 5,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -670,32 +670,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>公文筐设计应遵循的基本原则包括标准化原则、系统性原则、关键性原则和（ ）</p>",
+        "questionContent": "公文筐设计应遵循的基本原则包括标准化原则、系统性原则、关键性原则和（ ）",
         "questionId": 1611761,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>突发性原则</p>",
+            "optionContent": "突发性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>结构化原则</p>",
+            "optionContent": "结构化原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>充分性原则</p>",
+            "optionContent": "充分性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>针对性原则</p>",
+            "optionContent": "针对性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -703,7 +703,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>公文筐设计应遵循的基本原则包括：①<b>针对</b>性原则；②<b>系统</b>性原则；③<b>关键</b>性原则；④<b>标准</b>化原则。本题口诀：针对系统关键标准。</p>",
+        "analysis": "公文筐设计应遵循的基本原则包括：①<b>针对</b>性原则；②<b>系统</b>性原则；③<b>关键</b>性原则；④<b>标准</b>化原则。本题口诀：针对系统关键标准。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "93.0%",
         "score": 1.0,

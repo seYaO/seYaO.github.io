@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 21,
     "questionList": [
       {
-        "questionContent": "<p>根据企业各层次有关人员的经验来判断和确定预测数据的一种方法是（）</p>",
+        "questionContent": "根据企业各层次有关人员的经验来判断和确定预测数据的一种方法是（）",
         "questionId": 1668034,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经验判断法</p>",
+            "optionContent": "经验判断法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>德尔菲法</p>",
+            "optionContent": "德尔菲法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>专家会议法</p>",
+            "optionContent": "专家会议法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>时间序列预测法</p>",
+            "optionContent": "时间序列预测法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f9fcc13054861e0f9af90212b83bceae/image.png\" alt=\"\" width=\"510\" height=\"303\"><br></p><p>D选项为无关干扰项。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f9fcc13054861e0f9af90212b83bceae/image.png\" alt=\"\" width=\"510\" height=\"303\"><br>D选项为无关干扰项。故本题正确答案为：A",
         "avgAnswerTime": 9,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -55,7 +55,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>目前应用最广泛的一种比较科学的定性预测方法是（）</p>",
+        "questionContent": "目前应用最广泛的一种比较科学的定性预测方法是（）",
         "questionId": 1668068,
         "answerTime": 0,
         "correct": 2,
@@ -63,25 +63,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>德尔菲法</p>",
+            "optionContent": "德尔菲法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>经验判断法</p>",
+            "optionContent": "经验判断法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时间序列预测法</p>",
+            "optionContent": "时间序列预测法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>专家会议法</p>",
+            "optionContent": "专家会议法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -89,7 +89,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/573e0ef1528cbf4d28a0a44276c2f8ec/image.png\" alt=\"\" width=\"233\" height=\"102\"></p><p>其中<b>德尔菲法</b>是目前应用最广泛的一种比较科学的定性预测方法。</p><p>C选项为无关干扰项。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/573e0ef1528cbf4d28a0a44276c2f8ec/image.png\" alt=\"\" width=\"233\" height=\"102\">其中<b>德尔菲法</b>是目前应用最广泛的一种比较科学的定性预测方法。C选项为无关干扰项。故本题正确答案为：A",
         "avgAnswerTime": 8,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -104,32 +104,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>德尔菲法最初产生于（）</p>",
+        "questionContent": "德尔菲法最初产生于（）",
         "questionId": 1668080,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>科技领域</p>",
+            "optionContent": "科技领域",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>建筑领域</p>",
+            "optionContent": "建筑领域",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>制造领域</p>",
+            "optionContent": "制造领域",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>金融领域</p>",
+            "optionContent": "金融领域",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -137,7 +137,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题属于理解记忆型题目。</p><p>德尔菲法最初产生于<b>科技领域</b>，后来逐渐被应用于任何领域的预测，如军事预测、人口预测、医疗保健预测、经营和需求预测、教育预测等。</p><p>助记：德尔菲，先科技。</p><p>故本题正确答案为：A</p>",
+        "analysis": "本题属于理解记忆型题目。德尔菲法最初产生于<b>科技领域</b>，后来逐渐被应用于任何领域的预测，如军事预测、人口预测、医疗保健预测、经营和需求预测、教育预测等。助记：德尔菲，先科技。故本题正确答案为：A",
         "avgAnswerTime": 6,
         "avgCorrectRate": "72.0%",
         "score": 1.0,
@@ -152,32 +152,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>专家会议法的主要形式有（）</p>",
+        "questionContent": "专家会议法的主要形式有（）",
         "questionId": 1668278,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>交锋式会议法</p>",
+            "optionContent": "交锋式会议法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>混合式会议法</p>",
+            "optionContent": "混合式会议法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>非交锋式会议法</p>",
+            "optionContent": "非交锋式会议法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>以上选项均正确</p>",
+            "optionContent": "以上选项均正确",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -185,7 +185,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/24963ce99ed119645c22571a054fe583/image.png\" alt=\"\" width=\"320\" height=\"101\"><br></p><p>故本题正确答案为：D</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/24963ce99ed119645c22571a054fe583/image.png\" alt=\"\" width=\"320\" height=\"101\"><br>故本题正确答案为：D",
         "avgAnswerTime": 6,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -200,32 +200,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>由于战争、灾害等意外事件，或国家制订某种发展战略与发展规划、方针政策引起的变动导致时间序列呈现出偶然与不规则趋势，这种时间序列是（）</p>",
+        "questionContent": "由于战争、灾害等意外事件，或国家制订某种发展战略与发展规划、方针政策引起的变动导致时间序列呈现出偶然与不规则趋势，这种时间序列是（）",
         "questionId": 1506457,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>季节时间序列</p>",
+            "optionContent": "季节时间序列",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​不规则时间序列<br></p>",
+            "optionContent": "​不规则时间序列<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>循环时间序列</p>",
+            "optionContent": "循环时间序列",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>曲线趋势时间序列</p>",
+            "optionContent": "曲线趋势时间序列",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -233,7 +233,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>不规则时间序列</b>是由于战争、灾害等意外事件，或国家制订某种发展战略与发展规划、方针政策引起的变动导致时间序列呈现出偶然与不规则趋势。</p>",
+        "analysis": "<b>不规则时间序列</b>是由于战争、灾害等意外事件，或国家制订某种发展战略与发展规划、方针政策引起的变动导致时间序列呈现出偶然与不规则趋势。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -247,32 +247,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>商业周期、项目建设周期等属于时间序列中的（）</p>",
+        "questionContent": "商业周期、项目建设周期等属于时间序列中的（）",
         "questionId": 1506467,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>水平时间序列</p>",
+            "optionContent": "水平时间序列",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>季节时间序列</p>",
+            "optionContent": "季节时间序列",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>循环时间序列</p>",
+            "optionContent": "循环时间序列",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>直线趋势时间序列</p>",
+            "optionContent": "直线趋势时间序列",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -280,7 +280,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>循环时间序列</b>呈周期性变化，但是它并不是像季节时间序列一样在一个不变的时间间隔中反复出现，且每一周期长度并不是相等的。而且循环不一定是单一方向持续递增或递减的，而是通常呈一种波浪式起伏变动。通常一个循环周期的时间比较长，可能是一两年或数年、数十年，<b>如商业周期、项目建设周期等。</b></p>",
+        "analysis": "<b>循环时间序列</b>呈周期性变化，但是它并不是像季节时间序列一样在一个不变的时间间隔中反复出现，且每一周期长度并不是相等的。而且循环不一定是单一方向持续递增或递减的，而是通常呈一种波浪式起伏变动。通常一个循环周期的时间比较长，可能是一两年或数年、数十年，<b>如商业周期、项目建设周期等。</b>",
         "avgAnswerTime": 7,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -295,32 +295,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>由于受到某种决定性因素的影响，时间序列在一段时间内的走势无倾向性，既不倾向于逐步增加，也不倾向于逐步减少，总是在某一水平上下波动，这种时间序列是（）</p>",
+        "questionContent": "由于受到某种决定性因素的影响，时间序列在一段时间内的走势无倾向性，既不倾向于逐步增加，也不倾向于逐步减少，总是在某一水平上下波动，这种时间序列是（）",
         "questionId": 1506480,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>水平时间序列</p>",
+            "optionContent": "水平时间序列",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>循环时间序列</p>",
+            "optionContent": "循环时间序列",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>直线趋势时间序列</p>",
+            "optionContent": "直线趋势时间序列",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>季节时间序列</p>",
+            "optionContent": "季节时间序列",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -328,7 +328,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>水平时间序列</b>是由于受到某种决定性因素的影响，时间序列在一段时间内的走势无倾向性，既不倾向于逐步增加，也不倾向于逐步减少，总是在某一水平上下波动。</p>",
+        "analysis": "<b>水平时间序列</b>是由于受到某种决定性因素的影响，时间序列在一段时间内的走势无倾向性，既不倾向于逐步增加，也不倾向于逐步减少，总是在某一水平上下波动。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -342,32 +342,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查人员通过文字、图表等形式将调查结果表现出来，并提供市场调查的结论和建议，以使人们对所调查的市场现象或问题有一个全面、系统的了解和认识。</p>",
+        "questionContent": "（）是市场调查人员通过文字、图表等形式将调查结果表现出来，并提供市场调查的结论和建议，以使人们对所调查的市场现象或问题有一个全面、系统的了解和认识。",
         "questionId": 1503272,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场调查问卷</p>",
+            "optionContent": "市场调查问卷",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查方案</p>",
+            "optionContent": "市场调查方案",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查报告</p>",
+            "optionContent": "市场调查报告",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>​市场调查计划<br></p>",
+            "optionContent": "​市场调查计划<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -375,7 +375,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查报告</b>是市场调查研究成果的一种表现形式。它是市场调查人员通过文字、图表等形式将调查结果表现出来，并提供市场调查的结论和建议，以使人们对所调查的市场现象或问题有一个全面、系统的了解和认识。</p>",
+        "analysis": "<b>市场调查报告</b>是市场调查研究成果的一种表现形式。它是市场调查人员通过文字、图表等形式将调查结果表现出来，并提供市场调查的结论和建议，以使人们对所调查的市场现象或问题有一个全面、系统的了解和认识。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -390,32 +390,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查研究成果的集中体现，其撰写的好坏将直接影响到整个市场调查研究工作的成果质量。</p>",
+        "questionContent": "（）是市场调查研究成果的集中体现，其撰写的好坏将直接影响到整个市场调查研究工作的成果质量。",
         "questionId": 1503278,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场调查问卷</p>",
+            "optionContent": "市场调查问卷",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查报告</p>",
+            "optionContent": "市场调查报告",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场调查表</p>",
+            "optionContent": "市场调查表",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查方案</p>",
+            "optionContent": "市场调查方案",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -423,7 +423,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查报告</b>是市场调查研究成果的集中体现，其撰写的好坏将直接影响到整个市场调查研究工作的成果质量。</p>",
+        "analysis": "<b>市场调查报告</b>是市场调查研究成果的集中体现，其撰写的好坏将直接影响到整个市场调查研究工作的成果质量。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -438,32 +438,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查报告所使用的市场信息资料和结论建议都必须符合实际，这体现了市场调查报告写作应遵循的（）</p>",
+        "questionContent": "市场调查报告所使用的市场信息资料和结论建议都必须符合实际，这体现了市场调查报告写作应遵循的（）",
         "questionId": 1503312,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>目的明确原则</p>",
+            "optionContent": "目的明确原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>实事求是原则</p>",
+            "optionContent": "实事求是原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>突出重点原则</p>",
+            "optionContent": "突出重点原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>效益性原则</p>",
+            "optionContent": "效益性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -471,7 +471,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>实事求是原则：市场调查报告必须符合客观实际，坚决反对弄虚作假。市场调查报告所使用的市场信息资料和结论建议都必须符合实际。</p>",
+        "analysis": "实事求是原则：市场调查报告必须符合客观实际，坚决反对弄虚作假。市场调查报告所使用的市场信息资料和结论建议都必须符合实际。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -486,32 +486,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查报告写作过程中应遵循的首要的和最主要的原则是（）</p>",
+        "questionContent": "市场调查报告写作过程中应遵循的首要的和最主要的原则是（）",
         "questionId": 1503323,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>目的明确原则</p>",
+            "optionContent": "目的明确原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>实事求是原则</p>",
+            "optionContent": "实事求是原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>突出重点原则</p>",
+            "optionContent": "突出重点原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>以上都不正确</p>",
+            "optionContent": "以上都不正确",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -519,7 +519,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>实事求是原则</b>是市场调查报告写作过程中应遵循的首要的和最主要的原则。</p>",
+        "analysis": "<b>实事求是原则</b>是市场调查报告写作过程中应遵循的首要的和最主要的原则。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -533,32 +533,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查报告的开头部分是（）。</p>",
+        "questionContent": "市场调查报告的开头部分是（）。",
         "questionId": 1503256,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>扉页</p>",
+            "optionContent": "扉页",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>摘要</p>",
+            "optionContent": "摘要",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>前言</p>",
+            "optionContent": "前言",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>标题</p>",
+            "optionContent": "标题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -566,7 +566,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>前言</b>又称导言或导语，是市场调查报告的开头部分。</p>",
+        "analysis": "<b>前言</b>又称导言或导语，是市场调查报告的开头部分。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -581,32 +581,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）能够概括地说明调查活动所获得的主要成果，是整个市场调查报告的精华，应做到清楚、简洁和高度概括。</p>",
+        "questionContent": "（）能够概括地说明调查活动所获得的主要成果，是整个市场调查报告的精华，应做到清楚、简洁和高度概括。",
         "questionId": 1503342,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>目录</p>",
+            "optionContent": "目录",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>扉页</p>",
+            "optionContent": "扉页",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>摘要</p>",
+            "optionContent": "摘要",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>前言</p>",
+            "optionContent": "前言",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -614,7 +614,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>摘要</b>是市场调查报告中的内容提要，是报告中非常重要的内容。它能够概括地说明调查活动所获得的主要成果，是整个市场调查报告的精华，应做到清楚、简洁和高度概括。</p>",
+        "analysis": "<b>摘要</b>是市场调查报告中的内容提要，是报告中非常重要的内容。它能够概括地说明调查活动所获得的主要成果，是整个市场调查报告的精华，应做到清楚、简洁和高度概括。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -629,32 +629,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>调查报告翻开后的第一页是（）。</p>",
+        "questionContent": "调查报告翻开后的第一页是（）。",
         "questionId": 1503351,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>扉页</p>",
+            "optionContent": "扉页",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>参考文献</p>",
+            "optionContent": "参考文献",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>目录</p>",
+            "optionContent": "目录",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>正文</p>",
+            "optionContent": "正文",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -662,7 +662,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>扉页</b>是指调查报告翻开后的第一页，应点明调查报告的主题。</p>",
+        "analysis": "<b>扉页</b>是指调查报告翻开后的第一页，应点明调查报告的主题。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -676,32 +676,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查报告的主体，是市场调查报告的主要构成要件，也是写作的重点和难点所在。</p>",
+        "questionContent": "（）是市场调查报告的主体，是市场调查报告的主要构成要件，也是写作的重点和难点所在。",
         "questionId": 1503330,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>前言</p>",
+            "optionContent": "前言",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​扉页<br></p>",
+            "optionContent": "​扉页<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>正文</p>",
+            "optionContent": "正文",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>​目录<br></p>",
+            "optionContent": "​目录<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -709,7 +709,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>正文</b>是市场调查报告的主体，是市场调查报告的主要构成要件，也是写作的重点和难点所在。</p>",
+        "analysis": "<b>正文</b>是市场调查报告的主体，是市场调查报告的主要构成要件，也是写作的重点和难点所在。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -723,32 +723,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>对调查中的许多技术性问题进行说明的报告是（）</p>",
+        "questionContent": "对调查中的许多技术性问题进行说明的报告是（）",
         "questionId": 1503365,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>综合性报告</p>",
+            "optionContent": "综合性报告",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>专题性报告</p>",
+            "optionContent": "专题性报告",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>研究性报告</p>",
+            "optionContent": "研究性报告",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>学术性报告</p>",
+            "optionContent": "学术性报告",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -756,7 +756,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>学术性报告</b>也叫技术性报告，是对调查中的许多技术性问题进行说明的报告。</p>",
+        "analysis": "<b>学术性报告</b>也叫技术性报告，是对调查中的许多技术性问题进行说明的报告。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -770,32 +770,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>提供给用户的最基本的报告是（）。</p>",
+        "questionContent": "提供给用户的最基本的报告是（）。",
         "questionId": 1503382,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>研究性报告</p>",
+            "optionContent": "研究性报告",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>综合性报告</p>",
+            "optionContent": "综合性报告",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>​学术性报告<br></p>",
+            "optionContent": "​学术性报告<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>专题性报告</p>",
+            "optionContent": "专题性报告",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -803,7 +803,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>综合性报告</b>是指全面反映整个市场调查活动的情况，详细地给出调查基本结果和主要发现的报告，它是提供给用户的最基本的报告。</p>",
+        "analysis": "<b>综合性报告</b>是指全面反映整个市场调查活动的情况，详细地给出调查基本结果和主要发现的报告，它是提供给用户的最基本的报告。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -817,32 +817,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指全面反映整个市场调查活动的情况，详细地给出调查基本结果和主要发现的报告，它是提供给用户的最基本的报告。</p>",
+        "questionContent": "（）是指全面反映整个市场调查活动的情况，详细地给出调查基本结果和主要发现的报告，它是提供给用户的最基本的报告。",
         "questionId": 1503383,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>研究性报告</p>",
+            "optionContent": "研究性报告",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>综合性报告</p>",
+            "optionContent": "综合性报告",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>专题性报告</p>",
+            "optionContent": "专题性报告",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>学术性报告</p>",
+            "optionContent": "学术性报告",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -850,7 +850,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>综合性报告</b>是指全面反映整个市场调查活动的情况，详细地给出调查基本结果和主要发现的报告，它是提供给用户的最基本的报告。</p>",
+        "analysis": "<b>综合性报告</b>是指全面反映整个市场调查活动的情况，详细地给出调查基本结果和主要发现的报告，它是提供给用户的最基本的报告。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -864,32 +864,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>要顺应瞬息万变的市场形势，市场调查报告必须讲究时间效益，做到及时反馈，这体现了市场调查报告的（）。</p>",
+        "questionContent": "要顺应瞬息万变的市场形势，市场调查报告必须讲究时间效益，做到及时反馈，这体现了市场调查报告的（）。",
         "questionId": 1503424,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>新颖性</p>",
+            "optionContent": "新颖性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>科学性</p>",
+            "optionContent": "科学性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性</p>",
+            "optionContent": "时效性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>针对性</p>",
+            "optionContent": "针对性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -897,7 +897,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>时效性：市场的信息千变万化，企业面临的机遇也是稍纵即逝。要顺应瞬息万变的市场形势，市场调查报告必须讲究时间效益，做到及时反馈。</p>",
+        "analysis": "时效性：市场的信息千变万化，企业面临的机遇也是稍纵即逝。要顺应瞬息万变的市场形势，市场调查报告必须讲究时间效益，做到及时反馈。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -911,32 +911,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查报告应紧紧抓住市场活动的新动向、新问题，引用一些人们未知的通过调查研究得到的新发现，提出新观点，形成新结论，这体现了市场调查报告（）的特点。</p>",
+        "questionContent": "市场调查报告应紧紧抓住市场活动的新动向、新问题，引用一些人们未知的通过调查研究得到的新发现，提出新观点，形成新结论，这体现了市场调查报告（）的特点。",
         "questionId": 1503420,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>时效性</p>",
+            "optionContent": "时效性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>针对性</p>",
+            "optionContent": "针对性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>​科学性<br></p>",
+            "optionContent": "​科学性<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>新颖性</p>",
+            "optionContent": "新颖性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -944,7 +944,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>市场调查报告的<b>新颖性</b>是指调查报告应从全新的视角去发现问题，用全新的观点去看待问题。市场调查报告应紧紧抓住市场活动的新动向、新问题，引用一些人们未知的通过调查研究得到的新发现，提出新观点，形成新结论。</p>",
+        "analysis": "市场调查报告的<b>新颖性</b>是指调查报告应从全新的视角去发现问题，用全新的观点去看待问题。市场调查报告应紧紧抓住市场活动的新动向、新问题，引用一些人们未知的通过调查研究得到的新发现，提出新观点，形成新结论。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -959,32 +959,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是调查过程的历史记录和总结，是市场调查活动的最终研究成果。</p>",
+        "questionContent": "（）是调查过程的历史记录和总结，是市场调查活动的最终研究成果。",
         "questionId": 1503270,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场调查问卷</p>",
+            "optionContent": "市场调查问卷",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查报告</p>",
+            "optionContent": "市场调查报告",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场调查计划</p>",
+            "optionContent": "市场调查计划",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查方案</p>",
+            "optionContent": "市场调查方案",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -992,7 +992,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查报告</b>是调查过程的历史记录和总结，是市场调查活动的最终研究成果。</p>",
+        "analysis": "<b>市场调查报告</b>是调查过程的历史记录和总结，是市场调查活动的最终研究成果。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "98.0%",
         "score": 1.0,

@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 20,
     "questionList": [
       {
-        "questionContent": "<p>柯蒂斯出版公司率先成立了市场调查部门，并编写了（）一书，这是第一本有关市场研究的专著。</p>",
+        "questionContent": "柯蒂斯出版公司率先成立了市场调查部门，并编写了（）一书，这是第一本有关市场研究的专著。",
         "questionId": 1460893,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>《销售圣经》</p>",
+            "optionContent": "《销售圣经》",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>《市场调研与分析》</p>",
+            "optionContent": "《市场调研与分析》",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>《市场调研技术》</p>",
+            "optionContent": "《市场调研技术》",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>《销售机会》</p>",
+            "optionContent": "《销售机会》",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1911年，美国当时最大的柯蒂斯出版公司率先成立了市场调查部门，并编写了<b>《销售机会》</b>一书，这是第一本有关市场研究的专著。</p>",
+        "analysis": "1911年，美国当时最大的柯蒂斯出版公司率先成立了市场调查部门，并编写了<b>《销售机会》</b>一书，这是第一本有关市场研究的专著。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查产生和发展的基础和原动力。</p>",
+        "questionContent": "（）是市场调查产生和发展的基础和原动力。",
         "questionId": 1503219,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>商品的交换</p>",
+            "optionContent": "商品的交换",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>商品的生产</p>",
+            "optionContent": "商品的生产",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济的发展</p>",
+            "optionContent": "经济的发展",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>文化的发展</p>",
+            "optionContent": "文化的发展",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查</b>是随着近代商品生产和商品交换的发展而出现的，经济的发展是市场调查产生和发展的基础和原动力。</p>",
+        "analysis": "<b>市场调查</b>是随着近代商品生产和商品交换的发展而出现的，经济的发展是市场调查产生和发展的基础和原动力。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -103,32 +103,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查者在（）开始使用商业普查的方式，并进行统计分析。</p>",
+        "questionContent": "市场调查者在（）开始使用商业普查的方式，并进行统计分析。",
         "questionId": 1460995,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>问卷调查时期</p>",
+            "optionContent": "问卷调查时期",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>组织接受的时期</p>",
+            "optionContent": "组织接受的时期",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>计量调查时期</p>",
+            "optionContent": "计量调查时期",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>技术进步时期</p>",
+            "optionContent": "技术进步时期",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>从1940年到1960年，我们把这一时期称之为<b>计量调查时期</b>。市场调查者<b>在这一时期</b>开始使用商业普查的方式，并进行统计分析。</p>",
+        "analysis": "从1940年到1960年，我们把这一时期称之为<b>计量调查时期</b>。市场调查者<b>在这一时期</b>开始使用商业普查的方式，并进行统计分析。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -151,32 +151,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工业革命之前的市场调查阶段，我们称之为（）。</p>",
+        "questionContent": "工业革命之前的市场调查阶段，我们称之为（）。",
         "questionId": 1592458,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>早期发展时期</p>",
+            "optionContent": "早期发展时期",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷调查时期</p>",
+            "optionContent": "问卷调查时期",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>前市场调查时期</p>",
+            "optionContent": "前市场调查时期",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>计量调查时期</p>",
+            "optionContent": "计量调查时期",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -184,7 +184,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>市场调查在世界范围内的发展历程大致可分为以下几个阶段：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/175a0758c84f9406b45267e3a643f165/image.png\" alt=\"\" width=\"277\" height=\"201\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "市场调查在世界范围内的发展历程大致可分为以下几个阶段：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/175a0758c84f9406b45267e3a643f165/image.png\" alt=\"\" width=\"277\" height=\"201\"><br>故本题正确答案为：C",
         "avgAnswerTime": 6,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -198,32 +198,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场营销战略组合中最活跃的因素。</p>",
+        "questionContent": "（）是市场营销战略组合中最活跃的因素。",
         "questionId": 2292724,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>产品</p>",
+            "optionContent": "产品",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>价格</p>",
+            "optionContent": "价格",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>渠道</p>",
+            "optionContent": "渠道",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​宣传<br></p>",
+            "optionContent": "​宣传<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -231,7 +231,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>价格</b>是市场营销战略组合中最活跃的因素</p>",
+        "analysis": "<b>价格</b>是市场营销战略组合中最活跃的因素",
         "avgAnswerTime": 9,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -246,32 +246,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>客观上已经存在或即将形成，而尚未被人们认识的市场是指（）</p>",
+        "questionContent": "客观上已经存在或即将形成，而尚未被人们认识的市场是指（）",
         "questionId": 1497288,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>电子市场</p>",
+            "optionContent": "电子市场",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>成熟市场</p>",
+            "optionContent": "成熟市场",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>细分市场</p>",
+            "optionContent": "细分市场",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场机会</p>",
+            "optionContent": "市场机会",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -279,7 +279,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场机会</b>就是市场上存在的未满足的需求。有时人们称它为潜在的市场，亦即客观上已经存在或即将形成，而尚未被人们认识的市场。</p>",
+        "analysis": "<b>市场机会</b>就是市场上存在的未满足的需求。有时人们称它为潜在的市场，亦即客观上已经存在或即将形成，而尚未被人们认识的市场。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -293,32 +293,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在市场调查的原则中，（）是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。</p>",
+        "questionContent": "在市场调查的原则中，（）是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。",
         "questionId": 1461256,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>科学性原则</p>",
+            "optionContent": "科学性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性原则</p>",
+            "optionContent": "时效性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>系统性原则</p>",
+            "optionContent": "系统性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>准确性原则</p>",
+            "optionContent": "准确性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -326,7 +326,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>时效性原则</b>是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。</p>",
+        "analysis": "<b>时效性原则</b>是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -340,32 +340,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在市场调查的原则中，（）要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。</p>",
+        "questionContent": "在市场调查的原则中，（）要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。",
         "questionId": 1461264,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济性原则</p>",
+            "optionContent": "经济性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​系统性原则<br></p>",
+            "optionContent": "​系统性原则<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>科学性原则</p>",
+            "optionContent": "科学性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>准确性原则</p>",
+            "optionContent": "准确性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -373,7 +373,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>准确性原则</b>要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。</p>",
+        "analysis": "<b>准确性原则</b>要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。",
         "avgAnswerTime": 12,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -388,32 +388,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查不是一种简单的收集情报、信息的活动，为了在时间和经费有限的情况下，获得更多更准确的市场信息资料，就必须对调查的过程进行科学的安排。这指的是市场调查的（ ）原则。</p>",
+        "questionContent": "市场调查不是一种简单的收集情报、信息的活动，为了在时间和经费有限的情况下，获得更多更准确的市场信息资料，就必须对调查的过程进行科学的安排。这指的是市场调查的（ ）原则。",
         "questionId": 1906773,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>时效性</p>",
+            "optionContent": "时效性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济性</p>",
+            "optionContent": "经济性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>科学性</p>",
+            "optionContent": "科学性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>系统性</p>",
+            "optionContent": "系统性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -421,7 +421,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7300c1a1baa9042329f9991d78816333/image.png\" alt=\"\" width=\"569\" height=\"223\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7300c1a1baa9042329f9991d78816333/image.png\" alt=\"\" width=\"569\" height=\"223\"><br>",
         "avgAnswerTime": 13,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -435,32 +435,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>消费方面的调查属于（ ）</p>",
+        "questionContent": "消费方面的调查属于（ ）",
         "questionId": 2137153,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>政治环境调查</p>",
+            "optionContent": "政治环境调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​法律环境调查<br></p>",
+            "optionContent": "​法律环境调查<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>自然环境调查</p>",
+            "optionContent": "自然环境调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济环境调查</p>",
+            "optionContent": "经济环境调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -468,7 +468,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>政治环境调查应调查：①目标国家的政治制度和政策；②国家或地区之间的政治关系；③政治和社会动乱情况；④国有化政策。</p><p>法律环境调查：市场调查人员必须了解有关法律、法规及政策。</p><p>自然环境调查：主要包括生态环境、资源环境、能源环境等方面的调查。</p><p>经济环境调查：生产方面的调查、<b>消费方面的调查</b>。</p><p>故本题应选D项。</p>",
+        "analysis": "政治环境调查应调查：①目标国家的政治制度和政策；②国家或地区之间的政治关系；③政治和社会动乱情况；④国有化政策。法律环境调查：市场调查人员必须了解有关法律、法规及政策。自然环境调查：主要包括生态环境、资源环境、能源环境等方面的调查。经济环境调查：生产方面的调查、<b>消费方面的调查</b>。故本题应选D项。",
         "avgAnswerTime": 17,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -483,32 +483,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力是指（）</p>",
+        "questionContent": "在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力是指（）",
         "questionId": 1645076,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>社会购买力</p>",
+            "optionContent": "社会购买力",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>商品供应能力</p>",
+            "optionContent": "商品供应能力",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>欲望</p>",
+            "optionContent": "欲望",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>社会需求</p>",
+            "optionContent": "社会需求",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -516,7 +516,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：全社会、购买<br></p><p>即社会购买力是指在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力。</p><p>本题易混项为B，商品供应能力是指现有商品生产或商品流转的规模、速度、结构状况以及能否满足消费需求。</p><p>CD选项为无关干扰项。</p><p>故本题正确答案为：A</p><p><br></p>",
+        "analysis": "<b>​</b>​破题点：全社会、购买<br>即社会购买力是指在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力。本题易混项为B，商品供应能力是指现有商品生产或商品流转的规模、速度、结构状况以及能否满足消费需求。CD选项为无关干扰项。故本题正确答案为：A<br>",
         "avgAnswerTime": 12,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -530,32 +530,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>预测性市场调查所回答的问题是（）</p>",
+        "questionContent": "预测性市场调查所回答的问题是（）",
         "questionId": 1465275,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>是什么</p>",
+            "optionContent": "是什么",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>为什么</p>",
+            "optionContent": "为什么",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>未来市场前景如何</p>",
+            "optionContent": "未来市场前景如何",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>如何做</p>",
+            "optionContent": "如何做",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -563,7 +563,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>预测性市场调查是指为了预测市场供求变化趋势或企业生产经营前景而进行的具有推断性的调查。它所回答的问题是<b>“未来市场前景如何”</b>，其目的在于掌握未来市场的发展趋势，为经营管理决策和市场营销决策提供依据。</p>",
+        "analysis": "预测性市场调查是指为了预测市场供求变化趋势或企业生产经营前景而进行的具有推断性的调查。它所回答的问题是<b>“未来市场前景如何”</b>，其目的在于掌握未来市场的发展趋势，为经营管理决策和市场营销决策提供依据。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -578,32 +578,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工业普查、经济普查属于（）</p>",
+        "questionContent": "工业普查、经济普查属于（）",
         "questionId": 1607079,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>宏观方面的普查</p>",
+            "optionContent": "宏观方面的普查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>微观方面的普查</p>",
+            "optionContent": "微观方面的普查",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>中观方面的普查</p>",
+            "optionContent": "中观方面的普查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>主观方面的普查</p>",
+            "optionContent": "主观方面的普查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -611,7 +611,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c2f898ed27bcd8e04fa6157756b7d6d3/image.png\" alt=\"\" width=\"413\" height=\"187\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c2f898ed27bcd8e04fa6157756b7d6d3/image.png\" alt=\"\" width=\"413\" height=\"187\"><br>故本题正确答案为：A",
         "avgAnswerTime": 6,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -625,32 +625,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>如果按照普查资料的汇总方式来划分，我们还可以将普查分为一般普查和（）</p>",
+        "questionContent": "如果按照普查资料的汇总方式来划分，我们还可以将普查分为一般普查和（）",
         "questionId": 1620209,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>特殊普查</p>",
+            "optionContent": "特殊普查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​综合普查<br></p>",
+            "optionContent": "​综合普查<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>快速普查</p>",
+            "optionContent": "快速普查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>专题普查</p>",
+            "optionContent": "专题普查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -658,7 +658,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cae588b57d70681f8ec8850dab576515/image.png\" alt=\"\" width=\"251\" height=\"102\"><br></p><p>ABD选项为无关干扰项。</p><p>故本题正确答案为：C</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cae588b57d70681f8ec8850dab576515/image.png\" alt=\"\" width=\"251\" height=\"102\"><br>ABD选项为无关干扰项。故本题正确答案为：C",
         "avgAnswerTime": 9,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -672,32 +672,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>典型调查主要有三种方式，其中，按一定的标准将调查总体划分为若干类别，再从各类别中选取部分具有代表性的样本进行调查，这就是（）</p>",
+        "questionContent": "典型调查主要有三种方式，其中，按一定的标准将调查总体划分为若干类别，再从各类别中选取部分具有代表性的样本进行调查，这就是（）",
         "questionId": 1704543,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>“解剖麻雀式”调查</p>",
+            "optionContent": "“解剖麻雀式”调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>“划类选典式”调查</p>",
+            "optionContent": "“划类选典式”调查",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>“综合应用式”调查</p>",
+            "optionContent": "“综合应用式”调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>“归纳总结式”调查</p>",
+            "optionContent": "“归纳总结式”调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -705,7 +705,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6c26fa14f0e19354ed0125a64fed0ddb/image.png\" alt=\"\" width=\"479\" height=\"154\"><br></p><p>D选项为无关干扰项。</p><p>故本题正确答案为：B</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6c26fa14f0e19354ed0125a64fed0ddb/image.png\" alt=\"\" width=\"479\" height=\"154\"><br>D选项为无关干扰项。故本题正确答案为：B",
         "avgAnswerTime": 14,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -719,32 +719,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>要根据调查任务的要求和调查对象的基本情况来确定选取的重点单位及数量。一般来说，要求重点单位应尽可能少，而其标志值在总体中所占的比重应尽可能大，以保证有足够的代表性。这体现了在选择重点单位时，应遵循（）</p>",
+        "questionContent": "要根据调查任务的要求和调查对象的基本情况来确定选取的重点单位及数量。一般来说，要求重点单位应尽可能少，而其标志值在总体中所占的比重应尽可能大，以保证有足够的代表性。这体现了在选择重点单位时，应遵循（）",
         "questionId": 1630361,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>目的性原则</p>",
+            "optionContent": "目的性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>基础性原则</p>",
+            "optionContent": "基础性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时空性原则</p>",
+            "optionContent": "时空性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>“少”“大”结合原则</p>",
+            "optionContent": "“少”“大”结合原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -752,7 +752,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：重点单位尽可能少，比重尽可能大。（“少”“大”结合）</p><p>选择重点调查单位的原则如下：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cb6fb1ed40f209fac71bd0e48104fcd5/image.png\" alt=\"\" width=\"437\" height=\"223\"><br></p><p>助记：“少”“大”结合基础行（性），目的时空不可少。</p><p>故本题正确答案为：D</p>",
+        "analysis": "<b>​</b>​破题点：重点单位尽可能少，比重尽可能大。（“少”“大”结合）选择重点调查单位的原则如下：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/cb6fb1ed40f209fac71bd0e48104fcd5/image.png\" alt=\"\" width=\"437\" height=\"223\"><br>助记：“少”“大”结合基础行（性），目的时空不可少。故本题正确答案为：D",
         "avgAnswerTime": 13,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -766,32 +766,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>所有研究方法中最生动、最有趣的一种调查方式是（）</p>",
+        "questionContent": "所有研究方法中最生动、最有趣的一种调查方式是（）",
         "questionId": 1607936,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>典型调查</p>",
+            "optionContent": "典型调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>重点调查</p>",
+            "optionContent": "重点调查",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样调查</p>",
+            "optionContent": "抽样调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>个案调查</p>",
+            "optionContent": "个案调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -799,7 +799,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​本题属于理解记忆型题目。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c4d47b1068a9cb70a813843a77ba8b93/image.png\" alt=\"\" width=\"399\" height=\"39\"><br></p><p>助记：个案生动又有趣。</p><p>故本题正确答案为：D</p>",
+        "analysis": "<b>​</b>​本题属于理解记忆型题目。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c4d47b1068a9cb70a813843a77ba8b93/image.png\" alt=\"\" width=\"399\" height=\"39\"><br>助记：个案生动又有趣。故本题正确答案为：D",
         "avgAnswerTime": 10,
         "avgCorrectRate": "76.0%",
         "score": 1.0,
@@ -814,32 +814,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查研究成果的集中体现，是对市场调查工作最集中的总结。</p>",
+        "questionContent": "（）是市场调查研究成果的集中体现，是对市场调查工作最集中的总结。",
         "questionId": 1465320,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>调查方案</p>",
+            "optionContent": "调查方案",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查报告</p>",
+            "optionContent": "调查报告",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>​调查计划<br></p>",
+            "optionContent": "​调查计划<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​调查资料<br></p>",
+            "optionContent": "​调查资料<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -847,7 +847,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>调查报告</b>是市场调查研究成果的集中体现，是对市场调查工作最集中的总结，而撰写调查报告是市场调查的重要环节，必须使调查报告在理论研究或实际工作中发挥重要作用，此外，还应对调查工作中的经验教训加以总结。</p>",
+        "analysis": "<b>调查报告</b>是市场调查研究成果的集中体现，是对市场调查工作最集中的总结，而撰写调查报告是市场调查的重要环节，必须使调查报告在理论研究或实际工作中发挥重要作用，此外，还应对调查工作中的经验教训加以总结。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -861,32 +861,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查的（），是市场调查方案的核心部分，也是设计调查方案时应该着重考虑的。</p>",
+        "questionContent": "市场调查的（），是市场调查方案的核心部分，也是设计调查方案时应该着重考虑的。",
         "questionId": 1465311,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>目的</p>",
+            "optionContent": "目的",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>项目和工具</p>",
+            "optionContent": "项目和工具",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>调查方法</p>",
+            "optionContent": "调查方法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>空间与时间</p>",
+            "optionContent": "空间与时间",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -894,7 +894,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>市场调查的<b>项目和工具</b>，是市场调查方案的核心部分，也是设计调查方案时应该着重考虑的。</p>",
+        "analysis": "市场调查的<b>项目和工具</b>，是市场调查方案的核心部分，也是设计调查方案时应该着重考虑的。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -908,32 +908,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查从定性认识过渡到定量认识的开始阶段，在市场调查中起着统筹兼顾、统一协调的作用。</p>",
+        "questionContent": "（）是市场调查从定性认识过渡到定量认识的开始阶段，在市场调查中起着统筹兼顾、统一协调的作用。",
         "questionId": 1630464,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场调查计划制定</p>",
+            "optionContent": "市场调查计划制定",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查报告制作</p>",
+            "optionContent": "市场调查报告制作",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查方案设计<br></p>",
+            "optionContent": "市场调查方案设计<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场调查资料收集</p>",
+            "optionContent": "市场调查资料收集",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -941,7 +941,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：开始阶段（方案设计）<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7db348e0d69f9198cee0a4b8d98fe5f8/image.png\" alt=\"\" width=\"466\" height=\"40\"><br></p><p>ABD选项为无关干扰项。</p><p>故本题正确答案为：C</p>",
+        "analysis": "<b>​</b>​破题点：开始阶段（方案设计）<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7db348e0d69f9198cee0a4b8d98fe5f8/image.png\" alt=\"\" width=\"466\" height=\"40\"><br>ABD选项为无关干扰项。故本题正确答案为：C",
         "avgAnswerTime": 31,
         "avgCorrectRate": "85.0%",
         "score": 1.0,

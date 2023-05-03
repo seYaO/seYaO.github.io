@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 15,
     "questionList": [
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘管理中技术性最强和难度最大的阶段是（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘管理中技术性最强和难度最大的阶段是（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2097539,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招募</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招募</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">甄选</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">甄选</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">评估</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">评估</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>招聘管理的具体过程由招募、甄选、录用、评估四个阶段组成。</p><p>1.<b>招募</b>的主要目的是宣传组织形象，扩大组织在劳动力市场中的影响力，把组织所需的潜在员工尽量吸引过来。</p><p>2.在<b>甄选</b>这一阶段，人力资源管理工作的质量将直接影响到最后的录取质量，这也是招聘管理中<b>技术性最强和难度最大</b>的阶段。</p><p>3.<b>录用</b>这项工作看起来似乎琐碎和无关紧要，但实际上是唤起新员工工作热情，使其顺利融入企业文化的关键。</p><p>4.<b>评估</b>是招聘过程中必不可少的一个环节。</p><p>综上，本题选B。</p>",
+        "analysis": "招聘管理的具体过程由招募、甄选、录用、评估四个阶段组成。1.<b>招募</b>的主要目的是宣传组织形象，扩大组织在劳动力市场中的影响力，把组织所需的潜在员工尽量吸引过来。2.在<b>甄选</b>这一阶段，人力资源管理工作的质量将直接影响到最后的录取质量，这也是招聘管理中<b>技术性最强和难度最大</b>的阶段。3.<b>录用</b>这项工作看起来似乎琐碎和无关紧要，但实际上是唤起新员工工作热情，使其顺利融入企业文化的关键。4.<b>评估</b>是招聘过程中必不可少的一个环节。综上，本题选B。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘管理的实施过程中，主要任务为新人上岗引导、新员工培训和访查等，该过程为（ ）</p>",
+        "questionContent": "在招聘管理的实施过程中，主要任务为新人上岗引导、新员工培训和访查等，该过程为（ ）",
         "questionId": 2101109,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>招募</p>",
+            "optionContent": "招募",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>甄选</p>",
+            "optionContent": "甄选",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>录用</p>",
+            "optionContent": "录用",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>评估</p>",
+            "optionContent": "评估",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>招聘管理<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">的具体过程由以下四阶段组成：</span></p><p>（1）招募：主要包括招聘计划的制定与审批、招聘渠道的选取、招聘信息的设计与发布，以及组织应聘者。<br>（2）甄选：从职位申请者中选出组织需要的最合适的人员的过程。<br>（3）<b>录用：主要包括新人上岗引导、新员工培训和访査等内容</b>。<br>（4）评估：包括招聘结果的成效评估和招聘方法的成效评估。</p><p>综上可知，本题选C。</p>",
+        "analysis": "招聘管理<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">的具体过程由以下四阶段组成：</span>（1）招募：主要包括招聘计划的制定与审批、招聘渠道的选取、招聘信息的设计与发布，以及组织应聘者。<br>（2）甄选：从职位申请者中选出组织需要的最合适的人员的过程。<br>（3）<b>录用：主要包括新人上岗引导、新员工培训和访査等内容</b>。<br>（4）评估：包括招聘结果的成效评估和招聘方法的成效评估。综上可知，本题选C。",
         "avgAnswerTime": 23,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -103,32 +103,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘过程中，从职位申请者中选出组织需要的最合适的人员的过程被称为（ ）</p>",
+        "questionContent": "在招聘过程中，从职位申请者中选出组织需要的最合适的人员的过程被称为（ ）",
         "questionId": 2404408,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>招募</p>",
+            "optionContent": "招募",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>甄选</p>",
+            "optionContent": "甄选",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>录用</p>",
+            "optionContent": "录用",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>评估</p>",
+            "optionContent": "评估",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>招募</b>主要包括招聘计划的制定与审批、招聘渠道的选取、招聘信息的设计与发布，以及组织应聘者。</p><p>2.<b>甄选</b>是<b>从职位申请者中选出组织需要的最合适的人员的过程</b>。</p><p>3.<b>录用</b>阶段主要包括新人上岗引导、新员工培训和访查等内容。目的是帮助新员工适应工作岗位，尽快熟悉和驾驭工作内容。</p><p>4.<b>评估</b>的内容包括：招聘结果的成效评估，如成本与效益评估、录用员工数量与质量评估；招聘方法的成效评估，如对所采用的选拔方法的信度与效度加以评估。</p><p>5.知识扩展：招聘管理的具体过程由招募、甄选、录用、评估四个阶段组成。</p><p>综上，本题选B。</p>",
+        "analysis": "1.<b>招募</b>主要包括招聘计划的制定与审批、招聘渠道的选取、招聘信息的设计与发布，以及组织应聘者。2.<b>甄选</b>是<b>从职位申请者中选出组织需要的最合适的人员的过程</b>。3.<b>录用</b>阶段主要包括新人上岗引导、新员工培训和访查等内容。目的是帮助新员工适应工作岗位，尽快熟悉和驾驭工作内容。4.<b>评估</b>的内容包括：招聘结果的成效评估，如成本与效益评估、录用员工数量与质量评估；招聘方法的成效评估，如对所采用的选拔方法的信度与效度加以评估。5.知识扩展：招聘管理的具体过程由招募、甄选、录用、评估四个阶段组成。综上，本题选B。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -151,32 +151,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘者应具备的最重要的能力是表达能力和（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘者应具备的最重要的能力是表达能力和（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2024518,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">自我认识能力</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">自我认识能力</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">应变能力</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">应变能力</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">适应能力</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">适应能力</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">观察能力</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">观察能力</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -184,7 +184,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.表达能力和<b>观察能力</b>是招聘者应具备的最重要的能力。故选项D正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.扩展知识：</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（1）自我认识能力指对自己的洞察和理解能力。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">（2）应变能力</font></span>指<span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">人在外界事物发生改变时，所做出的反应。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">（3）适应能力</font></span>指<span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">人为了更好的生存而进行的各种适应性的改变。</span></p><p class=\"MsoNormal\"><br></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.表达能力和<b>观察能力</b>是招聘者应具备的最重要的能力。故选项D正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.扩展知识：</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（1）自我认识能力指对自己的洞察和理解能力。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">（2）应变能力</font></span>指<span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">人在外界事物发生改变时，所做出的反应。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">（3）适应能力</font></span>指<span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">人为了更好的生存而进行的各种适应性的改变。</span><p class=\"MsoNormal\"><br>",
         "avgAnswerTime": 5,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -199,32 +199,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘和录用的过程中可能根据成见对申请者做出有利的判断。这就是所谓的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘和录用的过程中可能根据成见对申请者做出有利的判断。这就是所谓的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2024641,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“首因效应”</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“首因效应”</span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“光环效应”</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“光环效应”</span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“刻板效应”</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“刻板效应”</span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“定势效应”</span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">“定势效应”</span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -232,7 +232,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.在招聘和录用过程中，除了按照成见对一些申请者做出不利的判断外，还可能根据成见对申请者做出有利的判断。这就是所谓的“</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">光环效应</font></span></b><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">”。故选项B正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.<b>首因效应</b>指人与人在初次交往时，会迅速形成对对方的轮廓性印象，这一初步印象会影响到对对方后续表现的看法。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.<b>定势效应</b>指面试官由于自己的人生经历、社会经验与价值观念，形成了对某一类人的固定印象。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.<b>刻板效应</b>指对某个群体产生一种固定的看法和评价，并对属于该群体的个人也给予这一看法和评价。</span></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.在招聘和录用过程中，除了按照成见对一些申请者做出不利的判断外，还可能根据成见对申请者做出有利的判断。这就是所谓的“</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">光环效应</font></span></b><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">”。故选项B正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.<b>首因效应</b>指人与人在初次交往时，会迅速形成对对方的轮廓性印象，这一初步印象会影响到对对方后续表现的看法。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.<b>定势效应</b>指面试官由于自己的人生经历、社会经验与价值观念，形成了对某一类人的固定印象。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.<b>刻板效应</b>指对某个群体产生一种固定的看法和评价，并对属于该群体的个人也给予这一看法和评价。</span>",
         "avgAnswerTime": 11,
         "avgCorrectRate": "68.0%",
         "score": 1.0,
@@ -247,32 +247,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘者以自己的思维惯性来判断、评价应聘者的倾向被称为（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘者以自己的思维惯性来判断、评价应聘者的倾向被称为（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2097498,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">定势心理</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">定势心理</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">自炫心理</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">自炫心理</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">优势心理</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">优势心理</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">投射心理</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">投射心理</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -280,7 +280,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>心理偏差和倾向主要会出现在筛选和录用阶段，包括：</p><p>（1）<b>定势心理</b>是指招聘者以自己的思维惯性来判断、评价应聘者的倾向，也就是我们平常所说的成见。</p><p>（2）<b>自炫心理</b>是指招聘者的优势心理引发的自我表现心理。</p><p>（3）<b>优势心理</b>是指招聘者因处于主导地位而产生的居高临下的心理倾向。</p><p>综上，本题选A。</p>",
+        "analysis": "心理偏差和倾向主要会出现在筛选和录用阶段，包括：（1）<b>定势心理</b>是指招聘者以自己的思维惯性来判断、评价应聘者的倾向，也就是我们平常所说的成见。（2）<b>自炫心理</b>是指招聘者的优势心理引发的自我表现心理。（3）<b>优势心理</b>是指招聘者因处于主导地位而产生的居高临下的心理倾向。综上，本题选A。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -295,32 +295,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>招聘者的优势心理引发的自我表现心理被称为（）</p>",
+        "questionContent": "招聘者的优势心理引发的自我表现心理被称为（）",
         "questionId": 2167146,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>自炫心理</p>",
+            "optionContent": "自炫心理",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>定势心理</p>",
+            "optionContent": "定势心理",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>从众心理</p>",
+            "optionContent": "从众心理",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>投射心理</p>",
+            "optionContent": "投射心理",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -328,7 +328,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>自炫心理</b>是指招聘者的优势心理引发的自我表现心理。</p><p>2.<b>定势心理</b>是指招聘者以自己的思维惯性来判断、评价应聘者的倾向，也就是我们平常所说的成见。</p><p>3.知识扩展；</p><p><b>从众心理</b>，指个人受到外界人群行为的影响，而在自己的知觉、判断、认识上表现出符合于公众舆论或多数人的行为方式。</p><p><b>投射心理</b>，即一个人把自己之前所经历的情绪、感受、价值观、信念、好恶等个人体验，不自觉地影射到外界事物或者他人的一种心理现象。</p><p>综上，本题选A。</p>",
+        "analysis": "1.<b>自炫心理</b>是指招聘者的优势心理引发的自我表现心理。2.<b>定势心理</b>是指招聘者以自己的思维惯性来判断、评价应聘者的倾向，也就是我们平常所说的成见。3.知识扩展；<b>从众心理</b>，指个人受到外界人群行为的影响，而在自己的知觉、判断、认识上表现出符合于公众舆论或多数人的行为方式。<b>投射心理</b>，即一个人把自己之前所经历的情绪、感受、价值观、信念、好恶等个人体验，不自觉地影射到外界事物或者他人的一种心理现象。综上，本题选A。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -342,32 +342,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>不放弃任何一次面谈机会，在寻找职位的过程中，他们尽量多地获得不同的企业提供的职位机会，然后在这些机会中选择自己认为最好的。这种寻找工作的人被格卢克称为（ ）</p>",
+        "questionContent": "不放弃任何一次面谈机会，在寻找职位的过程中，他们尽量多地获得不同的企业提供的职位机会，然后在这些机会中选择自己认为最好的。这种寻找工作的人被格卢克称为（ ）",
         "questionId": 2100305,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>满足者</p>",
+            "optionContent": "满足者",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>最大限度利用机会者</p>",
+            "optionContent": "最大限度利用机会者",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>不满足者</p>",
+            "optionContent": "不满足者",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>有效利用机会者</p>",
+            "optionContent": "有效利用机会者",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -375,7 +375,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>格卢克把寻找工作的人分为三类：</p><p>①<b>最大限度利用机会者</b>：是那些<b>不放弃任何一次面谈机会</b>的人，然后在这些机会中选择自己认为最好的。&nbsp;</p><p>②满足者：是那些接受第一个被提供的职位的人，他们相信所有的企业都是差不多的，因此没有必要作太多的选择。&nbsp;<br>③有效利用机会者：是介于两者之间的，他们会先获得一个他们中意的职位，然后再寻找一个，目的只是与他们已经选择的职位进行对比，看这个选择是不是更好，比较之后，他们就会选择他们更中意的职位。</p><p>综上可知，本题应选B。</p>",
+        "analysis": "格卢克把寻找工作的人分为三类：①<b>最大限度利用机会者</b>：是那些<b>不放弃任何一次面谈机会</b>的人，然后在这些机会中选择自己认为最好的。&nbsp;②满足者：是那些接受第一个被提供的职位的人，他们相信所有的企业都是差不多的，因此没有必要作太多的选择。&nbsp;<br>③有效利用机会者：是介于两者之间的，他们会先获得一个他们中意的职位，然后再寻找一个，目的只是与他们已经选择的职位进行对比，看这个选择是不是更好，比较之后，他们就会选择他们更中意的职位。综上可知，本题应选B。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -390,32 +390,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">将职业选择看成是一个人花费最少的时间和努力使未来收入最大化的过程，这种研究角度出自（ ）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">将职业选择看成是一个人花费最少的时间和努力使未来收入最大化的过程，这种研究角度出自（ ）</font></span>",
         "questionId": 2013450,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理学家</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">心理学家</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">政治学家</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">政治学家</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">经济学家</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">经济学家</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">社会学家</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">社会学家</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -423,7 +423,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/35278922dae288ac4a66cf195c6537d4/image.png\" alt=\"\" width=\"578\" height=\"98\"><br></p><p><font face=\"微软雅黑\" style=\"font-family: 微软雅黑; font-size: 10.5pt;\">题干与政治无关，且本书未提及到政治学家，故选项</font><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">B可排除。</span><br></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综上，本题选</font>C。</span></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/35278922dae288ac4a66cf195c6537d4/image.png\" alt=\"\" width=\"578\" height=\"98\"><br><font face=\"微软雅黑\" style=\"font-family: 微软雅黑; font-size: 10.5pt;\">题干与政治无关，且本书未提及到政治学家，故选项</font><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\">B可排除。</span><br><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综上，本题选</font>C。</span>",
         "avgAnswerTime": 10,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -438,32 +438,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>由于我国劳动力市场法规的不完善，户口歧视、性别歧视等现象屡见不鲜，但随着法制体系的不断完善，类似情况逐步得到改观，如一些大中城市为吸引人才已取消户口限制，这体现了招聘管理的（）</p>",
+        "questionContent": "由于我国劳动力市场法规的不完善，户口歧视、性别歧视等现象屡见不鲜，但随着法制体系的不断完善，类似情况逐步得到改观，如一些大中城市为吸引人才已取消户口限制，这体现了招聘管理的（）",
         "questionId": 391396,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>合法性原则</p>",
+            "optionContent": "合法性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>公平竞争原则</p>",
+            "optionContent": "公平竞争原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>真实性原则</p>",
+            "optionContent": "真实性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>全面性原则</p>",
+            "optionContent": "全面性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -471,7 +471,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查招聘管理的原则。</p><p>（1）合法性原则\n<br>招聘工作要严格遵守国家相关法律和政策的规定，不得违背法律法规要求，否则组织将承担相应的法律责任。\n<br>（2）公平竞争原则\n<br>公平竞争原则是指组织在招聘过程中，应当平等对待所有的应聘者，努力营造一种公平竞争的氛围，从而有利于优秀人才脱颖而出。应该看到，由于我国劳动力市场法规的不完善，户口歧视、性别歧视等现象屡见不鲜，但随着法制体系的不断完善，类似情况逐步得到改观，如一些大中城市为吸引人才已取消户口限制。</p><p>（3）公开原则&nbsp;</p><p>公开原则是指把招聘的岗位、需求人数、所需人员的资格条件、招聘工作的起始及截止日期、待遇条件等向社会公开。\n<br>（4）真实性原则\n<br>组织在实施招聘计划时，应向应聘者提供真实的组织情况和工作岗位，包括该职位的优势和缺点，让应聘者比较客观、准确地了解该项工作，这项原则被专家们称为真实性原则。\n<br>（5）全面性原则\n<br>在招聘过程中，不但要考核应聘者的才，还要考核应聘者的德；不但要测试应聘者的智商，还要测试应聘者的情商；不但要关注应聘者的身体素质，还要关注应聘者的心理素质。\n<br>（6）人岗匹配、用人所长原则\n<br>把合适的人放在合适的岗位上，是组织在招聘管理中应该遵循的一条最基本的原则。这一原则首先要求组织要因事择人。其次，还要求组织能够用人所长。\n<br>（7）效益原则\n<br>参与招聘管理的人员应力争用最小的成本招聘到最适合组织的人员，也就是说，应尽量使招聘成本最小化、招聘效率最大化。\n<br>（8）内外兼顾原则\n<br>组织可从组织内部和组织外部两条渠道获取所需人员。&nbsp;<br></p>",
+        "analysis": "本题考查招聘管理的原则。（1）合法性原则\n<br>招聘工作要严格遵守国家相关法律和政策的规定，不得违背法律法规要求，否则组织将承担相应的法律责任。\n<br>（2）公平竞争原则\n<br>公平竞争原则是指组织在招聘过程中，应当平等对待所有的应聘者，努力营造一种公平竞争的氛围，从而有利于优秀人才脱颖而出。应该看到，由于我国劳动力市场法规的不完善，户口歧视、性别歧视等现象屡见不鲜，但随着法制体系的不断完善，类似情况逐步得到改观，如一些大中城市为吸引人才已取消户口限制。（3）公开原则&nbsp;公开原则是指把招聘的岗位、需求人数、所需人员的资格条件、招聘工作的起始及截止日期、待遇条件等向社会公开。\n<br>（4）真实性原则\n<br>组织在实施招聘计划时，应向应聘者提供真实的组织情况和工作岗位，包括该职位的优势和缺点，让应聘者比较客观、准确地了解该项工作，这项原则被专家们称为真实性原则。\n<br>（5）全面性原则\n<br>在招聘过程中，不但要考核应聘者的才，还要考核应聘者的德；不但要测试应聘者的智商，还要测试应聘者的情商；不但要关注应聘者的身体素质，还要关注应聘者的心理素质。\n<br>（6）人岗匹配、用人所长原则\n<br>把合适的人放在合适的岗位上，是组织在招聘管理中应该遵循的一条最基本的原则。这一原则首先要求组织要因事择人。其次，还要求组织能够用人所长。\n<br>（7）效益原则\n<br>参与招聘管理的人员应力争用最小的成本招聘到最适合组织的人员，也就是说，应尽量使招聘成本最小化、招聘效率最大化。\n<br>（8）内外兼顾原则\n<br>组织可从组织内部和组织外部两条渠道获取所需人员。&nbsp;<br>",
         "avgAnswerTime": 9,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -486,32 +486,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘过程中，把招聘的岗位、需求人数、所需人员的资格条件、招聘工作的起始及截止日期、待遇条件等向社会公开，这体现了招聘管理的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘过程中，把招聘的岗位、需求人数、所需人员的资格条件、招聘工作的起始及截止日期、待遇条件等向社会公开，这体现了招聘管理的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2404419,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">公平竞争原则</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">公平竞争原则</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">合法性原则</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">合法性原则</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">真实性原则</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">真实性原则</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">公开原则</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">公开原则</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -519,7 +519,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>公平竞争原则</b>是指组织在招聘过程中，应当平等对待所有的应聘者，努力营造一种公平竞争的氛围，从而有利于优秀人才脱颖而出。可排除选项A。</p><p>2.<b>合法性原则</b>指招聘工作应严格遵守国家相关法律和政策的规定，不得违背法律法规要求，否则组织将承担相应的法律责任。可排除选项B。</p><p>3.组织在实施招聘计划时，应向应聘者提供真实的组织情况介绍和工作岗位，包括该职位的优势和缺点，让应聘者比较客观、准确地了解该项工作，这项原则被专家们称为<b>真实性原则</b>。可排除选项C。</p><p>4.<b>公开原则</b>是指把招聘的岗位、需求人数、所需人员的资格条件、招聘工作的起始及截止日期、待遇条件等向社会公开。选项D正确。</p><p>综上，本题选D。</p>",
+        "analysis": "1.<b>公平竞争原则</b>是指组织在招聘过程中，应当平等对待所有的应聘者，努力营造一种公平竞争的氛围，从而有利于优秀人才脱颖而出。可排除选项A。2.<b>合法性原则</b>指招聘工作应严格遵守国家相关法律和政策的规定，不得违背法律法规要求，否则组织将承担相应的法律责任。可排除选项B。3.组织在实施招聘计划时，应向应聘者提供真实的组织情况介绍和工作岗位，包括该职位的优势和缺点，让应聘者比较客观、准确地了解该项工作，这项原则被专家们称为<b>真实性原则</b>。可排除选项C。4.<b>公开原则</b>是指把招聘的岗位、需求人数、所需人员的资格条件、招聘工作的起始及截止日期、待遇条件等向社会公开。选项D正确。综上，本题选D。",
         "avgAnswerTime": 12,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -534,7 +534,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘过程中，不但要考核应聘者的才，还要考核应聘者的德；不但要测试应聘者的智商，还要测试应聘者的情商；不但要关注应聘者的身体素质，还要关注应聘者的心理素质。这一招聘管理的原则是（ ）</p>",
+        "questionContent": "在招聘过程中，不但要考核应聘者的才，还要考核应聘者的德；不但要测试应聘者的智商，还要测试应聘者的情商；不但要关注应聘者的身体素质，还要关注应聘者的心理素质。这一招聘管理的原则是（ ）",
         "questionId": 2100329,
         "answerTime": 0,
         "correct": 2,
@@ -542,25 +542,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>合法性原则</p>",
+            "optionContent": "合法性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>效益原则</p>",
+            "optionContent": "效益原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>全面性原则</p>",
+            "optionContent": "全面性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>真实性原则</p>",
+            "optionContent": "真实性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -568,7 +568,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">A选项：合法性原则是指招聘工作应严格遵守国家相关法律和政策的规定，不得违背法律法规要求，否则将承担相应的法律责任。</span><br></p><p>B选项：效益原则是指参与招聘管理的人员应力争用最小的成本招聘到最适合组织的人员。</p><p>C选项：<b>全面性原则</b>是指在招聘过程中，要考核应聘者的<b>才和德</b>；测试应聘者的<b>智商和情商</b>；关注应聘者的<b>身体素质和心理素质</b>。</p><p>D选项：真实性原则是指组织在实施招聘计划时，应向应聘者提供真实的组织情况和工作岗位，让应聘者比较客观、准确地了解该项工作。</p><p>综上可知，本题应选C。</p>",
+        "analysis": "<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">A选项：合法性原则是指招聘工作应严格遵守国家相关法律和政策的规定，不得违背法律法规要求，否则将承担相应的法律责任。</span><br>B选项：效益原则是指参与招聘管理的人员应力争用最小的成本招聘到最适合组织的人员。C选项：<b>全面性原则</b>是指在招聘过程中，要考核应聘者的<b>才和德</b>；测试应聘者的<b>智商和情商</b>；关注应聘者的<b>身体素质和心理素质</b>。D选项：真实性原则是指组织在实施招聘计划时，应向应聘者提供真实的组织情况和工作岗位，让应聘者比较客观、准确地了解该项工作。综上可知，本题应选C。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -584,32 +584,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>《中华人民共和国劳动合同法》正式实施于（）</p>",
+        "questionContent": "《中华人民共和国劳动合同法》正式实施于（）",
         "questionId": 1578583,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>2005年1月1日</p>",
+            "optionContent": "2005年1月1日",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>2005年6月29日</p>",
+            "optionContent": "2005年6月29日",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>2008年1月1日</p>",
+            "optionContent": "2008年1月1日",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>2008年6月29日</p>",
+            "optionContent": "2008年6月29日",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -617,7 +617,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查与招聘活动相关的法律法规。《中华人民共和国劳动合同法》（简称《劳动合同法》）经过全国人大常委会第28次会议审议，获得高票通过，并于2008年1月1日起实施。选项C正确。选项ABD为干扰项，可排除。故本题选C。</p>",
+        "analysis": "本题考查与招聘活动相关的法律法规。《中华人民共和国劳动合同法》（简称《劳动合同法》）经过全国人大常委会第28次会议审议，获得高票通过，并于2008年1月1日起实施。选项C正确。选项ABD为干扰项，可排除。故本题选C。",
         "avgAnswerTime": 3,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -631,7 +631,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘的一般流程中，最后一个流程是（）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘的一般流程中，最后一个流程是（）</font></span>",
         "questionId": 2096722,
         "answerTime": 0,
         "correct": 2,
@@ -639,25 +639,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">实施招聘计划</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">实施招聘计划</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">甄选</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">甄选</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘评估</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘评估</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">体检和录用</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">体检和录用</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -665,7 +665,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.招聘工作一般有以下主要流程：</p><p>（1）制定招聘计划。<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（2）报批招聘计划。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（3）实施招聘计划。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（4）甄选。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（5）体检和录用。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（6）<b>招聘评估</b>。</span></p><p>2.可知，选项A为第三个流程，选项B为第四个流程，选项D为第五个流程，选项C为最后一个流程。</p><p>综上，本题选C。</p>",
+        "analysis": "1.招聘工作一般有以下主要流程：（1）制定招聘计划。<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（2）报批招聘计划。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（3）实施招聘计划。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（4）甄选。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（5）体检和录用。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（6）<b>招聘评估</b>。</span>2.可知，选项A为第三个流程，选项B为第四个流程，选项D为第五个流程，选项C为最后一个流程。综上，本题选C。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -681,32 +681,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘管理的构成要素中，符合标准的候选人被称为（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">在招聘管理的构成要素中，符合标准的候选人被称为（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2404404,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘主体</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘主体</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘载体</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘载体</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘对象</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘对象</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘途径</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘途径</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -714,7 +714,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>招聘，一般由招聘主体、招聘载体及招聘对象构成。</p><p>（1）<b>招聘主体</b>就是招聘者；</p><p>（2）<b>招聘载体</b>是信息的传播载体；</p><p>（3）<b>招聘对象</b>则是<b>符合标准的候选人</b>；</p><p>综上，本题选C。</p><p><br></p>",
+        "analysis": "招聘，一般由招聘主体、招聘载体及招聘对象构成。（1）<b>招聘主体</b>就是招聘者；（2）<b>招聘载体</b>是信息的传播载体；（3）<b>招聘对象</b>则是<b>符合标准的候选人</b>；综上，本题选C。<br>",
         "avgAnswerTime": 11,
         "avgCorrectRate": "95.0%",
         "score": 1.0,

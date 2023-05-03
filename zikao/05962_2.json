@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 20,
     "questionList": [
       {
-        "questionContent": "<p>我国《劳动法》正式生效于（）</p>",
+        "questionContent": "我国《劳动法》正式生效于（）",
         "questionId": 186320,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>1995年1月1日</p>",
+            "optionContent": "1995年1月1日",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>1995年7月4日</p>",
+            "optionContent": "1995年7月4日",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>2008年1月1日</p>",
+            "optionContent": "2008年1月1日",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>2008年7月4日</p>",
+            "optionContent": "2008年7月4日",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查国家有关的法律法规。我国在1994年7月5日颁布了《劳动法》，并于1995年1月1日起正式生效。故答案选A。</p>",
+        "analysis": "本题考查国家有关的法律法规。我国在1994年7月5日颁布了《劳动法》，并于1995年1月1日起正式生效。故答案选A。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">产业成长的核心是（ ）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">产业成长的核心是（ ）</font></span>",
         "questionId": 2013458,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">技术进步</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">技术进步</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">机构改革</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">机构改革</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">政策创新</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">政策创新</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">人员调整</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">人员调整</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">1、技术进步是产业成长的核心，也是产业升级换代的主要推动力量。故选项</font>A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\">2、知识扩展：技术人才对企业经营成败很关键。</p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">1、技术进步是产业成长的核心，也是产业升级换代的主要推动力量。故选项</font>A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\">2、知识扩展：技术人才对企业经营成败很关键。",
         "avgAnswerTime": 3,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -102,7 +102,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>属于影响企业的招聘的外部因素的是（ ）</p>",
+        "questionContent": "属于影响企业的招聘的外部因素的是（ ）",
         "questionId": 2100308,
         "answerTime": 0,
         "correct": 2,
@@ -110,25 +110,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>企业的经营战略</p>",
+            "optionContent": "企业的经营战略",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业文化</p>",
+            "optionContent": "企业文化",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业的发展前景</p>",
+            "optionContent": "企业的发展前景",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>技术进步</p>",
+            "optionContent": "技术进步",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1、影响企业招聘的<b>外部</b>因素包括：国家有关的法律法规；劳动力市场的状况；国家宏观经济形势；<b>技术进步</b>。</p><p>2、影响企业招聘的<b>内部</b>因素包括：<b>企业的经营战略</b>；企业的形象；<b>企业文化</b>；<b>企业的发展前景</b>；企业的规模、性质、成立时间；企业的薪酬福利与提供的职业发展机会；企业的招聘政策。</p><p>综上可知，本题应选D。</p>",
+        "analysis": "1、影响企业招聘的<b>外部</b>因素包括：国家有关的法律法规；劳动力市场的状况；国家宏观经济形势；<b>技术进步</b>。2、影响企业招聘的<b>内部</b>因素包括：<b>企业的经营战略</b>；企业的形象；<b>企业文化</b>；<b>企业的发展前景</b>；企业的规模、性质、成立时间；企业的薪酬福利与提供的职业发展机会；企业的招聘政策。综上可知，本题应选D。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -152,32 +152,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业通过外部特征和经营实力表现出来的，被消费者和公众所认同的企业总体印象，称为（）</p>",
+        "questionContent": "企业通过外部特征和经营实力表现出来的，被消费者和公众所认同的企业总体印象，称为（）",
         "questionId": 1581857,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>企业绩效</p>",
+            "optionContent": "企业绩效",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业文化</p>",
+            "optionContent": "企业文化",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业政策</p>",
+            "optionContent": "企业政策",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业形象</p>",
+            "optionContent": "企业形象",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -185,7 +185,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>企业形象是指企业通过外部特征和经营实力表现出来的，被消费者和公众所认同的企业总体印象。&nbsp;选项D正确。</p><p>选项AC为干扰项，可排除。</p><p>企业文化指企业所创造具有本企业特色的精神财富和物质形态。选项B错误。<br></p><p>综上，本题选D。</p>",
+        "analysis": "企业形象是指企业通过外部特征和经营实力表现出来的，被消费者和公众所认同的企业总体印象。&nbsp;选项D正确。选项AC为干扰项，可排除。企业文化指企业所创造具有本企业特色的精神财富和物质形态。选项B错误。<br>综上，本题选D。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -199,32 +199,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。这体现了企业文化的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。这体现了企业文化的（ ）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2097721,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">导向功能</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">导向功能</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">凝聚功能</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">凝聚功能</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">激励功能</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">激励功能</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">稳定功能</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">稳定功能</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -232,7 +232,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>A选项：<b>导向功能</b>，即通过它对企业的领导者和员工起引导作用。</p><p>B选项：<b>凝聚功能</b>，企业文化能够在企业中创造一种<b>信任、友爱的和谐气氛</b>，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的<b>凝聚力和向心力</b>。</p><p>C选项：<b>激励功能</b>，企业文化是内在于企业机体中的精神和价值观念，使员工明确自己存在和行为的价值，激发员工无比的自豪感和主人翁的责任感。</p><p>D选项：<b>稳定功能</b>，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。</p><p>综上可知，本题选B。</p>",
+        "analysis": "A选项：<b>导向功能</b>，即通过它对企业的领导者和员工起引导作用。B选项：<b>凝聚功能</b>，企业文化能够在企业中创造一种<b>信任、友爱的和谐气氛</b>，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的<b>凝聚力和向心力</b>。C选项：<b>激励功能</b>，企业文化是内在于企业机体中的精神和价值观念，使员工明确自己存在和行为的价值，激发员工无比的自豪感和主人翁的责任感。D选项：<b>稳定功能</b>，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。综上可知，本题选B。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -246,32 +246,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业文化能够在企业中创造一种信任、有爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，这体现了企业文化的（ ）</p>",
+        "questionContent": "企业文化能够在企业中创造一种信任、有爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，这体现了企业文化的（ ）",
         "questionId": 2101229,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>导向功能</p>",
+            "optionContent": "导向功能",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>凝聚功能</p>",
+            "optionContent": "凝聚功能",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>​激励功能<br></p>",
+            "optionContent": "​激励功能<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>稳定功能</p>",
+            "optionContent": "稳定功能",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -279,7 +279,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>企业文化在企业管理中的功能：</p><p>（1）导向功能：通过它对企业的领导者和员工起引导作用。</p><p>（2）<b>疑聚功能：</b><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">企业文化能够在企业中创造一种<b>信任、友爱的和谐气氛</b>，</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">能够培育</span><b style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的疑聚力和向心力。</b></p><p>（3）激励功能：企业文化可以激发员工无比的自豪感和主人翁的责任感。<br>（4）稳定功能：企业文化是在企业长期的生产经营中形成的，因而一日企业文化形成后，就具备较强的稳定作用。</p><p>综上可知，本题选B。</p>",
+        "analysis": "企业文化在企业管理中的功能：（1）导向功能：通过它对企业的领导者和员工起引导作用。（2）<b>疑聚功能：</b><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">企业文化能够在企业中创造一种<b>信任、友爱的和谐气氛</b>，</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">能够培育</span><b style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的疑聚力和向心力。</b>（3）激励功能：企业文化可以激发员工无比的自豪感和主人翁的责任感。<br>（4）稳定功能：企业文化是在企业长期的生产经营中形成的，因而一日企业文化形成后，就具备较强的稳定作用。综上可知，本题选B。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -294,32 +294,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业文化是一种内在于企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感，这体现了企业文化的（）</p>",
+        "questionContent": "企业文化是一种内在于企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感，这体现了企业文化的（）",
         "questionId": 2183752,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>导向功能</p>",
+            "optionContent": "导向功能",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>凝聚功能</p>",
+            "optionContent": "凝聚功能",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>激励功能</p>",
+            "optionContent": "激励功能",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>稳定功能</p>",
+            "optionContent": "稳定功能",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -327,7 +327,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>导向功能</b>，即通过它对企业的领导者和员工起引导作用。\n<br>2.<b>凝聚功能</b>，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。\n<br>3.<b>激励功能</b>，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。\n<br>4.<b>稳定功能</b>，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。\n<br>5.知识扩展：\n<br>企业文化在企业管理中一般有如下几方面的功能：\n<br>（1）导向功能；（2）凝聚功能；（3）激励功能；（4）稳定功能。\n<br>综上，本题选C。</p>",
+        "analysis": "1.<b>导向功能</b>，即通过它对企业的领导者和员工起引导作用。\n<br>2.<b>凝聚功能</b>，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。\n<br>3.<b>激励功能</b>，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。\n<br>4.<b>稳定功能</b>，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。\n<br>5.知识扩展：\n<br>企业文化在企业管理中一般有如下几方面的功能：\n<br>（1）导向功能；（2）凝聚功能；（3）激励功能；（4）稳定功能。\n<br>综上，本题选C。",
         "avgAnswerTime": 42,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -342,32 +342,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在一定的社会历史条件下，企业生产经营和管理活动中所创造的具有本企业特色的精神财富和物质形态是指（）</p>",
+        "questionContent": "在一定的社会历史条件下，企业生产经营和管理活动中所创造的具有本企业特色的精神财富和物质形态是指（）",
         "questionId": 2184425,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>企业绩效</p>",
+            "optionContent": "企业绩效",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业文化</p>",
+            "optionContent": "企业文化",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>企业政策</p>",
+            "optionContent": "企业政策",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>企业形象</p>",
+            "optionContent": "企业形象",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -375,7 +375,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>企业文化</b>是在一定的社会历史条件下，企业生产经营和管理活动中所创造的具有本企业特色的精神财富和物质形态。</p><p>2.知识扩展：</p><p>企业绩效是指一定经营期间的企业经营效益和经营者业绩。</p><p>企业政策指政府根据中小企业的实际情况和本国有关产业发展的特点，对各产业中的中小企业采取的一系列方针、措施和规定。</p><p>企业形象指社会公众对企业素质的整体印象与评价。</p><p>综上，本题选B。</p>",
+        "analysis": "1.<b>企业文化</b>是在一定的社会历史条件下，企业生产经营和管理活动中所创造的具有本企业特色的精神财富和物质形态。2.知识扩展：企业绩效是指一定经营期间的企业经营效益和经营者业绩。企业政策指政府根据中小企业的实际情况和本国有关产业发展的特点，对各产业中的中小企业采取的一系列方针、措施和规定。企业形象指社会公众对企业素质的整体印象与评价。综上，本题选B。",
         "avgAnswerTime": 25,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -390,32 +390,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业文化能够对企业的领导者和员工起引导作用。这说明企业文化具有（）</p>",
+        "questionContent": "企业文化能够对企业的领导者和员工起引导作用。这说明企业文化具有（）",
         "questionId": 2190125,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>导向功能</p>",
+            "optionContent": "导向功能",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>凝聚功能</p>",
+            "optionContent": "凝聚功能",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>激励功能</p>",
+            "optionContent": "激励功能",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>稳定功能</p>",
+            "optionContent": "稳定功能",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -423,7 +423,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><span style=\"font-size: 14px;\">企业文化在企业管理中的功能：</span></p><p>1.<b>导向功能</b>，即通过它对企业的领导者和员工起<b>引导作用</b>。\n<br>2.凝聚功能，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。\n<br>3.激励功能，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。\n<br>4.稳定功能，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。\n<br>综上，本题选A。</p>",
+        "analysis": "<span style=\"font-size: 14px;\">企业文化在企业管理中的功能：</span>1.<b>导向功能</b>，即通过它对企业的领导者和员工起<b>引导作用</b>。\n<br>2.凝聚功能，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。\n<br>3.激励功能，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。\n<br>4.稳定功能，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。\n<br>综上，本题选A。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -438,32 +438,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业文化对企业的领导者和员工起引导作用，这体现了企业文化的（ ）</p>",
+        "questionContent": "企业文化对企业的领导者和员工起引导作用，这体现了企业文化的（ ）",
         "questionId": 2190132,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>导向功能</p>",
+            "optionContent": "导向功能",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>凝聚功能</p>",
+            "optionContent": "凝聚功能",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>激励功能</p>",
+            "optionContent": "激励功能",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>稳定功能</p>",
+            "optionContent": "稳定功能",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -471,7 +471,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><span style=\"font-size: 14px;\">企业文化在企业管理中的功能：</span></p><p>1.<b>导向功能</b>，即通过它对企业的领导者和员工起<b>引导作用</b>。\n<br>2.凝聚功能，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。\n<br>3.激励功能，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。\n<br>4.稳定功能，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。\n<br>综上，本题选A。</p>",
+        "analysis": "<span style=\"font-size: 14px;\">企业文化在企业管理中的功能：</span>1.<b>导向功能</b>，即通过它对企业的领导者和员工起<b>引导作用</b>。\n<br>2.凝聚功能，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。\n<br>3.激励功能，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。\n<br>4.稳定功能，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用。\n<br>综上，本题选A。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -486,32 +486,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用，这体现了企业文化的（ ）</p>",
+        "questionContent": "企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的稳定作用，这体现了企业文化的（ ）",
         "questionId": 2190159,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>导向功能</p>",
+            "optionContent": "导向功能",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>凝聚功能</p>",
+            "optionContent": "凝聚功能",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>激励功能</p>",
+            "optionContent": "激励功能",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>稳定功能</p>",
+            "optionContent": "稳定功能",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -519,7 +519,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><span style=\"font-size: 14px;\">企业文化在企业管理中的功能：</span></p><p>1.导向功能，即通过它对企业的领导者和员工起引导作用。</p><p>2.凝聚功能，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。</p><p>3.激励功能，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。</p><p>4.<b>稳定功能</b>，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的<b>稳定作用</b>。</p><p>综上，本题选D。</p>",
+        "analysis": "<span style=\"font-size: 14px;\">企业文化在企业管理中的功能：</span>1.导向功能，即通过它对企业的领导者和员工起引导作用。2.凝聚功能，企业文化能够在企业中创造一种信任、友爱的和谐气氛，能够培育员工对组织的团体意识，促进全体员工的理解与支持，在企业员工之间形成强大的凝聚力和向心力。3.激励功能，企业文化是一种内在企业机体中的精神和价值观念，使每一个员工都会明确自己存在的价值和自己行为的价值，这样可以激发员工无比的自豪感和主人翁的责任感。4.<b>稳定功能</b>，企业文化是在企业长期的生产经营中形成的，因而一旦企业文化形成后，就具备较强的<b>稳定作用</b>。综上，本题选D。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -534,32 +534,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>求职者的求职动机与经济压力之间（）</p>",
+        "questionContent": "求职者的求职动机与经济压力之间（）",
         "questionId": 503900,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>成正比关系</p>",
+            "optionContent": "成正比关系",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>成反比关系</p>",
+            "optionContent": "成反比关系",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>成相关关系</p>",
+            "optionContent": "成相关关系",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>没有关系</p>",
+            "optionContent": "没有关系",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -567,7 +567,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查求职动机对企业招聘的影响。求职者的求职动机与经济压力之间成正比关系。</p>",
+        "analysis": "本题考查求职动机对企业招聘的影响。求职者的求职动机与经济压力之间成正比关系。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -582,32 +582,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>按照规划的性质，人力资源规划可分为（）</p>",
+        "questionContent": "按照规划的性质，人力资源规划可分为（）",
         "questionId": 187379,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>长期性规划和短期性规划</p>",
+            "optionContent": "长期性规划和短期性规划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>稳定性规划和不稳定性规划</p>",
+            "optionContent": "稳定性规划和不稳定性规划",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>确定性规划和不确定性规划</p>",
+            "optionContent": "确定性规划和不确定性规划",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>战略性规划和战术性规划</p>",
+            "optionContent": "战略性规划和战术性规划",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -615,7 +615,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查人力资源规划的分类。从规划的性质上，可分为战略性人力资源规划（全局性和长远性）和战术性人力资源规划（具体的、短期的、具有专门针对性的）。故本题选D。</p>",
+        "analysis": "本题考查人力资源规划的分类。从规划的性质上，可分为战略性人力资源规划（全局性和长远性）和战术性人力资源规划（具体的、短期的、具有专门针对性的）。故本题选D。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -630,32 +630,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>从规划时间来看，长期人力资源规划的期限一般为（）</p>",
+        "questionContent": "从规划时间来看，长期人力资源规划的期限一般为（）",
         "questionId": 187512,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>6个月以下</p>",
+            "optionContent": "6个月以下",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>6个月到1年</p>",
+            "optionContent": "6个月到1年",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>1年到3年</p>",
+            "optionContent": "1年到3年",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>3年以上</p>",
+            "optionContent": "3年以上",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -663,7 +663,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查人力资源规划的分类。从规划的时间长短上，人力资源规划可以分为3种：①短期规划（6个月到1年）；②中期规划（1至3年）；③长期规划（3年以上）。故本题选D。</p>",
+        "analysis": "本题考查人力资源规划的分类。从规划的时间长短上，人力资源规划可以分为3种：①短期规划（6个月到1年）；②中期规划（1至3年）；③长期规划（3年以上）。故本题选D。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -678,32 +678,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>从规划时间来看，短期人力资源规划的期限一般为（）</p>",
+        "questionContent": "从规划时间来看，短期人力资源规划的期限一般为（）",
         "questionId": 497666,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>6个月以下</p>",
+            "optionContent": "6个月以下",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>6个月〜1年</p>",
+            "optionContent": "6个月〜1年",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>1年〜3年</p>",
+            "optionContent": "1年〜3年",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>3年以上</p>",
+            "optionContent": "3年以上",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -711,7 +711,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查人力资源规划的分类。</p><p>从规划的时间长短上，人力资源规划可以分为3种：\n<br>①短期规划（6个月到1年）；\n<br>②中期规划（1至3年）；\n<br>③长期规划（3年以上）。</p>",
+        "analysis": "本题考查人力资源规划的分类。从规划的时间长短上，人力资源规划可以分为3种：\n<br>①短期规划（6个月到1年）；\n<br>②中期规划（1至3年）；\n<br>③长期规划（3年以上）。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -725,32 +725,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>按照规划的性质，具有全局性、长远性的人力资源规划，称为（）</p>",
+        "questionContent": "按照规划的性质，具有全局性、长远性的人力资源规划，称为（）",
         "questionId": 2190071,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>战略性人力资源规划</p>",
+            "optionContent": "战略性人力资源规划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>战术性人力资源规划</p>",
+            "optionContent": "战术性人力资源规划",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>稳定性人力资源规划</p>",
+            "optionContent": "稳定性人力资源规划",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>不稳定性人力资源规划</p>",
+            "optionContent": "不稳定性人力资源规划",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -758,7 +758,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>战略性人力资源规划</b>具有全局性和长远性，通常是组织人力资源战略的表现形式。</p><p>2.战术性人力资源规划一般是指具体的、短期的、具有专门针对性的业务计划。</p><p>3.不稳定性人力资源规划指短期人力资源规划，一般为6个月到1年。</p><p>4.稳定性人力资源规划指长期人力资源规划，时间为3年以上。</p><p>综上，本题选A。</p>",
+        "analysis": "1.<b>战略性人力资源规划</b>具有全局性和长远性，通常是组织人力资源战略的表现形式。2.战术性人力资源规划一般是指具体的、短期的、具有专门针对性的业务计划。3.不稳定性人力资源规划指短期人力资源规划，一般为6个月到1年。4.稳定性人力资源规划指长期人力资源规划，时间为3年以上。综上，本题选A。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -773,32 +773,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源规划流程的首要步骤为（）</p>",
+        "questionContent": "人力资源规划流程的首要步骤为（）",
         "questionId": 1584609,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>战略制定</p>",
+            "optionContent": "战略制定",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>环境分析</p>",
+            "optionContent": "环境分析",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>规划制定</p>",
+            "optionContent": "规划制定",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>效果评估</p>",
+            "optionContent": "效果评估",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -806,7 +806,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/55df03d9a7ca639896d8f348cc02671c/2017111000457.png\" alt=\"\" width=\"510\" height=\"195\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/55df03d9a7ca639896d8f348cc02671c/2017111000457.png\" alt=\"\" width=\"510\" height=\"195\"><br>故本题选A。",
         "avgAnswerTime": 4,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -821,32 +821,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业战略制定的重要前提、基础和起点为（ ）</p>",
+        "questionContent": "企业战略制定的重要前提、基础和起点为（ ）",
         "questionId": 2189987,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>供求预测</p>",
+            "optionContent": "供求预测",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>环境分析</p>",
+            "optionContent": "环境分析",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>规划制定</p>",
+            "optionContent": "规划制定",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>效果评估</p>",
+            "optionContent": "效果评估",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -854,7 +854,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>供求预测</b>的结果是人力资源规划的前提和基础。</p><p>2.<b>环境分析</b>是企业战略制定的重要提前、基础和起点，在战略制定阶段进行的环境分析，主要是明确组织面临的挑战和机遇，认识组织自身的优势和劣势，确认组织能够做什么和不能做什么、组织想做什么和不想做什么。</p><p>3.<b>规划制定</b>：基于对规划人力资源供求形势的估计和预测，企业需要做出相应的反应，即做好人力资源的规划工作。</p><p>4.<b>效果评估</b>：在规划实施的过程中，需要不断对规划方向的正确性、规划内容的合理性、规划措施的适用性、规划效果的理想度进行判断和评价，根据实际需要进行必要的调整甚至推翻重来。</p><p>5.知识扩展：<span style=\"font-size: 14px;\">人力资源规划的流程包括：战略制定、环境分析、供求预测、规划制定、规划实施和效果评估。</span></p><p>综上，本题选B。</p>",
+        "analysis": "1.<b>供求预测</b>的结果是人力资源规划的前提和基础。2.<b>环境分析</b>是企业战略制定的重要提前、基础和起点，在战略制定阶段进行的环境分析，主要是明确组织面临的挑战和机遇，认识组织自身的优势和劣势，确认组织能够做什么和不能做什么、组织想做什么和不想做什么。3.<b>规划制定</b>：基于对规划人力资源供求形势的估计和预测，企业需要做出相应的反应，即做好人力资源的规划工作。4.<b>效果评估</b>：在规划实施的过程中，需要不断对规划方向的正确性、规划内容的合理性、规划措施的适用性、规划效果的理想度进行判断和评价，根据实际需要进行必要的调整甚至推翻重来。5.知识扩展：<span style=\"font-size: 14px;\">人力资源规划的流程包括：战略制定、环境分析、供求预测、规划制定、规划实施和效果评估。</span>综上，本题选B。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -869,32 +869,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源需求预测的定性方法中，一种最简单的预测方法是（ ）</p>",
+        "questionContent": "在人力资源需求预测的定性方法中，一种最简单的预测方法是（ ）",
         "questionId": 2100233,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>德尔菲法</p>",
+            "optionContent": "德尔菲法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>头脑风暴法</p>",
+            "optionContent": "头脑风暴法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>主观判断法</p>",
+            "optionContent": "主观判断法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>回归分析法</p>",
+            "optionContent": "回归分析法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -902,7 +902,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1、人力资源需求预测的<b>定性方法</b>：<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（1）<b>主观判断法</b>；</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（2）头脑风暴法；</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（3）德尔菲法。</span></p><p>其中，<b>主观判断法</b>是<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">一种最简单的预测方法，管理人员根据经验，对人力资源影响因素的未来变化趋势进行主观判断，预测人力资源需求。故本题选C。</span></p><p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">2、人力资源需求预测的<b>定量</b>方法：</span>比率预测法、<b>回归分析法</b>、简单平均法、移动平均法、指数平均法、趋势延伸法，因此排除D。</p>",
+        "analysis": "1、人力资源需求预测的<b>定性方法</b>：<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（1）<b>主观判断法</b>；</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（2）头脑风暴法；</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（3）德尔菲法。</span>其中，<b>主观判断法</b>是<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">一种最简单的预测方法，管理人员根据经验，对人力资源影响因素的未来变化趋势进行主观判断，预测人力资源需求。故本题选C。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">2、人力资源需求预测的<b>定量</b>方法：</span>比率预测法、<b>回归分析法</b>、简单平均法、移动平均法、指数平均法、趋势延伸法，因此排除D。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -916,32 +916,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>通过对组织内部人员的档案资源进行分析，预测组织内部人力资源的供给情况，此种人力资源供给预测称为（）</p>",
+        "questionContent": "通过对组织内部人员的档案资源进行分析，预测组织内部人力资源的供给情况，此种人力资源供给预测称为（）",
         "questionId": 1587908,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>档案资料分析法</p>",
+            "optionContent": "档案资料分析法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>技能清单法</p>",
+            "optionContent": "技能清单法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>管理人员接替图</p>",
+            "optionContent": "管理人员接替图",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>马尔科夫分析法</p>",
+            "optionContent": "马尔科夫分析法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -949,7 +949,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/734bec1452281270840eee0ae39b12b8/2017111600274.png\" alt=\"\" width=\"578\" height=\"206\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/734bec1452281270840eee0ae39b12b8/2017111600274.png\" alt=\"\" width=\"578\" height=\"206\"><br>故本题选A。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "98.0%",
         "score": 1.0,

@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 11,
     "questionList": [
       {
-        "questionContent": "<p>“您对医疗保险制度改革有何看法?”“预计今后一两年，您的收入会如何变化?”等属于调查问卷问题类型中的（）</p>",
+        "questionContent": "“您对医疗保险制度改革有何看法?”“预计今后一两年，您的收入会如何变化?”等属于调查问卷问题类型中的（）",
         "questionId": 1465892,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>主观性问题</p>",
+            "optionContent": "主观性问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>客观性问题</p>",
+            "optionContent": "客观性问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>检验性问题</p>",
+            "optionContent": "检验性问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>背景性问题</p>",
+            "optionContent": "背景性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>主观性问题</b>是指人们的思想、感情、态度、愿望等一切主要世界观状况方面的问题。如，“您对当前国家的经济状况是否满意?”“您对医疗保险制度改革有何看法?”“预计今后一两年，您的收入会如何变化?”等。</p>",
+        "analysis": "<b>主观性问题</b>是指人们的思想、感情、态度、愿望等一切主要世界观状况方面的问题。如，“您对当前国家的经济状况是否满意?”“您对医疗保险制度改革有何看法?”“预计今后一两年，您的收入会如何变化?”等。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "87.0%",
         "score": 1.0,
@@ -54,32 +54,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指人们的思想、感情、态度、愿望等一切主要世界观状况方面的问题。</p>",
+        "questionContent": "（）是指人们的思想、感情、态度、愿望等一切主要世界观状况方面的问题。",
         "questionId": 1756921,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>检验性问题</p>",
+            "optionContent": "检验性问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>背景性问题</p>",
+            "optionContent": "背景性问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>客观性问题</p>",
+            "optionContent": "客观性问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>主观性问题</p>",
+            "optionContent": "主观性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -87,7 +87,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e5270f0e9b3f8ebbb93c062ff120476a/image.png\" alt=\"\" width=\"584\" height=\"100\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e5270f0e9b3f8ebbb93c062ff120476a/image.png\" alt=\"\" width=\"584\" height=\"100\"><br>",
         "avgAnswerTime": 14,
         "avgCorrectRate": "81.0%",
         "score": 1.0,
@@ -102,32 +102,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>已经发生和正在发生的各种事实和行为方面的问题属于调查问卷问题类型中的（）</p>",
+        "questionContent": "已经发生和正在发生的各种事实和行为方面的问题属于调查问卷问题类型中的（）",
         "questionId": 1756934,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>客观性问题</p>",
+            "optionContent": "客观性问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>背景性问题</p>",
+            "optionContent": "背景性问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>主观性问题</p>",
+            "optionContent": "主观性问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>检验性问题</p>",
+            "optionContent": "检验性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -135,7 +135,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/872af51ca79854993b4f691723031be1/image.png\" alt=\"\" width=\"585\" height=\"101\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/872af51ca79854993b4f691723031be1/image.png\" alt=\"\" width=\"585\" height=\"101\"><br>",
         "avgAnswerTime": 25,
         "avgCorrectRate": "70.0%",
         "score": 1.0,
@@ -150,32 +150,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>性别、年龄、民族、文化程度等属于调查问卷问题类型中的（）</p>",
+        "questionContent": "性别、年龄、民族、文化程度等属于调查问卷问题类型中的（）",
         "questionId": 1756954,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>主观性问题</p>",
+            "optionContent": "主观性问题",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>客观性问题</p>",
+            "optionContent": "客观性问题",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>背景性问题</p>",
+            "optionContent": "背景性问题",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>检验性问题</p>",
+            "optionContent": "检验性问题",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -183,7 +183,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/94818106767258dd5014054bdf549d57/image.png\" alt=\"\" width=\"584\" height=\"122\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/94818106767258dd5014054bdf549d57/image.png\" alt=\"\" width=\"584\" height=\"122\"><br>",
         "avgAnswerTime": 5,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -197,32 +197,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>调查问卷中的问题，从内容上看大致可分为三类，其中不包括（ ）</p>",
+        "questionContent": "调查问卷中的问题，从内容上看大致可分为三类，其中不包括（ ）",
         "questionId": 1978656,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>被调查者的行为&nbsp;</p>",
+            "optionContent": "被调查者的行为&nbsp;",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>被调查者的态度&nbsp;</p>",
+            "optionContent": "被调查者的态度&nbsp;",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>被调查者的学历</p>",
+            "optionContent": "被调查者的学历",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>被调查者基本分类资料</p>",
+            "optionContent": "被调查者基本分类资料",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -230,7 +230,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>调查问卷的内容可简记为：<b>“基本行为态度”\n</b><br>“基本”——被调查者<b>基本分类资料</b>（排除D）；\n<br>“行为”——被调查者的<b>行为</b>（排除A）；&nbsp;</p><p>“态度”——被调查者的<b>态度</b>（排除B）。</p><p><b>C项不属于，本题为选非题，故正确答案为C项。</b></p>",
+        "analysis": "调查问卷的内容可简记为：<b>“基本行为态度”\n</b><br>“基本”——被调查者<b>基本分类资料</b>（排除D）；\n<br>“行为”——被调查者的<b>行为</b>（排除A）；&nbsp;“态度”——被调查者的<b>态度</b>（排除B）。<b>C项不属于，本题为选非题，故正确答案为C项。</b>",
         "avgAnswerTime": 17,
         "avgCorrectRate": "64.0%",
         "score": 1.0,
@@ -245,32 +245,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>既是调查问卷的主体，也是调查问卷设计的主要内容的是（）</p>",
+        "questionContent": "既是调查问卷的主体，也是调查问卷设计的主要内容的是（）",
         "questionId": 1465894,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>封面信</p>",
+            "optionContent": "封面信",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>指导语</p>",
+            "optionContent": "指导语",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>问题及答案</p>",
+            "optionContent": "问题及答案",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>编码</p>",
+            "optionContent": "编码",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -278,7 +278,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>问题及答案</b>是调查问卷的主体，也是调查问卷设计的主要内容。</p>",
+        "analysis": "<b>问题及答案</b>是调查问卷的主体，也是调查问卷设计的主要内容。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -292,32 +292,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>将数据分成各种互相排斥、互不相容的类别，这种测量量表为（ ）</p>",
+        "questionContent": "将数据分成各种互相排斥、互不相容的类别，这种测量量表为（ ）",
         "questionId": 1992205,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>顺序量表</p>",
+            "optionContent": "顺序量表",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>类别量表</p>",
+            "optionContent": "类别量表",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>等距量表</p>",
+            "optionContent": "等距量表",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>等比量表</p>",
+            "optionContent": "等比量表",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -325,7 +325,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>顺序量表的目的是<b>排序</b>，任何可以代表顺序关系的系列数字都可以接受。排除A</p><p><b>类别量表</b>是市场调研中使用最为普遍的量表之一，它是<b>将数据分成各种互相排斥、互不相容的类别</b>。<b>B项正确</b>。</p><p>等距量表不仅能表示顺序关系，还能测量各顺序位置之间的距离。排除C</p><p>等比量表是表示各个类别之间的顺序关系成比率的量表。排除D</p>",
+        "analysis": "顺序量表的目的是<b>排序</b>，任何可以代表顺序关系的系列数字都可以接受。排除A<b>类别量表</b>是市场调研中使用最为普遍的量表之一，它是<b>将数据分成各种互相排斥、互不相容的类别</b>。<b>B项正确</b>。等距量表不仅能表示顺序关系，还能测量各顺序位置之间的距离。排除C等比量表是表示各个类别之间的顺序关系成比率的量表。排除D",
         "avgAnswerTime": 8,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -339,32 +339,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>参与调查问卷设计的人员一般有三类，其中不包括（ ）</p>",
+        "questionContent": "参与调查问卷设计的人员一般有三类，其中不包括（ ）",
         "questionId": 1978806,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>相关政府人员</p>",
+            "optionContent": "相关政府人员",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>计算机专业人员</p>",
+            "optionContent": "计算机专业人员",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>相关专业人员</p>",
+            "optionContent": "相关专业人员",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计调查人员</p>",
+            "optionContent": "统计调查人员",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -372,7 +372,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>参与调查问卷设计的人员一般有三类，可简记为<b>”计算机相关统计“</b></p><p>”计算机”——<b>计算机</b>专业人员（排除B）</p><p>“相关”——相关专业人员（排除C）</p><p>“统计”——<b>统计调</b>查人员（排除D）</p><p><b>A项不属于，符合题意，为正确答案。</b></p><p><br></p>",
+        "analysis": "参与调查问卷设计的人员一般有三类，可简记为<b>”计算机相关统计“</b>”计算机”——<b>计算机</b>专业人员（排除B）“相关”——相关专业人员（排除C）“统计”——<b>统计调</b>查人员（排除D）<b>A项不属于，符合题意，为正确答案。</b><br>",
         "avgAnswerTime": 14,
         "avgCorrectRate": "77.0%",
         "score": 1.0,
@@ -387,32 +387,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在参与调查问卷设计的人员中，调查问卷设计的主要力量是（ ）</p>",
+        "questionContent": "在参与调查问卷设计的人员中，调查问卷设计的主要力量是（ ）",
         "questionId": 1978812,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>相关专业人员</p>",
+            "optionContent": "相关专业人员",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计调查人员</p>",
+            "optionContent": "统计调查人员",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>计算机专业人员</p>",
+            "optionContent": "计算机专业人员",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>相关政府人员</p>",
+            "optionContent": "相关政府人员",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -420,7 +420,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>统计调查人员是调查问卷设计的主要力量，B项正确；</b></p><p>相关专业人员的参与有助于使问题紧紧围绕调查的目的和主题（排除A项）。</p><p>计算机专业人员的参与，将给以后问卷的整理分析工作带来便利（排除C项）。</p><p>D项未提及，为干扰项，排除。</p>",
+        "analysis": "<b>统计调查人员是调查问卷设计的主要力量，B项正确；</b>相关专业人员的参与有助于使问题紧紧围绕调查的目的和主题（排除A项）。计算机专业人员的参与，将给以后问卷的整理分析工作带来便利（排除C项）。D项未提及，为干扰项，排除。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -435,32 +435,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>构成总体的最基本单位是（）</p>",
+        "questionContent": "构成总体的最基本单位是（）",
         "questionId": 1467963,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>个体</p>",
+            "optionContent": "个体",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>样本</p>",
+            "optionContent": "样本",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>样本容量</p>",
+            "optionContent": "样本容量",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样单位</p>",
+            "optionContent": "抽样单位",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -468,7 +468,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>个体</b>是构成总体的最基本单位。</p>",
+        "analysis": "<b>个体</b>是构成总体的最基本单位。",
         "avgAnswerTime": 7,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -482,32 +482,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>为了估测总体的特性而对部分个体进行抽取并进行观测和分析，所抽取个体的观测数据或者所得到的测量值或测定值就称为（）</p>",
+        "questionContent": "为了估测总体的特性而对部分个体进行抽取并进行观测和分析，所抽取个体的观测数据或者所得到的测量值或测定值就称为（）",
         "questionId": 1700285,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>参数值</p>",
+            "optionContent": "参数值",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计值</p>",
+            "optionContent": "统计值",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>样本容量</p>",
+            "optionContent": "样本容量",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样误差</p>",
+            "optionContent": "抽样误差",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -515,7 +515,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：估测总体特性，抽取个体，测量值或测定值。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e3538bb8f7eac1de4b4d122744de51b2/image.png\" alt=\"\" width=\"443\" height=\"253\"><br></p><p>故本题正确答案为：B</p>",
+        "analysis": "破题点：估测总体特性，抽取个体，测量值或测定值。<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/e3538bb8f7eac1de4b4d122744de51b2/image.png\" alt=\"\" width=\"443\" height=\"253\"><br>故本题正确答案为：B",
         "avgAnswerTime": 15,
         "avgCorrectRate": "77.0%",
         "score": 1.0,
@@ -530,32 +530,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>关于总体中某一变量的综合描述，或者说是总体中所有元素的某种特征的综合数量表现。这是指（）</p>",
+        "questionContent": "关于总体中某一变量的综合描述，或者说是总体中所有元素的某种特征的综合数量表现。这是指（）",
         "questionId": 1700294,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>参数值</p>",
+            "optionContent": "参数值",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>抽样框</p>",
+            "optionContent": "抽样框",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样单位</p>",
+            "optionContent": "抽样单位",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计值</p>",
+            "optionContent": "统计值",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -563,7 +563,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：某种特征的综合数量表现</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b18e7c19ef284e9d73091810d755e710/image.png\" alt=\"\" width=\"443\" height=\"252\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "破题点：某种特征的综合数量表现<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b18e7c19ef284e9d73091810d755e710/image.png\" alt=\"\" width=\"443\" height=\"252\"><br>故本题正确答案为：A",
         "avgAnswerTime": 18,
         "avgCorrectRate": "78.0%",
         "score": 1.0,
@@ -578,32 +578,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>用来代表总体，供抽样所用的包括全部抽样单元的名单框架是（）</p>",
+        "questionContent": "用来代表总体，供抽样所用的包括全部抽样单元的名单框架是（）",
         "questionId": 1700314,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>抽样框</p>",
+            "optionContent": "抽样框",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>参数值</p>",
+            "optionContent": "参数值",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计值</p>",
+            "optionContent": "统计值",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样单位</p>",
+            "optionContent": "抽样单位",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -611,7 +611,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：名单框架</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6069e3c7233576c12e6875827ce53f49/image.png\" alt=\"\" width=\"443\" height=\"252\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "破题点：名单框架<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/6069e3c7233576c12e6875827ce53f49/image.png\" alt=\"\" width=\"443\" height=\"252\"><br>故本题正确答案为：A",
         "avgAnswerTime": 9,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -625,32 +625,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）指的是进行直接抽样时所使用的基本单位。</p>",
+        "questionContent": "（）指的是进行直接抽样时所使用的基本单位。",
         "questionId": 1982143,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>抽样单位</p>",
+            "optionContent": "抽样单位",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>统计值</p>",
+            "optionContent": "统计值",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>参数值</p>",
+            "optionContent": "参数值",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样框</p>",
+            "optionContent": "抽样框",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -658,7 +658,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/bf75ab9667839b640d3f5d940a064a8a/image.png\" alt=\"\" width=\"445\" height=\"250\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/bf75ab9667839b640d3f5d940a064a8a/image.png\" alt=\"\" width=\"445\" height=\"250\"><br>故本题正确答案为：A",
         "avgAnswerTime": 9,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -673,32 +673,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>从组成全部调查对象的总体中，按照一定的方式抽选一部分个体单位进行调查，并以此对全部调查对象做出估计和推断的一种调查方法是（）</p>",
+        "questionContent": "从组成全部调查对象的总体中，按照一定的方式抽选一部分个体单位进行调查，并以此对全部调查对象做出估计和推断的一种调查方法是（）",
         "questionId": 1700024,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>文案调查</p>",
+            "optionContent": "文案调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>抽样调查</p>",
+            "optionContent": "抽样调查",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>访问调查</p>",
+            "optionContent": "访问调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷调查</p>",
+            "optionContent": "问卷调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -706,7 +706,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>根据题干关键点：“抽选个体进行调查”可锁定B选项（抽样调查）。</p><p>“访问调查”强调的是采访、询问，“问卷调查”强调需借助问卷来进行调查。</p><p>A选项为无关干扰项。</p><p>故本题正确答案为：B</p>",
+        "analysis": "根据题干关键点：“抽选个体进行调查”可锁定B选项（抽样调查）。“访问调查”强调的是采访、询问，“问卷调查”强调需借助问卷来进行调查。A选项为无关干扰项。故本题正确答案为：B",
         "avgAnswerTime": 15,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -720,32 +720,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>随机抽样技术的最大特征就是（）</p>",
+        "questionContent": "随机抽样技术的最大特征就是（）",
         "questionId": 1700069,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>时效性</p>",
+            "optionContent": "时效性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>随机性</p>",
+            "optionContent": "随机性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>推断性</p>",
+            "optionContent": "推断性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>客观性</p>",
+            "optionContent": "客观性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -753,7 +753,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/fa7074b4a6b7632d6d313e7563348d4f/image.png\" alt=\"\" width=\"272\" height=\"117\"><br></p><p>故本题正确答案为：B</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/fa7074b4a6b7632d6d313e7563348d4f/image.png\" alt=\"\" width=\"272\" height=\"117\"><br>故本题正确答案为：B",
         "avgAnswerTime": 5,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -767,32 +767,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指将所询问的行为或态度“大众化”，即在询问被调查者时，先说明这种行为或态度为许多人所具有。</p>",
+        "questionContent": "（）是指将所询问的行为或态度“大众化”，即在询问被调查者时，先说明这种行为或态度为许多人所具有。",
         "questionId": 1757001,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>扩大答复范围法</p>",
+            "optionContent": "扩大答复范围法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>分段答复法</p>",
+            "optionContent": "分段答复法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>投射法</p>",
+            "optionContent": "投射法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>淡化陈述法</p>",
+            "optionContent": "淡化陈述法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -800,7 +800,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/75105f77951e4bc0c06d60ea8f7da4c3/image.png\" alt=\"\" width=\"646\" height=\"183\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/75105f77951e4bc0c06d60ea8f7da4c3/image.png\" alt=\"\" width=\"646\" height=\"183\"><br>",
         "avgAnswerTime": 12,
         "avgCorrectRate": "76.0%",
         "score": 1.0,
@@ -815,32 +815,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>运用第三者技术，摆出两个不同的人的意见，询问被调查者同意哪方意见。这指的是（ ）</p>",
+        "questionContent": "运用第三者技术，摆出两个不同的人的意见，询问被调查者同意哪方意见。这指的是（ ）",
         "questionId": 1981371,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>投射法</p>",
+            "optionContent": "投射法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>淡化陈述法</p>",
+            "optionContent": "淡化陈述法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>分段答复法</p>",
+            "optionContent": "分段答复法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>编辑法</p>",
+            "optionContent": "编辑法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -848,7 +848,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>投射法即运用第三者技术，摆出两个不同的人的意见，询问被调查者同意哪方意见（A项正确）。</b></p><p>淡化陈述法是指将所询问的行为或态度“大众化”，即在询问被调查者时，先说明这种行为或态度为许多人所具有（排除B）。</p><p>分段答复法就是将调查访问分成两个阶段进行，设计两张问卷（排除C）。</p><p>编辑法是指通过精心设计调查问卷来降低敏感性问题的敏感度，提高被调查者合作程度的方法（排除D）。</p>",
+        "analysis": "<b>投射法即运用第三者技术，摆出两个不同的人的意见，询问被调查者同意哪方意见（A项正确）。</b>淡化陈述法是指将所询问的行为或态度“大众化”，即在询问被调查者时，先说明这种行为或态度为许多人所具有（排除B）。分段答复法就是将调查访问分成两个阶段进行，设计两张问卷（排除C）。编辑法是指通过精心设计调查问卷来降低敏感性问题的敏感度，提高被调查者合作程度的方法（排除D）。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "69.0%",
         "score": 1.0,
@@ -863,32 +863,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>通过使用同一测量手段对同一群被调查者进行前后两次测量，再根据两次测量的相关系数来测量其信度的评估方法是（ ）</p>",
+        "questionContent": "通过使用同一测量手段对同一群被调查者进行前后两次测量，再根据两次测量的相关系数来测量其信度的评估方法是（ ）",
         "questionId": 2023467,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>折半法</p>",
+            "optionContent": "折半法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>交错法</p>",
+            "optionContent": "交错法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>重复检验法</p>",
+            "optionContent": "重复检验法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>准则效度</p>",
+            "optionContent": "准则效度",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -896,7 +896,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>折半法是指将一份问卷中的问题随机分为两组，然后考察这两部分的测量结果的相关系数（排除A）。</p><p>交错法是指研究者设计两份问卷，每份使用不同的问题，但测量的是同一个属性，让同一群被调查者回答（排除B）。</p><p><b>重复检验法</b>是指通过使用同一测量手段对<b>同一群</b>被调查者进行<b>前后两次测量</b>，再根据两次测量的<b>相关系数</b>来测量其信度（C项正确）。</p><p>准则效度是指用几种不同的测量方式或不同指标对同一变量进行测量时的一致性程度（排除D）。</p>",
+        "analysis": "折半法是指将一份问卷中的问题随机分为两组，然后考察这两部分的测量结果的相关系数（排除A）。交错法是指研究者设计两份问卷，每份使用不同的问题，但测量的是同一个属性，让同一群被调查者回答（排除B）。<b>重复检验法</b>是指通过使用同一测量手段对<b>同一群</b>被调查者进行<b>前后两次测量</b>，再根据两次测量的<b>相关系数</b>来测量其信度（C项正确）。准则效度是指用几种不同的测量方式或不同指标对同一变量进行测量时的一致性程度（排除D）。",
         "avgAnswerTime": 19,
         "avgCorrectRate": "75.0%",
         "score": 1.0,
@@ -911,32 +911,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>调查问卷的评估指标中，调查结果的一致性、稳定性和可靠性指的是（ ）</p>",
+        "questionContent": "调查问卷的评估指标中，调查结果的一致性、稳定性和可靠性指的是（ ）",
         "questionId": 2137178,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>问卷的效度</p>",
+            "optionContent": "问卷的效度",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷的信度</p>",
+            "optionContent": "问卷的信度",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>问卷的区分度</p>",
+            "optionContent": "问卷的区分度",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷的难度</p>",
+            "optionContent": "问卷的难度",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -944,7 +944,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>A项：问卷的效度是指问卷能否真正测量到所要测量的东西，也就是能否达到测量目的，即是否正确测量了研究者所要了解属性的程度。</p><p><b>B项：问卷的信度</b>是指调查结果的一致性、稳定性和可靠性。</p><p>C项：问卷的区分度是评估每一个测验项目对不同水平的受测者反应的鉴别能力。</p><p>D项：调查问卷的难度是指被调查者能不能准确地理解和填写该问卷。</p><p>故本题应选B项。</p>",
+        "analysis": "A项：问卷的效度是指问卷能否真正测量到所要测量的东西，也就是能否达到测量目的，即是否正确测量了研究者所要了解属性的程度。<b>B项：问卷的信度</b>是指调查结果的一致性、稳定性和可靠性。C项：问卷的区分度是评估每一个测验项目对不同水平的受测者反应的鉴别能力。D项：调查问卷的难度是指被调查者能不能准确地理解和填写该问卷。故本题应选B项。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "82.0%",
         "score": 1.0,

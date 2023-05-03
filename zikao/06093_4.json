@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 15,
     "questionList": [
       {
-        "questionContent": "<p>具有不同能力的人，应摆在组织内部不同的职位上，给予不同的权力和责任，实行能力与职位的对应与适合。这属于人力资源规划原则中的（）</p>",
+        "questionContent": "具有不同能力的人，应摆在组织内部不同的职位上，给予不同的权力和责任，实行能力与职位的对应与适合。这属于人力资源规划原则中的（）",
         "questionId": 1549971,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>与内外环境相适应原则</p>",
+            "optionContent": "与内外环境相适应原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>能级层序原则</p>",
+            "optionContent": "能级层序原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>与企业战略目标相适应原则</p>",
+            "optionContent": "与企业战略目标相适应原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>适度流动原则</p>",
+            "optionContent": "适度流动原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于区分人力资源规划的这几个原则，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dddd68dc4e27dd049b379b0ecb7222e3/1.png\" alt=\"\" width=\"791\" height=\"170\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题的关键在于区分人力资源规划的这几个原则，如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dddd68dc4e27dd049b379b0ecb7222e3/1.png\" alt=\"\" width=\"791\" height=\"170\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 50,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源规划的内容中，企业根据组织运行的实际情况和人力资源供给与需求状况对企业中长期内可能产生空缺职位加以弥补的动态规划过程为（）</p>",
+        "questionContent": "在人力资源规划的内容中，企业根据组织运行的实际情况和人力资源供给与需求状况对企业中长期内可能产生空缺职位加以弥补的动态规划过程为（）",
         "questionId": 1551531,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>人员补充计划</p>",
+            "optionContent": "人员补充计划",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>培训开发规划</p>",
+            "optionContent": "培训开发规划",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>人员配备规划</p>",
+            "optionContent": "人员配备规划",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>人员晋升规划</p>",
+            "optionContent": "人员晋升规划",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于区分人力资源业务计划的内容，如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5ef20ba2d2f02e55668fef557116fcc2/1.png\" alt=\"\" width=\"730\" height=\"170\"><br></p><p>可根据表中加粗关键字对各个计划进行区分，故本题的正确答案为A。</p>",
+        "analysis": "本题的关键在于区分人力资源业务计划的内容，如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5ef20ba2d2f02e55668fef557116fcc2/1.png\" alt=\"\" width=\"730\" height=\"170\"><br>可根据表中加粗关键字对各个计划进行区分，故本题的正确答案为A。",
         "avgAnswerTime": 17,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -103,32 +103,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于（）</p>",
+        "questionContent": "工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于（）",
         "questionId": 210600,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>施恩的职业锚理论</p>",
+            "optionContent": "施恩的职业锚理论",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>泰罗的科学管理理论</p>",
+            "optionContent": "泰罗的科学管理理论",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>梅奥的人际关系理论</p>",
+            "optionContent": "梅奥的人际关系理论",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>萨柏的职业发展阶段理论</p>",
+            "optionContent": "萨柏的职业发展阶段理论",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的发展历程。工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于泰罗的科学管理理论。因此本题选择B。</p>",
+        "analysis": "本题考核工作分析的发展历程。工作分析作为现代人力资源管理活动中必不可少的一部分，最早起源于泰罗的科学管理理论。因此本题选择B。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "80.0%",
         "score": 1.0,
@@ -150,32 +150,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>经过几十年的工作分析和设计研究，总结归纳出了工作分析的工效学调查法，被管理学界认为是工作分析创始人的是（）</p>",
+        "questionContent": "经过几十年的工作分析和设计研究，总结归纳出了工作分析的工效学调查法，被管理学界认为是工作分析创始人的是（）",
         "questionId": 210604,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>罗莫特</p>",
+            "optionContent": "罗莫特",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>泰罗</p>",
+            "optionContent": "泰罗",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>吉尔布雷斯夫妇</p>",
+            "optionContent": "吉尔布雷斯夫妇",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>明斯特伯格</p>",
+            "optionContent": "明斯特伯格",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -183,7 +183,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核工作分析的发展历程。随着工作分析方法和理论的日趋成熟，使得它在20世纪70年代已被西方发达国家作为人力资源管理现代化的标志之一，并被人力资源管理专家视为人力资源管理最基本的职能。罗莫特被管理学界公认为是工作分析的创始人。因此本题选择A。</p>",
+        "analysis": "本题考核工作分析的发展历程。随着工作分析方法和理论的日趋成熟，使得它在20世纪70年代已被西方发达国家作为人力资源管理现代化的标志之一，并被人力资源管理专家视为人力资源管理最基本的职能。罗莫特被管理学界公认为是工作分析的创始人。因此本题选择A。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "75.0%",
         "score": 1.0,
@@ -197,32 +197,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>公平管理包括公平分配和（ ）</p>",
+        "questionContent": "公平管理包括公平分配和（ ）",
         "questionId": 2012241,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>结果公平</p>",
+            "optionContent": "结果公平",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>程序公平&nbsp;</p>",
+            "optionContent": "程序公平&nbsp;",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>形式公平</p>",
+            "optionContent": "形式公平",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>实质公平</p>",
+            "optionContent": "实质公平",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -230,7 +230,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“公平管理”。公平管理<span style=\"font-size: 14px;\">主要包括公平分配和程序公平</span><span style=\"font-size: 14px;\">。故本题的正确答案为B。</span></p><p>知识拓展：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1daa95c9aa322ecbb6492d168d3f0b6e/a.png\" alt=\"\" width=\"566\" height=\"89\"><br></p><p><br></p><p><br></p>",
+        "analysis": "本题破题点：“公平管理”。公平管理<span style=\"font-size: 14px;\">主要包括公平分配和程序公平</span><span style=\"font-size: 14px;\">。故本题的正确答案为B。</span>知识拓展：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1daa95c9aa322ecbb6492d168d3f0b6e/a.png\" alt=\"\" width=\"566\" height=\"89\"><br><br><br>",
         "avgAnswerTime": 8,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -245,32 +245,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业经常用来预测本组织在将来某段时间内对人力资源需求的定性预测技术是（）</p>",
+        "questionContent": "企业经常用来预测本组织在将来某段时间内对人力资源需求的定性预测技术是（）",
         "questionId": 1550783,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>现状规划法</p>",
+            "optionContent": "现状规划法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>经验预测法</p>",
+            "optionContent": "经验预测法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>分合性预测法</p>",
+            "optionContent": "分合性预测法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>德尔菲法</p>",
+            "optionContent": "德尔菲法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -278,7 +278,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“本组织、将来某段时间”，关键在于区分这几个人力资源需求预测的定性技术，具体内容如下表所示：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2678e10a865f89eaaf1d5f9291816a47/1.png\" alt=\"\" width=\"791\" height=\"142\"><br></p><p>故本题的正确答案为B。</p>",
+        "analysis": "本题破题点：“本组织、将来某段时间”，关键在于区分这几个人力资源需求预测的定性技术，具体内容如下表所示：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/2678e10a865f89eaaf1d5f9291816a47/1.png\" alt=\"\" width=\"791\" height=\"142\"><br>故本题的正确答案为B。",
         "avgAnswerTime": 33,
         "avgCorrectRate": "67.0%",
         "score": 1.0,
@@ -293,32 +293,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源需求预测中，通过综合专家们的权威判断，对未来不确定情况做出尽可能合理的预测方法是（）</p>",
+        "questionContent": "在人力资源需求预测中，通过综合专家们的权威判断，对未来不确定情况做出尽可能合理的预测方法是（）",
         "questionId": 1550790,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>现状预测法</p>",
+            "optionContent": "现状预测法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>经验预测法</p>",
+            "optionContent": "经验预测法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>德尔菲法</p>",
+            "optionContent": "德尔菲法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>分合性预测法</p>",
+            "optionContent": "分合性预测法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -326,7 +326,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“专家判断”，关键在于区分这几个人力资源需求预测的定性技术，具体内容如下表所示：<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dae8faace5926e6c24eb5e4460169adc/1.png\" alt=\"\" width=\"790\" height=\"142\"><br></p><p>故本题的正确答案为C。</p>",
+        "analysis": "本题破题点：“专家判断”，关键在于区分这几个人力资源需求预测的定性技术，具体内容如下表所示：<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/dae8faace5926e6c24eb5e4460169adc/1.png\" alt=\"\" width=\"790\" height=\"142\"><br>故本题的正确答案为C。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -341,32 +341,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源需求的定性预测技术中一种最简单的预测方法是（ ）</p>",
+        "questionContent": "人力资源需求的定性预测技术中一种最简单的预测方法是（ ）",
         "questionId": 2124822,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>现状规划法</p>",
+            "optionContent": "现状规划法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>经验预测法</p>",
+            "optionContent": "经验预测法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>分合性预测法</p>",
+            "optionContent": "分合性预测法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>德尔菲法</p>",
+            "optionContent": "德尔菲法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -374,7 +374,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“最简单”。需要对人力资源需求的预测技术进行区分，如下表：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d41d8cd98f00b204e9800998ecf8427e/1111.JPG\" alt=\"\" width=\"787\" height=\"254\"><br></p><p>故本题的正确答案为A。</p>",
+        "analysis": "本题破题点：“最简单”。需要对人力资源需求的预测技术进行区分，如下表：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d41d8cd98f00b204e9800998ecf8427e/1111.JPG\" alt=\"\" width=\"787\" height=\"254\"><br>故本题的正确答案为A。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "79.0%",
         "score": 1.0,
@@ -389,32 +389,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在人力资源需求预测各种方法中，最为复杂也是相对比较准确的一种方法是（ ）</p>",
+        "questionContent": "在人力资源需求预测各种方法中，最为复杂也是相对比较准确的一种方法是（ ）",
         "questionId": 2404455,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>计算机模拟法</p>",
+            "optionContent": "计算机模拟法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>转换比率分析法</p>",
+            "optionContent": "转换比率分析法",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>生产函数预测法</p>",
+            "optionContent": "生产函数预测法",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>趋势外推法</p>",
+            "optionContent": "趋势外推法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -422,7 +422,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：最复杂、较准确</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d715f291e31da5803ee245a22432fc7e/image.png\" alt=\"\" width=\"590\" height=\"202\"><br></p><p>故本题的<b>正确答案为A项</b>。</p>",
+        "analysis": "破题点：最复杂、较准确<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/d715f291e31da5803ee245a22432fc7e/image.png\" alt=\"\" width=\"590\" height=\"202\"><br>故本题的<b>正确答案为A项</b>。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -436,32 +436,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>马尔科夫模型方法实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是（）</p>",
+        "questionContent": "马尔科夫模型方法实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是（）",
         "questionId": 209800,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>物理技术</p>",
+            "optionContent": "物理技术",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>化学技术</p>",
+            "optionContent": "化学技术",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>工业技术</p>",
+            "optionContent": "工业技术",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>统计技术</p>",
+            "optionContent": "统计技术",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -469,7 +469,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核企业内部人力资源供给预测。马尔科夫模型是一种内部人力资源供给的统计预测技术方法。实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是统计技术。因此本题选择D。</p>",
+        "analysis": "本题考核企业内部人力资源供给预测。马尔科夫模型是一种内部人力资源供给的统计预测技术方法。实际上是一种转换率矩阵，用来预测未来的人力资源变化，它使用的技术是统计技术。因此本题选择D。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -483,32 +483,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>管理人员接替模型也称为（ ）</p>",
+        "questionContent": "管理人员接替模型也称为（ ）",
         "questionId": 2010701,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>职位轮换卡</p>",
+            "optionContent": "职位轮换卡",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>职位流转卡</p>",
+            "optionContent": "职位流转卡",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>职务置换卡</p>",
+            "optionContent": "职务置换卡",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>职位置换卡</p>",
+            "optionContent": "职位置换卡",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -516,7 +516,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题的关键在于理解管理人员接替模型的含义。管理人员接替模型也称<b>职位置换卡</b>，主要针对企业管理人员供给预测的简单有效的一种方法，最终目的是确保组织在未来能够有足够的合理的管理人员的供给。故本题的正确答案为D。</p>",
+        "analysis": "本题的关键在于理解管理人员接替模型的含义。管理人员接替模型也称<b>职位置换卡</b>，主要针对企业管理人员供给预测的简单有效的一种方法，最终目的是确保组织在未来能够有足够的合理的管理人员的供给。故本题的正确答案为D。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -531,32 +531,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源供过于求最常用的调整方式是（ ）</p>",
+        "questionContent": "人力资源供过于求最常用的调整方式是（ ）",
         "questionId": 2404459,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>增加无薪假期</p>",
+            "optionContent": "增加无薪假期",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>提前退休</p>",
+            "optionContent": "提前退休",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>减少人员补充</p>",
+            "optionContent": "减少人员补充",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>裁员</p>",
+            "optionContent": "裁员",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -564,7 +564,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：最常用</p><p>当人力资源供过于求时，可以采用的调整方法有：</p><p>（1）提前退休；</p><p>（2）<b>减少人员补充</b>（<b>最常用的方式</b>）；</p><p>（3）增加无薪假期；</p><p>（4）裁员（一种没有办法的办法，且相当有效）；</p><p>（5）暂时或永久性地关闭一些不盈利的分厂或车间，精简职能部门。</p><p>综上，本题的<b>正确答案为C项</b>。</p>",
+        "analysis": "破题点：最常用当人力资源供过于求时，可以采用的调整方法有：（1）提前退休；（2）<b>减少人员补充</b>（<b>最常用的方式</b>）；（3）增加无薪假期；（4）裁员（一种没有办法的办法，且相当有效）；（5）暂时或永久性地关闭一些不盈利的分厂或车间，精简职能部门。综上，本题的<b>正确答案为C项</b>。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -578,32 +578,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源规划的基础是（）</p>",
+        "questionContent": "人力资源规划的基础是（）",
         "questionId": 209276,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>收集分析有关信息资料</p>",
+            "optionContent": "收集分析有关信息资料",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>预测人力资源需求</p>",
+            "optionContent": "预测人力资源需求",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>预测人力资源供给</p>",
+            "optionContent": "预测人力资源供给",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>确定人力资源规划的目标</p>",
+            "optionContent": "确定人力资源规划的目标",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -611,7 +611,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考核人力资源规划的制订。收集分析有关信息资料是人力资源规划的基础，对人力资源规划工作影响很大。因此本题选择A。</p>",
+        "analysis": "本题考核人力资源规划的制订。收集分析有关信息资料是人力资源规划的基础，对人力资源规划工作影响很大。因此本题选择A。",
         "avgAnswerTime": 15,
         "avgCorrectRate": "53.0%",
         "score": 1.0,
@@ -626,32 +626,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在企业人力资源的四个层次上，既是人力资源政策的体验者，也是人力资源规划的对象的是（）</p>",
+        "questionContent": "在企业人力资源的四个层次上，既是人力资源政策的体验者，也是人力资源规划的对象的是（）",
         "questionId": 2404445,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>决策层</p>",
+            "optionContent": "决策层",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>人力资源职能层</p>",
+            "optionContent": "人力资源职能层",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>直线部门职能层</p>",
+            "optionContent": "直线部门职能层",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>员工</p>",
+            "optionContent": "员工",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -659,7 +659,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>员工是人力资源政策的体验者、人力资源规划的对象。</p>",
+        "analysis": "员工是人力资源政策的体验者、人力资源规划的对象。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "96.0%",
         "score": 1.0,
@@ -673,32 +673,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>人力资源需求的预测又分为定性技术和（ ）</p>",
+        "questionContent": "人力资源需求的预测又分为定性技术和（ ）",
         "questionId": 2010708,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>质性研究</p>",
+            "optionContent": "质性研究",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>定量技术</p>",
+            "optionContent": "定量技术",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>数字技术</p>",
+            "optionContent": "数字技术",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>田野技术</p>",
+            "optionContent": "田野技术",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -706,7 +706,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题破题点：“<span style=\"font-size: 14px;\">人力资源需求的预测</span><span style=\"font-size: 14px;\">”，它是指企业为实现既定目标而对未来所需员工数量和种类的估量和计算。通常，人力资源的需求预测又分为定性技术和定量技术。故本题的正确答案为B。</span></p>",
+        "analysis": "本题破题点：“<span style=\"font-size: 14px;\">人力资源需求的预测</span><span style=\"font-size: 14px;\">”，它是指企业为实现既定目标而对未来所需员工数量和种类的估量和计算。通常，人力资源的需求预测又分为定性技术和定量技术。故本题的正确答案为B。</span>",
         "avgAnswerTime": 5,
         "avgCorrectRate": "98.0%",
         "score": 1.0,

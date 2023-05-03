@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 15,
     "questionList": [
       {
-        "questionContent": "<p>一般而言，评估招聘工作的标准为（）</p>",
+        "questionContent": "一般而言，评估招聘工作的标准为（）",
         "questionId": 200940,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>主观性、重复性和可靠性</p>",
+            "optionContent": "主观性、重复性和可靠性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>主观性、有效性、重复性</p>",
+            "optionContent": "主观性、有效性、重复性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>重复性、有效性和客观性</p>",
+            "optionContent": "重复性、有效性和客观性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>有效性、可靠性、客观性</p>",
+            "optionContent": "有效性、可靠性、客观性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>本题考查招聘评估工作的标准。评估招聘工作有3个标准，分别是有效性、可靠性和客观性。</p>",
+        "analysis": "本题考查招聘评估工作的标准。评估招聘工作有3个标准，分别是有效性、可靠性和客观性。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘评估中，要求评估围绕岗位要求拟订评估项目，内容必须正确、合理，且与岗位工作性质相符，能够反映评估的各项要求。这是评估招聘工作标准中的（）</p>",
+        "questionContent": "在招聘评估中，要求评估围绕岗位要求拟订评估项目，内容必须正确、合理，且与岗位工作性质相符，能够反映评估的各项要求。这是评估招聘工作标准中的（）",
         "questionId": 1613547,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>可靠性</p>",
+            "optionContent": "可靠性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>有效性</p>",
+            "optionContent": "有效性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>主观性</p>",
+            "optionContent": "主观性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>客观性</p>",
+            "optionContent": "客观性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/adb7789f4976d568f162ca820b07c5fe/2017111501346.png\" alt=\"\" width=\"577\" height=\"118\"><br></p><p>选项C为干扰项，可排除。故本题选B。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/adb7789f4976d568f162ca820b07c5fe/2017111501346.png\" alt=\"\" width=\"577\" height=\"118\"><br>选项C为干扰项，可排除。故本题选B。",
         "avgAnswerTime": 22,
         "avgCorrectRate": "44.0%",
         "score": 1.0,
@@ -103,32 +103,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">整个招聘过程的最后一个环节是（）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">整个招聘过程的最后一个环节是（）</font></span>",
         "questionId": 2024520,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">甄选</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">甄选</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">评价</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">评价</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">培训</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">培训</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘评估</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">招聘评估</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.招聘评估主要指对招聘的结果、招聘的成本和招聘的方法等方面进行评估。它是整个招聘过程的最后一个环节，也是不可或缺的一个环节。故选项D正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.选项A、B、C都属于招聘评估之前的环节，故可排除。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综上，本题选</font>D。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.招聘评估主要指对招聘的结果、招聘的成本和招聘的方法等方面进行评估。它是整个招聘过程的最后一个环节，也是不可或缺的一个环节。故选项D正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.选项A、B、C都属于招聘评估之前的环节，故可排除。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综上，本题选</font>D。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "avgAnswerTime": 3,
         "avgCorrectRate": "71.0%",
         "score": 1.0,
@@ -150,32 +150,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘评估中，录用人数与计划招聘人数之比，称为（）</p>",
+        "questionContent": "在招聘评估中，录用人数与计划招聘人数之比，称为（）",
         "questionId": 1613716,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>录用比</p>",
+            "optionContent": "录用比",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>选择率</p>",
+            "optionContent": "选择率",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>应聘比</p>",
+            "optionContent": "应聘比",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>招聘计划完成比</p>",
+            "optionContent": "招聘计划完成比",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -183,7 +183,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/df7f16d38a3ffc8c82adc56d58351d46/2017111600292.png\" alt=\"\" width=\"578\" height=\"117\"><br></p><p>故本题选D。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/df7f16d38a3ffc8c82adc56d58351d46/2017111600292.png\" alt=\"\" width=\"578\" height=\"117\"><br>故本题选D。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "62.0%",
         "score": 1.0,
@@ -198,32 +198,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘评估中，录用人数与应聘人数的比，称为（）</p>",
+        "questionContent": "在招聘评估中，录用人数与应聘人数的比，称为（）",
         "questionId": 1613724,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>录用比</p>",
+            "optionContent": "录用比",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>选择率</p>",
+            "optionContent": "选择率",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>应聘比</p>",
+            "optionContent": "应聘比",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>招聘计划完成比</p>",
+            "optionContent": "招聘计划完成比",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -231,7 +231,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f1c80a7eabb8c31b7bb162d295b504fd/2017111600412.png\" alt=\"\" width=\"587\" height=\"122\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f1c80a7eabb8c31b7bb162d295b504fd/2017111600412.png\" alt=\"\" width=\"587\" height=\"122\"><br>故本题选A。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -246,32 +246,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>用来反映新员工招聘计划的完成情况的数量评估指标是（）</p>",
+        "questionContent": "用来反映新员工招聘计划的完成情况的数量评估指标是（）",
         "questionId": 1613739,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>招聘计划完成比</p>",
+            "optionContent": "招聘计划完成比",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>录用比</p>",
+            "optionContent": "录用比",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>选择率</p>",
+            "optionContent": "选择率",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>录用成功比</p>",
+            "optionContent": "录用成功比",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -279,7 +279,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/937e7013a5485552f7a4c03695da19c2/2017111501347.png\" alt=\"\" width=\"585\" height=\"146\"><br></p><p>故本题选A。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/937e7013a5485552f7a4c03695da19c2/2017111501347.png\" alt=\"\" width=\"585\" height=\"146\"><br>故本题选A。",
         "avgAnswerTime": 12,
         "avgCorrectRate": "81.0%",
         "score": 1.0,
@@ -293,32 +293,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用人数与应聘人数的比是（ ）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用人数与应聘人数的比是（ ）</font></span>",
         "questionId": 2024907,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用比</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用比</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">选择率</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">选择率</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">应聘比</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">应聘比</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用成功比</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">录用成功比</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -326,7 +326,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">录用比</font></span></b><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">是录用人数与应聘人数的比。故选项</font>A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.选择率是衡量组织对人员选择的严格程度和人员报名的踊跃程度的一个指标。故选项B错误。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.应聘比是应聘人数与计划招聘人数的比。故选项C错误。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.录用成功比是录用成功人数与总录用人数的比。故选项D错误。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><br></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.</span><b><span style=\"font-family: 微软雅黑; font-size: 10.5pt;\"><font face=\"微软雅黑\">录用比</font></span></b><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">是录用人数与应聘人数的比。故选项</font>A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.选择率是衡量组织对人员选择的严格程度和人员报名的踊跃程度的一个指标。故选项B错误。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">3.应聘比是应聘人数与计划招聘人数的比。故选项C错误。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">4.录用成功比是录用成功人数与总录用人数的比。故选项D错误。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><br>",
         "avgAnswerTime": 9,
         "avgCorrectRate": "84.0%",
         "score": 1.0,
@@ -341,32 +341,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>录用人数与应聘人数的比称为（ ）</p>",
+        "questionContent": "录用人数与应聘人数的比称为（ ）",
         "questionId": 2100246,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>应聘比</p>",
+            "optionContent": "应聘比",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>选择率</p>",
+            "optionContent": "选择率",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>招聘计划完成比</p>",
+            "optionContent": "招聘计划完成比",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>录用比</p>",
+            "optionContent": "录用比",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -374,7 +374,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>在数量评估过程中，常涉及以下几个指标：</p><p>（1）应聘比：应聘人数与计划招聘人数的比。</p><p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（2）选择率：某职位计划招聘人数与申请该职位的人数的比。</span></p><p>（3）<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>录用比</b>：<b>录用人数与应聘人数的比</b>。</span></p><p>（4）<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">招聘计划完成比：录用人数与计划招聘人数的比。</span></p><p><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（5）</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">录用成功比：录用成功人数与总录用人数的比。</span></p><p>故本题的正确答案为D。</p>",
+        "analysis": "在数量评估过程中，常涉及以下几个指标：（1）应聘比：应聘人数与计划招聘人数的比。<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（2）选择率：某职位计划招聘人数与申请该职位的人数的比。</span>（3）<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>录用比</b>：<b>录用人数与应聘人数的比</b>。</span>（4）<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">招聘计划完成比：录用人数与计划招聘人数的比。</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">（5）</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">录用成功比：录用成功人数与总录用人数的比。</span>故本题的正确答案为D。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -389,32 +389,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在招聘评估中，某职位计划聘用的人数与这一职位的实际报名人数的比率，称为（ ）</p>",
+        "questionContent": "在招聘评估中，某职位计划聘用的人数与这一职位的实际报名人数的比率，称为（ ）",
         "questionId": 2101169,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>录用比</p>",
+            "optionContent": "录用比",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>选择率</p>",
+            "optionContent": "选择率",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>应聘比</p>",
+            "optionContent": "应聘比",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>招聘计划完成比</p>",
+            "optionContent": "招聘计划完成比",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -422,7 +422,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>选择率</b>是指某职位<b>计划聘用的人数</b>与这一职位的<b>实际报名人数</b>的比率<b>，</b>故本题选B。</p><p><b>\n录用比</b>是录用人数与应聘人数的比；<b>应聘比</b>是应聘人数与计划招聘人数的比；<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>招聘计划完成比</b>是录用人数与计划招聘人数的比</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">，故排除ACD。</span></p>",
+        "analysis": "<b>选择率</b>是指某职位<b>计划聘用的人数</b>与这一职位的<b>实际报名人数</b>的比率<b>，</b>故本题选B。<b>\n录用比</b>是录用人数与应聘人数的比；<b>应聘比</b>是应聘人数与计划招聘人数的比；<span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\"><b>招聘计划完成比</b>是录用人数与计划招聘人数的比</span><span style=\"font-family: &quot;Helvetica Neue For Number&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Roboto, &quot;PingFang SC&quot;, &quot;Hiragino Sans GB&quot;, &quot;Microsoft YaHei&quot;, &quot;Helvetica Neue&quot;, Helvetica, Arial, sans-serif;\">，故排除ACD。</span>",
         "avgAnswerTime": 17,
         "avgCorrectRate": "46.0%",
         "score": 1.0,
@@ -437,32 +437,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>单位招聘成本包括（ ）</p>",
+        "questionContent": "单位招聘成本包括（ ）",
         "questionId": 597462,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>内部成本、间接成本和核算成本</p>",
+            "optionContent": "内部成本、间接成本和核算成本",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>外部成本、直接成本和核算成本&nbsp;</p>",
+            "optionContent": "外部成本、直接成本和核算成本&nbsp;",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>内部成本、外部成本和直接成本</p>",
+            "optionContent": "内部成本、外部成本和直接成本",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>内部成本、外部成本和间接成本</p>",
+            "optionContent": "内部成本、外部成本和间接成本",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -470,7 +470,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>单位招聘成本指的是组织为了招聘和雇佣员工而在他们每个人身上平均花去的费用。应包括内部成本、外部成本和直接成本。</p>",
+        "analysis": "单位招聘成本指的是组织为了招聘和雇佣员工而在他们每个人身上平均花去的费用。应包括内部成本、外部成本和直接成本。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -484,32 +484,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>组织为了招聘和雇佣员工而在他们每个人身上平均花去的费用属于（ ）</p>",
+        "questionContent": "组织为了招聘和雇佣员工而在他们每个人身上平均花去的费用属于（ ）",
         "questionId": 2100854,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>单位招聘成本</p>",
+            "optionContent": "单位招聘成本",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>标准人工成本</p>",
+            "optionContent": "标准人工成本",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>特殊招聘成本</p>",
+            "optionContent": "特殊招聘成本",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>重置成本</p>",
+            "optionContent": "重置成本",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -517,7 +517,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>单位招聘成本：是指组织为了招聘和雇佣员工而在他们每个人身上平均花去的费用。</p><p>标准人工成本：即先确定一个员工从事某项工作平均一小时的成本，并把它作为这项工作的标准费用。</p><p>特殊招聘成本：进行一些特殊形式招聘的费用。</p><p>重置成本：重新招聘所花费的费用。</p><p>故本题应选A项。</p>",
+        "analysis": "单位招聘成本：是指组织为了招聘和雇佣员工而在他们每个人身上平均花去的费用。标准人工成本：即先确定一个员工从事某项工作平均一小时的成本，并把它作为这项工作的标准费用。特殊招聘成本：进行一些特殊形式招聘的费用。重置成本：重新招聘所花费的费用。故本题应选A项。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -531,32 +531,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>把同一（组）应聘者进行的同一测试分为若干部分加以考察，各部分所得结果之间的一致性程度被称为（）</p>",
+        "questionContent": "把同一（组）应聘者进行的同一测试分为若干部分加以考察，各部分所得结果之间的一致性程度被称为（）",
         "questionId": 1613952,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>再测信度</p>",
+            "optionContent": "再测信度",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>复本信度</p>",
+            "optionContent": "复本信度",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>内在一致性信度</p>",
+            "optionContent": "内在一致性信度",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>评分者信度</p>",
+            "optionContent": "评分者信度",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -564,7 +564,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1207213d6c8f5d11686abfedfa9d7ba3/2018040200505.png\" alt=\"\" width=\"584\" height=\"186\"><br></p><p>故本题选C。</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/1207213d6c8f5d11686abfedfa9d7ba3/2018040200505.png\" alt=\"\" width=\"584\" height=\"186\"><br>故本题选C。",
         "avgAnswerTime": 11,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -579,32 +579,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>不同评分者对同样对象进行评定时的一致性程度称为（ ）</p>",
+        "questionContent": "不同评分者对同样对象进行评定时的一致性程度称为（ ）",
         "questionId": 2100345,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>再测信度</p>",
+            "optionContent": "再测信度",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>复本信度</p>",
+            "optionContent": "复本信度",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>内在一致性信度</p>",
+            "optionContent": "内在一致性信度",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>评分者信度</p>",
+            "optionContent": "评分者信度",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -612,7 +612,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>A选项：再测信度（稳定信度）指用同一种测试方法对一组应聘者在不同时间进行测试的结果的一致性程度。</p><p>B选项：复本信度（等值信度）指对同一应聘者使用两种内容、结构、难度等方面相当的测试结果之间的一致性程度。</p><p>C选项：内在一致性信度是指把同一（组）应聘者进行的同一测试分为若干部分加以考察，各部分所得结果之间的一致性程度。</p><p><b>D选项</b>：<b>评分者信度</b>是指<b>不同评分者对同样对象进行评定时的一致性程度</b>。</p><p>综上可知，本题应选D。</p>",
+        "analysis": "A选项：再测信度（稳定信度）指用同一种测试方法对一组应聘者在不同时间进行测试的结果的一致性程度。B选项：复本信度（等值信度）指对同一应聘者使用两种内容、结构、难度等方面相当的测试结果之间的一致性程度。C选项：内在一致性信度是指把同一（组）应聘者进行的同一测试分为若干部分加以考察，各部分所得结果之间的一致性程度。<b>D选项</b>：<b>评分者信度</b>是指<b>不同评分者对同样对象进行评定时的一致性程度</b>。综上可知，本题应选D。",
         "avgAnswerTime": 33,
         "avgCorrectRate": "36.0%",
         "score": 1.0,
@@ -627,32 +627,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">多应用于知识测试与实际操作测试，而不适用于对能力和潜力测试的效度是（）</font></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">多应用于知识测试与实际操作测试，而不适用于对能力和潜力测试的效度是（）</font></span>",
         "questionId": 2024494,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内容效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内容效度</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">预测效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">预测效度</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">同测效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">同测效度</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综合效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综合效度</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -660,7 +660,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.<b>内容效度</b>多应用于知识测试与实际操作测试，而不适用于对能力和潜力的测试。故选项A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.知识扩展：</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（1）<b>预测效度</b>是说明测试用来预测将来行为的有效性。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（2）<b>同测效度</b>的特点是省时，可以尽快检验某测试方法的效度，但若将其应用到人员选拔测试时，难免会受到其他因素的干扰而无法准确地预测应聘者未来的工作潜力。</span></p><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（3）<b>综合效度</b>要求把工作分解成各种方向，如良好的人际关系、书写报告的能力、专业性等。</span></p><p class=\"MsoNormal\"><br></p>",
+        "analysis": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">1.<b>内容效度</b>多应用于知识测试与实际操作测试，而不适用于对能力和潜力的测试。故选项A正确。</span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">2.知识扩展：</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（1）<b>预测效度</b>是说明测试用来预测将来行为的有效性。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（2）<b>同测效度</b>的特点是省时，可以尽快检验某测试方法的效度，但若将其应用到人员选拔测试时，难免会受到其他因素的干扰而无法准确地预测应聘者未来的工作潜力。</span><p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\">（3）<b>综合效度</b>要求把工作分解成各种方向，如良好的人际关系、书写报告的能力、专业性等。</span><p class=\"MsoNormal\"><br>",
         "avgAnswerTime": 16,
         "avgCorrectRate": "63.0%",
         "score": 1.0,
@@ -675,32 +675,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">对现在员工实施某种测试</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">然后将测试结果与</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">的</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">实际工作绩效考核</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">得分进行比较，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">若</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">两者的相关</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">系数很大，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">则说明此测试</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">效度就很高。这一效度被称为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span></p>",
+        "questionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">对现在员工实施某种测试</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">然后将测试结果与</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">员工</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">的</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">实际工作绩效考核</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">得分进行比较，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">若</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">两者的相关</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">系数很大，</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">则说明此测试</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">效度就很高。这一效度被称为（）</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><o:p></o:p></span>",
         "questionId": 2100907,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">预测</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">预测</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">效度</font></span>",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">同测</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">同测</font></span><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">效度</font></span>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内容效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">内容效度</font></span>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综合效度</font></span></p>",
+            "optionContent": "<p class=\"MsoNormal\"><span style=\"mso-spacerun:'yes';font-family:微软雅黑;font-size:10.5000pt;mso-font-kerning:1.0000pt;\"><font face=\"微软雅黑\">综合效度</font></span>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -708,7 +708,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1.<b>预测效度</b>是说明测试用来预测将来行为的有效性。可排除选项A。</p><p>2.<b>同测效度</b>是指对现在员工实施某种测试，然后将测试结果与员工的实际工作绩效考核得分进行比较，若两者的相关系数很大，则说明此测试效度就很高。可知选项B正确。</p><p>3.<b>内容效度</b>即测试方法，能真正测出想测的内容的程度。可排除选项C。</p><p>4.<b>综合效度</b>是指对某一特定组织来说，其选择过程应该是适合组织独特需要的。可排除选项D。</p><p>综上，本题选B。</p>",
+        "analysis": "1.<b>预测效度</b>是说明测试用来预测将来行为的有效性。可排除选项A。2.<b>同测效度</b>是指对现在员工实施某种测试，然后将测试结果与员工的实际工作绩效考核得分进行比较，若两者的相关系数很大，则说明此测试效度就很高。可知选项B正确。3.<b>内容效度</b>即测试方法，能真正测出想测的内容的程度。可排除选项C。4.<b>综合效度</b>是指对某一特定组织来说，其选择过程应该是适合组织独特需要的。可排除选项D。综上，本题选B。",
         "avgAnswerTime": 49,
         "avgCorrectRate": "43.0%",
         "score": 1.0,

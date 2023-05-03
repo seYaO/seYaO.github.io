@@ -7,32 +7,32 @@
     "totalSubQuestionNum": 26,
     "questionList": [
       {
-        "questionContent": "<p>柯蒂斯出版公司率先成立了市场调查部门，并编写了（）一书，这是第一本有关市场研究的专著。</p>",
+        "questionContent": "柯蒂斯出版公司率先成立了市场调查部门，并编写了（）一书，这是第一本有关市场研究的专著。",
         "questionId": 1460893,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>《销售圣经》</p>",
+            "optionContent": "《销售圣经》",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>《市场调研与分析》</p>",
+            "optionContent": "《市场调研与分析》",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>《市场调研技术》</p>",
+            "optionContent": "《市场调研技术》",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>《销售机会》</p>",
+            "optionContent": "《销售机会》",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -40,7 +40,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>1911年，美国当时最大的柯蒂斯出版公司率先成立了市场调查部门，并编写了<b>《销售机会》</b>一书，这是第一本有关市场研究的专著。</p>",
+        "analysis": "1911年，美国当时最大的柯蒂斯出版公司率先成立了市场调查部门，并编写了<b>《销售机会》</b>一书，这是第一本有关市场研究的专著。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -55,32 +55,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场调查产生和发展的基础和原动力。</p>",
+        "questionContent": "（）是市场调查产生和发展的基础和原动力。",
         "questionId": 1503219,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>商品的交换</p>",
+            "optionContent": "商品的交换",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>商品的生产</p>",
+            "optionContent": "商品的生产",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济的发展</p>",
+            "optionContent": "经济的发展",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>文化的发展</p>",
+            "optionContent": "文化的发展",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -88,7 +88,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查</b>是随着近代商品生产和商品交换的发展而出现的，经济的发展是市场调查产生和发展的基础和原动力。</p>",
+        "analysis": "<b>市场调查</b>是随着近代商品生产和商品交换的发展而出现的，经济的发展是市场调查产生和发展的基础和原动力。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -103,32 +103,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查者在（）开始使用商业普查的方式，并进行统计分析。</p>",
+        "questionContent": "市场调查者在（）开始使用商业普查的方式，并进行统计分析。",
         "questionId": 1460995,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>问卷调查时期</p>",
+            "optionContent": "问卷调查时期",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>组织接受的时期</p>",
+            "optionContent": "组织接受的时期",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>计量调查时期</p>",
+            "optionContent": "计量调查时期",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>技术进步时期</p>",
+            "optionContent": "技术进步时期",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -136,7 +136,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>从1940年到1960年，我们把这一时期称之为<b>计量调查时期</b>。市场调查者<b>在这一时期</b>开始使用商业普查的方式，并进行统计分析。</p>",
+        "analysis": "从1940年到1960年，我们把这一时期称之为<b>计量调查时期</b>。市场调查者<b>在这一时期</b>开始使用商业普查的方式，并进行统计分析。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -151,32 +151,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>工业革命之前的市场调查阶段，我们称之为（）。</p>",
+        "questionContent": "工业革命之前的市场调查阶段，我们称之为（）。",
         "questionId": 1592458,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>早期发展时期</p>",
+            "optionContent": "早期发展时期",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>问卷调查时期</p>",
+            "optionContent": "问卷调查时期",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>前市场调查时期</p>",
+            "optionContent": "前市场调查时期",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>计量调查时期</p>",
+            "optionContent": "计量调查时期",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -184,7 +184,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>市场调查在世界范围内的发展历程大致可分为以下几个阶段：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/175a0758c84f9406b45267e3a643f165/image.png\" alt=\"\" width=\"277\" height=\"201\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "市场调查在世界范围内的发展历程大致可分为以下几个阶段：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/175a0758c84f9406b45267e3a643f165/image.png\" alt=\"\" width=\"277\" height=\"201\"><br>故本题正确答案为：C",
         "avgAnswerTime": 6,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -198,32 +198,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指运用科学的方法，有目的、有计划、系统地收集、记录、整理有关市场营销的信息和资料，分析市场情况，了解市场现状及其发展趋势，为市场预测和营销决策提供科学依据的过程。</p>",
+        "questionContent": "（）是指运用科学的方法，有目的、有计划、系统地收集、记录、整理有关市场营销的信息和资料，分析市场情况，了解市场现状及其发展趋势，为市场预测和营销决策提供科学依据的过程。",
         "questionId": 1754472,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场评估</p>",
+            "optionContent": "市场评估",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场定位</p>",
+            "optionContent": "市场定位",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场策略</p>",
+            "optionContent": "市场策略",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查</p>",
+            "optionContent": "市场调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -231,7 +231,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c5de180295ae9d413500a634272c03b2/image.png\" alt=\"\" width=\"589\" height=\"191\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/c5de180295ae9d413500a634272c03b2/image.png\" alt=\"\" width=\"589\" height=\"191\"><br>",
         "avgAnswerTime": 11,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -246,32 +246,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指企业根据其资源状况和经营能力等内部条件以及市场需求和营销环境等外部条件，经过深入分析和科学决策，正确选择自己目标市场的行为和过程。</p>",
+        "questionContent": "（）是指企业根据其资源状况和经营能力等内部条件以及市场需求和营销环境等外部条件，经过深入分析和科学决策，正确选择自己目标市场的行为和过程。",
         "questionId": 1754427,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场定位</p>",
+            "optionContent": "市场定位",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>市场预测</p>",
+            "optionContent": "市场预测",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场规划</p>",
+            "optionContent": "市场规划",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场分析</p>",
+            "optionContent": "市场分析",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -279,7 +279,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7615ab42f6cb1934df94db4f3803a432/image.png\" alt=\"\" width=\"640\" height=\"144\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/7615ab42f6cb1934df94db4f3803a432/image.png\" alt=\"\" width=\"640\" height=\"144\"><br>",
         "avgAnswerTime": 15,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -294,32 +294,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（ ）是指企业在复杂的市场营销环境中，为实现其既定目标，对营销中较长期的、重大的、全局性的问题所做出的筹划和采取的对策。</p>",
+        "questionContent": "（ ）是指企业在复杂的市场营销环境中，为实现其既定目标，对营销中较长期的、重大的、全局性的问题所做出的筹划和采取的对策。",
         "questionId": 1906822,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场定位</p>",
+            "optionContent": "市场定位",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场营销战略</p>",
+            "optionContent": "市场营销战略",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>价格策略</p>",
+            "optionContent": "价格策略",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>产品战略</p>",
+            "optionContent": "产品战略",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -327,7 +327,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b9bb450ed2af9b55524a8cafa392345f/image.png\" alt=\"\" width=\"573\" height=\"211\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/b9bb450ed2af9b55524a8cafa392345f/image.png\" alt=\"\" width=\"573\" height=\"211\"><br>",
         "avgAnswerTime": 15,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -341,32 +341,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是否正确，直接关系企业的胜败兴衰和生死存亡。</p>",
+        "questionContent": "（）是否正确，直接关系企业的胜败兴衰和生死存亡。",
         "questionId": 1461227,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>招聘战略</p>",
+            "optionContent": "招聘战略",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>产品战略</p>",
+            "optionContent": "产品战略",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>清理战略</p>",
+            "optionContent": "清理战略",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>采购战略</p>",
+            "optionContent": "采购战略",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -374,7 +374,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>产品战略</b>是否正确，直接关系企业的胜败兴衰和生死存亡。</p>",
+        "analysis": "<b>产品战略</b>是否正确，直接关系企业的胜败兴衰和生死存亡。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -388,32 +388,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（ ）就是根据购买者各自不同的支付能力和效用情况，结合产品的性能、质量等进行定价，从而实现最大利润的定价办法。</p>",
+        "questionContent": "（ ）就是根据购买者各自不同的支付能力和效用情况，结合产品的性能、质量等进行定价，从而实现最大利润的定价办法。",
         "questionId": 1906818,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>市场营销战略</p>",
+            "optionContent": "市场营销战略",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场定位</p>",
+            "optionContent": "市场定位",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>产品战略</p>",
+            "optionContent": "产品战略",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>价格策略</p>",
+            "optionContent": "价格策略",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -421,7 +421,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/63f158d2eb537d20abe6f5f42291146c/image.png\" alt=\"\" width=\"575\" height=\"208\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/63f158d2eb537d20abe6f5f42291146c/image.png\" alt=\"\" width=\"575\" height=\"208\"><br>",
         "avgAnswerTime": 18,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -436,32 +436,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是市场营销战略组合中最活跃的因素。</p>",
+        "questionContent": "（）是市场营销战略组合中最活跃的因素。",
         "questionId": 2292724,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>产品</p>",
+            "optionContent": "产品",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>价格</p>",
+            "optionContent": "价格",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>渠道</p>",
+            "optionContent": "渠道",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​宣传<br></p>",
+            "optionContent": "​宣传<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -469,7 +469,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>价格</b>是市场营销战略组合中最活跃的因素</p>",
+        "analysis": "<b>价格</b>是市场营销战略组合中最活跃的因素",
         "avgAnswerTime": 9,
         "avgCorrectRate": "86.0%",
         "score": 1.0,
@@ -484,32 +484,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在市场调查的原则中，（）是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。</p>",
+        "questionContent": "在市场调查的原则中，（）是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。",
         "questionId": 1461256,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>科学性原则</p>",
+            "optionContent": "科学性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性原则</p>",
+            "optionContent": "时效性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>系统性原则</p>",
+            "optionContent": "系统性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>准确性原则</p>",
+            "optionContent": "准确性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -517,7 +517,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>时效性原则</b>是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。</p>",
+        "analysis": "<b>时效性原则</b>是指收集、发送、接收、加工、传递和利用市场调查资料的时间间隔要短，效率要高。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -531,32 +531,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在市场调查的原则中，（）要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。</p>",
+        "questionContent": "在市场调查的原则中，（）要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。",
         "questionId": 1461264,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济性原则</p>",
+            "optionContent": "经济性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​系统性原则<br></p>",
+            "optionContent": "​系统性原则<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>科学性原则</p>",
+            "optionContent": "科学性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>准确性原则</p>",
+            "optionContent": "准确性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -564,7 +564,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>准确性原则</b>要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。</p>",
+        "analysis": "<b>准确性原则</b>要求必须真实地、准确地描述客观现象的数量表现和属性特征，调查误差应尽可能小，没有系统性偏差，没有人为因素的干扰。",
         "avgAnswerTime": 12,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -579,32 +579,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查本身也是企业举行的一项商业活动，它以追求最大的经济效益为目的。这指的是市场调查中的（ ）原则。</p>",
+        "questionContent": "市场调查本身也是企业举行的一项商业活动，它以追求最大的经济效益为目的。这指的是市场调查中的（ ）原则。",
         "questionId": 1906774,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>系统性</p>",
+            "optionContent": "系统性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济性</p>",
+            "optionContent": "经济性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>科学性</p>",
+            "optionContent": "科学性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性</p>",
+            "optionContent": "时效性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -612,7 +612,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/8cfc8ef25369d85eec4a6a5f7ac89218/image.png\" alt=\"\" width=\"562\" height=\"221\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/8cfc8ef25369d85eec4a6a5f7ac89218/image.png\" alt=\"\" width=\"562\" height=\"221\"><br>",
         "avgAnswerTime": 8,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -626,32 +626,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查公司绝对不能同时接受两家竞争企业的委托做同一专题的调查，更不能未经委托者的同意而将调查内容公开披露。这指的是（ ）</p>",
+        "questionContent": "市场调查公司绝对不能同时接受两家竞争企业的委托做同一专题的调查，更不能未经委托者的同意而将调查内容公开披露。这指的是（ ）",
         "questionId": 1909381,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>资料收集的经济性</p>",
+            "optionContent": "资料收集的经济性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查方法的科学性</p>",
+            "optionContent": "调查方法的科学性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查目标的明确性</p>",
+            "optionContent": "调查目标的明确性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查内容的保密性</p>",
+            "optionContent": "调查内容的保密性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -659,7 +659,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/458a86dd6b1ed4d314460a23db807a0c/image.png\" alt=\"\" width=\"606\" height=\"211\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/458a86dd6b1ed4d314460a23db807a0c/image.png\" alt=\"\" width=\"606\" height=\"211\"><br>",
         "avgAnswerTime": 11,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -673,32 +673,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>对市场的生产和营销活动有着直接的影响的是（）</p>",
+        "questionContent": "对市场的生产和营销活动有着直接的影响的是（）",
         "questionId": 1497295,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济环境</p>",
+            "optionContent": "经济环境",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>法律环境</p>",
+            "optionContent": "法律环境",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>自然环境</p>",
+            "optionContent": "自然环境",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>政治环境</p>",
+            "optionContent": "政治环境",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -706,7 +706,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>经济环境</b>对市场的生产和营销活动有着直接的影响。</p>",
+        "analysis": "<b>经济环境</b>对市场的生产和营销活动有着直接的影响。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "94.0%",
         "score": 2.0,
@@ -720,32 +720,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>对经济环境的调查，主要可以从（）两个方面来进行。</p>",
+        "questionContent": "对经济环境的调查，主要可以从（）两个方面来进行。",
         "questionId": 1497299,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>企业和政府</p>",
+            "optionContent": "企业和政府",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场和政府</p>",
+            "optionContent": "市场和政府",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>​生产和消费<br></p>",
+            "optionContent": "​生产和消费<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>​金融和服务<br></p>",
+            "optionContent": "​金融和服务<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -753,7 +753,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>对经济环境的调查，主要可以从<b>生产和消费</b>两个方面来进行。</p>",
+        "analysis": "对经济环境的调查，主要可以从<b>生产和消费</b>两个方面来进行。",
         "avgAnswerTime": 8,
         "avgCorrectRate": "82.0%",
         "score": 1.0,
@@ -768,32 +768,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（ ）的调查内容主要有环境污染程度、原料、材料等资源状况及燃料、动力等能源状况。</p>",
+        "questionContent": "（ ）的调查内容主要有环境污染程度、原料、材料等资源状况及燃料、动力等能源状况。",
         "questionId": 1909373,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>自然环境</p>",
+            "optionContent": "自然环境",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>政治环境</p>",
+            "optionContent": "政治环境",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济环境</p>",
+            "optionContent": "经济环境",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>法律环境</p>",
+            "optionContent": "法律环境",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -801,7 +801,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/022095c5f75f48137a60893539d0c3c7/image.png\" alt=\"\" width=\"580\" height=\"186\"><br></p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/022095c5f75f48137a60893539d0c3c7/image.png\" alt=\"\" width=\"580\" height=\"186\"><br>",
         "avgAnswerTime": 9,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -815,32 +815,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（ ）主要是了解对市场有影响和起着制约作用的国内外政治形势以及国家管理市场的有关方针政策。</p>",
+        "questionContent": "（ ）主要是了解对市场有影响和起着制约作用的国内外政治形势以及国家管理市场的有关方针政策。",
         "questionId": 1909395,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经济环境调查</p>",
+            "optionContent": "经济环境调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>政治环境调查</p>",
+            "optionContent": "政治环境调查",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>法律环境调查</p>",
+            "optionContent": "法律环境调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>自然环境调查</p>",
+            "optionContent": "自然环境调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -848,7 +848,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：政治形势、方针政策</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9783479e79faa5260088246973ff70db/image.png\" alt=\"\" width=\"535\" height=\"171\"><br></p><p><br></p>",
+        "analysis": "破题点：政治形势、方针政策<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9783479e79faa5260088246973ff70db/image.png\" alt=\"\" width=\"535\" height=\"171\"><br><br>",
         "avgAnswerTime": 21,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -863,32 +863,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>消费方面的调查属于（ ）</p>",
+        "questionContent": "消费方面的调查属于（ ）",
         "questionId": 2137153,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>政治环境调查</p>",
+            "optionContent": "政治环境调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​法律环境调查<br></p>",
+            "optionContent": "​法律环境调查<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>自然环境调查</p>",
+            "optionContent": "自然环境调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济环境调查</p>",
+            "optionContent": "经济环境调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -896,7 +896,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>政治环境调查应调查：①目标国家的政治制度和政策；②国家或地区之间的政治关系；③政治和社会动乱情况；④国有化政策。</p><p>法律环境调查：市场调查人员必须了解有关法律、法规及政策。</p><p>自然环境调查：主要包括生态环境、资源环境、能源环境等方面的调查。</p><p>经济环境调查：生产方面的调查、<b>消费方面的调查</b>。</p><p>故本题应选D项。</p>",
+        "analysis": "政治环境调查应调查：①目标国家的政治制度和政策；②国家或地区之间的政治关系；③政治和社会动乱情况；④国有化政策。法律环境调查：市场调查人员必须了解有关法律、法规及政策。自然环境调查：主要包括生态环境、资源环境、能源环境等方面的调查。经济环境调查：生产方面的调查、<b>消费方面的调查</b>。故本题应选D项。",
         "avgAnswerTime": 17,
         "avgCorrectRate": "97.0%",
         "score": 1.0,
@@ -911,32 +911,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是指资金来源、构成、分配和使用情况以及是否盈利、经营的安全性和稳定性</p>",
+        "questionContent": "（）是指资金来源、构成、分配和使用情况以及是否盈利、经营的安全性和稳定性",
         "questionId": 1943983,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>商品供应能力</p>",
+            "optionContent": "商品供应能力",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>设备供应能力</p>",
+            "optionContent": "设备供应能力",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>资金供应能力</p>",
+            "optionContent": "资金供应能力",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>员工的工作能力</p>",
+            "optionContent": "员工的工作能力",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -944,7 +944,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/648003cb49e4395b771034a3de3b2c0a/image.png\" alt=\"\" width=\"504\" height=\"302\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/648003cb49e4395b771034a3de3b2c0a/image.png\" alt=\"\" width=\"504\" height=\"302\"><br>故本题正确答案为：C",
         "avgAnswerTime": 15,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -958,32 +958,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）主要是指现有的经营设施、设备软件及技术水平是否适应商品生产和流通的发展，是否得到了充分的利用</p>",
+        "questionContent": "（）主要是指现有的经营设施、设备软件及技术水平是否适应商品生产和流通的发展，是否得到了充分的利用",
         "questionId": 1943984,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>商品供应能力</p>",
+            "optionContent": "商品供应能力",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>设备供应能力</p>",
+            "optionContent": "设备供应能力",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>资金供应能力</p>",
+            "optionContent": "资金供应能力",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>员工的工作能力</p>",
+            "optionContent": "员工的工作能力",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -991,7 +991,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f029b6882efbd8c91b6a34f4423f4d5d/image.png\" alt=\"\" width=\"505\" height=\"303\"><br></p><p>故本题正确答案为：B</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/f029b6882efbd8c91b6a34f4423f4d5d/image.png\" alt=\"\" width=\"505\" height=\"303\"><br>故本题正确答案为：B",
         "avgAnswerTime": 12,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -1005,32 +1005,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力是指（）</p>",
+        "questionContent": "在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力是指（）",
         "questionId": 1645076,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>社会购买力</p>",
+            "optionContent": "社会购买力",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>商品供应能力</p>",
+            "optionContent": "商品供应能力",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>欲望</p>",
+            "optionContent": "欲望",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>社会需求</p>",
+            "optionContent": "社会需求",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1038,7 +1038,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：全社会、购买<br></p><p>即社会购买力是指在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力。</p><p>本题易混项为B，商品供应能力是指现有商品生产或商品流转的规模、速度、结构状况以及能否满足消费需求。</p><p>CD选项为无关干扰项。</p><p>故本题正确答案为：A</p><p><br></p>",
+        "analysis": "<b>​</b>​破题点：全社会、购买<br>即社会购买力是指在一定时期内，全社会在市场上用于购买商品和服务的货币支付能力。本题易混项为B，商品供应能力是指现有商品生产或商品流转的规模、速度、结构状况以及能否满足消费需求。CD选项为无关干扰项。故本题正确答案为：A<br>",
         "avgAnswerTime": 12,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -1052,32 +1052,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>消费者根据感情和理智上的经验，对特定的商品或商店产生特殊的信任和偏好，形成习惯、重复光顾的购买动机是（）</p>",
+        "questionContent": "消费者根据感情和理智上的经验，对特定的商品或商店产生特殊的信任和偏好，形成习惯、重复光顾的购买动机是（）",
         "questionId": 1645232,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>惠顾动机</p>",
+            "optionContent": "惠顾动机",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>理性动机</p>",
+            "optionContent": "理性动机",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>感情动机</p>",
+            "optionContent": "感情动机",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>本能动机</p>",
+            "optionContent": "本能动机",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1085,7 +1085,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：信任、偏好、重复光顾。</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/900f1acb79a3bfe40ca9e2d45e65202c/image.png\" alt=\"\" width=\"474\" height=\"275\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "破题点：信任、偏好、重复光顾。<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/900f1acb79a3bfe40ca9e2d45e65202c/image.png\" alt=\"\" width=\"474\" height=\"275\"><br>故本题正确答案为：A",
         "avgAnswerTime": 16,
         "avgCorrectRate": "79.0%",
         "score": 1.0,
@@ -1099,32 +1099,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>下列选项中不属于心理动机的是（）</p>",
+        "questionContent": "下列选项中不属于心理动机的是（）",
         "questionId": 1645261,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>消费动机</p>",
+            "optionContent": "消费动机",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>感情动机</p>",
+            "optionContent": "感情动机",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>理性动机</p>",
+            "optionContent": "理性动机",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>惠顾动机</p>",
+            "optionContent": "惠顾动机",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1132,7 +1132,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ad6fb02cf75a26612a853963d422a962/image.png\" alt=\"\" width=\"263\" height=\"148\"><br></p><p>本题为选非题，A选项不属于。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/ad6fb02cf75a26612a853963d422a962/image.png\" alt=\"\" width=\"263\" height=\"148\"><br>本题为选非题，A选项不属于。故本题正确答案为：A",
         "avgAnswerTime": 11,
         "avgCorrectRate": "63.0%",
         "score": 1.0,
@@ -1147,32 +1147,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查主体为全面了解市场的状况而对市场的各个方面进行的全面调查是（）</p>",
+        "questionContent": "市场调查主体为全面了解市场的状况而对市场的各个方面进行的全面调查是（）",
         "questionId": 1645675,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>综合性市场调查</p>",
+            "optionContent": "综合性市场调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>专题性市场调查</p>",
+            "optionContent": "专题性市场调查",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>时效性市场调查</p>",
+            "optionContent": "时效性市场调查",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>层次性市场调查</p>",
+            "optionContent": "层次性市场调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1180,7 +1180,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/683d6a18feb502c3fc3b308b79f88732/image.png\" alt=\"\" width=\"468\" height=\"214\"><br></p><p>CD选项为无关干扰项。</p><p>故本题正确答案为：A</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/683d6a18feb502c3fc3b308b79f88732/image.png\" alt=\"\" width=\"468\" height=\"214\"><br>CD选项为无关干扰项。故本题正确答案为：A",
         "avgAnswerTime": 11,
         "avgCorrectRate": "99.0%",
         "score": 1.0,
@@ -1194,32 +1194,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>市场调查主体为解决某个具体问题而对市场中的某个方面进行的调查是（）</p>",
+        "questionContent": "市场调查主体为解决某个具体问题而对市场中的某个方面进行的调查是（）",
         "questionId": 1645706,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>艺术性市场调查</p>",
+            "optionContent": "艺术性市场调查",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>​综合性市场调查<br></p>",
+            "optionContent": "​综合性市场调查<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>效益性市场调查<br></p>",
+            "optionContent": "效益性市场调查<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>专题性市场调查</p>",
+            "optionContent": "专题性市场调查",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -1227,7 +1227,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3400991b6753229ca0e58bb3986d55c2/image.png\" alt=\"\" width=\"469\" height=\"214\"><br></p><p>AC选项为无关干扰项。</p><p>故本题正确答案为：D</p>",
+        "analysis": "<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3400991b6753229ca0e58bb3986d55c2/image.png\" alt=\"\" width=\"469\" height=\"214\"><br>AC选项为无关干扰项。故本题正确答案为：D",
         "avgAnswerTime": 8,
         "avgCorrectRate": "99.0%",
         "score": 1.0,

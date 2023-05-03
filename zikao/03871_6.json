@@ -7,7 +7,7 @@
     "totalSubQuestionNum": 16,
     "questionList": [
       {
-        "questionContent": "<p>调查者依据方便的原则，选取偶然遇见的个人或者利用自己身边或附近的人作为样本进行调查的一种抽样方法是（）</p>",
+        "questionContent": "调查者依据方便的原则，选取偶然遇见的个人或者利用自己身边或附近的人作为样本进行调查的一种抽样方法是（）",
         "questionId": 1701621,
         "answerTime": 0,
         "correct": 2,
@@ -15,25 +15,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>判断抽样</p>",
+            "optionContent": "判断抽样",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>配额抽样</p>",
+            "optionContent": "配额抽样",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>方便抽样</p>",
+            "optionContent": "方便抽样",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>空间抽样法</p>",
+            "optionContent": "空间抽样法",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -41,7 +41,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：选取偶然遇见……。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5ffed4069f03e09ace2c23c91db1c660/image.png\" alt=\"\" width=\"455\" height=\"277\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "<b>​</b>​破题点：选取偶然遇见……。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/5ffed4069f03e09ace2c23c91db1c660/image.png\" alt=\"\" width=\"455\" height=\"277\"><br>故本题正确答案为：C",
         "avgAnswerTime": 54,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -57,7 +57,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>研究者根据自己对总体的认识，基于自身主观判断去选定符合自己研究目的的样本的一种抽样方法是（）</p>",
+        "questionContent": "研究者根据自己对总体的认识，基于自身主观判断去选定符合自己研究目的的样本的一种抽样方法是（）",
         "questionId": 1701715,
         "answerTime": 0,
         "correct": 2,
@@ -65,25 +65,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>空间抽样法</p>",
+            "optionContent": "空间抽样法",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>方便抽样</p>",
+            "optionContent": "方便抽样",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>判断抽样</p>",
+            "optionContent": "判断抽样",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>配额抽样</p>",
+            "optionContent": "配额抽样",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -91,7 +91,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：主观判断。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/68ead53e13c9974e992842b111077712/image.png\" alt=\"\" width=\"461\" height=\"279\"><br></p><p>故本题正确答案为：C</p>",
+        "analysis": "<b>​</b>​破题点：主观判断。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/68ead53e13c9974e992842b111077712/image.png\" alt=\"\" width=\"461\" height=\"279\"><br>故本题正确答案为：C",
         "avgAnswerTime": 11,
         "avgCorrectRate": "88.0%",
         "score": 1.0,
@@ -106,32 +106,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）适用于总体较为罕见，调查者手头只有较少样本量，难以找到足够的被调查者的抽样研究。</p>",
+        "questionContent": "（）适用于总体较为罕见，调查者手头只有较少样本量，难以找到足够的被调查者的抽样研究。",
         "questionId": 1984226,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>方便抽样</p>",
+            "optionContent": "方便抽样",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>判断抽样</p>",
+            "optionContent": "判断抽样",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>配额抽样</p>",
+            "optionContent": "配额抽样",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>滚雪球抽样</p>",
+            "optionContent": "滚雪球抽样",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -139,7 +139,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>滚雪球抽样</b>适用于总体较为罕见，调查者手头只有较少样本量，难以找到足够的被调查者的抽样研究。</p>",
+        "analysis": "<b>滚雪球抽样</b>适用于总体较为罕见，调查者手头只有较少样本量，难以找到足够的被调查者的抽样研究。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "80.0%",
         "score": 1.0,
@@ -154,32 +154,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>调查研究者所设计的抽样方案必须在实践中是切实可行的，这体现了设计抽样方案的（）</p>",
+        "questionContent": "调查研究者所设计的抽样方案必须在实践中是切实可行的，这体现了设计抽样方案的（）",
         "questionId": 1702049,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>可行性原则</p>",
+            "optionContent": "可行性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>经济性原则</p>",
+            "optionContent": "经济性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>可测性原则</p>",
+            "optionContent": "可测性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>目的性原则</p>",
+            "optionContent": "目的性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -187,7 +187,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：切实可行。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3cd56d7ec689c5e7740e5571493f9021/image.png\" alt=\"\" width=\"475\" height=\"223\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "<b>​</b>​破题点：切实可行。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3cd56d7ec689c5e7740e5571493f9021/image.png\" alt=\"\" width=\"475\" height=\"223\"><br>故本题正确答案为：A",
         "avgAnswerTime": 5,
         "avgCorrectRate": "98.0%",
         "score": 1.0,
@@ -201,32 +201,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>抽样方案的设计应当与调查研究者所掌握的资源相适应，这体现了设计抽样方案的（）</p>",
+        "questionContent": "抽样方案的设计应当与调查研究者所掌握的资源相适应，这体现了设计抽样方案的（）",
         "questionId": 1702066,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>可行性原则</p>",
+            "optionContent": "可行性原则",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>经济性原则</p>",
+            "optionContent": "经济性原则",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>目的性原则</p>",
+            "optionContent": "目的性原则",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>可测性原则</p>",
+            "optionContent": "可测性原则",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -234,7 +234,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：与……相适应。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/04402b17c59517b570176ed5e4e2b476/image.png\" alt=\"\" width=\"476\" height=\"224\"><br></p><p>故本题正确答案为：B</p>",
+        "analysis": "<b>​</b>​破题点：与……相适应。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/04402b17c59517b570176ed5e4e2b476/image.png\" alt=\"\" width=\"476\" height=\"224\"><br>故本题正确答案为：B",
         "avgAnswerTime": 17,
         "avgCorrectRate": "77.0%",
         "score": 1.0,
@@ -248,32 +248,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是调查员的管理者，负责调查员的招聘、培训。</p>",
+        "questionContent": "（）是调查员的管理者，负责调查员的招聘、培训。",
         "questionId": 1465563,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>调查员</p>",
+            "optionContent": "调查员",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>研究人员</p>",
+            "optionContent": "研究人员",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>督导</p>",
+            "optionContent": "督导",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>管理人员</p>",
+            "optionContent": "管理人员",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -281,7 +281,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>督导</b>是调查员的管理者，负责调查员的招聘、培训，以及对调查员的工作进行指导、监督和检查。</p>",
+        "analysis": "<b>督导</b>是调查员的管理者，负责调查员的招聘、培训，以及对调查员的工作进行指导、监督和检查。",
         "avgAnswerTime": 19,
         "avgCorrectRate": "83.0%",
         "score": 1.0,
@@ -295,32 +295,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）的职责是拟订调查方案和数据处理计划，进行抽样设计、问卷设计、数据分析以及撰写调查报告，此外还负责向客户汇报调查结果、提供咨询服务。</p>",
+        "questionContent": "（）的职责是拟订调查方案和数据处理计划，进行抽样设计、问卷设计、数据分析以及撰写调查报告，此外还负责向客户汇报调查结果、提供咨询服务。",
         "questionId": 1465564,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>研究人员</p>",
+            "optionContent": "研究人员",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>督导</p>",
+            "optionContent": "督导",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查员</p>",
+            "optionContent": "调查员",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>电脑录入员</p>",
+            "optionContent": "电脑录入员",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -328,7 +328,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>研究人员</b>的职责是拟订调查方案和数据处理计划，进行抽样设计、问卷设计、数据分析以及撰写调查报告，此外还负责向客户汇报调查结果、提供咨询服务。</p>",
+        "analysis": "<b>研究人员</b>的职责是拟订调查方案和数据处理计划，进行抽样设计、问卷设计、数据分析以及撰写调查报告，此外还负责向客户汇报调查结果、提供咨询服务。",
         "avgAnswerTime": 14,
         "avgCorrectRate": "85.0%",
         "score": 1.0,
@@ -343,32 +343,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业内部市场调查机构的初级形态是（ ）</p>",
+        "questionContent": "企业内部市场调查机构的初级形态是（ ）",
         "questionId": 2016862,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>非正式的市场调查机构</p>",
+            "optionContent": "非正式的市场调查机构",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>松散的市场调查机构</p>",
+            "optionContent": "松散的市场调查机构",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>正式的市场调查机构</p>",
+            "optionContent": "正式的市场调查机构",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>完全服务公司</p>",
+            "optionContent": "完全服务公司",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -376,7 +376,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>松散的市场调查机构</b>，企业只有兼职的市场调查人员，它可以看成是<b>企业内部市场调查的初级形态（B项正确）</b>。</p><p>非正式的市场调查机构可以看成是企业内部市场调查机构的中级形态（排除A）。</p><p>在企业内部设置正式的市场调查机构，一般被认为是企业内部市场调查机构的高级形态（排除C）。</p><p>完全服务公司是指有能力完成其委托人所要求的全部市场调查工作的专业市场调查机构（排除D）。</p>",
+        "analysis": "<b>松散的市场调查机构</b>，企业只有兼职的市场调查人员，它可以看成是<b>企业内部市场调查的初级形态（B项正确）</b>。非正式的市场调查机构可以看成是企业内部市场调查机构的中级形态（排除A）。在企业内部设置正式的市场调查机构，一般被认为是企业内部市场调查机构的高级形态（排除C）。完全服务公司是指有能力完成其委托人所要求的全部市场调查工作的专业市场调查机构（排除D）。",
         "avgAnswerTime": 10,
         "avgCorrectRate": "92.0%",
         "score": 1.0,
@@ -391,32 +391,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>企业内部市场调查机构的高级形态是在企业内部设置（ ）</p>",
+        "questionContent": "企业内部市场调查机构的高级形态是在企业内部设置（ ）",
         "questionId": 2016864,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>完全服务公司</p>",
+            "optionContent": "完全服务公司",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>松散的市场调查机构</p>",
+            "optionContent": "松散的市场调查机构",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>非正式的市场调查机构</p>",
+            "optionContent": "非正式的市场调查机构",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>正式的市场调查机构</p>",
+            "optionContent": "正式的市场调查机构",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 1
@@ -424,7 +424,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>完全服务公司是指有能力完成其委托人所要求的全部市场调查工作的专业市场调查机构（排除A）。\n<br></p><p>松散的市场调查机构，企业只有兼职的市场调查人员，它可以看成是企业内部市场调查的初级形态（排除B）。&nbsp;</p><p>非正式的市场调查机构可以看成是企业内部市场调查机构的中级形态（排除C）。 <br></p><p>在企业内部设置<b>正式的市场调查机构</b>，一般被认为<b>是企业内部市场调查机构的高级形态</b>（<b>D项正确</b>）。&nbsp;</p>",
+        "analysis": "完全服务公司是指有能力完成其委托人所要求的全部市场调查工作的专业市场调查机构（排除A）。\n<br>松散的市场调查机构，企业只有兼职的市场调查人员，它可以看成是企业内部市场调查的初级形态（排除B）。&nbsp;非正式的市场调查机构可以看成是企业内部市场调查机构的中级形态（排除C）。 <br>在企业内部设置<b>正式的市场调查机构</b>，一般被认为<b>是企业内部市场调查机构的高级形态</b>（<b>D项正确</b>）。&nbsp;",
         "avgAnswerTime": 5,
         "avgCorrectRate": "95.0%",
         "score": 1.0,
@@ -439,7 +439,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>有能力完成其委托人所要求的全部市场调查工作的专业市场调查机构是（）</p>",
+        "questionContent": "有能力完成其委托人所要求的全部市场调查工作的专业市场调查机构是（）",
         "questionId": 1705158,
         "answerTime": 0,
         "correct": 2,
@@ -447,25 +447,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>信息统计部门</p>",
+            "optionContent": "信息统计部门",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p><u>​</u>高校调查研究中心<br></p>",
+            "optionContent": "<u>​</u>高校调查研究中心<br>",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>完全服务公司</p>",
+            "optionContent": "完全服务公司",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>有限服务公司</p>",
+            "optionContent": "有限服务公司",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -473,7 +473,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>​</b>​破题点：有能力完成全部市场……。<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/13690ac2d3add54bb668d910b337edc6/image.png\" alt=\"\" width=\"468\" height=\"118\"><br></p><p>AB选项为无关干扰项。</p><p>故本题正确答案为：C</p>",
+        "analysis": "<b>​</b>​破题点：有能力完成全部市场……。<br><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/13690ac2d3add54bb668d910b337edc6/image.png\" alt=\"\" width=\"468\" height=\"118\"><br>AB选项为无关干扰项。故本题正确答案为：C",
         "avgAnswerTime": 9,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -487,32 +487,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>专门经营市场调查业务，提供综合服务的专业化的市场调查机构是（ ）</p>",
+        "questionContent": "专门经营市场调查业务，提供综合服务的专业化的市场调查机构是（ ）",
         "questionId": 1992226,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>经营顾问公司</p>",
+            "optionContent": "经营顾问公司",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查公司</p>",
+            "optionContent": "市场调查公司",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>广告研究公司</p>",
+            "optionContent": "广告研究公司",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​辛迪加服务公司<br></p>",
+            "optionContent": "​辛迪加服务公司<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -520,7 +520,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>市场调查公司</b>是<b>专门经营市场调查业务，</b>提供<b>综合服务的专业化</b>的市场调查机构。<b>B项正确</b></p><p>经营顾问公司是指专门从事<b>企业管理咨询活动，</b>为企业和企业家提供咨询性服务的公司。排除A项</p><p>广告研究公司的服务对象为<b>广告主</b>，同时也接受一般企业的市场调查业务。排除C项</p><p>辛迪加服务公司主要是<b>收集一般的资料</b>，一般不专门为某个客户服务，任何人都可以购买他们的资料。排除D项</p>",
+        "analysis": "<b>市场调查公司</b>是<b>专门经营市场调查业务，</b>提供<b>综合服务的专业化</b>的市场调查机构。<b>B项正确</b>经营顾问公司是指专门从事<b>企业管理咨询活动，</b>为企业和企业家提供咨询性服务的公司。排除A项广告研究公司的服务对象为<b>广告主</b>，同时也接受一般企业的市场调查业务。排除C项辛迪加服务公司主要是<b>收集一般的资料</b>，一般不专门为某个客户服务，任何人都可以购买他们的资料。排除D项",
         "avgAnswerTime": 11,
         "avgCorrectRate": "78.0%",
         "score": 1.0,
@@ -535,32 +535,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>专门从事某个方面或某几个方面的调查工作的公司是（ ）</p>",
+        "questionContent": "专门从事某个方面或某几个方面的调查工作的公司是（ ）",
         "questionId": 2015892,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>完全服务公司</p>",
+            "optionContent": "完全服务公司",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>有限服务公司</p>",
+            "optionContent": "有限服务公司",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>定制服务公司</p>",
+            "optionContent": "定制服务公司",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>经营顾问公司</p>",
+            "optionContent": "经营顾问公司",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -568,7 +568,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>有限服务公司</b>是专门从事<b>某个方面或某几个方面的调查工作</b>的公司。<b>B项正确</b></p><p>完全服务公司是指有能力完成其委托人所要求的全部市场调查工作的<b>专业市场调查机构</b>。排除A</p><p>定制服务公司是根据不同顾客的特殊要求进行<b>定制服务</b>的机构。排除C</p><p>经营顾问公司是指专门从事<b>企业管理咨询活动</b>，为企业和企业家提供咨询性服务的公司。排除D</p>",
+        "analysis": "<b>有限服务公司</b>是专门从事<b>某个方面或某几个方面的调查工作</b>的公司。<b>B项正确</b>完全服务公司是指有能力完成其委托人所要求的全部市场调查工作的<b>专业市场调查机构</b>。排除A定制服务公司是根据不同顾客的特殊要求进行<b>定制服务</b>的机构。排除C经营顾问公司是指专门从事<b>企业管理咨询活动</b>，为企业和企业家提供咨询性服务的公司。排除D",
         "avgAnswerTime": 6,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
@@ -583,32 +583,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）成立于1975年，总部设在巴黎，是目前市场研究顾问行业中唯一一家独立的由专业研究顾问人员管理的全球性的上市公司，是一个具有国际领先服务水平的研究集团，目前为全球第三大个案研究公司。</p>",
+        "questionContent": "（）成立于1975年，总部设在巴黎，是目前市场研究顾问行业中唯一一家独立的由专业研究顾问人员管理的全球性的上市公司，是一个具有国际领先服务水平的研究集团，目前为全球第三大个案研究公司。",
         "questionId": 1988979,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>益普索集团</p>",
+            "optionContent": "益普索集团",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>特恩斯市场研究咨询有限公司</p>",
+            "optionContent": "特恩斯市场研究咨询有限公司",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>中国社会经济决策咨询中心</p>",
+            "optionContent": "中国社会经济决策咨询中心",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>北京盛华博智信息技术研究院</p>",
+            "optionContent": "北京盛华博智信息技术研究院",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -616,7 +616,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>益普索集团</b>成立于1975年，总部设在巴黎，是目前市场研究顾问行业中唯一一家独立的由专业研究顾问人员管理的全球性的上市公司，是一个具有国际领先服务水平的研究集团，目前为全球第三大个案研究公司。</p>",
+        "analysis": "<b>益普索集团</b>成立于1975年，总部设在巴黎，是目前市场研究顾问行业中唯一一家独立的由专业研究顾问人员管理的全球性的上市公司，是一个具有国际领先服务水平的研究集团，目前为全球第三大个案研究公司。",
         "avgAnswerTime": 6,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -631,7 +631,7 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>抽样方案设计的第一步是（）</p>",
+        "questionContent": "抽样方案设计的第一步是（）",
         "questionId": 1702534,
         "answerTime": 0,
         "correct": 2,
@@ -639,25 +639,25 @@
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>确定样本容量</p>",
+            "optionContent": "确定样本容量",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>确定抽样调查的目的</p>",
+            "optionContent": "确定抽样调查的目的",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>定义总体</p>",
+            "optionContent": "定义总体",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​确定抽样框<br></p>",
+            "optionContent": "​确定抽样框<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -665,7 +665,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>设计抽样方案的步骤如下：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3442f095346570635f7ad60af62f1827/image.png\" alt=\"\" width=\"559\" height=\"185\"><br></p><p>故本题正确答案为：B</p>",
+        "analysis": "设计抽样方案的步骤如下：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/3442f095346570635f7ad60af62f1827/image.png\" alt=\"\" width=\"559\" height=\"185\"><br>故本题正确答案为：B",
         "avgAnswerTime": 6,
         "avgCorrectRate": "94.0%",
         "score": 1.0,
@@ -680,32 +680,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>由于调查过程中的工作过失和故意舞弊所致的误差是（ ）</p>",
+        "questionContent": "由于调查过程中的工作过失和故意舞弊所致的误差是（ ）",
         "questionId": 2020999,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>调查者误差</p>",
+            "optionContent": "调查者误差",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>被调查者误差</p>",
+            "optionContent": "被调查者误差",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>设计误差</p>",
+            "optionContent": "设计误差",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>记忆误差</p>",
+            "optionContent": "记忆误差",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -713,7 +713,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>调查者误差</b>的产生是由于<b>调查过程中的工作过失和故意舞弊所致</b>（<b>A项正确</b>）。 <br></p><p>被调查者误差指的是由于各种原因，被调查者在回答某些特定问题时，回答的内容与真实的情况可能会存在偏差，导致回答不够真实（排除B项）。</p><p>设计误差是指由于抽样调查设计不周密或者所使用的抽样技术不恰当所引起的误差（排除C项）。 <br></p><p>记忆误差指由于被调查者在回忆过去的行为、时间中出现记忆偏差，导致回答与真实的情况出现偏差（排除D）。</p>",
+        "analysis": "<b>调查者误差</b>的产生是由于<b>调查过程中的工作过失和故意舞弊所致</b>（<b>A项正确</b>）。 <br>被调查者误差指的是由于各种原因，被调查者在回答某些特定问题时，回答的内容与真实的情况可能会存在偏差，导致回答不够真实（排除B项）。设计误差是指由于抽样调查设计不周密或者所使用的抽样技术不恰当所引起的误差（排除C项）。 <br>记忆误差指由于被调查者在回忆过去的行为、时间中出现记忆偏差，导致回答与真实的情况出现偏差（排除D）。",
         "avgAnswerTime": 16,
         "avgCorrectRate": "91.0%",
         "score": 1.0,
@@ -728,32 +728,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>由于抽样调查设计不周密或者所使用的抽样技术不恰当所引起的误差是（ ）</p>",
+        "questionContent": "由于抽样调查设计不周密或者所使用的抽样技术不恰当所引起的误差是（ ）",
         "questionId": 2021009,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>被调查者误差</p>",
+            "optionContent": "被调查者误差",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>调查者误差</p>",
+            "optionContent": "调查者误差",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>设计误差</p>",
+            "optionContent": "设计误差",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>实施误差</p>",
+            "optionContent": "实施误差",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -761,7 +761,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>设计误差</b>是指由于抽样调查<b>设计不周密</b>或者所使用的<b>抽样技术不恰当</b>所引起的<b>误差</b>（<b>C项正确</b>）。</p><p>被调查者误差指的是由于各种原因，被调查者在回答某些特定问题时，回答的内容与真实的情况可能会存在偏差，导致回答不够真实（排除A）。</p><p>调查者误差的产生是由于调查过程中的工作过失和故意舞弊所致（排除B）。&nbsp;</p><p>D项未提及，为干扰项，排除。</p>",
+        "analysis": "<b>设计误差</b>是指由于抽样调查<b>设计不周密</b>或者所使用的<b>抽样技术不恰当</b>所引起的<b>误差</b>（<b>C项正确</b>）。被调查者误差指的是由于各种原因，被调查者在回答某些特定问题时，回答的内容与真实的情况可能会存在偏差，导致回答不够真实（排除A）。调查者误差的产生是由于调查过程中的工作过失和故意舞弊所致（排除B）。&nbsp;D项未提及，为干扰项，排除。",
         "avgAnswerTime": 13,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -776,32 +776,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>通常认为，社会研究中的样本容量不能少于（ ）</p>",
+        "questionContent": "通常认为，社会研究中的样本容量不能少于（ ）",
         "questionId": 2015898,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>20</p>",
+            "optionContent": "20",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>50</p>",
+            "optionContent": "50",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>100</p>",
+            "optionContent": "100",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 1
           },
           {
-            "optionContent": "<p>500</p>",
+            "optionContent": "500",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -809,7 +809,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>（1）通常认为，社会研究中的样本容量<b>不能少于100个</b>。<b>C项正确</b></p><p>（2）拓展：需要保证样本容量能够为划分出的每个子类别提供足够数量的个体，便于后期的调查分析。</p>",
+        "analysis": "（1）通常认为，社会研究中的样本容量<b>不能少于100个</b>。<b>C项正确</b>（2）拓展：需要保证样本容量能够为划分出的每个子类别提供足够数量的个体，便于后期的调查分析。",
         "avgAnswerTime": 5,
         "avgCorrectRate": "89.0%",
         "score": 1.0,
@@ -824,32 +824,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>抽样调查中回收的有效问卷数占计划调查的样本数量的百分比是指抽样调查的（ ）</p>",
+        "questionContent": "抽样调查中回收的有效问卷数占计划调查的样本数量的百分比是指抽样调查的（ ）",
         "questionId": 2016856,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>设计效应</p>",
+            "optionContent": "设计效应",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>回答率</p>",
+            "optionContent": "回答率",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>参数值</p>",
+            "optionContent": "参数值",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>样本容量</p>",
+            "optionContent": "样本容量",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -857,7 +857,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>抽样调查的回答率</b>是指抽样调查中<b>回收</b>的<b>有效问卷数占计划调查的样本数量的百分比（B项正确）</b>。</p><p>设计效应是指在给定抽样设计下的估计值的抽样方差与相等样本容量下的简单随机抽样的估计值的抽样方差之比。排除B\n<br>参数值是关于总体中某一变量的综合描述，或者说是总体中所有元素的某种特征的综合数量表现。排除C\n<br>样本容量又称样本大小、样本规模，是指样本所包含个体数量的多少。排除D</p>",
+        "analysis": "<b>抽样调查的回答率</b>是指抽样调查中<b>回收</b>的<b>有效问卷数占计划调查的样本数量的百分比（B项正确）</b>。设计效应是指在给定抽样设计下的估计值的抽样方差与相等样本容量下的简单随机抽样的估计值的抽样方差之比。排除B\n<br>参数值是关于总体中某一变量的综合描述，或者说是总体中所有元素的某种特征的综合数量表现。排除C\n<br>样本容量又称样本大小、样本规模，是指样本所包含个体数量的多少。排除D",
         "avgAnswerTime": 13,
         "avgCorrectRate": "74.0%",
         "score": 1.0,
@@ -872,32 +872,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>各种信息网络可以相互交叉，互通有无，这体现了市场信息网络的哪一优点（）。</p>",
+        "questionContent": "各种信息网络可以相互交叉，互通有无，这体现了市场信息网络的哪一优点（）。",
         "questionId": 1705557,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>灵活性</p>",
+            "optionContent": "灵活性",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>开放性</p>",
+            "optionContent": "开放性",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>整体性</p>",
+            "optionContent": "整体性",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>经常性</p>",
+            "optionContent": "经常性",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -905,7 +905,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p>破题点：相互交叉，互通有无。</p><p>市场信息网络的优点如下所述：</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/412162a375800926145f554194e1705b/image.png\" alt=\"\" width=\"466\" height=\"225\"><br></p><p>故本题正确答案为：A</p>",
+        "analysis": "破题点：相互交叉，互通有无。市场信息网络的优点如下所述：<img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/412162a375800926145f554194e1705b/image.png\" alt=\"\" width=\"466\" height=\"225\"><br>故本题正确答案为：A",
         "avgAnswerTime": 7,
         "avgCorrectRate": "82.0%",
         "score": 1.0,
@@ -920,32 +920,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）负责整个调查项目的管理，包括协调各部门的关系、起草初步的计划、制订预算并监督资源的使用。</p>",
+        "questionContent": "（）负责整个调查项目的管理，包括协调各部门的关系、起草初步的计划、制订预算并监督资源的使用。",
         "questionId": 1465571,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>项目主管</p>",
+            "optionContent": "项目主管",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 1
           },
           {
-            "optionContent": "<p>实施主管</p>",
+            "optionContent": "实施主管",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 0
           },
           {
-            "optionContent": "<p>​调查督导<br></p>",
+            "optionContent": "​调查督导<br>",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>市场调查人员</p>",
+            "optionContent": "市场调查人员",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -953,7 +953,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>项目主管</b>负责整个调查项目的管理，包括协调各部门的关系、起草初步的计划、制订预算并监督资源的使用。</p>",
+        "analysis": "<b>项目主管</b>负责整个调查项目的管理，包括协调各部门的关系、起草初步的计划、制订预算并监督资源的使用。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "93.0%",
         "score": 1.0,
@@ -967,32 +967,32 @@
         "questionType": "SINGLE_CHOICE"
       },
       {
-        "questionContent": "<p>（）是决定调查人员成长方向的关键性因素，也是影响市场调查效果的一个重要因素。</p>",
+        "questionContent": "（）是决定调查人员成长方向的关键性因素，也是影响市场调查效果的一个重要因素。",
         "questionId": 1465610,
         "answerTime": 0,
         "correct": 2,
         "studentScore": 0,
         "optionList": [
           {
-            "optionContent": "<p>知识</p>",
+            "optionContent": "知识",
             "optionTitle": "A",
             "sequence": 0,
             "correct": 0
           },
           {
-            "optionContent": "<p>思想品德素质</p>",
+            "optionContent": "思想品德素质",
             "optionTitle": "B",
             "sequence": 1,
             "correct": 1
           },
           {
-            "optionContent": "<p>能力</p>",
+            "optionContent": "能力",
             "optionTitle": "C",
             "sequence": 2,
             "correct": 0
           },
           {
-            "optionContent": "<p>​身心素质<br></p>",
+            "optionContent": "​身心素质<br>",
             "optionTitle": "D",
             "sequence": 3,
             "correct": 0
@@ -1000,7 +1000,7 @@
         ],
         "studentAnswer": "",
         "canAnswer": 1,
-        "analysis": "<p><b>思想品德素质</b>是决定调查人员成长方向的关键性因素，也是影响市场调查效果的一个重要因素。</p>",
+        "analysis": "<b>思想品德素质</b>是决定调查人员成长方向的关键性因素，也是影响市场调查效果的一个重要因素。",
         "avgAnswerTime": 9,
         "avgCorrectRate": "90.0%",
         "score": 1.0,
