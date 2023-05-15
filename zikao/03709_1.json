@@ -1,0 +1,731 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>马克思主义产生于19世纪（ ）</p>",
+        "questionId": 2612668,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>40年代</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>50年代</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>60年代</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>70年代</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义是一个严密而完整的理论体系，它产生于<b>19世纪40年代中期</b>，至今已有170年的历史。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "98.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "一、马克思主义是时代的产物",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>亚当•斯密和李嘉图是（  ）。</p>",
+        "questionId": 1524312,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>德国古典哲学的代表人物</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>英国古典政治经济学的代表人物</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>英国空想社会主义的代表人物</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>法国空想社会主义的代表人物</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查的知识点为马克思主义直接理论来源的代表人物。</p><p>助记：英国政经：“斯密达”。</p><p><img src=\"http://store.sunlands.com/qiyejia/original/20190225/1099929970224308224.png\" alt=\"\" width=\"628\" height=\"105\"><br></p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "93.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "二、马克思主义对人类文明成果的继承与创新",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思主义哲学的直接理论来源是（ ）</p>",
+        "questionId": 1952232,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>古希腊罗马哲学</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>近代英国哲学</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德国古典哲学</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>法国百科全书派哲学</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关于马克思主义的直接理论来源，见下表：\n<br></p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/9bb0978e52aaa71d32ab47fd7ab04562/image.png\" alt=\"\" width=\"214\" height=\"161\"><br></p><p>故正确答案为：C。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "97.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "二、马克思主义对人类文明成果的继承与创新",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以下属于马克思主义的直接理论来源的是（ ）</p>",
+        "questionId": 2610420,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>古希腊古典哲学</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>英国古典政治经济学</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>社会民主主义学说</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>英美分析哲学</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>德国古典哲学、<b>英国古典政治经济学</b>和英法两国的空想社会主义学说分别是马克思主义哲学、马克思主义政治经济学和科学社会主义的直接理论来源。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 21,
+        "avgCorrectRate": "76.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "二、马克思主义对人类文明成果的继承与创新",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思主义的三个组成部分之间是有内在逻辑联系的，其中处于核心地位的是（ ）</p>",
+        "questionId": 2310464,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>辩证唯物主义</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>历史唯物主义</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>政治经济学</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>科学社会主义</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义的各个组成部分不是彼此孤立、互不联系的，而是组成一个具有内在逻辑联系的科学体系，其中马克思主义哲学是科学的世界观和方法论，政治经济学揭示了资本主义的发展规律，处于<b>核心地位</b>的则是<b>科学社会主义理论</b>。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "99.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "一、马克思主义的科学内涵",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思主义的创始人是（ ）</p>",
+        "questionId": 2515176,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>马克思和列宁</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>马克思和圣西门</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>马克思和斯密</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>马克思和恩格斯</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义是<b>由马克思和恩格斯创立并</b>为他们的后继者所发展的以反对资本主义、建设社会主义和共产主义为目标的科学的理论体系，是关于无产阶级和人类解放的科学。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "98.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "一、马克思主义的科学内涵",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从内涵上说，马克思主义（ ）</p>",
+        "questionId": 2580065,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>仅指马克思创立的理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>仅指马克思、恩格斯共同创立的理论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>包括使用了“马克思主义”称谓的各种理论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>包括马克思、恩格斯及其后继者的理论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义是马克思、恩格斯共同创立的，但马克思主义不仅包括它的创始人马克思、恩格斯的理论，而且包括它的继承人的理论，特别是列宁、毛泽东、邓小平、江泽民、胡锦涛、习近平等人的理论。他们以马克思、恩格斯创立的理论为基础，结合时代特点和本国的实际情况，从多方面丰富和发展了马克思主义，创立了列宁主义、毛泽东思想和中国特色社会主义理论体系。<b>总之，马克思主义既包括马克思、恩格斯创立的理论，也包括他们的后继者的理论。</b></p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "78.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "一、马克思主义的科学内涵",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思主义的根本理论特征是（ ）</p>",
+        "questionId": 1525850,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>与时俱进</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>为人民服务</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>改造世界</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>以实践为基础的科学性和革命性的统一</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考生应识记科学性和革命性。</p><p>马克思主义的根本理论特征是以<b>实践</b>为基础的<b>科学性</b>和<b>革命性</b>的统一。&nbsp;</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "89.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "二、马克思主义的理论特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思主义的根本理论特征在于，它是以实践为基础的（ ）</p>",
+        "questionId": 2515172,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>全面性和深刻性的统一</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>逻辑性和历史性的统一</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>科学性和革命性的统一</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>客观性和普遍性的统一</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义的<b>根本理论特征</b>是以实践为基础的<b>科学性和革命性的统一</b>。列宁指出，马克思主义理论“对世界各国社会主义者所具有的不可遏止的吸引力，就在于它把严格的和高度的<b>科学性</b>（它是社会科学的最新成就）<b>同革命性结合</b>起来，并且不仅仅是因为学说的创始人兼有学者和革命家的品质而偶然地结合起来，而是把二者内在地和不可分割地结合在这个理论本身中”。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "二、马克思主义的理论特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列各项集中表现马克思主义的革命性的是（ ）</p>",
+        "questionId": 2613073,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>科学的理论内涵</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>完备的理论体系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>严密的逻辑结构</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>彻底的批判精神</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义的革命性，集中表现为它的<b>彻底的批判精神</b>。不仅辩证法在本质上是革命的和批判的，而且整个马克思主义在本质上也是革命的和批判的。\n<br>拓展：马克思主义的革命性，还表现在它具有鲜明的政治立场。马克思主义是工人阶级的意识形态，它以科学的理论形式反映了工人阶级和广大人民群众的利益、愿望和要求。它丝毫不隐瞒和回避自己的阶级本质，而是公然申明自己的阶级性，申明自己是为工人阶级服务的。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "90.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "二、马克思主义的理论特征",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>与时俱进是马克思主义的（ ）。</p>",
+        "questionId": 2400547,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>理论前提</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>理论核心</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>理论品质</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>理论特征</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本知识点为识记内容。\n<br>党的十六大报告明确指出，与时俱进是马克思主义的理论品质。\n<br>故正确答案为：C。</p>",
+        "avgAnswerTime": 86,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "三、马克思主义的理论品质",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思主义的最高理想是（ ）</p>",
+        "questionId": 1525829,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>无产阶级革命</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实现社会主义</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实现共产主义</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>中国特色社会主义</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考生应识记本知识点。最高应从共产主义方面考虑，因为共产主义是人类最高的社会形态。</p><p>马克思主义的社会理想，就是推翻资本主义、实现社会主义和共产主义。马克思主义最高的社会理想是推翻资本主义、实现共产主义。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "93.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "四、马克思主义的社会理想",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>学习马克思主义的根本方法是（ ）</p>",
+        "questionId": 1525842,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>理论联系实际</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>归纳与演绎</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>从经验出发</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>唯物辩证法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题为常考题，考生应识记本知识点。</p><p>学习马克思主义的根本方法是理论联系实际。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "97.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "学习马克思主义的根本方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>理论联系实际是学习马克思主义的根本方法，这是由马克思主义的（  ）</p>",
+        "questionId": 2048393,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>科学性决定的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>革命性决定的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实践性决定的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>阶级性决定的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>理论联系实际之所以是学习马克思主义的根本方法，首先是由马克思主义的实践性决定的，实践是马克思主义的基础，马克思主义源于实践并随着实践的发展而发展，它的科学性和旺盛的生命力的根源就在于它同实践紧密结合。其次，这是由学习马克思主义的目的决定的，我们学习马克思主义的目的全在于应用。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-1910真题-第1题",
+        "mainNodeName": "学习马克思主义的根本方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>理论联系实际是（ ）</p>",
+        "questionId": 2310467,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>马克思主义的理论特征</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>学习马克思主义的方法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>马克思主义的理论品质</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>学习马克思主义的目的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>理论联系实际</b>是<b>学习马克思主义的根本方法</b>，首先是由马克思主义的实践性决定的，实践是马克思主义的基础，马克思主义源于实践并随着实践的发展而发展，它的科学性和旺盛的生命力的根源就在于它同实践紧密结合。其次，这是由学习马克思主义的目的决定的，我们学习马克思主义的目的全在于应用。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "学习马克思主义的根本方法",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

@@ -1,0 +1,728 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>地理环境在社会发展中的作用主要通过（ ）</p>",
+        "questionId": 2048460,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>对个体意识的影响实现</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>对物质生产的影响实现</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>对群体意识的影响实现</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>对公序良俗的影响实现</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>地理环境在社会发展中的作用主要通过对物质生产的影响实现。</p><p>地理环境<b>通过对生产的影响</b>，加速或延缓社会的发展，即影响社会发展的速度。故选B。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "93.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "全国-1910真题-第1题",
+        "mainNodeName": "社会存在",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会存在是指（ ）</p>",
+        "questionId": 2567708,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产力各个要素的总和</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产力和生产关系的总和</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产关系各方面的总和</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会物质生活条件的总和</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>社会存在是指社会物质生活条件的总和</b>，包括地理环境、人口因素和物质生活资料的生产方式。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "78.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "社会存在",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列各项正确说明人口因素在社会发展中作用的是（ ）</p>",
+        "questionId": 2610467,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人口因素决定社会制度的性质</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人口因素为人类提供生存的场所</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人口因素决定社会制度的更替</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人口状况能加速或延缓社会发展</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>人口因素对社会发展起着<b>制约和影响</b>作用，主要表现在：</p><p>第一，一定数量的人口是社会物质生产的<u>必要前提</u>。</p><p>第二，<b>人口状况能加速或延缓社会的发展</b>。</p><p>选项A、C说法错误，生产方式决定社会制度的性质和社会制度的更替。</p><p>选项B说法错误，地理环境为人类提供生存场所。</p><p>故正确答案为：D。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "72.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "社会存在",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以下属于社会意识的是（ ）</p>",
+        "questionId": 1562246,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>地理环境</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人口因素</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产方式</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会心理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>选项A、B、C属于社会存在，应排除。</p><p>从反映社会存在的程度和特点来看，社会意识包括社会心理和思想体系。故选D。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "84.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "社会意识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会意识具有复杂而精微的结构，从反映社会存在的程度和特点来看，社会意识包括（  ）</p>",
+        "questionId": 2610464,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会心理和思想体系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>意识形态和非意识形态</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>个体意识和群体意识</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>主流意识和非主流意识</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>从反映社会存在的程度和特点来看，社会意识包括<b>社会心理和思想体系</b>，而各种思想体系由于对经济基础的关系不同和反映社会存在的方式不同，可以分为意识形态和非意识形态两类。从社会意识主体的范围来看，社会意识可以分为个体意识和群体意识。</p><p>故本题选A。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "44.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "社会意识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在现代生产力系统中，分工协作和经济管理属于（  ）</p>",
+        "questionId": 1991101,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>实体性因素</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>运筹性因素</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>渗透性因素</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>准备性因素</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：分工协作和经济管理</p><p><img src=\"https://sfs-public.shangdejigou.cn/teach-resource/question_content/picture/19684144a7a6724844ad977db2b3137d/image.png\" alt=\"\" width=\"397\" height=\"173\"><br></p><p>故正确答案为：B。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "92.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "生产力和生产力系统",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>生产关系范畴反映的是人与人之间的（ ）</p>",
+        "questionId": 2579050,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>政治关系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济关系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>交往关系</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>协作关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>生产关系是指人们在物质生产过程中结成的<b>经济关系</b>。它包括三项内容：生产资料的所有制形式、人们在生产中的地位及其相互关系（包括交换）、产品的分配方式。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "91.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "生产关系和生产关系体系",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列选项中正确说明生产力与生产关系的辩证关系的是（ ）</p>",
+        "questionId": 2310551,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产力的性质决定生产关系的性质</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>生产关系总能推动生产力的发展</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产力随着生产关系的变化而变化</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产关系总是适应生产力的要求</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>生产力的性质决定生产关系的性质</b>。一定的生产力要求一定的生产关系与它相适应，生产力的性质不同，建立起来的生产关系也就不同。一定的生产关系只能依据一定的生产力发展水平建立起来，任何生产关系都是一定的生产力发展的必然结果。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "82.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "生产力和生产关系之间的矛盾",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列各项正确说明生产力与生产关系的辩证关系的是（ ）</p>",
+        "questionId": 2613090,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产力的性质决定生产关系的性质</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>生产关系总是适合生产力发展的要求</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产力随着生产关系的变化而变化</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产关系总能推动生产力的发展</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>生产关系必须适合生产力性质的规律（生产力和生产关系的辩证关系原理），是人类社会发展最基本、最普遍的规律。以下为具体阐释：\n<br>（1）生产力决定生产关系：生产力对生产关系起决定作用、支配作用。第一，<b>生产力的性质决定生产关系的性质</b>。第二，生产力的发展决定生产关系的改变。\n<br>（2）生产关系反作用于生产力：第一，适合生产力性质和发展要求的先进的生产关系，促进生产力的发展。第二，不适合生产力性质和发展要求的落后的生产关系，阻碍生产力的发展。\n<br>（3）生产力和生产关系之间的矛盾运动：生产关系与生产力性质和发展要求之间呈现出由基本适合到基本不适合、再到新的基础上的基本适合这样一个过程。</p>",
+        "avgAnswerTime": 23,
+        "avgCorrectRate": "79.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "生产力和生产关系之间的矛盾",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以下属于上层建筑的是（ ）</p>",
+        "questionId": 1994424,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产资料所有制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>分配方式</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>劳动对象</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>法律</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>上层建筑包括：</p><p>1、政治上层建筑：政治法律制度以及军队、警察、法院、监狱、政府机关等设施；</p><p>2、观念上层建筑：政治、法律、艺术、道德、宗教、哲学等意识形态。</p><p>故本题选D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "86.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "上层建筑",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列各项属于上层建筑的是（ ）</p>",
+        "questionId": 2612680,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产关系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济体制</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>国家政权</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>自然科学</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>人类社会有三个基本层次：生产力、生产关系（经济基础）、上层建筑。经济基础和生产关系是两个术语，但内容相同。\n<br><b>上层建筑</b>是与经济基础相对应的范畴，指社会的政治、法律、艺术、道德、宗教、哲学等意识形态以及与这些意识形态相适应的政治法律制度和设施的总和。它分为政治上层建筑和观念上层建筑两部分。（1）政治上层建筑指<u>政治法律制度以及军队、警察、法院、监狱、政府机关等设施</u>，以及<u>与之相适应的一套组织</u>。（2）观念上层建筑包括政治、法律、艺术、道德、宗教、哲学等各种服务于统治阶级的意识形态。\n<br>本题注意D项，自然科学属于非意识形态范围的思想体系。</p><p>故本题选C。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "79.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "上层建筑",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>经济基础决定上层建筑，说的是（ ）</p>",
+        "questionId": 2579055,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>任何社会的上层建筑都根源于它的经济基础</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>任何社会的上层建筑都产生于它的经济基础之后</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>上层建筑任何部分的变化都与经济基础的变化同步</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>上层建筑任何部分的性质都由经济基础直接决定</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>经济基础决定上层建筑，任何上层建筑都不是凭空建立起来的，而是在一定经济基础之上产生的。在原始社会，由于人们在经济上没有剥削和被剥削的关系，在政治上就没有统治和被统治的关系。在奴隶社会、封建社会和资本主义社会，由于在经济上存在着剥削和被剥削的关系，在政治上就存在着统治和被统治的关系。在经济上占统治地位的阶级，在上层建筑领域也居于统治地位。将来，在经济上剥削和被剥削的关系消灭以后，在政治上也就不会再存在统治与被统治的关系。由此可见，<b>任何社会的上层建筑都是由它的经济基础决定的。</b></p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "86.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "经济基础和上层建筑之间的矛盾",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列各项属于技术社会形态序列的是（ ）</p>",
+        "questionId": 2615196,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>自然经济社会</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>商品经济社会</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>产品经济社会</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>信息社会</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>技术社会形态划分法</b>：</p><p>按生产力和技术发展水平以及与此相适应的产业结构划分，社会形态分为：渔猎社会、农业社会、工业社会、<b>信息社会</b>。</p><p>故本题选D。<br></p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "80.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "全国-1910真题-第1题",
+        "mainNodeName": "社会形态的划分",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会形态的发展是一种自然历史过程，这种观点属于（ ）</p>",
+        "questionId": 2613092,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>机械决定论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>历史宿命论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>历史唯物论</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>历史唯心论</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>社会形态的发展是一种自然历史过程，这种观点属于历史唯物主义（历史唯物论）的观点。</p><p>拓展：题干中马克思的这句话是说，人类社会的发展或者说社会形态的演变也像自然界一样，是客观的、物质的、辩证的过程，具有不以人的意志为转移的客观规律性。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "88.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "社会形态的发展是自然历史过程",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>近代英国是哪种社会形态发展的典型（ ）</p>",
+        "questionId": 1994262,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>封建主义</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>资本主义</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>社会主义</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>奴隶制</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>各个国家在不同的社会形态中所具有的典型意义不同。例如，近代英、法两国是资本主义社会形态发展的典型。故本题选B。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "96.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "社会形态发展的统一性和多样性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

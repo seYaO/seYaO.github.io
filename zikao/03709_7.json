@@ -1,0 +1,729 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>生产力和生产关系的矛盾，经济基础和上层建筑的矛盾是人类社会的两对基本矛盾，它们之间是（  ）</p>",
+        "questionId": 2280974,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>相互决定的关系，无主次之分</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相互平行的关系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相互制约的关系，有主次之分</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>相互孤立的关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>“生产力和生产关系之间的矛盾、经济基础和上层建筑之间的矛盾”是人类社会的两对基本矛盾。 这两对矛盾之间的关系，<b>不是互相孤立、互相平行的</b>（BD错误）<b>，而是相互制约、有主次之分的</b>（A错误）。&nbsp;</p><p>故本题选C。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "82.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-1910真题-第1题",
+        "mainNodeName": "两对社会基本矛盾之间的关系",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>生产力与生产关系的矛盾、经济基础和上层建筑的矛盾是社会基本矛盾。从这两对矛盾关系上看，二者（ ）</p>",
+        "questionId": 2515151,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>相互孤立</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相互平行</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相互决定</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>相互制约</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>社会基本矛盾指生产力和生产关系之间的矛盾、经济基础和上层建筑之间的矛盾。生产力和生产关系之间的矛盾、经济基础和上层建筑之间的矛盾这两对基本矛盾，<b>不是互相孤立、互相平行</b>的，而是<b>相互制约、有主次之分</b>的。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "97.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "两对社会基本矛盾之间的关系",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>推动社会历史发展的动力是多方面的，其中最基本的动力是（  ）</p>",
+        "questionId": 1586074,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>科学和技术</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>广大人民群众</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>革命和改革</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会基本矛盾</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：基本</p><p>本题考查的知识点为社会发展不同动力的区分。\n<br>社会基本矛盾是社会发展的基本动力。</p><p>选项A、B、C科学和技术、广大人民群众、革命和改革都是推动社会发展的动力，但不是基本动力。</p><p>故正确答案为：D。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "83.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "社会基本矛盾是社会发展的基本动力",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>划分阶级所依据的根本标准是各社会集团的（  ）。</p>",
+        "questionId": 1524451,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>政治面貌</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>经济地位</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>宗教信仰</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>价值取向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>解题思路：考查阶级标准时一般应联想到经济；题干中提到根本，考生应联想到经济是根本。</p><p>阶级首先是一个经济范畴，是一些经济集团，划分阶级的唯一标准是经济标准，不能用政治标准和思想标准划分阶级。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "阶级的产生和实质",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>阶级产生的根本前提是（ ）</p>",
+        "questionId": 2586866,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>用暴力掠夺他人财产</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>由于生产力的发展出现剩余产品</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>用特权侵吞公有财产</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>由于产品分配不公出现两极分化</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>阶级是一个历史范畴，它不是从来就有的，也不会永远存在下去。阶级是生产发展到一定阶段的产物。在原始社会，生产力十分低下，没有剩余产品，人们只能勉强维持生存。因此，这时没有生产资料私有制，没有人剥削人的现象，也就没有阶级划分。到原始社会末期，生产力有了一定的发展，出现了剩余产品，为阶级的产生提供了可能性。所以阶级产生的根本前提是由于生产力的发展出现剩余产品。</p><p>故正确答案为：B。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "全国-1804真题-第4题",
+        "mainNodeName": "阶级的产生和实质",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>推动阶级社会发展的直接动力是（ ）</p>",
+        "questionId": 2310458,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会基本矛盾</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>阶级斗争</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>科学技术革命</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会改革</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>社会基本矛盾是社会发展的基本动力。<b>阶级斗争是阶级社会发展的直接动力</b>。社会革命和社会改革都是推动社会发展的动力。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "92.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "阶级斗争是阶级社会发展的直接动力",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>阶级斗争的根源在于（ ）</p>",
+        "questionId": 2515147,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>理想信念的分歧</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>物质利益的对立</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>价值取向的冲突</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>宗教信仰的差异</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>物质利益的对立</b>是阶级斗争的<b>根源</b>。阶级斗争归根结底是由于物质利益的对立引起的，都是直接或间接为了某种物质利益而进行的。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "99.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "阶级斗争是阶级社会发展的直接动力",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>改革不仅存在于社会主义社会中，而且存在于其他社会形态中。这说明改革具有（  ）。</p>",
+        "questionId": 1524455,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>主观能动性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>历史局限性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>普遍性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>特殊性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查的知识点为改革的特点。不仅存在于社会主义社会中，而且存在于其他社会形态中，说明了它的普遍性。</p><p>社会改革的普遍性是指社会改革不仅仅存在于社会主义社会中，而且存在于有史以来的各种社会制度中。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "83.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "社会改革及其在社会发展中的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>马克思在《关于费尔巴哈的提纲》中说，人的本质是（ ）</p>",
+        "questionId": 592010,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>劳动</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一切社会关系的总和</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人的需要</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人的自由</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思在《关于费尔巴哈的提纲》中指出，人的本质不是单个人所固有的抽象物，在其现实性上，它是一切社会关系的总和。人的本质是一切社会关系的总和。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "90.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "北京市-1804真题-第1题",
+        "mainNodeName": "人性和人的本质",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人的本质是由人的社会属性而非自然属性决定的，人的自然属性指的是（ ）<br><br></p>",
+        "questionId": 2515250,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人与动物相区别的劳动本质</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人的肉体存在及其特性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>由个人需要决定的人的具体本质</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>由社会关系决定的人的具体本质</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义认为，人有自然属性和社会属性两种属性。</p><p><b>自然属性</b>是指<b>人的肉体存在及其特性</b>；<b>社会属性</b>指在实践活动中人与人结成的各种<b>社会关系</b>。</p><p>人的本质不是由人的自然属性决定的，而是由人的社会属性决定的。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 28,
+        "avgCorrectRate": "45.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "人性和人的本质",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>“人的本质是一切社会关系的总和”，这一界定强调的是（ ）</p>",
+        "questionId": 2579057,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人与人之间的区别</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人与动物之间的区别</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一切人的共有本质</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人的肉体存在及其特性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>“人的本质是一切社会关系的总和”这一对人的本质的界定，讲的不是人与动物的区别，而是<b>人与人之间的区别</b>，既包括不同时代的人之间的区别，又包含同一时代处于不同社会地位的人之间的区别，所以它讲的不是一切人所有的共同本质，而是不同的人所具有的不同的本质，即人的具体本质。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 27,
+        "avgCorrectRate": "20.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "人性和人的本质",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>列宁指出，以往的历史理论在历史的创造者问题的主要缺陷是（ ）</p>",
+        "questionId": 2015951,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>没有考察人们活动的思想动机</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>只追究事物动机背后的物质动因</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>没有看到个人在历史上的作用</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>从来忽视居民群众的活动</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>列宁指出，以往的历史理论在历史的创造者问题上有两个主要缺陷：</p><p>“第一，以往的历史理论至多只是考察了人们的历史活动的思想动机，而没有研究产生这些动机的原因，没有探索社会关系体系发展的客观规律性，没有把物质生产的发展程度看作这些关系的根源；</p><p>第二，以往的理论<b>从来忽视居民群众的活动</b>，只有历史唯物主义才第一次使我们能以自然科学的精确性去研究群众生活的社会条件以及这些条件的变更。”</p><p>故本题选D。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "74.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "北京市-1804真题-第1题",
+        "mainNodeName": "历史观上两种根本对立的观点",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>唯物史观认为，区分普通个人和历史人物主要是看他们（  ）</p>",
+        "questionId": 2284420,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>物质财富的多寡</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>历史作用的大小</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>天赋才能的有无</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会阅历的深浅</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本知识点为识记内容。</p><p>唯物史观认为，个人按其对<b>历史发展作用的大小</b>，可以区分为<b>普通个人</b>和<b>历史人物</b>。</p><p>普通个人在历史上的作用较为一般，但绝不能忽视；历史人物的作用要比普通个人的作用要大得多，他们在历史进程中留下明显的印记。</p><p>故正确答案为：B。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "98.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "B",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "普通个人和历史人物",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>任何杰出人物都有巨大的历史功绩，他们在社会历史中的活动可以（ ）</p>",
+        "questionId": 2310456,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>摆脱社会规律的制约</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>有力的推动历史的发展</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>不受历史条件的限制</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>根本改变历史发展方向</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>简要地说，杰出人物在历史发展中的作用，主要表现为：</p><p>第一，他们在革命和建设事业中，起着倡导者和发起人的作用。</p><p>第二，在复杂的阶级斗争中，没有他们的组织和领导，不可能取得胜利。</p><p>第三，他们的一些主张和改革措施，对社会发展起某些促进和推动作用。</p><p>第四，他们<b>有力地推动了历史的发展和社会的进步</b>。</p><p>AC说法明显错误；人民群众是历史的创造者，D说法错误。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "杰出人物在历史上的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>正确认识和评价杰出人物的历史作用，一要坚持历史主义的原则，二要坚持（ ）</p>",
+        "questionId": 2613093,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>阶级分析的方法</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>实证分析的方法</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>矛盾分析的方法</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>规范分析的方法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>正确认识和评价杰出人物的历史作用，需掌握的基本观点和方法：第一，要正确认识杰出人物的历史作用，必须深入了解他们所处的历史条件，坚持历史主义原则。第二，要正确认识杰出人物的历史作用，必须对他们做<b>阶级分析</b>。第三，杰出人物的出现及其历史作用都是必然性与偶然性的辩证统一，因此必须用必然性与偶然性辩证统一的观点来分析杰出人物及其历史作用。第四，任何杰出人物都有巨大的历史功绩，也必然会有这样那样的缺点或错误。因此，对他们的历史作用要做全面的分析与评价，既不能肯定一切，也不能否定一切。</p>",
+        "avgAnswerTime": 32,
+        "avgCorrectRate": "79.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "杰出人物在历史上的作用",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

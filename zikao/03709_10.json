@@ -1,0 +1,731 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>某资本家投资1000万元，每次投资所得的利润是200万元，假定其预付资本的有机构成为4:1，那么资本家每次投资所实现的剩余价值率为（ ）</p>",
+        "questionId": 2594773,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "三、剩余价值的分配",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>40%</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>80%</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>100%</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>200%</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）<b>资本有机构成</b>可用<b>C：V</b>来表示，C是<b>不变资本</b>，V是<b>可变资本</b>。“某资本家投资1000万元，预付资本的有机构成为4：1（C：V）”，由此算出<b>可变资本</b>是1000×(1/(4+1))=200万。<br></p><p>（2）利润是剩余价值的转化形式。每次投资所得的利润为200万元，则每次投资所得的剩余价值为200万元。</p><p>（3）<b>剩余价值率</b>是<b>剩余价值</b>与<b>可变资本</b>之比<b>。</b>剩余价值率=200/200=100%。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 369,
+        "avgCorrectRate": "45.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "北京市-1804真题-第1题",
+        "mainNodeName": "资本的本质及不变资本和可变资本",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>产业资本的循环运动（）</p>",
+        "questionId": 1525148,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>只包括流通阶段而不包括生产阶段</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>只包括生产阶段而不包括流通阶段</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>是购买、生产、销售三个阶段的统一</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>是购买商品和销售商品两个阶段的统一</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>产业资本的循环包括购买、生产和销售阶段。</p><p>口诀：购、产、销。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "全国-1804真题-第8题",
+        "mainNodeName": "单个资本的循环",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>资本循环中实现价值增殖的阶段是（ ）</p>",
+        "questionId": 2610431,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>购买阶段</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产阶段</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​销售阶段<br></p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>运输阶段</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>单个产业资本在其现实循环运动过程中，依次经过三个阶段，即购买阶段、<b>生产阶段</b>、销售阶段。产业资本循环的第二阶段——<b>生产阶段</b>：在这个阶段，资本不仅发生了形态上的变化， 而且资本在数量上也发生了变化，<b>实现了价值增殖</b>。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "59.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "单个资本的循环",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>从资本周转的角度来考察资本的构成，划分为固定资本和流动资本的是（  ）。</p>",
+        "questionId": 1524479,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产资本</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>货币资本</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>商品资本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>​流通资本<br></p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>速记口诀：生产资本可划分为固定资本和流动资本。本知识点考查频率较高，考生应识记。</p><p>生产资本的不同构成部分，依据其价值周转方式的不同，划分为固定资本和流动资本两个部分。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "65.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "单个资本的周转",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会再生产的核心问题是社会总产品的实现问题，包括（ ）<br><br></p>",
+        "questionId": 2515257,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>价值补偿和实物补偿</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>物质补偿和精神补偿</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>有形补偿和无形补偿</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>商品补偿和货币补偿</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>社会总产品就是社会各个物质生产部门在一定时期（通常以年为单位）内所生产的全部物质资料的总和。社会再生产的核心问题是社会总产品的实现问题。社会总产品的实现包括社会总产品的<b>价值补偿</b>、社会总产品的<b>物质补偿</b>（<b>实物补偿</b>）。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 23,
+        "avgCorrectRate": "52.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "社会总资本再生产的实现",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会再生产的核心问题是（  ）</p>",
+        "questionId": 2585304,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会总价值的生产问题</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会总产品的创造问题</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会总价值的分配问题</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会总产品的实现问题</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考察社会资本再生产（或社会再生产），其核心问题是要分析在社会资本再生产过程中，社会总产品的各个构成部分是如何实现的。<b> 简言之，社会再生产的核心问题是社会总产品的实现问题。</b>所谓社会总产品的实现，也就是社会总产品的补偿，它有两个方面：一方面是社会总产品的价值补偿，另一方面是社会总产品的物质补偿。D项正确，当选。A、B、C项均与社会再生产无关，且教材未提及，排除。<br></p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "75.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-1910真题-第1题",
+        "mainNodeName": "社会总资本再生产的实现",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>剩余价值的唯一源泉是（ ）</p>",
+        "questionId": 1548099,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>全部预付资本</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>可变资本</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>不变资本</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产资料</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>产业资本的剩余价值本来是由可变资本生产的，并不是由全部资本生产的，可变资本是剩余价值的唯一源泉。考生理解即可。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "69.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "三、剩余价值的分配",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>平均利润率是（ ）</p>",
+        "questionId": 2515222,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会利润总量与社会预付可变资本的比率</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会利润总量与社会预付不变资本的比率</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会剩余价值总量与社会预付可变资本的比率</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会剩余价值总量与社会预付总资本的比率</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>平均利润率是全社会的<b>剩余价值总量与社会（预付）总资本</b>的比率。平均利润本质上是全社会的剩余价值在各生产部门资本家之间的重新分配。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "47.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "D",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "三、剩余价值的分配",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>决定银行利润量的因素是（ ）</p>",
+        "questionId": 2602178,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>银行自有资本总额和平均利润率</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>银行自有资本总额和利息率</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>借贷资本总额和平均利润率</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>借贷资本总额和利息率</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>银行向外贷款所收取的贷款利息，大于吸收存款所支付的存款利息，两者的差额再减去经营银行的业务费用，就形成银行利润。银行利润在数量上相当于银行资本家<u>自有资本</u>所获得的<u>平均利润</u>。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 23,
+        "avgCorrectRate": "50.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "三、剩余价值的分配",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>作为剩余价值率的转化形式，利润率是（ ）</p>",
+        "questionId": 2613101,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>剩余价值与不变资本的比率</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>剩余价值与可变资本的比率</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>剩余价值与预付总资本的比率</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>剩余价值与利润的比率</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>利润率是剩余价值率的转化形式。<b>利润率是剩余价值和预付总资本的比率</b>，而剩余价值率只是剩余价值和可变资本的比率。\n<br>拓展：预付总资本包括不变资本、可变资本，预付总资本＞可变资本，因而利润率总是小于剩余价值率。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "56.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "三、剩余价值的分配",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>资本主义经济危机从实质上说就是（  ）</p>",
+        "questionId": 2400494,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产绝对过剩的危机</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产相对过剩的危机</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>生产不足的危机</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>买卖脱节的危机</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>经济危机的根本特点是商品生产过剩，但并非与劳动者的实际需要相比的生产绝对过剩，而是与劳动者有支付能力的需求即与劳动者的货币购买力相比的相对过剩。因而，资本主义经济危机实质上是生产相对过剩的危机。</p><p>故正确答案为：B。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "82.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "资本主义经济危机的实质和根源",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>资本主义政治制度的核心是（  ）</p>",
+        "questionId": 2400534,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>政党制度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>选举制度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>国家制度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>文官制度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：核心。</p><p>资本主义政治制度主要包括资本主义的国家制度、政党制度、选举制度、三权分立制度、民主制度等等，其中国家制度是资本主义政治制度的核心。\n<br>解题思路：国家制度是核心，因为没有国家制度，其它制度就无从谈起。\n<br>考生应当识记。\n<br>故正确答案为：C。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "85.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "资本主义的国家制度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>资本主义政治制度的核心是（ ）</p>",
+        "questionId": 2581481,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>政党制度</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>民主制度</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>国家制度</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>选举制度</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>资本主义政治制度就是资产阶级为实现其阶级专政而采取的统治方式和方法及各种相关制度的总和。它主要包括资本主义的国家制度、政党制度、选举制度、三权分立制度、民主制度等。其中，<b>国家制度是资本主义政治制度的核心</b>。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 3,
+        "avgCorrectRate": "93.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "questionAnswer": "C",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "资本主义的国家制度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>法国目前实行的政党制度是（ ）</p>",
+        "questionId": 1812893,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>民主共和制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一党制</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>两党制</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>多党制</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>目前实行多党制的有法国、意大利等资本主义国家。</p><p>目前实行两党制的典型资本主义国家是美国。</p><p>民主共和制是国家制度，不是政党制度。</p><p>目前实行一党制的国家有：朝鲜、古巴、老挝、西撒哈拉等。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "75.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "北京市-1804真题-第1题",
+        "mainNodeName": "资本主义的政党制度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>资本主义国家的民主制度存在形式上平等而事实上不平等的矛盾，根本原因在于（  ）。</p>",
+        "questionId": 1524540,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>宪法是由资产阶级制定的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>民主的原则是与实践脱节的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>劳动人民不能参与国家政权的原理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>民主权利的实现受到资本主义生产资料私有制的限制</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>解题思路：根本原因应从制度方面考虑。</p><p>资产阶级民主制实质上是资产阶级国家的一种统治方法和手段，其本质是维护资产阶级的阶级利益，为资产阶级对无产阶级和劳动人民的专政服务。</p><p>选项D从生产资料私有制出发，这是根本原因。</p>",
+        "avgAnswerTime": 26,
+        "avgCorrectRate": "90.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "资本主义的民主制度",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

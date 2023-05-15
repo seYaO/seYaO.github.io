@@ -1,0 +1,733 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>以下属于理性认识的是（ ）</p>",
+        "questionId": 1525962,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>判断</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>知觉</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>表象</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>感觉</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>速记口诀：理性认识，概、判、推。感性认识，感、知、表。考生应识记。</p><p>理性认识三种形式：概念、判断和推理。感性认识三种形式：感觉、知觉和表象。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "96.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "一、从感性认识到理性认识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>人的认识是一个辩证发展的过程。作为认识的初级阶段的是（ ）</p>",
+        "questionId": 2310496,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>直接认识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>间接认识</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>感性认识</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>理性认识</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>感性认识是认识的初级阶段</b>，它是对事物的各个片面、现象和外部联系的反映，是具体的、丰富的、生动的；然而，它是表面的、个别的、不深刻的。感性认识分为感觉、知觉和表象三种形式。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 20,
+        "avgCorrectRate": "87.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "一、从感性认识到理性认识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>理性认识的三种形式是（ ）</p>",
+        "questionId": 2612674,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>感觉、知觉、表象</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>概念、判断、推理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>联想、想象、猜测</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>直觉、顿悟、灵感</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>理性认识的三种形式：<b>概念、判断和推理</b>。感性认识的三种形式：感觉、知觉和表象。故本题选B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "90.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "一、从感性认识到理性认识",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>认识的第二次飞跃是（ ）</p>",
+        "questionId": 1776420,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>从感性认识上升到理性认识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>从实践到感性认识</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>从感性认识到实践</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>从理性认识到实践</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>认识的第两次飞跃：</p><p>简单记忆：第一次：感性到理性。第二次：理性到实践。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "90.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "二、从理性认识到实践",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>对于一个具体事物的认识要经历的完整过程是（ ）</p>",
+        "questionId": 2567656,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>感性认识——理性认识——实践</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>实践——理性认识——感性认识</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>感性认识——实践——理性认识</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实践——感性认识——理性认识</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>认识在实践中产生，<b>先是感性认识，然后上升为理性认识，再由理性认识回到实践，</b>这是一个由实践到认识、再由认识到实践的完整的认识过程。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "85.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "三、认识过程的多次反复和有限与无限的辩证统一",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列各项正确说明真理问题的是（  ）</p>",
+        "questionId": 2048443,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "真理标准问题上的两种错误观点",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>真理是因人而异的</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>有用的就是真理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>真理是凝固不变的</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>真理是有价值的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>选项D：真理能够指导社会实践，人们通过在真理指导下的实践，成功地改造世界，以这种实践的成果来满足人的需要，这就是真理所表现出来的价值属性。所以真理是有价值的。<br>选项B：实用主义哲学提出“有用即真理”，这属于真理标准问题上的一种错误观点。<br>选项A、C：真理具有绝对性和相对性，真理不是永恒的，不是万能的。</p><p>答案为D</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "全国-1910真题-第1题",
+        "viceNodeName2": "真理的属性",
+        "mainNodeName": "三、真理与价值的辩证统一",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>真理的价值问题也就是（ ）</p>",
+        "questionId": 2515165,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>真理是否具有客观性的问题</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>真理是否永恒存在的问题</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>真理是否具有阶级性的问题</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>真理是否对人有用的问题</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>研究认识是否与对象相一致、相符合，这是<b>真理问题</b>；<b>研究这种</b>与对象相一致、相符合的认识<b>有什么用</b>，能<b>满足人的什么样的需要</b>，<b>这就是价值问题</b>。真理与价值也是认识过程中必须正确处理的一对矛盾。据此，真理的价值问题也就是真理是否对人有用的问题。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 66,
+        "avgCorrectRate": "68.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "三、真理与价值的辩证统一",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>党的思想路线的核心是（ ）</p>",
+        "questionId": 1526020,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>实事求是</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>改造世界</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>与时俱进</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>唯物辩证法</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>简单记忆：实事求是是核心。</p><p>“实事求是”这四个大字是党的思想路线的核心，也是马克思主义哲学的精髓和活的灵魂，它充分地体现了马克思主义认识论的根本原则。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "97.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "二、一切从实际出发、实事求是",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>坚持马克思主义哲学的认识路线，就必须坚持（  ）</p>",
+        "questionId": 2048448,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>一切从客观实际出发</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>一切从主观愿望出发</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一切从个人需要出发</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>一切从集体意志出发</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>坚持马克思主义哲学的认识路线，就必须在工作中坚持<b>一切从实际出发</b>。<br>选项B、C、D属于错误的说法，应排除。<br>故正确答案为：A。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "98.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-1910真题-第1题",
+        "mainNodeName": "二、一切从实际出发、实事求是",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列选项中，作为党的思想路线的理论基础的是（ ）</p>",
+        "questionId": 2615269,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>辩证唯物主义可知论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>辩证唯物主义认识论</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>辩证唯物主义物质观</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>辩证唯物主义运动观</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>我们把党的思想路线叫作“解放思想、实事求是”的思想路线。<b>马克思主义哲学认识论</b>（<b>辩证唯物主义认识论</b>）是这条思想路线的<b>理论基础</b>，而党的思想路线则是马克思主义哲学认识论在实际中的具体运用。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "62.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "二、一切从实际出发、实事求是",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>检验认识的真理性，就是检验认识是否（ ）</p>",
+        "questionId": 2567705,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>与领袖言论相符合</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>与书本知识相符合</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>与客观实际相符合</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>与逻辑规则相符合</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>真理是标志主观同客观相符合的哲学范畴，是正确地反映客体的认识。认识和对象相一致、相符合，这是真理最根本的规定性。<b>检验认识是否具有真理性，就是要检验认识是否同客观实际相符合。</b></p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "真理和谬误",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>真理的发展是一个（ ）</p>",
+        "questionId": 1952236,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>由主观真理走向客观真理的过程</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>由相对真理走向绝对真理的过程</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>由具体真理走向抽象真理的过程</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>由特殊真理走向终极真理的过程</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>方法一：真理具有相对性，需要在实践中不断深化、扩展。因为世界的发展是无限的，所以人的认识也是无限的，由此真理又具有绝对性。无数个相对真理不断发展，不断靠近绝对真理，这是真理发展的过程。\n<br>方法二：真理的属性有客观性、相对性、绝对性。选项A说法错误，没有主观真理。选项C、D不符合真理的属性，应排除。</p><p>故正确答案为：B。</p>",
+        "avgAnswerTime": 13,
+        "avgCorrectRate": "84.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "真理的属性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在真理观上坚持辩证法，就必须承认（ ）</p>",
+        "questionId": 2567658,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>真理是主体对客体的正确认识</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>&nbsp;真理既是绝对的又是相对的</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>真理的检验标准只能是实践</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>&nbsp;真理既是完整的又是具体的</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>真理是客观的，又是绝对的和相对的。承认真理的客观性，这是在真理问题上坚持了唯物论；<b>承认真理既是绝对的，又是相对的，这是在真理问题上坚持了辩证法。</b>任何真理都是客观性、绝对性和相对性的统一，这就是真理观上唯物论辩证法的统一。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "81.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "B",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "真理的属性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>真理的检验标准问题上。下列各项中，说法正确的是（ ）</p>",
+        "questionId": 1524421,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>人认可的就是真理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>个人觉得有用的就是真理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>多数人坚持的就是真理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实践中被证实的才是真理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>解题思路：遇到真理问题，考生就要联想到实践。</p><p>速记口诀：真理的检验标准是实践。</p><p>马克思主义哲学把实践观引进到认识论中来，提出实践是检验认识是否具有真理性的唯一标准。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "99.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "实践标准的唯一性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>实践之所以能成为检验真理的唯一标准，主要在于（ ）</p>",
+        "questionId": 2585484,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>实践具有直接现实性的品格</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>实践具有自觉能动性的特点</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实践是客观的感性物质活动</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实践是推动认识发展的动力</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>实践之所以能够成为检验认识真理性的唯一标准，主要在于它具有<b>直接现实性</b>的品格，也就是说，通过实践把思想、理论在现实中实现出来。人们通过把变成现实的东西同原来的观念、思想加以对照，从而判明这个思想、观念是否正确，从而使认识得到检验，A项正确，当选。B、C项是实践的特点，D项是实践对认识的决定作用，均与实践标准的唯一性无关，排除。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 33,
+        "avgCorrectRate": "26.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "实践标准的唯一性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

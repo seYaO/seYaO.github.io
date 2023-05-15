@@ -1,0 +1,731 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>联系的观点和发展的观点是唯物辩证法的（  ）。</p>",
+        "questionId": 1524367,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>总特征</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>精髓</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>实质</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>核心</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>助记：总特征是联系和发展。</p><p>唯物辩证法认为，物质世界是普遍联系和永恒发展的，联系的观点和发展的观点是唯物辩证法的总特征。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "88.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "世界联系的普遍性和多样性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>联系的观点和发展的观点是（ ）</p>",
+        "questionId": 1534223,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "世界的运动发展",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>马克思主义的理论品质</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>唯物辩证法的总特征</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>马克思主义的活的灵魂</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>唯物辩证法的实质和核心</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考生应识记本知识点。助记：总特征是联系和发展。</p><p>唯物辩证法认为，物质世界是普遍联系和永恒发展的，联系的观点和发展的观点是唯物辩证法的总特征。</p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "88.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "全国-1704真题-第1题",
+        "mainNodeName": "世界联系的普遍性和多样性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>事物之间的相互联系是事物本身固有的，是不以人的主观意志为转移的。这就是说（ ）</p>",
+        "questionId": 2310480,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>联系具有客观性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>联系具有普遍性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>联系具有复杂性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>联系具有多样性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>联系的客观性</b>是指事物之间的相互联系是事物本身<b>固有的</b>，是<b>不以人的主观意志为转移</b>的。不仅自然界事物之间的联系是客观的，就是人类实践活动创造出来的社会生活的各个领域之间、各种事物之间的联系也是客观的。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "83.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "A",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "世界联系的普遍性和多样性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>唯物辩证法认为，世界的发展是新事物不断取代旧事物的前进的过程，新事物是指（）</p>",
+        "questionId": 810315,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>具有新特点的事物</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>发展完善的新事物</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>在时间上新出现的事物</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>符合事物发展规律的事物</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><span style=\"font-size: 14px;\">新事物是指</span>符合事物发展规律、具有强大生命力和远大前途的事物。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "94.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "上海市-1710真题-第17题",
+        "mainNodeName": "世界的运动发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>“一把钥匙开一把锁”。这句话强调的是，在解决复杂问题时（  ）。</p>",
+        "questionId": 1524372,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>要具体的分析矛盾的斗争性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>要具体的分析矛盾的同一性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>要具体的分析矛盾的特殊性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>要具体的分析矛盾的普遍性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查的知识点是矛盾的普遍性和特殊性。</p><p>考生应识记“一把钥匙开一把锁”强调的是矛盾的特殊性。</p><p>分析矛盾的特殊性就是坚持具体问题具体分析。一方面，分析矛盾的特殊性是正确认识事物的基础。另一方面，分析矛盾的特殊性是正确解决矛盾的关键。不同的矛盾只能用不同的方法解决，只有具体地分析矛盾的特殊性，才能找到正确解决某一特殊矛盾的特殊方法，即“一把钥匙开一把锁”，从而取得成功。</p><p><br></p>",
+        "avgAnswerTime": 14,
+        "avgCorrectRate": "92.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "全国-1810真题-第1题",
+        "mainNodeName": "对立统一规律",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>建设中国特色社会主义既要坚持科学社会主义的一般原则，又要结合中国实际，这符合（  ）</p>",
+        "questionId": 1660957,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>矛盾的普遍性和特殊性辩证关系的原理</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>矛盾的同一性和斗争性辩证关系的原理</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会历史发展的决定性和选择性统一的原理</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会历史发展的前进性和曲折性统一的原理</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：既坚持一般原则（普遍），又结合实际（特殊）。</p><p>矛盾的普遍性和特殊性辩证关系的原理，是我们坚持马克思主义普遍真理同中国具体实际相结合，建设中国特色社会主义的理论基础。</p><p>故正确答案为：A。</p><p><br></p>",
+        "avgAnswerTime": 18,
+        "avgCorrectRate": "81.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-1904真题-第1题",
+        "mainNodeName": "对立统一规律",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>矛盾是事物发展的动力，这说明事物发展的根本原因是（ ）</p>",
+        "questionId": 2194108,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>事物的内部矛盾</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>事物的特殊矛盾</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物的外部矛盾</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物的主要矛盾</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>内因就是事物的内部矛盾。外因是一事物与他事物的相互影响和相互作用，即外部矛盾。第一，内因是事物发展变化的根据，是第一位的原因。<b>事物发展变化的根本原因不在事物外部，而在事物内部，即内部矛盾。</b></p><p>在复杂事物的发展过程中，有许多矛盾存在，这些矛盾的发展是不平衡的，其中有一种居于支配地位、起决定作用的矛盾，这就是主要矛盾。主要矛盾对事物发展起决定作用，但不是事物发展的根本原因。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "49.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-1710真题-第1题",
+        "mainNodeName": "对立统一规律",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>分析矛盾的特殊性就是（ ）</p>",
+        "questionId": 2567623,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>坚持“两点论”</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>坚持理论联系实际</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>坚持“重点论”</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>坚持具体问题具体分析</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>分析矛盾的特殊性就是坚持具体问题具体分析。</b>一方面，分析矛盾的特殊性是正确认识事物的基础；另一方面，分析矛盾的特殊性是正确解决矛盾的关键。具体问题具体分析是马克思主义的活的灵魂。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "68.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "D",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "对立统一规律",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>事物或现象之间引起和被引起的联系是（ ）</p>",
+        "questionId": 802792,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>现象和本质的联系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必然性和偶然性的联系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>原因和结果的联系</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可能性和现实性的联系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>原因和结果的联系是事物或现象之间引起和被引起的联系。引起某种现象的现象就是原因，被某种现象所引起的现象就是结果。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "76.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "北京市-1704真题-第20题",
+        "mainNodeName": "原因和结果",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>以下属于因果联系的是（ ）</p>",
+        "questionId": 1525837,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>白天与黑夜</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>春夏秋冬交替</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>摩擦生热</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>黑格尔的“绝对精神”与自然界</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>考生应理解什么是因果联系。</p><p>原因和结果是统一的，表现在：第一，原因和结果相互依存。第二，原因和结果在一定条件下相互转化。</p><p>常考的因果联系有：摩擦生热、热引起燃烧、燃烧导致爆炸。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "97.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "北京市-1810真题-第1题",
+        "mainNodeName": "原因和结果",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>事物联系和发展过程中确定不移的、不可避免的趋势是（ ）</p>",
+        "questionId": 1981808,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>必然性</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>偶然性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>现实性</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>矛盾性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：本题考查的知识点为必然性和偶然性的含义。</p><p>必然性是指<span style=\"font-size: 14px;\">事物联系和发展过程中确定不移的、不可避免的趋势。</span></p><p>偶然性是指事物联系和发展过程中不确定的趋势。</p><p>解题思路：根据题干中的“确定不移、不可避免”，考生应联想到是必然性。</p><p><span style=\"font-size: 14px;\"><br></span></p>",
+        "avgAnswerTime": 11,
+        "avgCorrectRate": "91.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "北京市-1710真题-第9题",
+        "mainNodeName": "必然性和偶然性",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在唯物辩证法的基本范畴中，内容和形式反映了（ ）</p>",
+        "questionId": 2219436,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>事物之间引起和被引起的关系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物的内在要素和结构方式间的关系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>事物过去、现在和将来的关系</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物的根本性质和表面特征间的关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>任何现实事物都是内容和形式的统一体。内容是指<u>构成事物一切要素的总和</u>，即事物的各种内在矛盾以及由这些矛盾所决定的事物的特性、成分、运动过程和发展的趋势等等的总和。形式是指把内容诸要素统一起来的<u>结构或表现内容的方式</u>。内容和形式反映了事物的内在要素和结构方式间的关系。</p>",
+        "avgAnswerTime": 12,
+        "avgCorrectRate": "81.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "全国-1710真题-第1题",
+        "mainNodeName": "内容和形式",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在唯物辩证法的基本范畴中，本质和现象反映了（ ）</p>",
+        "questionId": 2006712,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>事物之间引起和被引起的关系</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物的内在要素和结构方式间的关系</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物过去、现在和将来的关系</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>事物的根本性质和表面特征间的关系</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题考查的知识点是本质和现象的含义。</p><p>助记：本质是指根本性质以及内在联系。现象是指表面特征以及外部联系。</p>",
+        "avgAnswerTime": 16,
+        "avgCorrectRate": "81.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "D",
+        "questionSource": "全国-1804真题-第18题",
+        "mainNodeName": "本质和现象",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>假象同真象一样，也是客观存在的。这是一种（ ）</p>",
+        "questionId": 2567651,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>唯物辩证法的观点</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>形而上学的观点</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>折衷主义的观点</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>诡辩论的观点</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>唯物辩证法</b>认为，事物的现象是复杂多样的。有些现象与本质是一致的，叫做真象；有些现象与本质似乎不一致，叫做假象。假象同真象一样也是客观存在的。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "90.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "本质和现象",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>下列唯物辩证法范畴中反映事物根本性质和表面特征关系的是（ ）</p>",
+        "questionId": 2613078,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>内容和形式</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>必然性和偶然性</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>本质和现象</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>可能性和现实性</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p><b>本质和现象</b>反映了事物的根本性质和表面特征间的关系。本质是指事物的根本性质以及组成事物基本要素的内在联系。现象是指事物的表面特征以及这些特征的外部联系。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "63.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "本质和现象",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}

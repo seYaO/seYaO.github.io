@@ -1,0 +1,729 @@
+{
+  "rs": 1,
+  "errorCode": "",
+  "errorMessage": "",
+  "resultMessage": {
+    "total": 15,
+    "totalSubQuestionNum": 15,
+    "questionList": [
+      {
+        "questionContent": "<p>实现共产主义社会的根本条件和基础是（ ）</p>",
+        "questionId": 2515206,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会生产力的高度发展</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>人与自然资源的高度和谐</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人们道德水平的极大提升</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人们法律意识的极大提高</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>只有在社会生产力高度发展的基础上，才有可能建立起共产主义的经济基础和上层建筑，从而人类社会才能进入共产主义社会。所以，社会生产力的高度发展是实现共产主义社会的根本条件和基础。\n<br>故正确答案为A。</p>",
+        "avgAnswerTime": 17,
+        "avgCorrectRate": "98.0%",
+        "score": 2.0,
+        "sequence": 1,
+        "avgScore": 0.0,
+        "questionAnswer": "A",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "一、社会生产力高度发展和物质财富极大丰富",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>作为人类社会发展的最高社会形态，共产主义社会的物质基础是（ ）</p>",
+        "questionId": 2581579,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>与繁荣的封建社会相当的社会生产力</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>远远高于以往一切社会的高度发达的社会生产力</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>与发达资本主义国家相当的社会生产力</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>建立在信息化智能化基础上的社会生产力</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>共产主义社会是人类社会发展的最高形态，它的物质基础是<b>远远高于以往一切社会的高度发达的社会生产力</b>。</p><p>故正确答案为B。</p>",
+        "avgAnswerTime": 8,
+        "avgCorrectRate": "95.0%",
+        "score": 2.0,
+        "sequence": 2,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "B",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "一、社会生产力高度发展和物质财富极大丰富",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>广义的共产主义社会所包含的两个阶段是指（ ）</p>",
+        "questionId": 2613107,
+        "answerTime": 0,
+        "correct": 2,
+        "viceNodeName1": "一、实现共产主义是历史发展规律的必然要求",
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>信息社会初级阶段和高级阶段</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>社会主义社会和共产主义社会</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>社会主义初级阶段和高级阶段</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>共产主义初级阶段和成熟阶段</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>马克思主义科学地预见到，共产主义社会形态在其发展进程中，将经历低级和高级两个成熟程度不同的发展阶段，第一阶段或低级阶段为<b>社会主义社会</b>，第二阶段或高级阶段为<b>共产主义社会</b>。所以，广义的共产主义社会包括<b>共产主义社会的两个阶段</b>，狭义的共产主义社会则专指共产主义社会的高级阶段。</p>",
+        "avgAnswerTime": 15,
+        "avgCorrectRate": "85.0%",
+        "score": 2.0,
+        "sequence": 3,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "B",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "一、社会生产力高度发展和物质财富极大丰富",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>劳动不再仅仅是一种谋生手段，而同时成为生活第一需要的社会是（ ）</p>",
+        "questionId": 2310580,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>社会主义社会</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>共产主义社会</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>资本主义社会</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>人工智能社会</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>本题为识记题目。在共产主义社会，人们完全摆脱了仅仅是谋生手段的劳动的束缚。<b>劳动</b>不再仅仅是一种谋生手段，而同时成为人们生活第一需要。劳动变为一种快乐，从而为人的自由而全面的发展创造了条件。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "99.0%",
+        "score": 2.0,
+        "sequence": 4,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "B",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "六、人的自由而全面发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>19世纪初期欧洲空想社会主义代表人物不包括（ ）</p>",
+        "questionId": 2310589,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>圣西门</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>傅立叶</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>莫尔</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>欧文</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>破题点：欧洲空想社会主义。&nbsp;<br>本知识点为识记内容。\n<br>19世纪初欧洲空想社会主义者有：法国圣西门、傅立叶和英国的欧文。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "98.0%",
+        "score": 2.0,
+        "sequence": 5,
+        "avgScore": 0.0,
+        "errorProneAnswer": "",
+        "questionAnswer": "C",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "社会主义从空想到科学的发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>第一个无产阶级政党是（ ）</p>",
+        "questionId": 2515195,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>中国共产党</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>德国社会民主工党</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>共产主义者同盟</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>俄国布尔什维克党</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>1847年马克思和恩格斯受<b>世界上第一个无产阶级政党“共产主义者同盟”</b>的委托起草并于1848年2月发表了《共产党宣言》。《共产党宣言》是社会主义思想史上的第一个纲领性文件，它标志着科学社会主义理论的公开面世。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "94.0%",
+        "score": 2.0,
+        "sequence": 6,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "C",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "社会主义从空想到科学的发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>《乌托邦》是早期空想社会主义的代表作之一，其作者是（ ）</p>",
+        "questionId": 2581544,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>圣西门</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>傅立叶</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>莫尔</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>欧文</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>早期空想社会主义的代表作主要有两个：英国人<b>莫尔的《乌托邦》</b>和意大利人康帕内拉的《太阳城》。他们在自己的著作中无情地批判了资本主义的种种罪恶，但提出和描绘的理想社会却充满着空想性质。</p><p>故正确答案为C。</p>",
+        "avgAnswerTime": 6,
+        "avgCorrectRate": "92.0%",
+        "score": 2.0,
+        "sequence": 7,
+        "avgScore": 0.0,
+        "errorProneAnswer": "B",
+        "questionAnswer": "C",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "社会主义从空想到科学的发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>世界上第一个无产阶级政党是（ ）</p>",
+        "questionId": 2581561,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>共产主义者同盟</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>德国社会民主工党</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>中国共产党</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>俄国布尔什维克党</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>世界上第一个无产阶级政党是<b>共产主义者同盟</b>。马克思和恩格斯曾受其委托起草并发表了《共产党宣言》，这是社会主义思想史上的第一个纲领性文件，它标志着科学社会主义理论公开面世。</p><p>故正确答案为A。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "91.0%",
+        "score": 2.0,
+        "sequence": 8,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "社会主义从空想到科学的发展",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会主义革命可以在一国或数国首先胜利的理论依据是（ ）</p>",
+        "questionId": 2613105,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>资本主义经济政治发展不平衡规律</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>马克思恩格斯的科学预言</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>剩余价值学说</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>阶级斗争学说</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>列宁研究了帝国主义时期资本主义经济政治的新情况、新问题、新特点，集中了俄国布尔什维克党的智慧，立足于<b>资本主义（经济政治）发展不平衡规律</b>，提出了社会主义革命可以在一国或数国首先胜利的理论。</p>",
+        "avgAnswerTime": 10,
+        "avgCorrectRate": "94.0%",
+        "score": 2.0,
+        "sequence": 9,
+        "avgScore": 0.0,
+        "errorProneAnswer": "C",
+        "questionAnswer": "A",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "无产阶级革命与社会主义制度的建立",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>提出“新时代中国特色社会主义思想”的中共领导人是（ ）</p>",
+        "questionId": 2310587,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>邓小平</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>江泽民</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>胡锦涛</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>习近平</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>关键字：新时代。本题为识记题目。2017年党的十九大，<b>习近平</b>总书记首次提出“<b>新时代</b>中国特色社会主义思想”。</p>",
+        "avgAnswerTime": 3,
+        "avgCorrectRate": "96.0%",
+        "score": 2.0,
+        "sequence": 10,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "五、新时代中国特色社会主义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>作为全党全国人民为中华民族伟大复兴而奋斗的行动指南，被写进2017年十九大通过的党章的是（ ）</p>",
+        "questionId": 2515183,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>邓小平理论</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>“三个代表”重要思想</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>科学发展观</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>新时代中国特色社会主义思想</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>（1）2017年党的十九大，习近平总书记首次提出“新时代中国特色社会主义思想”。这一思想是全党全国人民为实现中华民族伟大复兴而奋斗的行动指南，被写入了十九大通过的党章中。<br></p><p>（2）十五大把邓小平理论写入党章。</p><p>（3）十六大把“三个代表”重要思想写入党章。</p><p>（4）十七大把科学发展观写入党章。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 5,
+        "avgCorrectRate": "97.0%",
+        "score": 2.0,
+        "sequence": 11,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "全国-2010真题-第1题",
+        "mainNodeName": "五、新时代中国特色社会主义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在中共十九大上提出“新时代中国特色社会主义思想”的领导人是（ ）</p>",
+        "questionId": 2613106,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>邓小平</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>江泽民</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>胡锦涛</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>习近平</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>2017年党的十九大，习近平总书记首次提出“新时代中国特色社会主义思想”。这一思想是全党全国人民为实现中华民族伟大复兴而奋斗的行动指南，被写入了十九大通过的党章中。</p>",
+        "avgAnswerTime": 4,
+        "avgCorrectRate": "96.0%",
+        "score": 2.0,
+        "sequence": 12,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "D",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "五、新时代中国特色社会主义",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会主义社会和共产主义社会都存在的经济关系是（ ）</p>",
+        "questionId": 2310591,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产资料的社会公有制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>​按劳分配<br></p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产资料的个人私有制</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>按需分配</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>社会主义社会和共产主义社会同属于共产主义社会形态，并不是各自独立的两个社会形态，它们具有如下一些共同的基本特征：\n<br>①二者都是以<b>生产资料公有制</b>作为社会经济制度的基础，在公有制范围内的生产资料和劳动产品，都属劳动者共同所有，并为社会公共的利益服务和使用。\n<br>②二者的生产目的都是为了满足劳动人民日益增长的物质文化生活需要，实现劳动人民的共同富裕。\n<br>③二者在公有制范围内的产品分配，都按照有利于社会发展和实现劳动人民利益的原则进行。\n<br>④二者都要消灭剥削制度，劳动人民成为社会的主人，他们之间的本质关系是平等和谐、互助合作的关系。\n<br>⑤二者都以马克思主义为指导思想，以集体主义为意识形态的核心。\n<br>故本题选A。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "96.0%",
+        "score": 2.0,
+        "sequence": 13,
+        "avgScore": 0.0,
+        "errorProneAnswer": "D",
+        "questionAnswer": "A",
+        "questionSource": "全国-2008真题-第1题",
+        "mainNodeName": "一、实现共产主义是历史发展规律的必然要求",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>社会主义社会和共产主义社会都存在的经济关系是（ ）</p>",
+        "questionId": 2613108,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>生产资料的个人所有制</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>按劳分配</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>生产资料的社会公有制</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 1
+          },
+          {
+            "optionContent": "<p>按需分配</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 0
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>社会主义社会和共产主义社会同属于共产主义社会形态，二者都是以<b>生产资料公有制</b>作为社会经济制度的基础，在公有制范围内的生产资料和劳动产品，都属劳动者共同所有，并为社会公共的利益服务和使用。</p>",
+        "avgAnswerTime": 7,
+        "avgCorrectRate": "91.0%",
+        "score": 2.0,
+        "sequence": 14,
+        "avgScore": 0.0,
+        "errorProneAnswer": "A",
+        "questionAnswer": "C",
+        "questionSource": "全国-2110真题-第1题",
+        "mainNodeName": "一、实现共产主义是历史发展规律的必然要求",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      },
+      {
+        "questionContent": "<p>在当前社会主义初级阶段，我国人民的历史使命和共同理想是（ ）</p>",
+        "questionId": 2581576,
+        "answerTime": 0,
+        "correct": 2,
+        "studentScore": 0,
+        "optionList": [
+          {
+            "optionContent": "<p>完全实现公民的自由平等</p>",
+            "optionTitle": "A",
+            "sequence": 0,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>完全实现社会的公平正义</p>",
+            "optionTitle": "B",
+            "sequence": 1,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>完全实现国家的文明和谐</p>",
+            "optionTitle": "C",
+            "sequence": 2,
+            "correct": 0
+          },
+          {
+            "optionContent": "<p>建设中国特色社会主义</p>",
+            "optionTitle": "D",
+            "sequence": 3,
+            "correct": 1
+          }
+        ],
+        "studentAnswer": "",
+        "canAnswer": 1,
+        "analysis": "<p>我国当前正处于社会主义初级阶段，<b>建设中国特色社会主义</b>是我国人民的历史使命和共同理想。</p><p>故正确答案为D。</p>",
+        "avgAnswerTime": 9,
+        "avgCorrectRate": "93.0%",
+        "score": 2.0,
+        "sequence": 15,
+        "avgScore": 0.0,
+        "questionAnswer": "D",
+        "questionSource": "全国-2104真题-第1题",
+        "mainNodeName": "二、坚定共产主义远大理想信念，积极投身中国特色社会主义事业",
+        "analysisType": -1,
+        "favorite": 0,
+        "questionType": "SINGLE_CHOICE"
+      }
+    ]
+  }
+}
