@@ -1,0 +1,1 @@
+import{g as t,i as l,bI as r,bJ as m,r as e,o as p,n as u,K as c,bK as d,a2 as i,x as f}from"./COlRCW2A.js";const k=t({__name:"Modals.client",setup(_){const o=l(r),{isOpen:a}=m();return(V,n)=>e(o)?(p(),u(i(e(o).component),c({key:0},e(o).props,{modelValue:e(a),"onUpdate:modelValue":n[0]||(n[0]=s=>d(a)?a.value=s:null)}),null,16,["modelValue"])):f("",!0)}});export{k as default};

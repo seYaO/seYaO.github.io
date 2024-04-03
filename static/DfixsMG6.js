@@ -1,0 +1,1 @@
+import{g as t,i as r,bO as l,bP as i,r as e,o as m,n as p,K as u,bK as c,a2 as d,x as f}from"./COlRCW2A.js";const b=t({__name:"Slideovers.client",setup(v){const o=r(l),{isOpen:n}=i();return(_,s)=>e(o)?(m(),p(d(e(o).component),u({key:0},e(o).props,{modelValue:e(n),"onUpdate:modelValue":s[0]||(s[0]=a=>c(n)?n.value=a:null)}),null,16,["modelValue"])):f("",!0)}});export{b as default};
