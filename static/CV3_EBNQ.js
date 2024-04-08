@@ -1,0 +1,1 @@
+import{d as t,aI as l,bE as m,bF as r,h as e,o as p,b as u,G as c,bG as d,Z as i,m as f}from"./w4-wUc7o.js";const k=t({__name:"Modals.client",setup(_){const o=l(m),{isOpen:a}=r();return(b,n)=>e(o)?(p(),u(i(e(o).component),c({key:0},e(o).props,{modelValue:e(a),"onUpdate:modelValue":n[0]||(n[0]=s=>d(a)?a.value=s:null)}),null,16,["modelValue"])):f("",!0)}});export{k as default};

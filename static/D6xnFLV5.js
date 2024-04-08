@@ -1,0 +1,1 @@
+import{d as t,aI as l,bJ as r,bK as m,h as e,o as p,b as i,G as u,bG as c,Z as d,m as f}from"./w4-wUc7o.js";const V=t({__name:"Slideovers.client",setup(v){const o=l(r),{isOpen:s}=m();return(_,n)=>e(o)?(p(),i(d(e(o).component),u({key:0},e(o).props,{modelValue:e(s),"onUpdate:modelValue":n[0]||(n[0]=a=>c(s)?s.value=a:null)}),null,16,["modelValue"])):f("",!0)}});export{V as default};
