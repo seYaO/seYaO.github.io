@@ -1,0 +1,1 @@
+import{ad as s}from"./D8y-KZTn.js";import{u}from"./CkcNQnLi.js";function m(t={}){const{copy:n,isSupported:p}=s(),r=u();function d(e,o={},i={}){p&&n(e).then(()=>{!o.title&&!o.description||r.add({...o,...t})},function(a){r.add({...i,description:i.description||a.message,...t})})}return{copy:d}}export{m as u};

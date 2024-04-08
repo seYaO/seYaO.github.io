@@ -1,0 +1,1 @@
+import{al as u}from"./D8y-KZTn.js";function r(){const i=u("notifications",()=>[]);function e(n){const t={id:new Date().getTime().toString(),...n};return i.value.findIndex(a=>a.id===t.id)===-1&&i.value.push(t),t}function o(n){i.value=i.value.filter(t=>t.id!==n)}return{add:e,remove:o}}export{r as u};
