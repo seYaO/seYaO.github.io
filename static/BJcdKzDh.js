@@ -1,1 +1,0 @@
-import{ai as s}from"./w4-wUc7o.js";import{u}from"./DYMzZD4S.js";function m(t={}){const{copy:n,isSupported:p}=s(),i=u();function e(a,o={},r={}){p&&n(a).then(()=>{!o.title&&!o.description||i.add({...o,...t})},function(d){i.add({...r,description:r.description||d.message,...t})})}return{copy:e}}export{m as u};
