@@ -1,0 +1,1 @@
+import{d as t,au as l,bE as m,bF as r,i as e,o as p,f as u,m as c,bG as d,a0 as i,j as f}from"./D-PSXSB2.js";const j=t({__name:"Modals.client",setup(_){const o=l(m),{isOpen:a}=r();return(V,n)=>e(o)?(p(),u(i(e(o).component),c({key:0},e(o).props,{modelValue:e(a),"onUpdate:modelValue":n[0]||(n[0]=s=>d(a)?a.value=s:null)}),null,16,["modelValue"])):f("",!0)}});export{j as default};

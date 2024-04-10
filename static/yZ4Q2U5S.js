@@ -1,0 +1,1 @@
+import{aG as s}from"./D-PSXSB2.js";import{u}from"./B9YCzsiH.js";function m(t={}){const{copy:n,isSupported:p}=s(),r=u();function e(a,o={},i={}){p&&n(a).then(()=>{!o.title&&!o.description||r.add({...o,...t})},function(d){r.add({...i,description:i.description||d.message,...t})})}return{copy:e}}export{m as u};
